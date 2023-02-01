@@ -1,0 +1,5 @@
+#!name=IPV6
+#!desc=IPV6
+
+ipv6 = true
+ipv6-vif = auto
