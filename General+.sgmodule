@@ -34,7 +34,7 @@ use-default-policy-if-wifi-not-primary = false
 wifi-assist = false
 hide-vpn-icon = true
 
-all-hybrid=false
+all-hybrid = false
 ipv6 = true
 ipv6-vif = auto
 
