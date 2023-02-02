@@ -32,6 +32,7 @@ network-framework = false
 show-error-page-for-reject = true
 use-default-policy-if-wifi-not-primary = false
 wifi-assist = false
+hide-vpn-icon=true
 
 all-hybrid=false
 ipv6 = true
