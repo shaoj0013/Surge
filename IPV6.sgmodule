@@ -1,6 +1,0 @@
-#!name=IPV6
-#!desc=IPV6
-
-[General]
-ipv6 = true
-ipv6-vif = auto
