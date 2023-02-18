@@ -1,6 +1,5 @@
 #!name=General+
 #!desc=General+
-
 [General]
 loglevel = notify
 
