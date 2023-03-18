@@ -1,2 +1,4 @@
 # > mulgore
 DOMAIN-SUFFIX,mulgore.net
+IP-CIDR,202.61.255.248,no-resolve
+IP-CIDR6,2a03:4000:55:c24:442:fdff:fe6f:bb8d,no-resolve
