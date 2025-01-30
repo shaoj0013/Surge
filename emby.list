@@ -3,3 +3,4 @@ DOMAIN-SUFFIX,emby.aikan.cloud
 DOMAIN-SUFFIX,aikan.la
 DOMAIN-SUFFIX,aikan.cloud
 IP-CIDR,45.196.236.212/24,no-resolve
+IP-CIDR,45.196.236.214/24,no-resolve
