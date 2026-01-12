@@ -1,404 +1,403 @@
 #EXTM3U url-tvg="https://fy.188766.xyz/e.xml"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE local
-
 #EXTINF:-1 group-title="4K/超清精品区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",东方卫视4K
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.39%3A4428&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.39:4428
 #EXTINF:-1 group-title="4K/超清精品区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",浙江卫视4K
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.28%3A4336&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.28:4336
 #EXTINF:-1 group-title="4K/超清精品区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",江苏卫视4K
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.37%3A4088&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.37:4088
 #EXTINF:-1 group-title="4K/超清精品区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",广东卫视4K
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.25%3A4312&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.25:4312
 #EXTINF:-1 group-title="4K/超清精品区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",四川卫视4K
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.51%3A4520&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.51:4520
 #EXTINF:-1 group-title="4K/超清精品区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",湖南卫视4K
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.38%3A4416&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.38:4416
 #EXTINF:-1 group-title="4K/超清精品区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",深圳卫视4K
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.26%3A4320&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.26:4320
 #EXTINF:-1 group-title="4K/超清精品区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",山东卫视4K
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.29%3A4344&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.29:4344
 #EXTINF:-1 group-title="4K/超清精品区" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",北京卫视4K
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.24%3A4304&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.24:4304
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV-1HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.166%3A7200&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.166:7200
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV-2HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.235%3A7752&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.235:7752
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV-3HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.170%3A7232&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.170:7232
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV-4HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.236%3A7760&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.236:7760
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV-5HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.171%3A7240&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.171:7240
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV-5+HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.237%3A7768&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.237:7768
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV-6HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.172%3A7248&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.172:7248
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV-7HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.239%3A7784&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.239:7784
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV-8HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.173%3A7256&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.173:7256
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV-9HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.240%3A7792&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.240:7792
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV-10HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.241%3A7800&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.241:7800
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV-11HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.206%3A7502&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.206:7502
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV-12HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.242%3A7808&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.242:7808
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV-13HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.35%3A4392&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.35:4392
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV-14HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.243%3A7816&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.243:7816
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV-15HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.222%3A7648&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.222:7648
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV-17HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.178%3A7296&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.178:7296
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CGTN
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.50%3A6272&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.50:6272
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV电视指南HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.53%3A4560&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.53:4560
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV央视文化精品HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.54%3A4568&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.54:4568
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV女性时尚HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.55%3A4576&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.55:4576
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV兵器科技HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.56%3A4584&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.56:4584
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV风云足球HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.57%3A4592&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.57:4592
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV世界地理HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.60%3A4616&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.60:4616
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV怀旧剧场HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.61%3A4624&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.61:4624
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV风云剧场HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.62%3A4632&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.62:4632
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV第一剧场HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.63%3A4640&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.63:4640
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV风云音乐HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.64%3A4648&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.64:4648
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV高尔夫网球HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.58%3A4600&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.58:4600
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",CCTV央视台球HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.59%3A4608&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.59:4608
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",中国教育CETV-1HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.158%3A7136&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.158:7136
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",中国教育CETV-2
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.106%3A6720&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.106:6720
 #EXTINF:-1 group-title="中央电视台 (CCTV)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",空中课堂CETV-4
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.107%3A6728&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.107:6728
 #EXTINF:-1 group-title="安徽省级频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",安徽卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.27%3A4328&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.27:4328
 #EXTINF:-1 group-title="安徽省级频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",安徽经济生活HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.44%3A4464&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.44:4464
 #EXTINF:-1 group-title="安徽省级频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",安徽影视频道HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.42%3A4448&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.42:4448
 #EXTINF:-1 group-title="安徽省级频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",安徽公共频道HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.43%3A4456&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.43:4456
 #EXTINF:-1 group-title="安徽省级频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",安徽综艺体育HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.41%3A4440&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.41:4440
 #EXTINF:-1 group-title="安徽省级频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",安徽农业科教HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.40%3A4432&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.40:4432
 #EXTINF:-1 group-title="安徽省级频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",安徽人物频道HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.45%3A4472&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.45:4472
 #EXTINF:-1 group-title="安徽省级频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",安徽国际频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.61%3A6360&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.61:6360
 #EXTINF:-1 group-title="安徽省级频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",安徽导视频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.66%3A4664&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.66:4664
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",北京卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.162%3A7168&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.162:7168
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",天津卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.20%3A6088&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.20:6088
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",重庆卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.31%3A6176&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.31:6176
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",东方卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.163%3A7176&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.163:7176
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",安徽卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.150%3A7072&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.150:7072
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",江苏卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.165%3A7192&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.165:7192
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",浙江卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.164%3A7184&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.164:7184
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",黑龙江卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.159%3A7144&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.159:7144
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",吉林卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.48%3A4496&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.48:4496
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",辽宁卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.21%3A6096&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.21:6096
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",东南卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.22%3A6104&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.22:6104
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",四川卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.30%3A6168&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.30:6168
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",江西卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.26%3A6136&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.26:6136
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",广东卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.161%3A7160&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.161:7160
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",海南卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.49%3A4504&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.49:4504
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",湖北卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.168%3A7216&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.168:7216
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",湖南卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.160%3A7152&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.160:7152
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",贵州卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.244%3A7824&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.244:7824
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",河北卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.245%3A7832&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.245:7832
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",河南卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.65%3A4632&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.65:4632
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",山东卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.169%3A7224&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.169:7224
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",甘肃卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.36%3A4400&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.36:4400
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",陕西卫视
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.88%3A6576&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.88:6576
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",云南卫视
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.89%3A6584&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.89:6584
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",山西卫视
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.95%3A6632&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.95:6632
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",青海卫视
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.102%3A6688&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.102:6688
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",广西卫视
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.70%3A6432&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.70:6432
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",内蒙古卫视
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.103%3A6696&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.103:6696
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",宁夏卫视
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.109%3A6744&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.109:6744
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",新疆卫视
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.110%3A6752&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.110:6752
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",西藏卫视
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.101%3A6680&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.101:6680
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",深圳卫视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.156%3A7120&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.156:7120
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",兵团卫视
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.104%3A6704&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.104:6704
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",三沙卫视
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.27%3A6144&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.27:6144
 #EXTINF:-1 group-title="各省卫视 (高清)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",厦门卫视
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.246%3A7840&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.246:7840
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",合肥新闻频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.111%3A6760&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.111:6760
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",肥东新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.183%3A7336&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.183:7336
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",肥东经济生活
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.184%3A7344&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.184:7344
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",肥西新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.185%3A7352&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.185:7352
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",长丰电视台
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.182%3A7328&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.182:7328
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",滁州新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.132%3A6928&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.132:6928
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",滁州公共频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.133%3A6936&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.133:6936
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",滁州科教频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.134%3A6944&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.134:6944
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",全椒综合频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.203%3A7496&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.203:7496
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",来安新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.204%3A7504&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.204:7504
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",定远新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.205%3A7512&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.205:7512
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",凤阳新闻频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.207%3A7528&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.207:7528
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",明光综合频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.208%3A7536&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.208:7536
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",芜湖新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.112%3A6768&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.112:6768
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",芜湖公共频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.80%3A6512&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.80:6512
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",芜湖生活频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.152%3A7088&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.152:7088
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",芜湖教育频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.167%3A7208&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.167:7208
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",湾沚新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.187%3A7368&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.187:7368
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",繁昌新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.190%3A7392&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.190:7392
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",无为新闻频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.188%3A7376&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.188:7376
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",南陵新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.189%3A7384&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.189:7384
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",马鞍山新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.15%3A4232&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.15:4232
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",马鞍山公共频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.77%3A6488&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.77:6488
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",安庆新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.117%3A6808&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.117:6808
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",安庆公共频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.118%3A6816&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.118:6816
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",安庆教育频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.120%3A6832&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.120:6832
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",潜山综合频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.192%3A7408&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.192:7408
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",桐城综合频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.28%3A6152&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.28:6152
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",太湖新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.12%3A4208&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.12:4208
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",黄山新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.130%3A6912&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.130:6912
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",黄山公共频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.131%3A6920&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.131:6920
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",徽州新闻频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.138%3A6976&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.138:6976
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",太平电视台
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.199%3A7464&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.199:7464
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",歙县综合频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.200%3A7472&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.200:7472
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",休宁新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.20%3A4272&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.20:4272
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",祁门综合频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.14%3A4224&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.14:4224
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",黟县新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.149%3A7064&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.149:7064
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",宣城综合频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.142%3A7008&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.142:7008
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",宣城公共频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.143%3A7016&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.143:7016
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",广德新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.212%3A7568&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.212:7568
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",广德生活频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.213%3A7576&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.213:7576
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",郎溪新闻频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.214%3A7584&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.214:7584
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",旌德新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.215%3A7592&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.215:7592
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",宁国新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.216%3A7600&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.216:7600
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",绩溪新闻频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.218%3A7616&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.218:7616
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",池州新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.147%3A7048&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.147:7048
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",池州公共频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.148%3A7056&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.148:7056
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",石台综合频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.221%3A7640&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.221:7640
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",东至综合频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.13%3A4216&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.13:4216
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",铜陵新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.139%3A6984&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.139:6984
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",铜陵公共频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.140%3A6992&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.140:6992
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",铜陵科教频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.141%3A7000&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.141:7000
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",义安新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.211%3A7560&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.211:7560
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",枞阳电视台
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.210%3A7552&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.210:7552
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",六安综合频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.144%3A7024&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.144:7024
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",六安公共频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.145%3A7032&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.145:7032
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",霍山综合频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.220%3A7632&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.220:7632
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",霍邱新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.119%3A6824&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.119:6824
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",金寨综合频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.21%3A4280&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.21:4280
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",淮南新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.113%3A6776&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.113:6776
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",淮南公共频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.114%3A6784&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.114:6784
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",寿县新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.146%3A7040&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.146:7040
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",淮北新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.135%3A6952&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.135:6952
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",淮北公共频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.136%3A6960&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.136:6960
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",淮北教育频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.137%3A6968&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.137:6968
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",濉溪新闻频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.209%3A7544&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.209:7544
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",宿州新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.121%3A6840&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.121:6840
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",宿州公共频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.122%3A6848&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.122:6848
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",宿州科教频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.123%3A6856&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.123:6856
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",萧县新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.46%3A4480&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.46:4480
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",泗县新闻频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.193%3A7416&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.193:7416
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",蚌埠新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.180%3A7312&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.180:7312
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",蚌埠公共频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.181%3A7320&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.181:7320
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",五河新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.52%3A4528&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.52:4528
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",固镇新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.47%3A4488&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.47:4488
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",阜阳新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.124%3A6864&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.124:6864
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",阜阳公共频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.125%3A6872&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.125:6872
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",阜阳教育频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.126%3A6880&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.126:6880
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",阜阳都市频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.127%3A6888&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.127:6888
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",颍上新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.194%3A7424&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.194:7424
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",界首综合频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.195%3A7432&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.195:7432
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",临泉新闻频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.29%3A6160&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.29:6160
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",阜南新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.11%3A4200&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.11:4200
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",亳州综合频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.128%3A6896&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.128:6896
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",亳州农村频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.129%3A6904&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.129:6904
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",利辛新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.196%3A7440&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.196:7440
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",涡阳新闻综合
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.197%3A7448&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.197:7448
 #EXTINF:-1 group-title="安徽地市、县频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",蒙城新闻频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.19%3A4264&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.19:4264
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",海豚生活HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.50%3A4512&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.50:4512
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",海豚少儿HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.32%3A4368&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.32:4368
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",海豚健康HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.33%3A4376&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.33:4376
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",海豚影视HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.34%3A4384&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.34:4384
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",家家购物
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.32%3A6184&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.32:6184
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",陶瓷HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.157%3A7128&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.157:7128
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",全纪实HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.151%3A7080&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.151:7080
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",纪实人文HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.153%3A7096&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.153:7096
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",动漫秀场HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.154%3A7104&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.154:7104
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",金鹰纪实HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.9%3A4184&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.9:4184
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",茶频道HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.30%3A4352&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.30:4352
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",快乐垂钓HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.31%3A4360&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.31:4360
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",生活时尚HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.155%3A7112&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.155:7112
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",体育赛事HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.33%3A6192&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.33:6192
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",中甲联赛HD
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.79.39%3A4424&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.79.39:4424
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",卡酷少儿
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.97%3A6648&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.97:6648
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",哈哈炫动
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.82%3A6528&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.82:6528
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",金鹰卡通
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.100%3A6672&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.100:6672
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",山东教育卫视
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.254%3A7904&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.254:7904
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",财富天下
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.25%3A6128&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.25:6128
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",东方财*浦东
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.73%3A6456&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.73:6456
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",都市剧场
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.74%3A6464&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.74:6464
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",金色频道
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.76%3A6480&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.76:6480
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",游戏风云
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.81%3A6520&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.81:6520
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",法治天地
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.84%3A6544&token=Sh@ojun19810723
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.84:6544
 #EXTINF:-1 group-title="数字专业/少儿/体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png",七彩戏剧
-http://rtp.shaoj0013.top:5000/live?url=http%3A//192.168.50.253%3A8443/rtp/238.1.78.85%3A6552&token=Sh@ojun19810723http://rtp.shaoj0013.top:8443/rtp/238.1.78.85:6552
+http://rtp.shaoj0013.top:8443/rtp/238.1.78.85:6552
