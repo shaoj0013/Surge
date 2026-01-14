@@ -141,7 +141,7 @@ http://rtp.shaoj0013.top:5140/rtp/238.1.78.26:6136?fcc=117.71.18.200:15970&r2h-t
 http://rtp.shaoj0013.top:5140/rtp/238.1.78.161:7160?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="海南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",海南卫视HD
 http://rtp.shaoj0013.top:5140/rtp/238.1.79.49:4504?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="湖北卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="湖北卫视HD",湖北卫视HD
+#EXTINF:-1 tvg-id="湖北卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",湖北卫视HD
 http://rtp.shaoj0013.top:5140/rtp/238.1.78.168:7216?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="湖南卫视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",湖南卫视HD
 http://rtp.shaoj0013.top:5140/rtp/238.1.78.160:7152?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
@@ -185,7 +185,178 @@ http://rtp.shaoj0013.top:5140/rtp/238.1.78.246:7840?fcc=117.71.18.200:15970&r2h-
 # --- 安徽地市、县频道 ---
 #EXTINF:-1 tvg-id="合肥新闻频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",合肥新闻频道
 http://rtp.shaoj0013.top:5140/rtp/238.1.78.111:6760?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-# ... (中间部分同理批量添加，此处为节省空间展示末尾部分) ...
+#EXTINF:-1 tvg-id="肥东新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",肥东新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.183:7336?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="肥东经济生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",肥东经济生活
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.184:7344?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="肥西新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",肥西新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.185:7352?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="长丰电视台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",长丰电视台
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.182:7328?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="滁州新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",滁州新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.132:6928?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="滁州公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",滁州公共频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.133:6936?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="滁州科教频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",滁州科教频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.134:6944?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="全椒综合频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",全椒综合频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.203:7496?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="来安新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",来安新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.204:7504?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="定远新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",定远新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.205:7512?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="凤阳新闻频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",凤阳新闻频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.207:7528?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="明光综合频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",明光综合频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.208:7536?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="芜湖新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",芜湖新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.112:6768?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="芜湖公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",芜湖公共频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.80:6512?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="芜湖生活频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",芜湖生活频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.152:7088?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="芜湖教育频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",芜湖教育频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.167:7208?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="湾沚新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",湾沚新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.187:7368?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="繁昌新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",繁昌新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.190:7392?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="无为新闻频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",无为新闻频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.188:7376?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="南陵新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",南陵新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.189:7384?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="马鞍山新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",马鞍山新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.79.15:4232?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="马鞍山公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",马鞍山公共频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.77:6488?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="安庆新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",安庆新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.117:6808?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="安庆公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",安庆公共频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.118:6816?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="安庆教育频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",安庆教育频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.120:6832?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="潜山综合频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",潜山综合频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.192:7408?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="桐城综合频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",桐城综合频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.28:6152?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="太湖新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",太湖新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.79.12:4208?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="黄山新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",黄山新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.130:6912?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="黄山公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",黄山公共频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.131:6920?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="徽州新闻频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",徽州新闻频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.138:6976?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="太平电视台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",太平电视台
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.199:7464?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="歙县综合频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",歙县综合频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.200:7472?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="休宁新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",休宁新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.79.20:4272?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="祁门综合频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",祁门综合频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.79.14:4224?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="黟县新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",黟县新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.149:7064?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="宣城综合频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",宣城综合频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.142:7008?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="宣城公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",宣城公共频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.143:7016?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="广德新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",广德新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.212:7568?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="广德生活频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",广德生活频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.213:7576?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="郎溪新闻频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",郎溪新闻频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.214:7584?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="旌德新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",旌德新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.215:7592?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="宁国新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",宁国新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.216:7600?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="绩溪新闻频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",绩溪新闻频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.218:7616?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="池州新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",池州新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.147:7048?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="池州公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",池州公共频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.148:7056?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="石台综合频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",石台综合频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.221:7640?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="东至综合频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",东至综合频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.79.13:4216?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="铜陵新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",铜陵新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.139:6984?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="铜陵公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",铜陵公共频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.140:6992?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="铜陵科教频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",铜陵科教频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.141:7000?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="义安新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",义安新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.211:7560?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="枞阳电视台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",枞阳电视台
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.210:7552?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="六安综合频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",六安综合频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.144:7024?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="六安公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",六安公共频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.145:7032?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="霍山综合频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",霍山综合频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.220:7632?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="霍邱新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",霍邱新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.119:6824?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="金寨综合频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",金寨综合频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.79.21:4280?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="淮南新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",淮南新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.113:6776?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="淮南公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",淮南公共频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.114:6784?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="寿县新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",寿县新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.146:7040?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="淮北新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",淮北新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.135:6952?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="淮北公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",淮北公共频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.136:6960?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="淮北教育频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",淮北教育频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.137:6968?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="濉溪新闻频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",濉溪新闻频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.209:7544?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="宿州新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",宿州新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.121:6840?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="宿州公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",宿州公共频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.122:6848?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="宿州科教频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",宿州科教频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.123:6856?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="萧县新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",萧县新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.79.46:4480?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="泗县新闻频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",泗县新闻频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.193:7416?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="蚌埠新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",蚌埠新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.180:7312?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="蚌埠公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",蚌埠公共频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.181:7320?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="五河新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",五河新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.79.52:4528?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="固镇新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",固镇新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.79.47:4488?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="阜阳新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",阜阳新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.124:6864?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="阜阳公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",阜阳公共频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.125:6872?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="阜阳教育频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",阜阳教育频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.126:6880?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="阜阳都市频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",阜阳都市频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.127:6888?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="颍上新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",颍上新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.194:7424?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="界首综合频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",界首综合频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.195:7432?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="临泉新闻频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",临泉新闻频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.29:6160?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="阜南新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",阜南新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.79.11:4200?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="亳州综合频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",亳州综合频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.128:6896?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="亳州农村频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",亳州农村频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.129:6904?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="利辛新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",利辛新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.196:7440?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="涡阳新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",涡阳新闻综合
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.197:7448?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="蒙城新闻频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽地市、县频道",蒙城新闻频道
 http://rtp.shaoj0013.top:5140/rtp/238.1.79.19:4264?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 
@@ -194,6 +365,50 @@ http://rtp.shaoj0013.top:5140/rtp/238.1.79.19:4264?fcc=117.71.18.200:15970&r2h-t
 http://rtp.shaoj0013.top:5140/rtp/238.1.79.50:4512?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="海豚少儿HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",海豚少儿HD
 http://rtp.shaoj0013.top:5140/rtp/238.1.79.32:4368?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="海豚健康HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",海豚健康HD
+http://rtp.shaoj0013.top:5140/rtp/238.1.79.33:4376?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="海豚影视HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",海豚影视HD
+http://rtp.shaoj0013.top:5140/rtp/238.1.79.34:4384?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="家家购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",家家购物
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.32:6184?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="陶瓷HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",陶瓷HD
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.157:7128?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="全纪实HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",全纪实HD
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.151:7080?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="纪实人文HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",纪实人文HD
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.153:7096?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="动漫秀场HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",动漫秀场HD
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.154:7104?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="金鹰纪实HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",金鹰纪实HD
+http://rtp.shaoj0013.top:5140/rtp/238.1.79.9:4184?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="茶频道HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",茶频道HD
+http://rtp.shaoj0013.top:5140/rtp/238.1.79.30:4352?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="快乐垂钓HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",快乐垂钓HD
+http://rtp.shaoj0013.top:5140/rtp/238.1.79.31:4360?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="生活时尚HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",生活时尚HD
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.155:7112?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="体育赛事HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",体育赛事HD
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.33:6192?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="中甲联赛HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",中甲联赛HD
+http://rtp.shaoj0013.top:5140/rtp/238.1.79.39:4424?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",卡酷少儿
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.97:6648?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",哈哈炫动
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.82:6528?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",金鹰卡通
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.100:6672?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",山东教育卫视
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.254:7904?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="财富天下" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",财富天下
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.25:6128?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="东方财*浦东" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",东方财*浦东
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.73:6456?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="都市剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",都市剧场
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.74:6464?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="金色频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",金色频道
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.76:6480?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="游戏风云" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",游戏风云
+http://rtp.shaoj0013.top:5140/rtp/238.1.78.81:6520?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="法治天地" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",法治天地
 http://rtp.shaoj0013.top:5140/rtp/238.1.78.84:6544?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="七彩戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",七彩戏剧
