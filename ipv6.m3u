@@ -4,214 +4,214 @@
 
 # --- 4K/超清精品区 ---
 #EXTINF:-1 tvg-id="纯享4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K/超清精品区",纯享4K
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-20M-2160P-chunxiang4k/.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-20M-2160P-chunxiang4k/.m3u8
 
 # --- 中央电视台 (CCTV) ---
 #EXTINF:-1 tvg-id="CCTV-1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-1FHD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv1hd8m/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv1hd8m/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-2FHD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-3高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-cctv3/.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-cctv3/.m3u8
 #EXTINF:-1 tvg-id="CCTV-5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-5高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-5/.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-5/.m3u8
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-5+FHD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv-5Phd/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv-5Phd/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-6FHD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv6hd8m/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv6hd8m/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-8FHD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv8hd8m/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv8hd8m/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-9FHD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-cctv9/.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-cctv9/.m3u8
 #EXTINF:-1 tvg-id="CCTV-10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-10FHD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-10/.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-10/.m3u8
 #EXTINF:-1 tvg-id="CCTV-11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="中央电视台 (CCTV)",CCTV-11FHD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv11hd/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv11hd/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="中央电视台 (CCTV)",CCTV-13FHD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctvxwhd/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctvxwhd/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="中央电视台 (CCTV)",CCTV-14FHD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctvsehd8m/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctvsehd8m/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="中央电视台 (CCTV)",CCTV-15FHD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv15hd/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv15hd/1.m3u8
 #EXTINF:-1 tvg-id="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中央电视台 (CCTV)",CCTV-16FHD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::1145]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::1145]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="中央电视台 (CCTV)",CCTV-17FHD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv-17hd/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv-17hd/1.m3u8
 
 # --- 安徽省级频道 ---
 #EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽卫视FHD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ahwshd8m/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ahwshd8m/index.m3u8
 #EXTINF:-1 tvg-id="安徽经济" tvg-logo="https://live.fanmingming.com/tv/安徽经济.png" group-title="安徽省级频道",安徽经济高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_jjhd/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_jjhd/1.m3u8
 #EXTINF:-1 tvg-id="安徽影视" tvg-logo="https://live.fanmingming.com/tv/安徽影视.png" group-title="安徽省级频道",安徽影视高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_yshd/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_yshd/1.m3u8
 #EXTINF:-1 tvg-id="安徽科教" tvg-logo="https://live.fanmingming.com/tv/安徽科教.png" group-title="安徽省级频道",安徽农科高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_kjhd/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_kjhd/1.m3u8
 #EXTINF:-1 tvg-id="安徽综艺" tvg-logo="https://live.fanmingming.com/tv/安徽综艺.png" group-title="安徽省级频道",安徽综艺高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_zyhd/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_zyhd/1.m3u8
 #EXTINF:-1 tvg-id="安徽公共" tvg-logo="https://live.fanmingming.com/tv/安徽公共.png" group-title="安徽省级频道",安徽公共高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_gghd/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTah_gghd/1.m3u8
 #EXTINF:-1 tvg-id="安徽国际" tvg-logo="https://live.fanmingming.com/tv/安徽国际.png" group-title="安徽省级频道",安徽国际
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTahgj/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTahgj/index.m3u8
 #EXTINF:-1 tvg-id="安徽导视" tvg-logo="" group-title="安徽省级频道",安徽导视
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/XMTahds/.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/XMTahds/.m3u8
 #EXTINF:-1 tvg-id="徽生活" tvg-logo="" group-title="安徽省级频道",徽生活高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/GDhuish/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/GDhuish/index.m3u8
 #EXTINF:-1 tvg-id="睛彩安徽" tvg-logo="" group-title="安徽省级频道",睛彩安徽高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTjcah/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTjcah/index.m3u8
 
 # --- 各省卫视 (高清) ---
 #EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",湖南卫视FHD
-http://rtp.shaoj0013.top:5140/http/39.135.6.14/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/hunanwshd8m/index.m3u8&r2h-token=shaojun19810723
+http://39.135.6.14/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/hunanwshd8m/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",浙江卫视FHD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/zjwshd8m/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/zjwshd8m/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",江苏卫视FHD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/jswshd8m/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/jswshd8m/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",北京卫视FHD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-beijingstv/.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-beijingstv/.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",东方卫视FHD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-dongfangstv/.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-dongfangstv/.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="各省卫视 (高清)",山东卫视FHD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTshandongwshd/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTshandongwshd/1.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="各省卫视 (高清)",四川卫视FHD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/scwshd/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/scwshd/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="各省卫视 (高清)",深圳卫视HD
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/hdshenzhenstv/.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/hdshenzhenstv/.m3u8
 
 # --- 安徽地市频道 ---
 #EXTINF:-1 tvg-id="合肥新闻" tvg-logo="https://live.fanmingming.com/tv/合肥新闻.png" group-title="安徽地市频道",合肥新闻高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMThfxw/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMThfxw/index.m3u8
 #EXTINF:-1 tvg-id="肥东新闻综合" group-title="安徽地市频道",肥东新闻综合高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/SD12-576P-fdxwzh/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/SD12-576P-fdxwzh/index.m3u8
 #EXTINF:-1 tvg-id="肥东经济生活" group-title="安徽地市频道",肥东经济生活高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/SD12-576P-fdjjsh/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/SD12-576P-fdjjsh/index.m3u8
 #EXTINF:-1 tvg-id="阜阳新闻综合" group-title="安徽地市频道",阜阳新闻综合
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTFY_xwzh/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTFY_xwzh/1.m3u8
 #EXTINF:-1 tvg-id="黄山新闻综合" group-title="安徽地市频道",黄山新闻综合
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTHS_xwzh/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTHS_xwzh/1.m3u8
 #EXTINF:-1 tvg-id="蚌埠新闻综合" group-title="安徽地市频道",蚌埠新闻综合
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTBB_xwzh/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTBB_xwzh/1.m3u8
 #EXTINF:-1 tvg-id="宿州新闻综合" group-title="安徽地市频道",宿州新闻综合
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTSZ_xwzh/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTSZ_xwzh/1.m3u8
 #EXTINF:-1 tvg-id="宣城新闻综合" group-title="安徽地市频道",宣城新闻综合
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTXC_xwzh/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTXC_xwzh/1.m3u8
 #EXTINF:-1 tvg-id="马鞍山新闻综合" group-title="安徽地市频道",马鞍山新闻综合
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTMAS_xwzh/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTMAS_xwzh/1.m3u8
 #EXTINF:-1 tvg-id="铜陵新闻综合" group-title="安徽地市频道",铜陵新闻综合
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTTL_xwzh/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTTL_xwzh/1.m3u8
 #EXTINF:-1 tvg-id="淮北新闻综合" group-title="安徽地市频道",淮北新闻综合
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTHB_xwzh/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTHB_xwzh/1.m3u8
 #EXTINF:-1 tvg-id="芜湖新闻综合" group-title="安徽地市频道",芜湖新闻综合
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTWH_xwzh/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTWH_xwzh/1.m3u8
 #EXTINF:-1 tvg-id="六安新闻综合" group-title="安徽地市频道",六安新闻综合
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTLA_xwzh/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTLA_xwzh/1.m3u8
 #EXTINF:-1 tvg-id="安庆新闻综合" group-title="安徽地市频道",安庆新闻综合
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTAQ_xwzh/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTAQ_xwzh/1.m3u8
 #EXTINF:-1 tvg-id="滁州新闻综合" group-title="安徽地市频道",滁州新闻综合
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTChuZ_xwzh/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTChuZ_xwzh/index.m3u8
 #EXTINF:-1 tvg-id="池州新闻综合" group-title="安徽地市频道",池州新闻综合高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTChiZ_xwzh/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTChiZ_xwzh/index.m3u8
 #EXTINF:-1 tvg-id="亳州综合" group-title="安徽地市频道",亳州综合高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTBZ_xwzh/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTBZ_xwzh/1.m3u8
 #EXTINF:-1 tvg-id="淮南新闻综合" group-title="安徽地市频道",淮南新闻综合高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMThuainan_1/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMThuainan_1/index.m3u8
 
 # --- 安徽地市、县频道 (详细补全) ---
 #EXTINF:-1 tvg-id="亳州农村" group-title="安徽地市、县频道",亳州农村高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_hzncpd/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_hzncpd/index.m3u8
 #EXTINF:-1 tvg-id="太平新闻" group-title="安徽地市、县频道",太平
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_tpdst/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_tpdst/1.m3u8
 #EXTINF:-1 tvg-id="郎溪新闻" group-title="安徽地市、县频道",郎溪新闻
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_lxdst/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_lxdst/1.m3u8
 #EXTINF:-1 tvg-id="广德新闻综合" group-title="安徽地市、县频道",广德新闻综合
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_gdsh/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_gdsh/index.m3u8
 #EXTINF:-1 tvg-id="广德生活" group-title="安徽地市、县频道",广德生活
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_gdxw/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_gdxw/1.m3u8
 #EXTINF:-1 tvg-id="旌德新闻综合" group-title="安徽地市、县频道",旌德新闻综合
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_jdzhpd/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_jdzhpd/index.m3u8
 #EXTINF:-1 tvg-id="界首综合" group-title="安徽地市、县频道",界首综合
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_jsxw/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_jsxw/index.m3u8
 #EXTINF:-1 tvg-id="阜阳教育" group-title="安徽地市、县频道",阜阳教育
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_fyjypd/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_fyjypd/index.m3u8
 #EXTINF:-1 tvg-id="阜阳都市" group-title="安徽地市、县频道",阜阳都市
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_fydspd/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_fydspd/index.m3u8
 #EXTINF:-1 tvg-id="阜阳公共" group-title="安徽地市、县频道",阜阳公共
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_fyggpd/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_fyggpd/index.m3u8
 #EXTINF:-1 tvg-id="蚌埠公共" group-title="安徽地市、县频道",蚌埠公共
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_bbggpd/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_bbggpd/index.m3u8
 #EXTINF:-1 tvg-id="宿州公共" group-title="安徽地市、县频道",宿州公共
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_szggpd/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_szggpd/index.m3u8
 #EXTINF:-1 tvg-id="宿州科教" group-title="安徽地市、县频道",宿州科教
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_szkjpd/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_szkjpd/index.m3u8
 #EXTINF:-1 tvg-id="泗县新闻" group-title="安徽地市、县频道",泗县新闻频道
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_sxxwpd/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_sxxwpd/1.m3u8
 #EXTINF:-1 tvg-id="涡阳新闻综合" group-title="安徽地市、县频道",涡阳新闻综合
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_bzgy/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_bzgy/index.m3u8
 #EXTINF:-1 tvg-id="颍上新闻综合" group-title="安徽地市、县频道",颍上新闻综合
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_ysxwzh/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_ysxwzh/index.m3u8
 #EXTINF:-1 tvg-id="颍上综艺" group-title="安徽地市、县频道",颍上综艺
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_yszy/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_yszy/index.m3u8
 #EXTINF:-1 tvg-id="芜湖公共" group-title="安徽地市、县频道",芜湖公共
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_whggpd/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_whggpd/index.m3u8
 #EXTINF:-1 tvg-id="芜湖生活" group-title="安徽地市、县频道",芜湖生活
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_whshpd/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_whshpd/index.m3u8
 #EXTINF:-1 tvg-id="芜湖教育" group-title="安徽地市、县频道",芜湖教育
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_whjypd/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_whjypd/index.m3u8
 #EXTINF:-1 tvg-id="桐城新闻" group-title="安徽地市、县频道",桐城新闻高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_tcxw/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_tcxw/index.m3u8
 #EXTINF:-1 tvg-id="池州公共" group-title="安徽地市、县频道",池州公共
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_chizhougg/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_chizhougg/index.m3u8
 #EXTINF:-1 tvg-id="宣城公共" group-title="安徽地市、县频道",宣城公共
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_xcgg/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_xcgg/index.m3u8
 #EXTINF:-1 tvg-id="宣城综合" group-title="安徽地市、县频道",宣城综合
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_xczh/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_xczh/index.m3u8
 #EXTINF:-1 tvg-id="淮南公共" group-title="安徽地市、县频道",淮南公共高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_hnet/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_hnet/index.m3u8
 #EXTINF:-1 tvg-id="黟县新闻" group-title="安徽地市、县频道",黟县
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_hsyxdst/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_hsyxdst/index.m3u8
 #EXTINF:-1 tvg-id="明光新闻2" group-title="安徽地市、县频道",明光2
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_czmg2/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_czmg2/index.m3u8
 #EXTINF:-1 tvg-id="淮北都市" group-title="安徽地市、县频道",淮北都市
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_huaibeids/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_huaibeids/index.m3u8
 #EXTINF:-1 tvg-id="淮北教育" group-title="安徽地市、县频道",淮北教育
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_huaibeijy/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_huaibeijy/index.m3u8
 #EXTINF:-1 tvg-id="湾沚新闻综合" group-title="安徽地市、县频道",湾沚新闻综合
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_whxxwzh/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ah_whxxwzh/index.m3u8
 #EXTINF:-1 tvg-id="石台综合" group-title="安徽地市、县频道",石台综合高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/SD12-576P-czst/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/SD12-576P-czst/index.m3u8
 #EXTINF:-1 tvg-id="枞阳影视" group-title="安徽地市、县频道",枞阳影视高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/SD12-576P-zyyspd/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/SD12-576P-zyyspd/index.m3u8
 
 # --- 影院/综合/生活 ---
 #EXTINF:-1 tvg-id="精品综合" group-title="影院/剧场/数字频道",精品综合高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/mingxingdp/.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/mingxingdp/.m3u8
 #EXTINF:-1 tvg-id="爱情喜剧" group-title="影院/剧场/数字频道",爱情喜剧高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/aiqingxj/.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/aiqingxj/.m3u8
 #EXTINF:-1 tvg-id="军旅剧场" group-title="影院/剧场/数字频道",军旅剧场高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/junlvjc/.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/junlvjc/.m3u8
 #EXTINF:-1 tvg-id="热播精选" group-title="影院/剧场/数字频道",热播精选高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/xiqumd/.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/xiqumd/.m3u8
 #EXTINF:-1 tvg-id="怡伴健康" group-title="影院/剧场/数字频道",怡伴健康高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/ljiankangyouyue/.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/ljiankangyouyue/.m3u8
 #EXTINF:-1 tvg-id="潮妈辣婆" group-title="影院/剧场/数字频道",潮妈辣婆高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-1500k-720P-cmlapo/.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-1500k-720P-cmlapo/.m3u8
 #EXTINF:-1 tvg-id="农业致富" group-title="影院/剧场/数字频道",农业致富高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/nongyezf/.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/nongyezf/.m3u8
 #EXTINF:-1 tvg-id="武博世界" group-title="体育/纪实/综合",武博世界高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/SD-1500k-576P-bokesen/.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/SD-1500k-576P-bokesen/.m3u8
 #EXTINF:-1 tvg-id="足球" group-title="体育/纪实/综合",足球
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTzqpd/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTzqpd/index.m3u8
 
 # --- 数字专业/少儿/体育 ---
 #EXTINF:-1 tvg-id="海豚影视" group-title="数字专业/少儿/体育",海豚影视高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMThtys/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMThtys/index.m3u8
 #EXTINF:-1 tvg-id="海豚健康" group-title="数字专业/少儿/体育",海豚健康高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMThtjk/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMThtjk/index.m3u8
 #EXTINF:-1 tvg-id="海豚生活" group-title="数字专业/少儿/体育",海豚生活高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/pltv-htsh/.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/pltv-htsh/.m3u8
 #EXTINF:-1 tvg-id="海豚少儿" group-title="数字专业/少儿/体育",海豚少儿高清
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMThtse/index.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMThtse/index.m3u8
 #EXTINF:-1 tvg-id="咪咕精彩足球" group-title="数字专业/少儿/体育",咪咕精彩足球
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/HD-8000k-1080P-miguaoyun1/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/HD-8000k-1080P-miguaoyun1/1.m3u8
 #EXTINF:-1 tvg-id="咪咕综合体育" group-title="数字专业/少儿/体育",咪咕综合体育
-http://rtp.shaoj0013.top:5140/http/[2409:8087:3000:23:0:3::110A]:8112/120000001002/HD-8000k-1080P-miguaoyun2/1.m3u8&r2h-token=shaojun19810723
+http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/HD-8000k-1080P-miguaoyun2/1.m3u8
