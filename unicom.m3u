@@ -23,66 +23,66 @@ http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000643?r2h-token=shaojun19810723
 
 # --- 中央电视台 (CCTV) ---
-#EXTINF:-1 tvg-id="CCTV-1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-1 综合
+#EXTINF:-1 tvg-id="CCTV-1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-1HD
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000152?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-2 财经
+#EXTINF:-1 tvg-id="CCTV-2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-2HD
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000477?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-3 综艺
+#EXTINF:-1 tvg-id="CCTV-3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-3HD
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000487?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-4 中文国际
+#EXTINF:-1 tvg-id="CCTV-4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-4HD
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000573?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-5 体育
+#EXTINF:-1 tvg-id="CCTV-5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-5HD
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000481?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="CCTV-5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-5+HD
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000153?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-6 电影
+#EXTINF:-1 tvg-id="CCTV-6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-6HD
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120220816000000000000000005?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-7 国防军事
+#EXTINF:-1 tvg-id="CCTV-7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-7HD
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000485?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-8 电视剧
+#EXTINF:-1 tvg-id="CCTV-8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-8HD
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000476?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-9 记录
+#EXTINF:-1 tvg-id="CCTV-9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-9HD
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000478?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-10 科教
+#EXTINF:-1 tvg-id="CCTV-10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-10HD
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000480?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-11 戏曲
+#EXTINF:-1 tvg-id="CCTV-11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-11HD
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000583?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-12 社会与法
+#EXTINF:-1 tvg-id="CCTV-12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-12HD
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000482?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-13 新闻
+#EXTINF:-1 tvg-id="CCTV-13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-13HD
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000602?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-14 少儿
+#EXTINF:-1 tvg-id="CCTV-14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-14HD
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000483?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-15 音乐
+#EXTINF:-1 tvg-id="CCTV-15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-15HD
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000587?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-16 奥林匹克
+#EXTINF:-1 tvg-id="CCTV-16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CTV-16HD
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000625?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-17 农业农村
+#EXTINF:-1 tvg-id="CCTV-17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CTV-17HD
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000580?r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CGTN
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000148?r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="CCTV-兵器科技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",CCTV兵器科技HD
+http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000053?r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="CCTV-第一剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",CCTV第一剧场HD
+http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000039?r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="CCTV-风云剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",CCTV风云剧场HD
+http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000041?r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="CCTV-风云音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",CCTV风云音乐HD
+http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000037?r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="CCTV-风云足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",CCTV风云足球HD
+http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000051?r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="CCTV-高尔夫网球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",CCTV高尔夫网球HD
+http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000049?r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="CCTV-怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",CCTV怀旧剧场HD
+http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000043?r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="CCTV-女性时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",CCTV女性时尚HD
+http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000055?r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="CCTV-央视台球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",CCTV央视台球HD
+http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000047?r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="CCTV-央视文化精品" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",CTV央视文化精品HD
+http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000057?r2h-token=shaojun19810723
 
 # --- 数字专业/少儿/体育 ---
-#EXTINF:-1 tvg-id="CCTV-兵器科技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",CCTV-兵器科技
-http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000053?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-第一剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",CCTV-第一剧场
-http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000039?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-风云剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",CCTV-风云剧场
-http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000041?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-风云音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",CCTV-风云音乐
-http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000037?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-风云足球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",CCTV-风云足球
-http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000051?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-高尔夫网球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",CCTV-高尔夫·网球
-http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000049?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",CCTV-怀旧剧场
-http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000043?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-女性时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",CCTV-女性时尚
-http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000055?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-央视台球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",CCTV-央视台球
-http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000047?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-央视文化精品" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",CCTV-央视文化精品
-http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/11111120210421000000000000000057?r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="财富天下" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",财富天下
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000183?r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="茶频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="数字专业/少儿/体育",茶频道
