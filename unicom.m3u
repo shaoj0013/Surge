@@ -99,7 +99,7 @@ http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00005000000000000000000000000263?r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",江苏卫视
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000198?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="浙江卫视",浙江卫视
+#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",浙江卫视
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000265?r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",北京卫视
 http://rtp5.shaoj0013.top:5140/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000194?r2h-token=shaojun19810723
