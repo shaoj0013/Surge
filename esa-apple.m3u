@@ -27,113 +27,109 @@ http://rtp3.shaoj0013.top/rtp/238.1.79.24:4304?fcc=117.71.18.200:15970&r2h-token
 http://rtp3.shaoj0013.top/rtp/238.1.78.23:6112?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
  
 # --- 中央电视台 (CCTV) ---
-#EXTINF:-1 tvg-id="CCTV-1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-1HD
+#EXTINF:-1 tvg-id="CCTV-1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-1 综合
 http://rtp3.shaoj0013.top/rtp/238.1.78.166:7200?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-2HD
+#EXTINF:-1 tvg-id="CCTV-2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-2 财经
 http://rtp3.shaoj0013.top/rtp/238.1.78.235:7752?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-3HD
+#EXTINF:-1 tvg-id="CCTV-3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-3 综艺
 http://rtp3.shaoj0013.top/rtp/238.1.78.170:7232?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-4HD
+#EXTINF:-1 tvg-id="CCTV-4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-4 中文国际
 http://rtp3.shaoj0013.top/rtp/238.1.78.236:7760?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-5HD
+#EXTINF:-1 tvg-id="CCTV-5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-5 体育
 http://rtp3.shaoj0013.top/rtp/238.1.78.171:7240?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-5+HD
+#EXTINF:-1 tvg-id="CCTV-5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-5+ 体育赛事
 http://rtp3.shaoj0013.top/rtp/238.1.78.237:7768?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-6HD
+#EXTINF:-1 tvg-id="CCTV-6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-6 电影
 http://rtp3.shaoj0013.top/rtp/238.1.78.172:7248?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-7HD
+#EXTINF:-1 tvg-id="CCTV-7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-7 国防军事
 http://rtp3.shaoj0013.top/rtp/238.1.78.239:7784?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-8HD
+#EXTINF:-1 tvg-id="CCTV-8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-8 电视剧
 http://rtp3.shaoj0013.top/rtp/238.1.78.173:7256?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-9HD
+#EXTINF:-1 tvg-id="CCTV-9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-9 纪录
 http://rtp3.shaoj0013.top/rtp/238.1.78.240:7792?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-10HD
+#EXTINF:-1 tvg-id="CCTV-10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-10 科教
 http://rtp3.shaoj0013.top/rtp/238.1.78.241:7800?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-11HD
+#EXTINF:-1 tvg-id="CCTV-11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-11 戏曲
 http://rtp3.shaoj0013.top/rtp/238.1.78.206:7502?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-12HD
+#EXTINF:-1 tvg-id="CCTV-12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-12 社会与法
 http://rtp3.shaoj0013.top/rtp/238.1.78.242:7808?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-13HD
+#EXTINF:-1 tvg-id="CCTV-13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-13 新闻
 http://rtp3.shaoj0013.top/rtp/238.1.79.35:4392?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-14HD
+#EXTINF:-1 tvg-id="CCTV-14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-14 少儿
 http://rtp3.shaoj0013.top/rtp/238.1.78.243:7816?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-15HD
+#EXTINF:-1 tvg-id="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-15 音乐
 http://rtp3.shaoj0013.top/rtp/238.1.78.222:7648?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中央电视台 (CCTV)",CCTV-16奥林匹克
+#EXTINF:-1 tvg-id="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中央电视台 (CCTV)",CCTV-16 奥林匹克
 http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-#EXTINF:-1 tvg-id="CCTV-17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-17HD
+#EXTINF:-1 tvg-id="CCTV-17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-17 农业农村
 http://rtp3.shaoj0013.top/rtp/238.1.78.178:7296?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CGTN
 http://rtp3.shaoj0013.top/rtp/238.1.78.50:6272?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV电视指南" tvg-logo="https://live.fanmingming.com/tv/CCTV电视指南.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV电视指南HD
-http://rtp3.shaoj0013.top/rtp/238.1.79.53:4560?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
- 
- 
  
 # --- 安徽省级频道 ---
-#EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽卫视HD
+#EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽卫视
 http://rtp3.shaoj0013.top/rtp/238.1.79.27:4328?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="安徽经济生活" tvg-logo="https://live.fanmingming.com/tv/安徽经济生活.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽经济生活HD
+#EXTINF:-1 tvg-id="安徽经济生活" tvg-logo="https://live.fanmingming.com/tv/安徽经济生活.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽经济生活
 http://rtp3.shaoj0013.top/rtp/238.1.79.44:4464?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="安徽影视频道" tvg-logo="https://live.fanmingming.com/tv/安徽影视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽影视频道HD
+#EXTINF:-1 tvg-id="安徽影视频道" tvg-logo="https://live.fanmingming.com/tv/安徽影视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽影视
 http://rtp3.shaoj0013.top/rtp/238.1.79.42:4448?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="安徽公共频道" tvg-logo="https://live.fanmingming.com/tv/安徽公共.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽公共频道HD
+#EXTINF:-1 tvg-id="安徽公共频道" tvg-logo="https://live.fanmingming.com/tv/安徽公共.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽公共
 http://rtp3.shaoj0013.top/rtp/238.1.79.43:4456?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="安徽综艺体育" tvg-logo="https://live.fanmingming.com/tv/安徽综艺体育.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽综艺体育HD
+#EXTINF:-1 tvg-id="安徽综艺体育" tvg-logo="https://live.fanmingming.com/tv/安徽综艺体育.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽综艺·体育
 http://rtp3.shaoj0013.top/rtp/238.1.79.41:4440?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="安徽农业科教" tvg-logo="https://live.fanmingming.com/tv/安徽农业科教.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽农业科教HD
+#EXTINF:-1 tvg-id="安徽农业科教" tvg-logo="https://live.fanmingming.com/tv/安徽农业科教.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽农业·科教
 http://rtp3.shaoj0013.top/rtp/238.1.79.40:4432?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="安徽人物频道" tvg-logo="https://live.fanmingming.com/tv/安徽人物.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽人物频道HD
+#EXTINF:-1 tvg-id="安徽人物频道" tvg-logo="https://live.fanmingming.com/tv/安徽人物.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽人物
 http://rtp3.shaoj0013.top/rtp/238.1.79.45:4472?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="安徽国际频道" tvg-logo="https://live.fanmingming.com/tv/安徽国际.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽国际频道
+#EXTINF:-1 tvg-id="安徽国际频道" tvg-logo="https://live.fanmingming.com/tv/安徽国际.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽国际
 http://rtp3.shaoj0013.top/rtp/238.1.78.61:6360?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="安徽导视频道" tvg-logo="https://live.fanmingming.com/tv/安徽导视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽导视频道
+#EXTINF:-1 tvg-id="安徽导视频道" tvg-logo="https://live.fanmingming.com/tv/安徽导视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽导视
 http://rtp3.shaoj0013.top/rtp/238.1.79.66:4664?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
  
 # --- 各省卫视 (高清) ---
-#EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",北京卫视HD
+#EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",北京卫视
 http://rtp3.shaoj0013.top/rtp/238.1.78.162:7168?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",天津卫视HD
+#EXTINF:-1 tvg-id="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",天津卫视
 http://rtp3.shaoj0013.top/rtp/238.1.78.20:6088?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",重庆卫视HD
+#EXTINF:-1 tvg-id="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",重庆卫视
 http://rtp3.shaoj0013.top/rtp/238.1.78.31:6176?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",东方卫视HD
+#EXTINF:-1 tvg-id="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",东方卫视
 http://rtp3.shaoj0013.top/rtp/238.1.78.163:7176?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",安徽卫视HD
+#EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",安徽卫视
 http://rtp3.shaoj0013.top/rtp/238.1.78.150:7072?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",江苏卫视HD
+#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",江苏卫视
 http://rtp3.shaoj0013.top/rtp/238.1.78.165:7192?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",浙江卫视HD
+#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",浙江卫视
 http://rtp3.shaoj0013.top/rtp/238.1.78.164:7184?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",黑龙江卫视HD
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",黑龙江卫视
 http://rtp3.shaoj0013.top/rtp/238.1.78.159:7144?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",吉林卫视HD
+#EXTINF:-1 tvg-id="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",吉林卫视
 http://rtp3.shaoj0013.top/rtp/238.1.79.48:4496?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",辽宁卫视HD
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",辽宁卫视
 http://rtp3.shaoj0013.top/rtp/238.1.78.21:6096?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",东南卫视HD
+#EXTINF:-1 tvg-id="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",东南卫视
 http://rtp3.shaoj0013.top/rtp/238.1.78.22:6104?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",四川卫视HD
+#EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",四川卫视
 http://rtp3.shaoj0013.top/rtp/238.1.78.30:6168?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",江西卫视HD
+#EXTINF:-1 tvg-id="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",江西卫视
 http://rtp3.shaoj0013.top/rtp/238.1.78.26:6136?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",广东卫视HD
+#EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",广东卫视
 http://rtp3.shaoj0013.top/rtp/238.1.78.161:7160?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",海南卫视HD
+#EXTINF:-1 tvg-id="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",海南卫视
 http://rtp3.shaoj0013.top/rtp/238.1.79.49:4504?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",湖北卫视HD
+#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",湖北卫视
 http://rtp3.shaoj0013.top/rtp/238.1.78.168:7216?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",湖南卫视HD
+#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",湖南卫视
 http://rtp3.shaoj0013.top/rtp/238.1.78.160:7152?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",贵州卫视HD
+#EXTINF:-1 tvg-id="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",贵州卫视
 http://rtp3.shaoj0013.top/rtp/238.1.78.244:7824?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",河北卫视HD
+#EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",河北卫视
 http://rtp3.shaoj0013.top/rtp/238.1.78.245:7832?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",河南卫视HD
+#EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",河南卫视
 http://rtp3.shaoj0013.top/rtp/238.1.79.65:4632?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",山东卫视HD
+#EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",山东卫视
 http://rtp3.shaoj0013.top/rtp/238.1.78.169:7224?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",甘肃卫视HD
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",甘肃卫视
 http://rtp3.shaoj0013.top/rtp/238.1.79.36:4400?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",陕西卫视
 http://rtp3.shaoj0013.top/rtp/238.1.78.88:6576?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
