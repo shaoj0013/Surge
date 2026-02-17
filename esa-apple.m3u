@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://fy.188766.xyz/e.xml"
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE local
-
+ 
 # --- 4K/超清精品区 ---
 #EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K/超清精品区",CCTV-4K 超高清
 http://rtp3.shaoj0013.top/rtp/238.1.79.23:4296?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
@@ -23,7 +23,9 @@ http://rtp3.shaoj0013.top/rtp/238.1.79.26:4320?fcc=117.71.18.200:15970&r2h-token
 http://rtp3.shaoj0013.top/rtp/238.1.79.29:4344?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",北京卫视4K
 http://rtp3.shaoj0013.top/rtp/238.1.79.24:4304?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-
+#EXTINF:-1 tvg-id="华数4K" tvg-logo="https://live.fanmingming.com/tv/华数4K.png" group-title="4K/超清精品区",华数·4K
+http://rtp3.shaoj0013.top/rtp/238.1.78.23:6112?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+ 
 # --- 中央电视台 (CCTV) ---
 #EXTINF:-1 tvg-id="CCTV-1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-1HD
 http://rtp3.shaoj0013.top/rtp/238.1.78.166:7200?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
@@ -65,35 +67,9 @@ http://rtp3.shaoj0013.top/rtp/238.1.78.178:7296?fcc=117.71.18.200:15970&r2h-toke
 http://rtp3.shaoj0013.top/rtp/238.1.78.50:6272?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="CCTV电视指南" tvg-logo="https://live.fanmingming.com/tv/CCTV电视指南.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV电视指南HD
 http://rtp3.shaoj0013.top/rtp/238.1.79.53:4560?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV央视文化精品" tvg-logo="https://live.fanmingming.com/tv/CCTV央视文化精品.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV央视文化精品HD
-http://rtp3.shaoj0013.top/rtp/238.1.79.54:4568?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV女性时尚" tvg-logo="https://live.fanmingming.com/tv/CCTV女性时尚.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV女性时尚HD
-http://rtp3.shaoj0013.top/rtp/238.1.79.55:4576?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV兵器科技" tvg-logo="https://live.fanmingming.com/tv/CCTV兵器科技.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV兵器科技HD
-http://rtp3.shaoj0013.top/rtp/238.1.79.56:4584?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV风云足球" tvg-logo="https://live.fanmingming.com/tv/CCTV风云足球.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV风云足球HD
-http://rtp3.shaoj0013.top/rtp/238.1.79.57:4592?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/CCTV世界地理.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV世界地理HD
-http://rtp3.shaoj0013.top/rtp/238.1.79.60:4616?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV怀旧剧场.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV怀旧剧场HD
-http://rtp3.shaoj0013.top/rtp/238.1.79.61:4624?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV风云剧场.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV风云剧场HD
-http://rtp3.shaoj0013.top/rtp/238.1.79.62:4632?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV第一剧场.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV第一剧场HD
-http://rtp3.shaoj0013.top/rtp/238.1.79.63:4640?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV风云音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV风云音乐.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV风云音乐HD
-http://rtp3.shaoj0013.top/rtp/238.1.79.64:4648?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/CCTV高尔夫网球.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV高尔夫网球HD
-http://rtp3.shaoj0013.top/rtp/238.1.79.58:4600?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CCTV央视台球" tvg-logo="https://live.fanmingming.com/tv/CCTV央视台球.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV央视台球HD
-http://rtp3.shaoj0013.top/rtp/238.1.79.59:4608?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CETV-1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",中国教育CETV-1HD
-http://rtp3.shaoj0013.top/rtp/238.1.78.158:7136?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CETV-2" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",中国教育CETV-2
-http://rtp3.shaoj0013.top/rtp/238.1.78.106:6720?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="CETV-4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",空中课堂CETV-4
-http://rtp3.shaoj0013.top/rtp/238.1.78.107:6728?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-
+ 
+ 
+ 
 # --- 安徽省级频道 ---
 #EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽卫视HD
 http://rtp3.shaoj0013.top/rtp/238.1.79.27:4328?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
@@ -113,7 +89,7 @@ http://rtp3.shaoj0013.top/rtp/238.1.79.45:4472?fcc=117.71.18.200:15970&r2h-token
 http://rtp3.shaoj0013.top/rtp/238.1.78.61:6360?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="安徽导视频道" tvg-logo="https://live.fanmingming.com/tv/安徽导视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="安徽省级频道",安徽导视频道
 http://rtp3.shaoj0013.top/rtp/238.1.79.66:4664?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-
+ 
 # --- 各省卫视 (高清) ---
 #EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",北京卫视HD
 http://rtp3.shaoj0013.top/rtp/238.1.78.162:7168?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
@@ -185,7 +161,7 @@ http://rtp3.shaoj0013.top/rtp/238.1.79.3:4136?fcc=117.71.18.200:15970&r2h-token=
 http://rtp3.shaoj0013.top/rtp/238.1.78.27:6144?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",厦门卫视
 http://rtp3.shaoj0013.top/rtp/238.1.78.246:7840?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-
+ 
 # --- 安徽地市、县频道 ---
 #EXTINF:-1 tvg-id="合肥新闻频道" tvg-logo="https://live.fanmingming.com/tv/合肥新闻.png" group-title="安徽地市、县频道",合肥新闻频道
 http://rtp3.shaoj0013.top/rtp/238.1.78.111:6760?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
@@ -371,7 +347,7 @@ http://rtp3.shaoj0013.top/rtp/238.1.78.29:6160?fcc=117.71.18.200:15970&r2h-token
 http://rtp3.shaoj0013.top/rtp/238.1.79.70:4676?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="怀远综合" tvg-logo="https://live.fanmingming.com/tv/怀远综合.png" group-title="安徽地市、县频道",怀远综合
 http://rtp3.shaoj0013.top/rtp/238.1.78.201:7480?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-
+ 
 # --- 数字·影视剧场 ---
 #EXTINF:-1 group-title="数字·影视剧场",CHC·影迷电影
 http://rtp3.shaoj0013.top/rtp/238.1.79.17:4248?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
@@ -386,11 +362,11 @@ http://rtp3.shaoj0013.top/rtp/238.1.79.62:4632?fcc=117.71.18.200:15970&r2h-token
 #EXTINF:-1 group-title="数字·影视剧场",CCTV-怀旧剧场
 http://rtp3.shaoj0013.top/rtp/238.1.79.61:4624?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 group-title="数字·影视剧场",都市剧场
-http://rtp3.shaoj0013.top/rtp/238.1.78.74:6464?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+http://rtp3.shaoj0013.top/rtp/238.1.78.5:7944?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 group-title="数字·影视剧场",海豚影视
 http://rtp3.shaoj0013.top/rtp/238.1.79.34:4384?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 group-title="数字·影视剧场",华数·经典电影
-http://rtp3.shaoj0013.top/rtp/238.1.78.10:7984?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+http://rtp3.shaoj0013.top/rtp/238.1.78.252:7888?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 group-title="数字·影视剧场",华数·谍战剧场
 http://rtp3.shaoj0013.top/rtp/238.1.78.2:7920?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 group-title="数字·影视剧场",华数·古装剧场
@@ -401,7 +377,7 @@ http://rtp3.shaoj0013.top/rtp/238.1.78.11:7992?fcc=117.71.18.200:15970&r2h-token
 http://rtp3.shaoj0013.top/rtp/238.1.79.7:4168?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 group-title="数字·影视剧场",华数·家庭影院
 http://rtp3.shaoj0013.top/rtp/238.1.78.14:4016?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-
+ 
 # --- 数字·体育竞技 ---
 #EXTINF:-1 group-title="数字·体育竞技",CCTV-风云足球
 http://rtp3.shaoj0013.top/rtp/238.1.79.57:4592?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
@@ -422,8 +398,8 @@ http://rtp3.shaoj0013.top/rtp/238.1.79.31:4360?fcc=117.71.18.200:15970&r2h-token
 #EXTINF:-1 group-title="数字·体育竞技",武术世界
 http://rtp3.shaoj0013.top/rtp/238.1.79.8:4176?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 group-title="数字·体育竞技",游戏风云
-http://rtp3.shaoj0013.top/rtp/238.1.78.81:6520?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-
+http://rtp3.shaoj0013.top/rtp/238.1.78.4:7936?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+ 
 # --- 数字·少儿动漫 ---
 #EXTINF:-1 group-title="数字·少儿动漫",海豚少儿
 http://rtp3.shaoj0013.top/rtp/238.1.79.32:4368?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
@@ -435,7 +411,7 @@ http://rtp3.shaoj0013.top/rtp/238.1.78.97:6648?fcc=117.71.18.200:15970&r2h-token
 http://rtp3.shaoj0013.top/rtp/238.1.78.82:6528?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 group-title="数字·少儿动漫",金鹰卡通
 http://rtp3.shaoj0013.top/rtp/238.1.78.100:6672?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-
+ 
 # --- 数字·纪实百科 ---
 #EXTINF:-1 group-title="数字·纪实百科",CCTV-世界地理
 http://rtp3.shaoj0013.top/rtp/238.1.79.60:4616?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
@@ -458,7 +434,7 @@ http://rtp3.shaoj0013.top/rtp/238.1.79.16:4240?fcc=117.71.18.200:15970&r2h-token
 #EXTINF:-1 group-title="数字·纪实百科",陶瓷
 http://rtp3.shaoj0013.top/rtp/238.1.78.157:7128?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 group-title="数字·纪实百科",法治天地
-http://rtp3.shaoj0013.top/rtp/238.1.78.84:6544?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+http://rtp3.shaoj0013.top/rtp/238.1.78.7:7960?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 group-title="数字·纪实百科",东方财经
 http://rtp3.shaoj0013.top/rtp/238.1.78.73:6456?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 group-title="数字·纪实百科",财富天下
@@ -473,7 +449,7 @@ http://rtp3.shaoj0013.top/rtp/238.1.78.158:7136?fcc=117.71.18.200:15970&r2h-toke
 http://rtp3.shaoj0013.top/rtp/238.1.78.106:6720?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 group-title="数字·纪实百科",CETV-4
 http://rtp3.shaoj0013.top/rtp/238.1.78.107:6728?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-
+ 
 # --- 数字·生活综艺 ---
 #EXTINF:-1 group-title="数字·生活综艺",CCTV-风云音乐
 http://rtp3.shaoj0013.top/rtp/238.1.79.64:4648?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
@@ -513,3 +489,5 @@ http://rtp3.shaoj0013.top/rtp/238.1.78.85:6552?fcc=117.71.18.200:15970&r2h-token
 http://rtp3.shaoj0013.top/rtp/238.1.78.76:6480?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 group-title="数字·生活综艺",家家购物
 http://rtp3.shaoj0013.top/rtp/238.1.78.32:6184?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 group-title="数字·生活综艺",聚鲨环球精选
+http://rtp3.shaoj0013.top/rtp/238.1.79.37:4408?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
