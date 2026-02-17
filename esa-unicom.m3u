@@ -3,6 +3,8 @@
 #EXT-X-APTV-TYPE local
 
 # --- 4K/超清精品区 ---
+#EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K/超清精品区",CCTV-4K 超高清
+http://rtp2.shaoj0013.top/http/10.255.127.35:6060/gitv_live/G_CCTV-4K-HD/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",北京卫视4K
 http://rtp2.shaoj0013.top/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000633?r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",江苏卫视4K
