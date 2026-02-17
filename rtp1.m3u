@@ -3,6 +3,8 @@
 #EXT-X-APTV-TYPE local
 
 # --- 4K/超清精品区 ---
+#EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K/超清精品区",CCTV-4K 超高清
+http://rtp1.shaoj0013.top:5140/rtp/238.1.79.23:4296?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",东方卫视4K
 http://rtp1.shaoj0013.top:5140/rtp/238.1.79.39:4428?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",浙江卫视4K
@@ -55,6 +57,8 @@ http://rtp1.shaoj0013.top:5140/rtp/238.1.79.35:4392?fcc=117.71.18.200:15970&r2h-
 http://rtp1.shaoj0013.top:5140/rtp/238.1.78.243:7816?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-15HD
 http://rtp1.shaoj0013.top:5140/rtp/238.1.78.222:7648?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="中央电视台 (CCTV)",CCTV-16奥林匹克
+http://ahbczp.live.ahct.lv1.vcache.cn:9090/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="CCTV-17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CCTV-17HD
 http://rtp1.shaoj0013.top:5140/rtp/238.1.78.178:7296?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="中央电视台 (CCTV)",CGTN
@@ -167,16 +171,16 @@ http://rtp1.shaoj0013.top:5140/rtp/238.1.78.102:6688?fcc=117.71.18.200:15970&r2h
 http://rtp1.shaoj0013.top:5140/rtp/238.1.78.70:6432?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",内蒙古卫视
 http://rtp1.shaoj0013.top:5140/rtp/238.1.78.103:6696?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",宁夏卫视
-http://rtp1.shaoj0013.top:5140/rtp/238.1.78.109:6744?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",新疆卫视
-http://rtp1.shaoj0013.top:5140/rtp/238.1.78.110:6752?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",西藏卫视
-http://rtp1.shaoj0013.top:5140/rtp/238.1.78.101:6680?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",宁夏卫视HD
+http://rtp1.shaoj0013.top:5140/rtp/238.1.79.4:4144?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",新疆卫视HD
+http://rtp1.shaoj0013.top:5140/rtp/238.1.79.2:4128?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",西藏卫视HD
+http://rtp1.shaoj0013.top:5140/rtp/238.1.79.1:4120?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",深圳卫视HD
 http://rtp1.shaoj0013.top:5140/rtp/238.1.78.156:7120?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",兵团卫视
-http://rtp1.shaoj0013.top:5140/rtp/238.1.78.104:6704?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",兵团卫视HD
+http://rtp1.shaoj0013.top:5140/rtp/238.1.79.3:4136?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",三沙卫视
 http://rtp1.shaoj0013.top:5140/rtp/238.1.78.27:6144?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="各省卫视 (高清)",厦门卫视
@@ -359,7 +363,14 @@ http://rtp1.shaoj0013.top:5140/rtp/238.1.78.196:7440?fcc=117.71.18.200:15970&r2h
 http://rtp1.shaoj0013.top:5140/rtp/238.1.78.197:7448?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="蒙城新闻频道" tvg-logo="https://live.fanmingming.com/tv/蒙城新闻.png" group-title="安徽地市、县频道",蒙城新闻频道
 http://rtp1.shaoj0013.top:5140/rtp/238.1.79.19:4264?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+
 # --- 数字专业/少儿/体育 ---
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="数字专业/少儿/体育",CHC·影迷电影HD
+http://rtp1.shaoj0013.top:5140/rtp/238.1.79.17:4248?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字专业/少儿/体育",CHC·动作电影HD
+http://rtp1.shaoj0013.top:5140/rtp/238.1.79.18:4256?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="数字专业/少儿/体育",CHC·家庭影院HD
+http://rtp1.shaoj0013.top:5140/rtp/238.1.79.22:4288?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="海豚生活" tvg-logo="https://live.fanmingming.com/tv/海豚生活.png" group-title="数字专业/少儿/体育",海豚生活HD
 http://rtp1.shaoj0013.top:5140/rtp/238.1.79.50:4512?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="海豚少儿" tvg-logo="https://live.fanmingming.com/tv/海豚少儿.png" group-title="数字专业/少儿/体育",海豚少儿HD
@@ -412,3 +423,9 @@ http://rtp1.shaoj0013.top:5140/rtp/238.1.78.81:6520?fcc=117.71.18.200:15970&r2h-
 http://rtp1.shaoj0013.top:5140/rtp/238.1.78.84:6544?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="数字专业/少儿/体育",七彩戏剧
 http://rtp1.shaoj0013.top:5140/rtp/238.1.78.85:6552?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="梨园" tvg-logo="https://live.fanmingming.com/tv/梨园.png" group-title="数字专业/少儿/体育",梨园HD
+http://rtp1.shaoj0013.top:5140/rtp/238.1.79.10:4192?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="数字专业/少儿/体育",文物宝库HD
+http://rtp1.shaoj0013.top:5140/rtp/238.1.79.16:4240?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="数字专业/少儿/体育",武术世界HD
+http://rtp1.shaoj0013.top:5140/rtp/238.1.79.8:4176?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
