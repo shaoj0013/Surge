@@ -3,23 +3,23 @@
 #EXT-X-APTV-TYPE local
 
 # --- 4K/超清精品区 ---
-#EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",北京卫视 4K
+#EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",北京卫视4K
 http://rtp2.shaoj0013.top/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000633?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",江苏卫视 4K
+#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",江苏卫视4K
 http://rtp2.shaoj0013.top/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000648?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",东方卫视 4K
+#EXTINF:-1 tvg-id="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",东方卫视4K
 http://rtp2.shaoj0013.top/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000654?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",浙江卫视 4K
+#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",浙江卫视4K
 http://rtp2.shaoj0013.top/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000650?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",广东卫视 4K
+#EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",广东卫视4K
 http://rtp2.shaoj0013.top/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000636?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",深圳卫视 4K
+#EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",深圳卫视4K
 http://rtp2.shaoj0013.top/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000638?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",四川卫视 4K
+#EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",四川卫视4K
 http://rtp2.shaoj0013.top/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000643?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",湖南卫视 4K
+#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",湖南卫视4K
 http://rtp2.shaoj0013.top/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000645?r2h-token=shaojun19810723
-#EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",山东卫视 4K
+#EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" catchup="append" catchup-source="?playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}" group-title="4K/超清精品区",山东卫视4K
 http://rtp2.shaoj0013.top/http/10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000652?r2h-token=shaojun19810723
 
 # --- 中央电视台 (CCTV) ---
