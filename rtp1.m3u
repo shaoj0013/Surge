@@ -363,8 +363,52 @@ http://rtp1.shaoj0013.top:5140/rtp/238.1.78.196:7440?fcc=117.71.18.200:15970&r2h
 http://rtp1.shaoj0013.top:5140/rtp/238.1.78.197:7448?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="蒙城新闻频道" tvg-logo="https://live.fanmingming.com/tv/蒙城新闻.png" group-title="安徽地市、县频道",蒙城新闻频道
 http://rtp1.shaoj0013.top:5140/rtp/238.1.79.19:4264?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="灵璧新闻综合" tvg-logo="https://live.fanmingming.com/tv/灵璧新闻综合.png" group-title="安徽地市、县频道",灵璧新闻综合
+http://rtp1.shaoj0013.top:5140/rtp/238.1.79.68:4680?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="灵璧文旅经济" tvg-logo="https://live.fanmingming.com/tv/灵璧文旅经济.png" group-title="安徽地市、县频道",灵璧文旅经济
+http://rtp1.shaoj0013.top:5140/rtp/238.1.78.29:6160?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="岳西新闻综合" tvg-logo="https://live.fanmingming.com/tv/岳西新闻综合.png" group-title="安徽地市、县频道",岳西新闻综合
+http://rtp1.shaoj0013.top:5140/rtp/238.1.79.70:4676?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 tvg-id="怀远综合" tvg-logo="https://live.fanmingming.com/tv/怀远综合.png" group-title="安徽地市、县频道",怀远综合
+http://rtp1.shaoj0013.top:5140/rtp/238.1.78.201:7480?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 
 # --- 数字专业/少儿/体育 ---
+#EXTINF:-1 group-title="数字专业/少儿/体育",央视网·相声小品
+http://rtp1.shaoj0013.top:5140/rtp/238.1.78.3:7928?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 group-title="数字专业/少儿/体育",央视网·爱生活
+http://rtp1.shaoj0013.top:5140/rtp/238.1.78.17:4040?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 group-title="数字专业/少儿/体育",央视网·地理
+http://rtp1.shaoj0013.top:5140/rtp/238.1.79.4:4144?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 group-title="数字专业/少儿/体育",央视网·国学
+http://rtp1.shaoj0013.top:5140/rtp/238.1.78.34:4064?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 group-title="数字专业/少儿/体育",央视网·鉴赏
+http://rtp1.shaoj0013.top:5140/rtp/238.1.78.38:4096?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 group-title="数字专业/少儿/体育",央视网·解密
+http://rtp1.shaoj0013.top:5140/rtp/238.1.79.6:4160?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 group-title="数字专业/少儿/体育",央视网·精选
+http://rtp1.shaoj0013.top:5140/rtp/238.1.78.19:4056?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 group-title="数字专业/少儿/体育",央视网·军事
+http://rtp1.shaoj0013.top:5140/rtp/238.1.79.3:4136?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 group-title="数字专业/少儿/体育",央视网·墨宝
+http://rtp1.shaoj0013.top:5140/rtp/238.1.78.39:4104?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 group-title="数字专业/少儿/体育",央视网·台球
+http://rtp1.shaoj0013.top:5140/rtp/238.1.78.251:7880?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 group-title="数字专业/少儿/体育",央视网·戏曲
+http://rtp1.shaoj0013.top:5140/rtp/238.1.78.35:4072?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 group-title="数字专业/少儿/体育",央视网·足球
+http://rtp1.shaoj0013.top:5140/rtp/238.1.78.250:7872?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 group-title="数字专业/少儿/体育",华数·经典电影
+http://rtp1.shaoj0013.top:5140/rtp/238.1.78.10:7984?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 group-title="数字专业/少儿/体育",华数·谍战剧场
+http://rtp1.shaoj0013.top:5140/rtp/238.1.78.2:7920?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 group-title="数字专业/少儿/体育",华数·古装剧场
+http://rtp1.shaoj0013.top:5140/rtp/238.1.78.12:4000?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 group-title="数字专业/少儿/体育",华数·军旅剧场
+http://rtp1.shaoj0013.top:5140/rtp/238.1.78.11:7992?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 group-title="数字专业/少儿/体育",华数·星影
+http://rtp1.shaoj0013.top:5140/rtp/238.1.79.7:4168?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
+#EXTINF:-1 group-title="数字专业/少儿/体育",华数·家庭影院
+http://rtp1.shaoj0013.top:5140/rtp/238.1.78.14:4016?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="数字专业/少儿/体育",CHC·影迷电影HD
 http://rtp1.shaoj0013.top:5140/rtp/238.1.79.17:4248?fcc=117.71.18.200:15970&r2h-token=shaojun19810723
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字专业/少儿/体育",CHC·动作电影HD
