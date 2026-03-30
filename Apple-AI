@@ -1,0 +1,33 @@
+# > Apple Intelligence & Siri 终极完整分流 (本地规则 + 扩展匹配)
+
+# === 1. Apple Relay 服务 (包含截图新增节点) ===
+DOMAIN-SUFFIX,apple-relay.akamaized.net,AI Suite,extended-matching
+DOMAIN-SUFFIX,apple-relay.apple.com,AI Suite,extended-matching
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,AI Suite,extended-matching
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com,AI Suite,extended-matching
+DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net,AI Suite,extended-matching
+DOMAIN-SUFFIX,mask.apple-dns.net,AI Suite,extended-matching
+
+# === 2. Siri 听写与基础 API ===
+DOMAIN-SUFFIX,guzzoni.apple.com,AI Suite,extended-matching
+DOMAIN-SUFFIX,smoot.apple.com,AI Suite,extended-matching
+DOMAIN-SUFFIX,math-api.apple.com,AI Suite,extended-matching
+
+# === 3. 新一代 Apple 智能专属节点 (Sequoia) ===
+DOMAIN-SUFFIX,sequoia.apple.com,AI Suite,extended-matching
+DOMAIN-SUFFIX,sequoia.siri.apple.com,AI Suite,extended-matching
+DOMAIN-SUFFIX,seed-sequoia.siri.apple.com,AI Suite,extended-matching
+
+# === 4. Apple CDN 资源 (模型推送) ===
+DOMAIN-SUFFIX,cp4.cloudflare.com,AI Suite,extended-matching
+DOMAIN-SUFFIX,apps.mzstatic.com,AI Suite,extended-matching
+
+# === 5. 定位防暴露 (扩大了匹配范围，包含截图中的 gspe1) ===
+DOMAIN-SUFFIX,ls.apple.com,AI Suite,extended-matching
+DOMAIN-SUFFIX,gs-loc.apple.com,AI Suite,extended-matching
+
+# === 6. ChatGPT 扩展支持 (原生集成调用) ===
+DOMAIN-SUFFIX,chatgpt.com,AI Suite,extended-matching
+DOMAIN-SUFFIX,openai.com,AI Suite,extended-matching
+DOMAIN-SUFFIX,oaistatic.com,AI Suite,extended-matching
+DOMAIN-SUFFIX,oaiusercontent.com,AI Suite,extended-matching
