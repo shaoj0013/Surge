@@ -9,7 +9,6 @@ const GROUP_NAMES = [
   'Disney Plus',
   'Max',
   'YouTube',
-  'Telegram',
   'Microsoft',
   'TikTok'
 ];
