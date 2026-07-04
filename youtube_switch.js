@@ -5,12 +5,10 @@
 // === 用户配置区 ===
 // 将所有需要参与闲忙时切换的策略组名称放进这个数组里
 const GROUP_NAMES = [
-  'Proxy',
   'Netflix',
   'Disney Plus',
   'Max',
   'YouTube',
-  'Apple Push',
   'Telegram',
   'Microsoft',
   'TikTok'
