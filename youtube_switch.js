@@ -8,7 +8,7 @@ const GROUP_NAMES = [
   'Netflix',
   'Disney Plus',
   'Max',
-	'Twitter',
+  'Twitter',
   'YouTube',
   'Telegram',
   'Microsoft',
