@@ -11,7 +11,6 @@ const GROUP_NAMES = [
   'Twitter',
   'YouTube',
   'Telegram',
-  'Microsoft',
   'TikTok'
 ];
 
