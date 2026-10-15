@@ -1,9 +1,14 @@
 # NAME: 小红书
 # AUTHOR: Rulify
 # REPO: https://github.com/shaoj0013/Surge
-# UPDATED: 2026-10-15 13:27:34
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
+# UPDATED: 2026-10-15 13:57:24
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 6
+# TOTAL: 7
+DOMAIN,sdkgen.data.tianwenca.com
+DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,comfylink.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xiaohongshu.com
