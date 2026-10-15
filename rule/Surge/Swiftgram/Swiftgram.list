@@ -1,9 +1,10 @@
 # NAME: Swiftgram
 # AUTHOR: Rulify
 # REPO: https://github.com/shaoj0013/Surge
-# UPDATED: 2026-10-15 20:04:44
+# UPDATED: 2026-10-15 21:27:59
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 1
-# TOTAL: 2
+# DOMAIN-SUFFIX: 2
+# TOTAL: 3
 DOMAIN,amp-api-edge.apps.apple.com
+DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,swiftgram.app
