@@ -1,9 +1,10 @@
 # NAME: X前身为twitter
 # AUTHOR: Rulify
 # REPO: https://github.com/shaoj0013/Surge
-# UPDATED: 2026-10-16 21:38:45
+# UPDATED: 2026-10-16 23:24:17
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 1
-# TOTAL: 2
+# DOMAIN-SUFFIX: 2
+# TOTAL: 3
 DOMAIN,amp-api-edge.apps.apple.com
+DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,grok.com

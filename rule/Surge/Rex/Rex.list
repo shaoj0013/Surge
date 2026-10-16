@@ -1,13 +1,15 @@
 # NAME: Rex
 # AUTHOR: Rulify
 # REPO: https://github.com/shaoj0013/Surge
-# UPDATED: 2026-10-16 21:38:45
+# UPDATED: 2026-10-16 23:24:17
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 5
-# TOTAL: 6
+# DOMAIN-SUFFIX: 7
+# TOTAL: 8
 DOMAIN,cdn.jiedaibao.gs
+DOMAIN-SUFFIX,fwd.ccwu.cc
 DOMAIN-SUFFIX,lilyemby.com
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,uhdnow.com
+DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,xiaoya.pro

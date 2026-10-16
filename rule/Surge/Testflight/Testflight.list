@@ -1,9 +1,8 @@
 # NAME: Testflight
 # AUTHOR: Rulify
 # REPO: https://github.com/shaoj0013/Surge
-# UPDATED: 2026-10-16 21:38:45
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 1
+# UPDATED: 2026-10-16 23:24:17
+# DOMAIN-SUFFIX: 2
 # TOTAL: 2
-DOMAIN,s.mzstatic.com
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,mzstatic.com
