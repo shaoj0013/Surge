@@ -1,11 +1,17 @@
 # NAME: 微信
 # AUTHOR: Rulify
 # REPO: https://github.com/shaoj0013/Surge
-# UPDATED: 2026-10-15 21:27:59
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 3
-# TOTAL: 4
+# UPDATED: 2026-10-16 21:38:45
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 8
+# TOTAL: 10
+DOMAIN,amp-api-edge.apps.apple.com
 DOMAIN,apd-pcdnwxstat.teg.tencent-cloud.net
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qq.com.cn
+DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,wxgateway.com

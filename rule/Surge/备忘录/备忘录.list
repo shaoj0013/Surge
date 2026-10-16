@@ -1,8 +1,10 @@
 # NAME: 备忘录
 # AUTHOR: Rulify
 # REPO: https://github.com/shaoj0013/Surge
-# UPDATED: 2026-10-15 21:27:59
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
+# UPDATED: 2026-10-16 21:38:45
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,qq.com

@@ -1,7 +1,11 @@
 # NAME: Google文档
 # AUTHOR: Rulify
 # REPO: https://github.com/shaoj0013/Surge
-# UPDATED: 2026-10-15 21:27:59
-# DOMAIN-SUFFIX: 1
-# TOTAL: 1
+# UPDATED: 2026-10-16 21:38:45
+# DOMAIN-SUFFIX: 5
+# TOTAL: 5
+DOMAIN-SUFFIX,drivefrontend-pa.googleapis.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,oauth2.googleapis.com
 DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
+DOMAIN-SUFFIX,play.googleapis.com

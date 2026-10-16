@@ -1,9 +1,10 @@
 # NAME: 米家
 # AUTHOR: Rulify
 # REPO: https://github.com/shaoj0013/Surge
-# UPDATED: 2026-10-15 21:27:59
+# UPDATED: 2026-10-16 21:38:45
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 1
-# TOTAL: 2
+# DOMAIN-SUFFIX: 2
+# TOTAL: 3
 DOMAIN,app.chat.xiaomi.net
+DOMAIN-SUFFIX,10086.cn
 DOMAIN-SUFFIX,jpush.cn
