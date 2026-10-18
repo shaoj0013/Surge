@@ -1,8 +1,12 @@
 # NAME: GoogleGemini
 # AUTHOR: Rulify
 # REPO: https://github.com/shaoj0013/Surge
-# UPDATED: 2026-10-16 23:24:17
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
+# UPDATED: 2026-10-18 14:06:01
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
+DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,jnn-pa.googleapis.com
 DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+DOMAIN-SUFFIX,signaler-pa.googleapis.com
+DOMAIN-SUFFIX,youtube.com

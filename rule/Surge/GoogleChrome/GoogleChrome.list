@@ -1,11 +1,12 @@
 # NAME: GoogleChrome
 # AUTHOR: Rulify
 # REPO: https://github.com/shaoj0013/Surge
-# UPDATED: 2026-10-16 23:24:17
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 13
-# TOTAL: 14
+# UPDATED: 2026-10-18 14:06:01
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 14
+# TOTAL: 16
 DOMAIN,edgedl.me.gvt1.com
+DOMAIN,static.xx.fbcdn.net
 DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,clientservices.googleapis.com
 DOMAIN-SUFFIX,content-autofill.googleapis.com
@@ -15,6 +16,7 @@ DOMAIN-SUFFIX,oauth2.googleapis.com
 DOMAIN-SUFFIX,optimizationguide-pa.googleapis.com
 DOMAIN-SUFFIX,pa.googleapis.com
 DOMAIN-SUFFIX,passwordsleakcheck-pa.googleapis.com
+DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,safebrowsing.googleapis.com
 DOMAIN-SUFFIX,shaoj0013.top
 DOMAIN-SUFFIX,update.googleapis.com

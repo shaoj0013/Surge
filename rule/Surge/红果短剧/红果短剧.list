@@ -1,0 +1,24 @@
+# NAME: 红果短剧
+# AUTHOR: Rulify
+# REPO: https://github.com/shaoj0013/Surge
+# UPDATED: 2026-10-18 14:06:01
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 15
+# TOTAL: 17
+DOMAIN,amp-api-edge.apps.apple.com
+DOMAIN,lf26-hongguo-saveu.bytetos.com
+DOMAIN-SUFFIX,bdurl.net
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,ecombdapi.com
+DOMAIN-SUFFIX,ecombdimg.com
+DOMAIN-SUFFIX,fqnovel.com
+DOMAIN-SUFFIX,fqnovelpic.com
+DOMAIN-SUFFIX,qznovelvod.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,ugsdk.cn
+DOMAIN-SUFFIX,ydycdn.com
+DOMAIN-SUFFIX,zijieapi.com

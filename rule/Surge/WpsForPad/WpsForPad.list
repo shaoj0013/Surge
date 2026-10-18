@@ -1,0 +1,11 @@
+# NAME: WpsForPad
+# AUTHOR: Rulify
+# REPO: https://github.com/shaoj0013/Surge
+# UPDATED: 2026-10-18 14:06:01
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 3
+# TOTAL: 4
+DOMAIN,amp-api-edge.apps.apple.com
+DOMAIN-SUFFIX,ksosoft.com
+DOMAIN-SUFFIX,wps.cn
+DOMAIN-SUFFIX,wpscdn.cn

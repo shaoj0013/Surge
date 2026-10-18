@@ -1,15 +1,31 @@
 # NAME: Rex
 # AUTHOR: Rulify
 # REPO: https://github.com/shaoj0013/Surge
-# UPDATED: 2026-10-16 23:24:17
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 7
-# TOTAL: 8
+# UPDATED: 2026-10-18 14:06:01
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 22
+# TOTAL: 24
 DOMAIN,cdn.jiedaibao.gs
+DOMAIN,sandbox.itunes.apple.com
+DOMAIN-SUFFIX,aliyundrive.cloud
+DOMAIN-SUFFIX,bfzyapi.com
+DOMAIN-SUFFIX,dengss0214.ccwu.cc
+DOMAIN-SUFFIX,drivemby.com
 DOMAIN-SUFFIX,fwd.ccwu.cc
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,kuaichezy.org
 DOMAIN-SUFFIX,lilyemby.com
+DOMAIN-SUFFIX,lilyemby.xyz
+DOMAIN-SUFFIX,lziapi.com
+DOMAIN-SUFFIX,rexnow.tv
+DOMAIN-SUFFIX,shaoj0013.ccwu.cc
+DOMAIN-SUFFIX,shaoj0013.top
+DOMAIN-SUFFIX,subhd.one
+DOMAIN-SUFFIX,theintrodb.org
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,uhdnow.com
+DOMAIN-SUFFIX,uhdnow.online
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,xiaoya.pro
+DOMAIN-SUFFIX,youtube.com

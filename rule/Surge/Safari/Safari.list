@@ -1,7 +1,10 @@
 # NAME: Safari
 # AUTHOR: Rulify
 # REPO: https://github.com/shaoj0013/Surge
-# UPDATED: 2026-10-16 23:24:17
-# DOMAIN: 1
-# TOTAL: 1
-DOMAIN,bag.itunes.apple.com
+# UPDATED: 2026-10-18 14:06:01
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,darkreader.org
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,icloud.com.cn

@@ -1,0 +1,13 @@
+# NAME: 淘宝
+# AUTHOR: Rulify
+# REPO: https://github.com/shaoj0013/Surge
+# UPDATED: 2026-10-18 14:06:01
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 5
+# TOTAL: 6
+DOMAIN,acpstatic.cup.com.cn
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tbcdn.cn

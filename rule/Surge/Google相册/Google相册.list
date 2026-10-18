@@ -1,11 +1,12 @@
 # NAME: Google相册
 # AUTHOR: Rulify
 # REPO: https://github.com/shaoj0013/Surge
-# UPDATED: 2026-10-16 23:24:17
-# DOMAIN-SUFFIX: 6
-# TOTAL: 6
+# UPDATED: 2026-10-18 14:06:01
+# DOMAIN-SUFFIX: 7
+# TOTAL: 7
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,oauth2.googleapis.com
 DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
 DOMAIN-SUFFIX,photos.googleapis.com
 DOMAIN-SUFFIX,photosdata-pa.googleapis.com
