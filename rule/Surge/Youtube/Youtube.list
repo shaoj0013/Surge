@@ -1,12 +1,14 @@
 # NAME: Youtube
 # AUTHOR: Rulify
 # REPO: https://github.com/shaoj0013/Surge
-# UPDATED: 2026-10-18 14:06:01
-# DOMAIN-SUFFIX: 6
-# TOTAL: 6
+# UPDATED: 2026-10-20 22:15:32
+# DOMAIN-SUFFIX: 8
+# TOTAL: 8
+DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-SUFFIX,ytimg.com

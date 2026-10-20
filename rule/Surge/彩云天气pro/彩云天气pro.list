@@ -1,0 +1,9 @@
+# NAME: 彩云天气pro
+# AUTHOR: Rulify
+# REPO: https://github.com/shaoj0013/Surge
+# UPDATED: 2026-10-20 22:15:32
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,caiyunapp.com
+DOMAIN-SUFFIX,cyapi.cn

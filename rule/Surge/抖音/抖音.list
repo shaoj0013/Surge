@@ -1,8 +1,25 @@
 # NAME: 抖音
 # AUTHOR: Rulify
 # REPO: https://github.com/shaoj0013/Surge
-# UPDATED: 2026-10-18 14:06:01
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
+# UPDATED: 2026-10-20 22:15:32
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 15
+# TOTAL: 18
+DOMAIN,400645e974471158ba7301349a0bb1a4.v.smtcdns.com
+DOMAIN,amp-api-edge.apps.apple.com
+DOMAIN,sdktt.data.tianwenca.com
+DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,bdurl.net
+DOMAIN-SUFFIX,ctydoh.cn
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,hbttl.cn
 DOMAIN-SUFFIX,id6.me
+DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,qiezibenpao.com
+DOMAIN-SUFFIX,qrstuvwxyzab.com
+DOMAIN-SUFFIX,sjxydc.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,xinqiucc.com
+DOMAIN-SUFFIX,ydycdn.com
+DOMAIN-SUFFIX,yingt.fun

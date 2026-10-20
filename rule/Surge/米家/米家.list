@@ -1,11 +1,18 @@
 # NAME: 米家
 # AUTHOR: Rulify
 # REPO: https://github.com/shaoj0013/Surge
-# UPDATED: 2026-10-18 14:06:01
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 3
-# TOTAL: 4
+# UPDATED: 2026-10-20 22:15:32
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 9
+# TOTAL: 11
 DOMAIN,app.chat.xiaomi.net
+DOMAIN,cdn.cnbj1.fds.api.mi-img.com
 DOMAIN-SUFFIX,10086.cn
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,iotcplatform.com
 DOMAIN-SUFFIX,jpush.cn
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,mijia.tech
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,volces.com

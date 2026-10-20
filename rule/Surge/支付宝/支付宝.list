@@ -1,8 +1,13 @@
 # NAME: 支付宝
 # AUTHOR: Rulify
 # REPO: https://github.com/shaoj0013/Surge
-# UPDATED: 2026-10-18 14:06:01
-# DOMAIN-SUFFIX: 2
-# TOTAL: 2
+# UPDATED: 2026-10-20 22:15:32
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 5
+# TOTAL: 6
+DOMAIN,api-mayi.django.t.taobao.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-SUFFIX,id6.me
+DOMAIN-SUFFIX,wosms.cn

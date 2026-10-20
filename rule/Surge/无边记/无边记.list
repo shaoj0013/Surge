@@ -1,7 +1,9 @@
 # NAME: 无边记
 # AUTHOR: Rulify
 # REPO: https://github.com/shaoj0013/Surge
-# UPDATED: 2026-10-18 14:06:01
+# UPDATED: 2026-10-20 22:15:32
+# DOMAIN: 1
 # DOMAIN-SUFFIX: 1
-# TOTAL: 1
+# TOTAL: 2
+DOMAIN,s.mzstatic.com
 DOMAIN-SUFFIX,apple.com

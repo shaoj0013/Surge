@@ -1,12 +1,12 @@
 # NAME: 微博
 # AUTHOR: Rulify
 # REPO: https://github.com/shaoj0013/Surge
-# UPDATED: 2026-10-18 14:06:01
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 3
+# UPDATED: 2026-10-20 22:15:32
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 4
 # TOTAL: 5
 DOMAIN,f.video.weibocdn.com
-DOMAIN,img.t.sinajs.cn
 DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-SUFFIX,sinajs.cn
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com

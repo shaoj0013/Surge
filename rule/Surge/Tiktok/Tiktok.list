@@ -1,0 +1,18 @@
+# NAME: Tiktok
+# AUTHOR: Rulify
+# REPO: https://github.com/shaoj0013/Surge
+# UPDATED: 2026-10-20 22:15:32
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 8
+# TOTAL: 11
+DOMAIN,amp-api-edge.apps.apple.com
+DOMAIN,lf16-tiktok-common.ibytedtos.com
+DOMAIN,p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
+DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,p16-tiktokcdn-com.akamaized.net
+DOMAIN-SUFFIX,snapkit.com
+DOMAIN-SUFFIX,tiktok-minis.com
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,ttwstatic.com
