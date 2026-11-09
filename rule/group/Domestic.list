@@ -2,7 +2,7 @@
 # GROUP: Domestic
 # MERGED: China
 # SOURCE: MagicRule https://magicrule.pages.dev
-# RULES: 10339
+# RULES: 10338
 DOMAIN,api.alibabacloud.com
 DOMAIN,api.blipsandchitz.me
 DOMAIN,client.amplifi.com
@@ -10341,4 +10341,3 @@ IP-CIDR6,2a0b:b580::/48,no-resolve
 IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
-GEOIP,CN

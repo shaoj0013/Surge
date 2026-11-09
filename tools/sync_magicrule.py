@@ -32,8 +32,9 @@ CATALOG_JSON = ROOT / "rule" / "catalog.json"
 CATALOG_CSV = ROOT / "rule" / "catalog.csv"
 GROUPS_FILE = ROOT / "groups.json"
 
-# Surge 不支持这两种规则类型, 出现会让整份规则集加载失败。
-UNSUPPORTED = {"URL-REGEX", "PROCESS-NAME"}
+# URL-REGEX / PROCESS-NAME 是 Surge 不支持的类型, 出现会让整份规则集加载失败;
+# GEOIP 是全局规则, 放在规则集里会触发无谓的解析, 由配置里的 GEOIP 行统一处理。
+UNSUPPORTED = {"URL-REGEX", "PROCESS-NAME", "GEOIP"}
 WORKERS = 12
 UA = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -110,13 +111,14 @@ def write_if_changed(path, content):
 
 
 def fetch_rules(only=None):
-    """下载上游全部规则集 (按需清洗后落盘)。"""
+    """下载上游规则集 (按需清洗后落盘), 并返回带完整元数据的清单。"""
     index = get_json(f"{BASE}/data/index/Surge.json")
     rules = index["rules"]
+    targets = rules
     if only:
         wanted = {name.lower() for name in only}
-        rules = [rule for rule in rules if rule["name"].lower() in wanted]
-    print(f"上游共 {len(rules)} 个分类待处理")
+        targets = [rule for rule in rules if rule["name"].lower() in wanted]
+    print(f"上游共 {len(rules)} 个分类, 本次下载 {len(targets)} 个")
 
     def grab(rule):
         manifest = get_json(rule["manifest"])
@@ -142,66 +144,52 @@ def fetch_rules(only=None):
         changed = write_if_changed(target, content)
         return rule, len(read_lines(target)), dropped, changed
 
-    entries, errors = [], []
+    errors = []
     changed = 0
     with concurrent.futures.ThreadPoolExecutor(WORKERS) as pool:
-        futures = {pool.submit(grab, rule): rule for rule in rules}
+        futures = {pool.submit(grab, rule): rule for rule in targets}
         for done, future in enumerate(concurrent.futures.as_completed(futures), 1):
             rule = futures[future]
             try:
-                item, count, dropped, was_changed = future.result()
+                _, _, _, was_changed = future.result()
                 changed += 1 if was_changed else 0
-                entries.append({
-                    "name": item["name"],
-                    "chinese_name": item.get("chinese_name") or "",
-                    "description": item.get("description") or "",
-                    "file": f"rule/MagicRule/{item['name']}/{item['name']}.list",
-                    "line_count": count,
-                    "type_counts": item.get("type_counts", {}),
-                    "rule_updated_at": item.get("rule_updated_at", ""),
-                    "source_url": item["manifest"],
-                    "stripped": dropped,
-                })
             except Exception as exc:
                 errors.append(f"{rule['name']}: {exc}")
             if done % 200 == 0:
-                print(f"  {done}/{len(rules)}")
+                print(f"  {done}/{len(targets)}")
 
     if errors:
         print(f"有 {len(errors)} 个分类抓取失败:")
         for message in errors[:20]:
             print("  " + message)
     print(f"内容有变化: {changed} 个")
-    return entries, errors
+    return build_entries(rules), errors
 
 
-def load_local_entries():
-    """基于本地已落盘的文件生成清单 (不联网)。"""
+def build_entries(rules):
+    """清单 = 上游元数据 + 本地文件的实际行数。"""
     entries = []
-    if not MIRROR.exists():
-        return entries
-    for directory in sorted(MIRROR.iterdir()):
-        if not directory.is_dir():
-            continue
-        target = directory / f"{directory.name}.list"
-        if not target.exists():
-            continue
-        meta = {}
-        for line in target.read_text(encoding="utf-8", errors="ignore").splitlines()[:12]:
-            if line.startswith("# SOURCE:"):
-                meta["source_url"] = line.split(":", 1)[1].strip()
-            elif line.startswith("# UPDATED:"):
-                meta["updated"] = line.split(":", 1)[1].strip()
+    for rule in rules:
+        name = rule["name"]
+        path = MIRROR / name / f"{name}.list"
+        stripped = {}
+        if path.exists():
+            for line in path.read_text(encoding="utf-8", errors="ignore").splitlines()[:12]:
+                if line.startswith("# STRIPPED:"):
+                    for item in line.split(":", 1)[1].split(","):
+                        key, _, value = item.strip().partition("x")
+                        if value.isdigit():
+                            stripped[key] = int(value)
         entries.append({
-            "name": directory.name,
-            "chinese_name": "",
-            "description": "",
-            "file": f"rule/MagicRule/{directory.name}/{directory.name}.list",
-            "line_count": len(read_lines(target)),
-            "type_counts": {},
-            "rule_updated_at": meta.get("updated", ""),
-            "source_url": meta.get("source_url", ""),
-            "stripped": {},
+            "name": name,
+            "chinese_name": rule.get("chinese_name") or "",
+            "description": rule.get("description") or "",
+            "file": f"rule/MagicRule/{name}/{name}.list",
+            "line_count": len(read_lines(path)),
+            "type_counts": rule.get("type_counts", {}),
+            "rule_updated_at": rule.get("rule_updated_at", ""),
+            "source_url": rule["manifest"],
+            "stripped": stripped,
         })
     return entries
 
@@ -286,7 +274,8 @@ def main():
 
     only = [name for name in (args.only or "").split(",") if name.strip()] or None
     if args.groups_only:
-        entries = load_local_entries()
+        index = get_json(f"{BASE}/data/index/Surge.json")
+        entries = build_entries(index["rules"])
     else:
         entries, errors = fetch_rules(only)
         if errors:
