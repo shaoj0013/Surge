@@ -80,9 +80,12 @@ def build():
         header = [
             f"# NAME: {spec.get('policy', key)}",
             f"# GROUP: {key}",
-            f"# MERGED: {', '.join(names)}",
             f"# SOURCE: MagicRule {BASE}",
         ]
+        if names:
+            header.insert(2, f"# MERGED: {', '.join(names)}")
+        else:
+            header.append("# MERGED: 手工维护 (无上游来源)")
         if appended:
             header.append(f"# EXTRA: {appended} 条手工补充")
         if excluded:

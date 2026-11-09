@@ -1,6 +1,6 @@
 {
  "source": "https://magicrule.pages.dev/#/c/Surge",
- "group_count": 33,
+ "group_count": 34,
  "groups": [
   {
    "key": "AdBlock",
@@ -37,6 +37,13 @@
    ],
    "file": "groups/Direct.list",
    "line_count": 629
+  },
+  {
+   "key": "jp-media",
+   "policy": "日本节点",
+   "sources": [],
+   "file": "groups/jp-media.list",
+   "line_count": 35
   },
   {
    "key": "AI-Suite",
