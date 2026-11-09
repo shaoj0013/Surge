@@ -4,7 +4,6 @@
 # UPDATED: 2026-11-07 03:23:50
 # DOMAIN: 6
 # DOMAIN-SUFFIX: 242
-# PROCESS-NAME: 2
 
 DOMAIN,disney.my.sentry.io
 DOMAIN,disneyplus.com.ssl.sc.omtrdc.net
@@ -254,5 +253,3 @@ DOMAIN-SUFFIX,waltdisneystudios.com
 DOMAIN-SUFFIX,watchdisneyfe.com
 DOMAIN-SUFFIX,watchespn.com
 DOMAIN-SUFFIX,wwwhuluplus.com
-PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
-PROCESS-NAME,com.disney.disneyplus

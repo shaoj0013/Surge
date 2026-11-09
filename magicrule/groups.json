@@ -1,0 +1,158 @@
+{
+  "AdBlock": {
+    "policy": "AdBlock",
+    "sources": [{"name": "AdvertisingLite"}],
+    "exclude": ["DOMAIN-SUFFIX,metrics.icloud.com"]
+  },
+  "AdBlock-Full": {
+    "policy": "AdBlock",
+    "sources": [{"name": "Advertising"}]
+  },
+  "AdGuard": {
+    "policy": "AdBlock",
+    "sources": [{"name": "AdGuard"}]
+  },
+  "Direct": {
+    "policy": "DIRECT",
+    "sources": [{"name": "Direct"}]
+  },
+  "AI-Suite": {
+    "policy": "AI Suite",
+    "sources": [{"name": "OpenAI"}, {"name": "Anthropic"}, {"name": "Gemini"},
+                {"name": "Copilot"}, {"name": "GlobalAI"}],
+    "exclude": ["DOMAIN-SUFFIX,microsoft.com", "DOMAIN-SUFFIX,cloudflare.app"]
+  },
+  "emby": {
+    "policy": "emby",
+    "sources": [{"name": "Emby"}]
+  },
+  "TikTok": {
+    "policy": "TikTok",
+    "sources": [{"name": "TikTok"}]
+  },
+  "Netflix": {
+    "policy": "Netflix",
+    "sources": [{"name": "Netflix"}]
+  },
+  "Disney-Plus": {
+    "policy": "Disney Plus",
+    "sources": [{"name": "Disney"}]
+  },
+  "YouTube": {
+    "policy": "YouTube",
+    "sources": [{"name": "YouTube"}, {"name": "YouTubeMusic"}]
+  },
+  "Max": {
+    "policy": "Max",
+    "sources": [{"name": "HBO"}, {"name": "HBOUSA"}, {"name": "HBOHK"}]
+  },
+  "Spotify": {
+    "policy": "Spotify",
+    "sources": [{"name": "Spotify"}]
+  },
+  "Asian-TV": {
+    "policy": "Asian TV",
+    "sources": [{"name": "AbemaTV"}, {"name": "Bahamut"}, {"name": "DMM"},
+                {"name": "Fox"}, {"name": "HuluJP"}, {"name": "iQIYIIntl"},
+                {"name": "JOOX"}, {"name": "KKBOX"}, {"name": "KKTV"},
+                {"name": "LineTV"}, {"name": "MOOMusic"}, {"name": "myTVSUPER"},
+                {"name": "Niconico"}, {"name": "ViuTV"}]
+  },
+  "Global-TV": {
+    "policy": "Global TV",
+    "sources": [{"name": "ABC"}, {"name": "Amazon"}, {"name": "BBC"},
+                {"name": "DAZN"}, {"name": "DiscoveryPlus"}, {"name": "TVB"},
+                {"name": "FOXNOW"}, {"name": "Hulu"}, {"name": "Pandora"},
+                {"name": "PBS"}, {"name": "SoundCloud"}]
+  },
+  "CN-Mainland-TV": {
+    "policy": "CN Mainland TV",
+    "sources": [{"name": "BiliBili"}, {"name": "iQIYI"}, {"name": "LeTV"},
+                {"name": "NetEaseMusic"}, {"name": "TencentVideo"},
+                {"name": "Youku"}, {"name": "WeTV"}]
+  },
+  "Apple-TV": {
+    "policy": "Apple TV",
+    "sources": [{"name": "AppleMusic"}, {"name": "AppleNews"}, {"name": "AppleTV"}]
+  },
+  "Apple-Services": {
+    "policy": "Apple Services",
+    "sources": [{"name": "Apple"}],
+    "extra": [
+      "DOMAIN-SUFFIX,apple.com",
+      "DOMAIN-SUFFIX,mzstatic.com",
+      "DOMAIN-SUFFIX,icloud.com"
+    ]
+  },
+  "Apple-Push": {
+    "policy": "Apple Push",
+    "sources": [{"name": "Apple", "filter": "push|apns|notification"}],
+    "extra": [
+      "DOMAIN,metrics.icloud.com",
+      "DOMAIN,calendars.icloud.com",
+      "DOMAIN,gateway.icloud.com",
+      "DOMAIN,doh.dns.apple.com",
+      "DOMAIN-SUFFIX,push.apple.com"
+    ]
+  },
+  "Google-FCM": {
+    "policy": "Google FCM",
+    "sources": [{"name": "Google", "filter": "fcm|mtalk|firebase"}]
+  },
+  "Crypto": {
+    "policy": "Crypto",
+    "sources": [{"name": "Cryptocurrency"}]
+  },
+  "Discord": {
+    "policy": "Discord",
+    "sources": [{"name": "Discord"}]
+  },
+  "Microsoft": {
+    "policy": "Microsoft",
+    "sources": [{"name": "Microsoft"}]
+  },
+  "PayPal": {
+    "policy": "PayPal",
+    "sources": [{"name": "PayPal"}]
+  },
+  "Scholar": {
+    "policy": "Scholar",
+    "sources": [{"name": "Scholar"}]
+  },
+  "Speedtest": {
+    "policy": "Speedtest",
+    "sources": [{"name": "Speedtest"}]
+  },
+  "Steam": {
+    "policy": "Steam",
+    "sources": [{"name": "Steam"}]
+  },
+  "Telegram": {
+    "policy": "Telegram",
+    "sources": [{"name": "Telegram"}]
+  },
+  "Twitter": {
+    "policy": "Twitter",
+    "sources": [{"name": "Twitter"}]
+  },
+  "Facebook": {
+    "policy": "Proxy",
+    "sources": [{"name": "Facebook"}]
+  },
+  "Global": {
+    "policy": "Proxy",
+    "sources": [{"name": "Global"}]
+  },
+  "miHoYo": {
+    "policy": "miHoYo",
+    "sources": [{"name": "HoYoverse"}]
+  },
+  "Domestic": {
+    "policy": "Domestic",
+    "sources": [{"name": "China"}]
+  },
+  "Domestic-IPs": {
+    "policy": "Domestic",
+    "sources": [{"name": "ChinaIPs"}, {"name": "ChinaASN"}]
+  }
+}

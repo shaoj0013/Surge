@@ -42,6 +42,9 @@ jobs:
           if [ "${{ inputs.fast }}" = "true" ]; then ARGS="$ARGS --fast"; fi
           python3 magicrule/tools/fetch_magicrule.py Surge $ARGS 2>&1 | tee /tmp/fetch.log
 
+      - name: 合并策略组
+        run: python3 magicrule/tools/build_groups.py 2>&1 | tee /tmp/groups.log
+
       - name: 提交变更
         run: |
           if [ -z "$(git status --porcelain -- magicrule/surge)" ]; then
@@ -50,6 +53,7 @@ jobs:
           fi
 
           SUMMARY=$(grep -E '^(更新|完成)' /tmp/fetch.log | tr '\n' ' ' | sed 's/  */ /g')
+          SUMMARY="$SUMMARY $(grep -E '^分组清单' /tmp/groups.log)"
           git config user.name "magicrule-bot"
           git config user.email "magicrule-bot@users.noreply.github.com"
           git add magicrule/surge
@@ -64,5 +68,7 @@ jobs:
             echo ""
             echo '```'
             grep -E '^(更新|完成|  )' /tmp/fetch.log | head -30 || true
+                echo ""
+                grep -E '^(分组清单|  )' /tmp/groups.log | head -40 || true
             echo '```'
           } >> "$GITHUB_STEP_SUMMARY"

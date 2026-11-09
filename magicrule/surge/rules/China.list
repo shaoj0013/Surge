@@ -8,7 +8,6 @@
 # USER-AGENT: 30
 # IP-CIDR: 3891
 # IP-CIDR6: 4
-# GEOIP: 1
 
 DOMAIN,api.alibabacloud.com
 DOMAIN,api.blipsandchitz.me
@@ -10348,4 +10347,3 @@ IP-CIDR6,2a0b:b580::/48,no-resolve
 IP-CIDR6,2a0b:b581::/48,no-resolve
 IP-CIDR6,2a0b:b582::/48,no-resolve
 IP-CIDR6,2a0b:b583::/48,no-resolve
-GEOIP,CN

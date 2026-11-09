@@ -4,7 +4,6 @@
 # UPDATED: 2026-11-07 03:23:44
 # DOMAIN-SUFFIX: 27
 # USER-AGENT: 2
-# PROCESS-NAME: 1
 
 DOMAIN-SUFFIX,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
@@ -35,4 +34,3 @@ DOMAIN-SUFFIX,warnermediacdn.com
 DOMAIN-SUFFIX,youboranqs01.com
 USER-AGENT,HBO%20NOW*
 USER-AGENT,HBOMAX*
-PROCESS-NAME,com.hbo.hbonow

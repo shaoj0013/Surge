@@ -6,7 +6,6 @@
 # DOMAIN-SUFFIX: 19
 # DOMAIN-KEYWORD: 1
 # USER-AGENT: 2
-# PROCESS-NAME: 1
 
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net
 DOMAIN,d22qjgkvxw22r6.cloudfront.net
@@ -35,4 +34,3 @@ DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-KEYWORD,avoddashs
 USER-AGENT,InstantVideo.US*
 USER-AGENT,Prime%20Video*
-PROCESS-NAME,com.amazon.avod.thirdpartyclient

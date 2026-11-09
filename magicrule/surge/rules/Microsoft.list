@@ -6,7 +6,6 @@
 # DOMAIN-SUFFIX: 790
 # DOMAIN-KEYWORD: 4
 # USER-AGENT: 3
-# PROCESS-NAME: 2
 
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,azure.microsoft.com
@@ -926,5 +925,3 @@ DOMAIN-KEYWORD,skydrive
 USER-AGENT,Microsoft*
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
-PROCESS-NAME,OneDrive
-PROCESS-NAME,OneDriveUpdater

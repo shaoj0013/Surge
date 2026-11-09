@@ -3,7 +3,6 @@
 # REPO: https://magicrule.pages.dev
 # UPDATED: 2026-11-07 03:24:15
 # DOMAIN-SUFFIX: 7
-# PROCESS-NAME: 1
 
 DOMAIN-SUFFIX,chaba123.com
 DOMAIN-SUFFIX,jjwxc.cn
@@ -12,4 +11,3 @@ DOMAIN-SUFFIX,jjwxc.net
 DOMAIN-SUFFIX,jjwxc.org
 DOMAIN-SUFFIX,jjycw.net
 DOMAIN-SUFFIX,robook.com
-PROCESS-NAME,com.jjwxc.reader

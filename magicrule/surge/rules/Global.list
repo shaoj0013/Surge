@@ -8,7 +8,6 @@
 # USER-AGENT: 9
 # IP-CIDR: 80
 # IP-CIDR6: 4
-# PROCESS-NAME: 8
 
 DOMAIN,1password.drift.click
 DOMAIN,3dna.nationbuilder.com
@@ -24449,11 +24448,3 @@ IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
-PROCESS-NAME,CoreLocationAgent
-PROCESS-NAME,WeatherWidget
-PROCESS-NAME,apsd
-PROCESS-NAME,com.apple.Maps
-PROCESS-NAME,com.apple.geod
-PROCESS-NAME,findmydevice-user-agent
-PROCESS-NAME,fmfd
-PROCESS-NAME,mapspushd

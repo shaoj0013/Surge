@@ -6,7 +6,6 @@
 # DOMAIN-SUFFIX: 52
 # DOMAIN-KEYWORD: 4
 # USER-AGENT: 1
-# PROCESS-NAME: 1
 
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com
@@ -74,4 +73,3 @@ DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,tiktokcdn
 USER-AGENT,TikTok*
-PROCESS-NAME,com.zhiliaoapp.musically

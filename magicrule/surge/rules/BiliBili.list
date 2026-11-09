@@ -5,7 +5,6 @@
 # DOMAIN: 51
 # DOMAIN-SUFFIX: 67
 # IP-CIDR: 7
-# PROCESS-NAME: 2
 
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
@@ -132,5 +131,3 @@ IP-CIDR,120.92.108.182/32,no-resolve
 IP-CIDR,120.92.113.99/32,no-resolve
 IP-CIDR,120.92.153.217/32,no-resolve
 IP-CIDR,134.175.207.130/32,no-resolve
-PROCESS-NAME,com.bilibili.app.in
-PROCESS-NAME,tv.danmaku.bili

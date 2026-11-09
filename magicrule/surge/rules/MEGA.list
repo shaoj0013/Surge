@@ -5,7 +5,6 @@
 # DOMAIN-SUFFIX: 7
 # IP-CIDR: 7
 # IP-CIDR6: 8
-# PROCESS-NAME: 1
 
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,mega.io
@@ -29,4 +28,3 @@ IP-CIDR6,2a0b:e42:1::/48,no-resolve
 IP-CIDR6,2a0b:e43:1::/48,no-resolve
 IP-CIDR6,2a0b:e44:1::/48,no-resolve
 IP-CIDR6,2a0b:e45:1::/48,no-resolve
-PROCESS-NAME,mega.privacy.android.app

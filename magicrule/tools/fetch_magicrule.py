@@ -42,6 +42,53 @@ UA = {
 }
 WORKERS = 12
 
+# Surge 不支持的规则类型: 出现会让整份规则集加载失败。
+# GEOIP 是全局规则, 放在规则集里只会触发无谓的解析, 由配置里的 GEOIP 行统一处理。
+UNSUPPORTED_SURGE = {"URL-REGEX", "PROCESS-NAME", "GEOIP"}
+
+
+def sanitize_surge(payload):
+    """剔除 Surge 不支持的规则类型, 并按剩余内容重算头部计数。"""
+    header, body = [], []
+    for raw in payload.decode("utf-8", "ignore").splitlines():
+        line = raw.strip()
+        if not line:
+            continue
+        if line.startswith("#"):
+            if not body:
+                header.append(line)
+            continue
+        kind = line.split(",", 1)[0].upper()
+        if kind in UNSUPPORTED_SURGE:
+            continue
+        body.append(line)
+
+    counts = {}
+    for line in body:
+        kind = line.split(",", 1)[0].upper()
+        counts[kind] = counts.get(kind, 0) + 1
+
+    # 头部形如 "# DOMAIN-SUFFIX: 249", 重算后保留原有顺序, 新出现的类型补在后面。
+    fixed, order, first_at, last_at = [], [], None, None
+    for index, line in enumerate(header):
+        match = re.match(r"^#\s*([A-Z][A-Z0-9_-]*)\s*:\s*(\d+)\s*$", line)
+        if match and match.group(1) not in ("NAME", "AUTHOR", "REPO", "UPDATED", "DESC"):
+            order.append(match.group(1))
+            first_at = index if first_at is None else first_at
+            last_at = index
+            continue
+        fixed.append((index, line))
+    for kind in sorted(counts):
+        if kind not in order:
+            order.append(kind)
+
+    before = [line for index, line in fixed if first_at is None or index < first_at]
+    after = [line for index, line in fixed if last_at is not None and index > last_at]
+    lines = before + [f"# {kind}: {counts[kind]}" for kind in order if counts.get(kind)] + after
+    lines.append("")
+    lines.extend(body)
+    return ("\n".join(lines) + "\n").encode("utf-8")
+
 
 def curl(url, retries=4):
     """用 curl 拉取, 兼容部分 pages.dev 域名的 TLS 指纹问题。"""
@@ -143,6 +190,8 @@ def fetch_client(client, out_dir, work_dir, force=False, fast=False):
             if not any(l.strip() and not l.strip().startswith("#")
                        for l in body.splitlines()):
                 raise RuntimeError(f"{rule['name']}: 规则文件没有任何有效行")
+            if client == "Surge":
+                payload = sanitize_surge(payload)
             digest = hashlib.sha256(payload).hexdigest()
             old_digest = sha256_of(path) if path.exists() else None
             if old_digest != digest:
@@ -150,14 +199,18 @@ def fetch_client(client, out_dir, work_dir, force=False, fast=False):
                 changed.append(f"{rule['name']}({'更新' if old_digest else '新增'})")
 
         body = path.read_text(encoding="utf-8", errors="ignore")
-        lines = [l for l in body.splitlines() if l.strip() and not l.strip().startswith("#")]
+        lines = [l.strip() for l in body.splitlines() if l.strip() and not l.strip().startswith("#")]
+        counts = {}
+        for line in lines:
+            kind = line.split(",", 1)[0].upper()
+            counts[kind] = counts.get(kind, 0) + 1
         return {
             "name": rule["name"],
             "chinese_name": rule.get("chinese_name") or "",
             "description": rule.get("description") or "",
             "file": f"rules/{filename}",
             "line_count": len(lines),
-            "type_counts": rule.get("type_counts", {}),
+            "type_counts": counts,
             "rule_updated_at": rule.get("rule_updated_at", ""),
             "providers": manifest.get("providers", []),
             "source_url": rule["manifest"],

@@ -3,7 +3,6 @@
 # REPO: https://magicrule.pages.dev
 # UPDATED: 2026-11-07 03:16:17
 # DOMAIN-SUFFIX: 35
-# PROCESS-NAME: 1
 
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,155.com
@@ -40,4 +39,3 @@ DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,xunlei.net
 DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,xycloud.com
-PROCESS-NAME,Thunder

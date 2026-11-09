@@ -8,7 +8,6 @@
 # IP-CIDR: 3
 # IP-CIDR6: 1
 # IP-ASN: 1
-# PROCESS-NAME: 4
 
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,o33249.ingest.sentry.io
@@ -63,7 +62,3 @@ IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
 IP-CIDR6,2604:f20::/32,no-resolve
 IP-ASN,401518,no-resolve
-PROCESS-NAME,ChatGPT
-PROCESS-NAME,Codex
-PROCESS-NAME,chatgpt
-PROCESS-NAME,codex

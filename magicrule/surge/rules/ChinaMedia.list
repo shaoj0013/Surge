@@ -8,7 +8,6 @@
 # USER-AGENT: 13
 # IP-CIDR: 39
 # IP-CIDR6: 29
-# PROCESS-NAME: 2
 
 DOMAIN,00713915daab0be43def5c338c02c80b.dlied1.cdntips.net
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
@@ -366,5 +365,3 @@ IP-CIDR6,::ffff:58.58.0.90/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.161/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.186/128,no-resolve
 IP-CIDR6,::ffff:60.171.183.98/128,no-resolve
-PROCESS-NAME,com.bilibili.app.in
-PROCESS-NAME,tv.danmaku.bili

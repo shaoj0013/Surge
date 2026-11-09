@@ -3,12 +3,9 @@
 # REPO: https://magicrule.pages.dev
 # UPDATED: 2026-11-07 03:20:12
 # DOMAIN-SUFFIX: 5
-# PROCESS-NAME: 2
 
 DOMAIN-SUFFIX,iflix-images.akamaized.net
 DOMAIN-SUFFIX,iflix.com
 DOMAIN-SUFFIX,vv.video.qq.com
 DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
-PROCESS-NAME,com.tencent.qqlivei18n
-PROCESS-NAME,com.tencent.qqlivei18n.us

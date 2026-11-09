@@ -8,7 +8,6 @@
 # USER-AGENT: 1
 # IP-CIDR: 1386
 # IP-CIDR6: 199
-# PROCESS-NAME: 1
 
 DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,fast.com
@@ -1629,4 +1628,3 @@ IP-CIDR6,2a00:86c0:99::/48,no-resolve
 IP-CIDR6,2a00:86c0::/32,no-resolve
 IP-CIDR6,2a00:86c0:ff0a::/48,no-resolve
 IP-CIDR6,2a03:5640::/32,no-resolve
-PROCESS-NAME,com.netflix.mediaclient

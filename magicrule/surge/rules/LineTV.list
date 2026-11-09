@@ -5,7 +5,6 @@
 # DOMAIN: 2
 # DOMAIN-SUFFIX: 6
 # USER-AGENT: 1
-# PROCESS-NAME: 1
 
 DOMAIN,d17lx9ucc6k9fc.cloudfront.net
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
@@ -16,4 +15,3 @@ DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,profile.line-scdn.net
 USER-AGENT,LINE%20TV*
-PROCESS-NAME,com.linecorp.linetv

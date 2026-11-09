@@ -6,9 +6,7 @@
 # DOMAIN-SUFFIX: 580
 # DOMAIN-KEYWORD: 10
 # USER-AGENT: 1
-# URL-REGEX: 4
 # IP-CIDR: 5
-# PROCESS-NAME: 36
 # DESC: 包含URL-REGEX规则，建议搭配MITM模块使用
 
 DOMAIN,ad.10010.com
@@ -635,48 +633,8 @@ DOMAIN-KEYWORD,wanfangdata
 DOMAIN-KEYWORD,wb_ad
 DOMAIN-KEYWORD,westlawchina
 USER-AGENT,%E8%BF%85%E9%9B%B7
-URL-REGEX,^http://www\.microsoft\.com/pki/
-URL-REGEX,^http://www\.microsoft\.com/pkiops/
-URL-REGEX,^https?:\/\/app\.bilibili\.com\/x\/v2\/splash\/brand\/set
-URL-REGEX,^https?:\/\/www\.didapinche\.com\/app\/adstat.*&ad_type=(ride_paid|benefits)
 IP-CIDR,103.36.28.0/22,no-resolve
 IP-CIDR,112.73.96.0/19,no-resolve
 IP-CIDR,203.205.64.0/19,no-resolve
 IP-CIDR,218.98.111.0/24,no-resolve
 IP-CIDR,43.240.56.0/21,no-resolve
-PROCESS-NAME,BaiduNetdisk_mac
-PROCESS-NAME,BitComet
-PROCESS-NAME,ClashX
-PROCESS-NAME,DownloadService
-PROCESS-NAME,Folx
-PROCESS-NAME,LocalSend
-PROCESS-NAME,LogiOptions
-PROCESS-NAME,LogiOptionsDaemon
-PROCESS-NAME,NetTransport
-PROCESS-NAME,SunloginClient_Desktop
-PROCESS-NAME,SunloginClient_Helper
-PROCESS-NAME,Thunder
-PROCESS-NAME,ThunderVIP
-PROCESS-NAME,Transmission
-PROCESS-NAME,UUBooster
-PROCESS-NAME,WebTorrent
-PROCESS-NAME,WebTorrentHelper
-PROCESS-NAME,amuled
-PROCESS-NAME,aria2c
-PROCESS-NAME,clash
-PROCESS-NAME,cloudflared
-PROCESS-NAME,fdm
-PROCESS-NAME,parsecd
-PROCESS-NAME,privoxy
-PROCESS-NAME,qBittorrent
-PROCESS-NAME,qbittorrent*
-PROCESS-NAME,qbittorrent-nox
-PROCESS-NAME,ss-local
-PROCESS-NAME,tailscaled
-PROCESS-NAME,transmission-daemon
-PROCESS-NAME,transmission-qt
-PROCESS-NAME,trojan
-PROCESS-NAME,trojan-go
-PROCESS-NAME,uTorrent
-PROCESS-NAME,v2ray
-PROCESS-NAME,xray

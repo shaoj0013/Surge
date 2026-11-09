@@ -7,7 +7,6 @@
 # DOMAIN-KEYWORD: 4
 # USER-AGENT: 1
 # IP-CIDR: 1
-# PROCESS-NAME: 1
 
 DOMAIN,adeventtracker.spotify.com
 DOMAIN,adstudio-assets.scdn.co
@@ -48,4 +47,3 @@ DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,spotify.com
 USER-AGENT,Spotify*
 IP-CIDR,35.186.224.47/32,no-resolve
-PROCESS-NAME,com.spotify.music

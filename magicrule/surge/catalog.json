@@ -3,7 +3,7 @@
  "client": "Surge",
  "generated_at": "2026-11-09T09:41:57.134150+00:00",
  "rule_count": 1185,
- "total_line_count": 855563,
+ "total_line_count": 855364,
  "rules": [
   {
    "name": "115",
@@ -368,8 +368,8 @@
    "file": "rules/AbemaTV.list",
    "line_count": 24,
    "type_counts": {
-    "DOMAIN-KEYWORD": 1,
     "DOMAIN-SUFFIX": 22,
+    "DOMAIN-KEYWORD": 1,
     "USER-AGENT": 1
    },
    "rule_updated_at": "2026-07-26T06:21:21.104261+00:00",
@@ -489,7 +489,7 @@
    "file": "rules/AdGuardSDNSFilter.list",
    "line_count": 186,
    "type_counts": {
-    "DOMAIN": 183,
+    "DOMAIN": 182,
     "DOMAIN-SUFFIX": 4
    },
    "rule_updated_at": "2026-11-09T03:01:50.935004+00:00",
@@ -543,8 +543,8 @@
    "line_count": 277,
    "type_counts": {
     "DOMAIN": 136,
-    "DOMAIN-KEYWORD": 1,
-    "DOMAIN-SUFFIX": 140
+    "DOMAIN-SUFFIX": 140,
+    "DOMAIN-KEYWORD": 1
    },
    "rule_updated_at": "2026-07-26T06:21:25.560221+00:00",
    "providers": [
@@ -578,16 +578,15 @@
    "chinese_name": "去广告",
    "description": "可能存在部分误拦截，建议搭配放行规则进行修正。",
    "file": "rules/Advertising.list",
-   "line_count": 291208,
+   "line_count": 291193,
    "type_counts": {
     "DOMAIN": 17505,
-    "DOMAIN-KEYWORD": 210,
     "DOMAIN-SUFFIX": 272411,
-    "IP-ASN": 15,
+    "DOMAIN-KEYWORD": 210,
+    "USER-AGENT": 1,
     "IP-CIDR": 1045,
     "IP-CIDR6": 6,
-    "URL-REGEX": 15,
-    "USER-AGENT": 1
+    "IP-ASN": 15
    },
    "rule_updated_at": "2026-11-09T09:24:00.035839+00:00",
    "providers": [
@@ -610,21 +609,20 @@
     "https://ruleset.skk.moe/List/non_ip/reject.conf"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/eaf59fd6426bd23a99c1862d/manifest.json",
-   "sha256": "787f1ef045078b655f2ed9436915a303bc7121469011c5fb6b809944d2184f29"
+   "sha256": "830fc241fbf7d407c0ba5a611657b0ec81c366c741ba0dc3b287017e7df0203d"
   },
   {
    "name": "AdvertisingLite",
    "chinese_name": "去广告精简版",
    "description": "可能存在部分误拦截，建议搭配放行规则进行修正。",
    "file": "rules/AdvertisingLite.list",
-   "line_count": 189842,
+   "line_count": 189837,
    "type_counts": {
-    "DOMAIN": 26923,
+    "DOMAIN": 26892,
+    "DOMAIN-SUFFIX": 162543,
     "DOMAIN-KEYWORD": 164,
-    "DOMAIN-SUFFIX": 162932,
-    "IP-CIDR": 237,
-    "IP-CIDR6": 4,
-    "URL-REGEX": 5
+    "IP-CIDR": 234,
+    "IP-CIDR6": 4
    },
    "rule_updated_at": "2026-11-09T09:23:41.264085+00:00",
    "providers": [
@@ -636,7 +634,7 @@
     "https://ruleset.skk.moe/List/non_ip/reject.conf"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/09d42f2cf7e4b006825e86f1/manifest.json",
-   "sha256": "75aba14100d0bdb7230d5a361ba220dd9a1a8868ea17bc0b34a0361667c1172a"
+   "sha256": "339e6f410787cd82318bfeca391f9802bb5e64178544ea912993f31476e4edee"
   },
   {
    "name": "AdvertisingMiTV",
@@ -838,13 +836,12 @@
    "chinese_name": "阿里巴巴",
    "description": "",
    "file": "rules/Alibaba.list",
-   "line_count": 1627,
+   "line_count": 1626,
    "type_counts": {
     "DOMAIN": 5,
     "DOMAIN-SUFFIX": 1473,
     "IP-CIDR": 139,
-    "IP-CIDR6": 9,
-    "PROCESS-NAME": 1
+    "IP-CIDR6": 9
    },
    "rule_updated_at": "2026-11-04T15:55:14.293740+00:00",
    "providers": [
@@ -853,7 +850,7 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Alibaba.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/4ab86068d24a9226a498b2da/manifest.json",
-   "sha256": "5d1336da2722a2227b95d14d6a5174b3d7a861678546692b690bdb656009446a"
+   "sha256": "bd5a13db9264fd9e01d8eaef4e89c0d367d62afdec5b0a7b05c5b74e47fa4a38"
   },
   {
    "name": "AliGames",
@@ -976,15 +973,13 @@
    "chinese_name": "Amazon",
    "description": "",
    "file": "rules/Amazon.list",
-   "line_count": 292,
+   "line_count": 290,
    "type_counts": {
     "DOMAIN": 21,
-    "DOMAIN-KEYWORD": 1,
     "DOMAIN-SUFFIX": 249,
-    "IP-CIDR": 17,
-    "PROCESS-NAME": 1,
-    "URL-REGEX": 1,
-    "USER-AGENT": 2
+    "DOMAIN-KEYWORD": 1,
+    "USER-AGENT": 2,
+    "IP-CIDR": 17
    },
    "rule_updated_at": "2026-10-29T02:37:34.273264+00:00",
    "providers": [
@@ -996,7 +991,7 @@
     "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Amazon.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/31c2eb322c46e6dd00db1b36/manifest.json",
-   "sha256": "40e79b8d04828aedd84f813b4bd9d6875119af94f10d932468dcf74112a0d20b"
+   "sha256": "0acf559ef248bc4d9b83439c6499332dd9b8ce4ecb4fc8320760a8a57898d102"
   },
   {
    "name": "AmazonCloud",
@@ -1020,12 +1015,11 @@
    "chinese_name": "Amazon Prime Video",
    "description": "",
    "file": "rules/AmazonPrimeVideo.list",
-   "line_count": 28,
+   "line_count": 27,
    "type_counts": {
     "DOMAIN": 5,
-    "DOMAIN-KEYWORD": 1,
     "DOMAIN-SUFFIX": 19,
-    "PROCESS-NAME": 1,
+    "DOMAIN-KEYWORD": 1,
     "USER-AGENT": 2
    },
    "rule_updated_at": "2026-07-26T06:21:25.147942+00:00",
@@ -1033,7 +1027,7 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/AmazonPrimeVideo.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/68b232bb6ea5e7b44b759e3c/manifest.json",
-   "sha256": "39f0aae8a744b03b2acde8f8de88c05755c44e013db375a7b53e560fa2b7006b"
+   "sha256": "0622dcc98217267a53e28d851959375d67d44870c2acdec66ca2621239221280"
   },
   {
    "name": "AMD",
@@ -1220,15 +1214,14 @@
    "chinese_name": "Anthropic",
    "description": "",
    "file": "rules/Anthropic.list",
-   "line_count": 49,
+   "line_count": 47,
    "type_counts": {
     "DOMAIN": 8,
-    "DOMAIN-KEYWORD": 3,
     "DOMAIN-SUFFIX": 33,
-    "IP-ASN": 1,
+    "DOMAIN-KEYWORD": 3,
     "IP-CIDR": 1,
     "IP-CIDR6": 1,
-    "PROCESS-NAME": 2
+    "IP-ASN": 1
    },
    "rule_updated_at": "2026-10-29T03:05:31.085793+00:00",
    "providers": [
@@ -1237,7 +1230,7 @@
     "https://raw.githubusercontent.com/jinxinkai/clash-ai-rules/refs/heads/master/Anthropic.yaml"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/8369068e24d25c302aac61f4/manifest.json",
-   "sha256": "343fe8f2216ce70a6e92f05f8128ffa47b66892d05f59441dcea3230eefd4416"
+   "sha256": "08da62faa2279696cd689e6581c1b7bab3c201d94b499e793dff414a4c161074"
   },
   {
    "name": "AnTianKeJi",
@@ -1360,15 +1353,14 @@
    "chinese_name": "Apple",
    "description": "",
    "file": "rules/Apple.list",
-   "line_count": 3256,
+   "line_count": 3247,
    "type_counts": {
     "DOMAIN": 311,
-    "DOMAIN-KEYWORD": 5,
     "DOMAIN-SUFFIX": 2904,
+    "DOMAIN-KEYWORD": 5,
+    "USER-AGENT": 5,
     "IP-CIDR": 19,
-    "IP-CIDR6": 3,
-    "PROCESS-NAME": 9,
-    "USER-AGENT": 5
+    "IP-CIDR6": 3
    },
    "rule_updated_at": "2026-11-09T09:22:58.293711+00:00",
    "providers": [
@@ -1383,7 +1375,7 @@
     "https://ruleset.skk.moe/List/non_ip/apple_services.conf"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/d4a1a49a4f9301369ccbdd07/manifest.json",
-   "sha256": "ac6d2002d713a980f45262183281d9037a6fa38a4f2df32f33739c56650251bf"
+   "sha256": "29179f3e3f7acc4564e5d89fe867f2aee90236dd4b673075739b0b7fec0360a1"
   },
   {
    "name": "AppleCDN",
@@ -1445,17 +1437,16 @@
    "chinese_name": "Apple固件",
    "description": "",
    "file": "rules/AppleFirmware.list",
-   "line_count": 178,
+   "line_count": 177,
    "type_counts": {
-    "DOMAIN-SUFFIX": 177,
-    "PROCESS-NAME": 1
+    "DOMAIN-SUFFIX": 177
    },
    "rule_updated_at": "2026-07-26T07:01:40.386255+00:00",
    "providers": [
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Apple/AppleFirmware.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/3c338cc7b8a0cbbeae47b26e/manifest.json",
-   "sha256": "9145721819fab2cbfd9035161f3b16f82051b964581381e4a2a310f89bc152e0"
+   "sha256": "464ab248b151d6b4b61822edd2e5535c02a273cf95b91a1732577af30780f48f"
   },
   {
    "name": "AppleHardware",
@@ -1577,13 +1568,12 @@
    "chinese_name": "Apple代理",
    "description": "",
    "file": "rules/AppleProxy.list",
-   "line_count": 1248,
+   "line_count": 1239,
    "type_counts": {
     "DOMAIN": 64,
     "DOMAIN-SUFFIX": 1161,
-    "IP-CIDR": 9,
-    "PROCESS-NAME": 9,
-    "USER-AGENT": 5
+    "USER-AGENT": 5,
+    "IP-CIDR": 9
    },
    "rule_updated_at": "2026-11-09T09:23:00.748226+00:00",
    "providers": [
@@ -1592,7 +1582,7 @@
     "https://ruleset.skk.moe/List/non_ip/apple_services.conf"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/d2db650d955d574d6cdfd28a/manifest.json",
-   "sha256": "da5bbc3b10b802075cb1fa157f50b8bd2ab5dcb2fc94cf00ebcc6f94f39621ef"
+   "sha256": "c4ee0673012426d5c2349cdf07b8f900c813ac161f5a252b97f6d74c4272b742"
   },
   {
    "name": "AppleTV",
@@ -2100,8 +2090,8 @@
    "line_count": 41,
    "type_counts": {
     "DOMAIN": 21,
-    "DOMAIN-KEYWORD": 2,
     "DOMAIN-SUFFIX": 17,
+    "DOMAIN-KEYWORD": 2,
     "USER-AGENT": 1
    },
    "rule_updated_at": "2026-07-26T06:38:11.573978+00:00",
@@ -2267,12 +2257,11 @@
    "chinese_name": "哔哩哔哩",
    "description": "",
    "file": "rules/BiliBili.list",
-   "line_count": 127,
+   "line_count": 125,
    "type_counts": {
     "DOMAIN": 51,
     "DOMAIN-SUFFIX": 67,
-    "IP-CIDR": 7,
-    "PROCESS-NAME": 2
+    "IP-CIDR": 7
    },
    "rule_updated_at": "2026-07-26T06:38:14.325170+00:00",
    "providers": [
@@ -2282,7 +2271,7 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BiliBili.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/b7641553e0b06dc4871d9f66/manifest.json",
-   "sha256": "896bf1e29fcd489a2693c9017c65c956956a7cabce793850043739a84cd09ad1"
+   "sha256": "7233173aa27f4855d586a925ec9509b6604d319c9a057b7fde325ef58e247ea2"
   },
   {
    "name": "BiliBiliGame",
@@ -3020,11 +3009,10 @@
    "chinese_name": "CBS",
    "description": "",
    "file": "rules/CBS.list",
-   "line_count": 41,
+   "line_count": 39,
    "type_counts": {
     "DOMAIN": 4,
     "DOMAIN-SUFFIX": 34,
-    "PROCESS-NAME": 2,
     "USER-AGENT": 1
    },
    "rule_updated_at": "2026-07-26T06:21:34.329091+00:00",
@@ -3033,7 +3021,7 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/CBS.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/e5813bc5bc0e217649b6f87c/manifest.json",
-   "sha256": "1578df66ca2e00e9d5daa1fb16a5105ea317e9c1d2820c4924dfaf1295742fc4"
+   "sha256": "86deb8ab761f79b0181429aa5b1630a2381fe7d5aa3c4e067a0e1e9869ff4db5"
   },
   {
    "name": "CCB",
@@ -3219,15 +3207,14 @@
    "chinese_name": "中国",
    "description": "",
    "file": "rules/China.list",
-   "line_count": 10339,
+   "line_count": 10338,
    "type_counts": {
     "DOMAIN": 24,
-    "DOMAIN-KEYWORD": 10,
     "DOMAIN-SUFFIX": 6379,
-    "GEOIP": 1,
+    "DOMAIN-KEYWORD": 10,
+    "USER-AGENT": 30,
     "IP-CIDR": 3891,
-    "IP-CIDR6": 4,
-    "USER-AGENT": 30
+    "IP-CIDR6": 4
    },
    "rule_updated_at": "2026-11-09T02:42:23.039077+00:00",
    "providers": [
@@ -3241,7 +3228,7 @@
     "https://ruleset.skk.moe/List/non_ip/domestic.conf"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/11af2559235209b8783239b3/manifest.json",
-   "sha256": "e50d579a191c380f80d086d0f8fcf565a86c0d15b0a789e87052434d99a37c78"
+   "sha256": "d0a097da879c9b3d4201c70e421c0054b8b401221f3c5093d99aab0e0805d545"
   },
   {
    "name": "ChinaASN",
@@ -3299,9 +3286,9 @@
    "file": "rules/ChinaIPs.list",
    "line_count": 23165,
    "type_counts": {
-    "IP-ASN": 5076,
     "IP-CIDR": 12630,
-    "IP-CIDR6": 5459
+    "IP-CIDR6": 5459,
+    "IP-ASN": 5076
    },
    "rule_updated_at": "2026-11-09T02:53:17.866211+00:00",
    "providers": [
@@ -3335,22 +3322,21 @@
    "chinese_name": "中国媒体",
    "description": "",
    "file": "rules/ChinaMedia.list",
-   "line_count": 358,
+   "line_count": 356,
    "type_counts": {
     "DOMAIN": 65,
-    "DOMAIN-KEYWORD": 1,
     "DOMAIN-SUFFIX": 209,
+    "DOMAIN-KEYWORD": 1,
+    "USER-AGENT": 13,
     "IP-CIDR": 39,
-    "IP-CIDR6": 29,
-    "PROCESS-NAME": 2,
-    "USER-AGENT": 13
+    "IP-CIDR6": 29
    },
    "rule_updated_at": "2026-07-31T04:26:19.582735+00:00",
    "providers": [
     "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Media/DomesticMedia.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/c21fcf3992806cc6c0f9f697/manifest.json",
-   "sha256": "eb29906a27985b85fe6ebe22a1b8d011e69478c9b664d0d0709169d8b8d1b297"
+   "sha256": "e46ae90b8a05074f912443442e450e1d61a9f2a4cf59c4136064f51fb927c7ab"
   },
   {
    "name": "ChinaMobile",
@@ -4152,15 +4138,14 @@
    "chinese_name": "Microsoft Copilot",
    "description": "",
    "file": "rules/Copilot.list",
-   "line_count": 404,
+   "line_count": 390,
    "type_counts": {
     "DOMAIN": 71,
-    "DOMAIN-KEYWORD": 5,
     "DOMAIN-SUFFIX": 305,
-    "IP-ASN": 3,
+    "DOMAIN-KEYWORD": 5,
     "IP-CIDR": 4,
     "IP-CIDR6": 2,
-    "PROCESS-NAME": 14
+    "IP-ASN": 3
    },
    "rule_updated_at": "2026-11-09T02:49:09.787460+00:00",
    "providers": [
@@ -4168,7 +4153,7 @@
     "https://raw.githubusercontent.com/VPSDance/ai-proxy-rules/refs/heads/main/rules/surge/all.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/4f32d9bbb9f0f720920fffe3/manifest.json",
-   "sha256": "41b380ac5845806924f05f864c04cbabf6ee4ec10bc2023ad3dd3766577240d6"
+   "sha256": "928fb0c0cd5e779648e98b32120dddb13fc3a4fb33a59d53f6620afd0b98484b"
   },
   {
    "name": "CopyManga",
@@ -4401,18 +4386,17 @@
    "chinese_name": "CW Seed",
    "description": "",
    "file": "rules/CWSeed.list",
-   "line_count": 7,
+   "line_count": 5,
    "type_counts": {
     "DOMAIN": 2,
-    "DOMAIN-SUFFIX": 3,
-    "PROCESS-NAME": 2
+    "DOMAIN-SUFFIX": 3
    },
    "rule_updated_at": "2026-07-26T06:58:15.302802+00:00",
    "providers": [
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/CWSeed.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/c2c14214d55d7d6478654360/manifest.json",
-   "sha256": "de55420834d475a477c41a9d36873cd51b61a816a30c4dd9d729a476efce3c43"
+   "sha256": "6c939fe0f709d2c66ec60a382c43106b7ab9473e9d8e57db8c7fdcbfd9152762"
   },
   {
    "name": "CyberTrust",
@@ -4572,8 +4556,8 @@
    "line_count": 27,
    "type_counts": {
     "DOMAIN": 2,
-    "DOMAIN-KEYWORD": 1,
     "DOMAIN-SUFFIX": 23,
+    "DOMAIN-KEYWORD": 1,
     "USER-AGENT": 1
    },
    "rule_updated_at": "2026-07-26T06:21:39.663486+00:00",
@@ -4761,7 +4745,7 @@
    "file": "rules/Developer.list",
    "line_count": 736,
    "type_counts": {
-    "DOMAIN": 92,
+    "DOMAIN": 91,
     "DOMAIN-SUFFIX": 645
    },
    "rule_updated_at": "2026-11-09T02:53:02.656453+00:00",
@@ -4960,15 +4944,13 @@
    "chinese_name": "直连",
    "description": "直连指不应该被去广告分流规则屏蔽的域名、IP等，请将此分流规则置于去广告规则之前。",
    "file": "rules/Direct.list",
-   "line_count": 669,
+   "line_count": 629,
    "type_counts": {
     "DOMAIN": 33,
-    "DOMAIN-KEYWORD": 10,
     "DOMAIN-SUFFIX": 580,
-    "IP-CIDR": 5,
-    "PROCESS-NAME": 36,
-    "URL-REGEX": 4,
-    "USER-AGENT": 1
+    "DOMAIN-KEYWORD": 10,
+    "USER-AGENT": 1,
+    "IP-CIDR": 5
    },
    "rule_updated_at": "2026-11-09T09:23:00.536678+00:00",
    "providers": [
@@ -4979,7 +4961,7 @@
     "https://ruleset.skk.moe/List/non_ip/microsoft_cdn.conf"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/ebcad06afe41e90eb7c458c6/manifest.json",
-   "sha256": "a76072bd0fc2f2bbbe0c04f6c2791229a5d652ba01d8481075fa86dbd07b0bde"
+   "sha256": "a7d8388362cef2e3b1ae09bf143f63fb157c9b29d1b19d50c58a5978532a0fc0"
   },
   {
    "name": "Discord",
@@ -5074,11 +5056,10 @@
    "chinese_name": "Disney",
    "description": "",
    "file": "rules/Disney.list",
-   "line_count": 250,
+   "line_count": 248,
    "type_counts": {
     "DOMAIN": 6,
-    "DOMAIN-SUFFIX": 242,
-    "PROCESS-NAME": 2
+    "DOMAIN-SUFFIX": 242
    },
    "rule_updated_at": "2026-08-07T02:23:05.406439+00:00",
    "providers": [
@@ -5086,7 +5067,7 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/Disney.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/1ea6258bb62b99df154f6003/manifest.json",
-   "sha256": "d4d18a043db3b19398fdce6339be8a55f1ce8ca5f3368fbc7b6f114f27c7f457"
+   "sha256": "a6ecc037d0141d81bc5e04793fd00b11750a336b01620395c10bffabc53d0bc2"
   },
   {
    "name": "Disqus",
@@ -5348,12 +5329,10 @@
    "chinese_name": "下载",
    "description": "",
    "file": "rules/Download.list",
-   "line_count": 25,
+   "line_count": 6,
    "type_counts": {
-    "DOMAIN-KEYWORD": 5,
     "DOMAIN-SUFFIX": 1,
-    "PROCESS-NAME": 11,
-    "URL-REGEX": 8
+    "DOMAIN-KEYWORD": 5
    },
    "rule_updated_at": "2026-07-26T06:23:06.197898+00:00",
    "providers": [
@@ -5363,7 +5342,7 @@
     "https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Download.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/bca130389a058b16f7a2c7e9/manifest.json",
-   "sha256": "d4f00746aaad5c16cae6db497c64a762a04e3965e2979516d10ba9b174d59616"
+   "sha256": "09872fb1ae91529178cedb0b8fcf4d118687146feba1714433ba53d5f13372ea"
   },
   {
    "name": "Dribbble",
@@ -5943,8 +5922,8 @@
    "file": "rules/Epic.list",
    "line_count": 33,
    "type_counts": {
-    "DOMAIN-KEYWORD": 1,
-    "DOMAIN-SUFFIX": 32
+    "DOMAIN-SUFFIX": 32,
+    "DOMAIN-KEYWORD": 1
    },
    "rule_updated_at": "2026-08-07T02:23:06.578902+00:00",
    "providers": [
@@ -6063,10 +6042,10 @@
    "line_count": 592,
    "type_counts": {
     "DOMAIN": 1,
-    "DOMAIN-KEYWORD": 2,
     "DOMAIN-SUFFIX": 552,
-    "IP-ASN": 1,
-    "IP-CIDR": 36
+    "DOMAIN-KEYWORD": 2,
+    "IP-CIDR": 36,
+    "IP-ASN": 1
    },
    "rule_updated_at": "2026-10-09T15:59:08.299283+00:00",
    "providers": [
@@ -6818,8 +6797,8 @@
    "line_count": 1285,
    "type_counts": {
     "DOMAIN": 125,
-    "DOMAIN-KEYWORD": 4,
     "DOMAIN-SUFFIX": 1144,
+    "DOMAIN-KEYWORD": 4,
     "IP-CIDR": 12
    },
    "rule_updated_at": "2026-11-06T14:07:24.615288+00:00",
@@ -7006,8 +6985,8 @@
    "line_count": 54,
    "type_counts": {
     "DOMAIN": 17,
-    "DOMAIN-KEYWORD": 3,
-    "DOMAIN-SUFFIX": 34
+    "DOMAIN-SUFFIX": 34,
+    "DOMAIN-KEYWORD": 3
    },
    "rule_updated_at": "2026-10-29T02:37:36.721481+00:00",
    "providers": [
@@ -7143,8 +7122,8 @@
    "line_count": 73,
    "type_counts": {
     "DOMAIN": 32,
-    "DOMAIN-KEYWORD": 1,
-    "DOMAIN-SUFFIX": 40
+    "DOMAIN-SUFFIX": 40,
+    "DOMAIN-KEYWORD": 1
    },
    "rule_updated_at": "2026-10-09T15:59:06.398256+00:00",
    "providers": [
@@ -7180,15 +7159,14 @@
    "chinese_name": "全球",
    "description": "",
    "file": "rules/Global.list",
-   "line_count": 24447,
+   "line_count": 24439,
    "type_counts": {
-    "DOMAIN": 1915,
+    "DOMAIN": 1914,
+    "DOMAIN-SUFFIX": 22379,
     "DOMAIN-KEYWORD": 53,
-    "DOMAIN-SUFFIX": 22382,
+    "USER-AGENT": 9,
     "IP-CIDR": 80,
-    "IP-CIDR6": 4,
-    "PROCESS-NAME": 8,
-    "USER-AGENT": 9
+    "IP-CIDR6": 4
    },
    "rule_updated_at": "2026-11-09T02:46:12.026237+00:00",
    "providers": [
@@ -7202,23 +7180,21 @@
     "https://ruleset.skk.moe/List/non_ip/microsoft.conf"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/d466f03113156dc42313c028/manifest.json",
-   "sha256": "b060c9004c4f5ddee576f96a0510210082587c928d690dfcff9af97f72b1f38b"
+   "sha256": "6fcc7fa44aea80c75793e7ab53b8a122f408e8c387c22452c82d991e17ce31cd"
   },
   {
    "name": "GlobalAI",
    "chinese_name": "全球AI",
    "description": "",
    "file": "rules/GlobalAI.list",
-   "line_count": 1435,
+   "line_count": 1420,
    "type_counts": {
-    "DOMAIN": 147,
+    "DOMAIN": 120,
+    "DOMAIN-SUFFIX": 1274,
     "DOMAIN-KEYWORD": 11,
-    "DOMAIN-SUFFIX": 2048,
-    "IP-ASN": 4,
-    "IP-CIDR": 12,
+    "IP-CIDR": 9,
     "IP-CIDR6": 2,
-    "PROCESS-NAME": 14,
-    "URL-REGEX": 1
+    "IP-ASN": 4
    },
    "rule_updated_at": "2026-11-09T09:22:58.252346+00:00",
    "providers": [
@@ -7227,7 +7203,7 @@
     "https://ruleset.skk.moe/List/non_ip/ai.conf"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/a71f6500ad64b424bc1ca465/manifest.json",
-   "sha256": "337d21c6fcc09bbda6d04cf485fb0fa8bf4c226ea5b6f5a33fb533193534054e"
+   "sha256": "cb26f18919127bad62600b2d687031b6dac41f1543f3dcb74bd5924bf188d3eb"
   },
   {
    "name": "GlobalCDN",
@@ -7300,16 +7276,14 @@
    "chinese_name": "全球媒体",
    "description": "",
    "file": "rules/GlobalMedia.list",
-   "line_count": 2655,
+   "line_count": 2651,
    "type_counts": {
-    "DOMAIN": 119,
-    "DOMAIN-KEYWORD": 28,
+    "DOMAIN": 116,
     "DOMAIN-SUFFIX": 2015,
+    "DOMAIN-KEYWORD": 28,
+    "USER-AGENT": 19,
     "IP-CIDR": 273,
-    "IP-CIDR6": 200,
-    "PROCESS-NAME": 3,
-    "URL-REGEX": 1,
-    "USER-AGENT": 19
+    "IP-CIDR6": 200
    },
    "rule_updated_at": "2026-11-09T09:23:47.339288+00:00",
    "providers": [
@@ -7318,7 +7292,7 @@
     "https://ruleset.skk.moe/List/ip/stream.conf"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/d4ebc6d5779db345a0689d53/manifest.json",
-   "sha256": "1ca4538e53befacbdee3f40099b798376b5feda93061548c45dc95d254ebe357"
+   "sha256": "e123d6b3cc19bc78de708819c0b09e23453a4261ac54d398f24bd8eae50f4895"
   },
   {
    "name": "GlobalNetDisk",
@@ -7491,13 +7465,12 @@
    "chinese_name": "Google",
    "description": "不含有Youtube分流规则",
    "file": "rules/Google.list",
-   "line_count": 1187,
+   "line_count": 1183,
    "type_counts": {
     "DOMAIN": 241,
-    "DOMAIN-KEYWORD": 6,
     "DOMAIN-SUFFIX": 934,
-    "IP-CIDR": 2,
-    "PROCESS-NAME": 4
+    "DOMAIN-KEYWORD": 6,
+    "IP-CIDR": 2
    },
    "rule_updated_at": "2026-10-29T03:07:13.755900+00:00",
    "providers": [
@@ -7511,7 +7484,7 @@
     "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Google.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/00188b3b72353741ae311885/manifest.json",
-   "sha256": "a26594d404d562470dbb6bb42691a30342777a22bb6d99b286ad9f5d12ef2b8d"
+   "sha256": "2863f1391cc09d50e976c6d742952418841654703a88350cea6d057821fb7925"
   },
   {
    "name": "GoogleDeepMind",
@@ -7850,10 +7823,9 @@
    "chinese_name": "HBO",
    "description": "",
    "file": "rules/HBO.list",
-   "line_count": 95,
+   "line_count": 94,
    "type_counts": {
     "DOMAIN-SUFFIX": 92,
-    "PROCESS-NAME": 1,
     "USER-AGENT": 2
    },
    "rule_updated_at": "2026-08-28T11:56:56.568009+00:00",
@@ -7864,17 +7836,16 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/HBO.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/e79fdd3124a60b8dc1dfa26e/manifest.json",
-   "sha256": "1720535dd477b9951a9f24d8f5e20570bd621bcbcfa6c67cf81effcd2037377e"
+   "sha256": "970287c764b903710c2a7bbd55ebd76d8f4ba12b588e51e5f52693fc642f2f6a"
   },
   {
    "name": "HBOHK",
    "chinese_name": "HBO(香港)",
    "description": "",
    "file": "rules/HBOHK.list",
-   "line_count": 30,
+   "line_count": 29,
    "type_counts": {
     "DOMAIN-SUFFIX": 27,
-    "PROCESS-NAME": 1,
     "USER-AGENT": 2
    },
    "rule_updated_at": "2026-07-26T06:30:10.301401+00:00",
@@ -7882,7 +7853,7 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/HBO.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/5cfd096ad17e4c3550a81c9d/manifest.json",
-   "sha256": "37aa7ba9ce96c4b593553fff1431c10f897535e576ce804df63bdc72d86581ab"
+   "sha256": "fdac3946614389e7268b82b913583b38bd69684b2e138d63e1a1650aceb3f0ca"
   },
   {
    "name": "HBOUSA",
@@ -8408,11 +8379,10 @@
    "chinese_name": "Hulu",
    "description": "",
    "file": "rules/Hulu.list",
-   "line_count": 59,
+   "line_count": 58,
    "type_counts": {
     "DOMAIN": 1,
-    "DOMAIN-SUFFIX": 57,
-    "PROCESS-NAME": 1
+    "DOMAIN-SUFFIX": 57
    },
    "rule_updated_at": "2026-07-26T06:22:02.388175+00:00",
    "providers": [
@@ -8421,17 +8391,16 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/Hulu.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/8429cffac7b8adccd2901c60/manifest.json",
-   "sha256": "ad76e5118c92ee7daa43288eb140a7e2d9b8d217bc066429e0cc815e8831a444"
+   "sha256": "9d71b9be37fdfc7866a624e76d0d4e00425effdeffe7d1be875ba80e184f8376"
   },
   {
    "name": "HuluJP",
    "chinese_name": "Hulu(日本)",
    "description": "",
    "file": "rules/HuluJP.list",
-   "line_count": 58,
+   "line_count": 57,
    "type_counts": {
-    "DOMAIN-SUFFIX": 57,
-    "PROCESS-NAME": 1
+    "DOMAIN-SUFFIX": 57
    },
    "rule_updated_at": "2026-07-26T06:30:26.100055+00:00",
    "providers": [
@@ -8439,24 +8408,23 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/Hulu.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/b9506ce31dc9732b9a84a333/manifest.json",
-   "sha256": "e87659518922dff4df80a9335b0aa2736dc50ab1c38f8037793f90cfb4519c86"
+   "sha256": "9970329f4b8414b733d0583a2e3a059309f9febcd4ed2c5dab3ad4b19d97fc91"
   },
   {
    "name": "HuluUSA",
    "chinese_name": "Hulu(美国)",
    "description": "",
    "file": "rules/HuluUSA.list",
-   "line_count": 58,
+   "line_count": 57,
    "type_counts": {
-    "DOMAIN-SUFFIX": 57,
-    "PROCESS-NAME": 1
+    "DOMAIN-SUFFIX": 57
    },
    "rule_updated_at": "2026-07-26T06:30:25.299504+00:00",
    "providers": [
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/Hulu.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/28f6730d1ad652afa41ba44c/manifest.json",
-   "sha256": "821ae89ed168938579af193ed6c2ca05b354bb0b52291eb216bfccd48982af04"
+   "sha256": "34ff60b74389fbca98eb2dd987e268ae8f6f08b2024c77c8b67585c78f3d50a2"
   },
   {
    "name": "HumbleBundle",
@@ -8670,9 +8638,8 @@
    "file": "rules/iCloudPrivateRelay.list",
    "line_count": 9,
    "type_counts": {
-    "DOMAIN": 37,
-    "DOMAIN-SUFFIX": 901,
-    "IP-CIDR": 7
+    "DOMAIN": 6,
+    "DOMAIN-SUFFIX": 3
    },
    "rule_updated_at": "2026-11-09T09:22:58.246332+00:00",
    "providers": [
@@ -9035,8 +9002,8 @@
    "file": "rules/Instagram.list",
    "line_count": 76,
    "type_counts": {
-    "DOMAIN-KEYWORD": 1,
-    "DOMAIN-SUFFIX": 75
+    "DOMAIN-SUFFIX": 75,
+    "DOMAIN-KEYWORD": 1
    },
    "rule_updated_at": "2026-07-26T06:20:41.704434+00:00",
    "providers": [
@@ -9135,14 +9102,13 @@
    "chinese_name": "爱奇艺",
    "description": "",
    "file": "rules/iQIYI.list",
-   "line_count": 82,
+   "line_count": 81,
    "type_counts": {
     "DOMAIN": 4,
-    "DOMAIN-KEYWORD": 1,
     "DOMAIN-SUFFIX": 47,
-    "IP-CIDR": 23,
-    "PROCESS-NAME": 1,
-    "USER-AGENT": 6
+    "DOMAIN-KEYWORD": 1,
+    "USER-AGENT": 6,
+    "IP-CIDR": 23
    },
    "rule_updated_at": "2026-07-26T06:46:04.207932+00:00",
    "providers": [
@@ -9152,19 +9118,18 @@
     "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Media/Domestic/iQiyi.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/50d5116df7e79dc00f7d13f2/manifest.json",
-   "sha256": "9340ef5cc7d1f798ca614e3b447b2bba5af9366f822da1adf757e02d00553461"
+   "sha256": "007cfaa9166980d3a1e969cf9fa7476b942a8975943c13e460ebc003a7d060dc"
   },
   {
    "name": "iQIYIIntl",
    "chinese_name": "爱奇艺国际版",
    "description": "",
    "file": "rules/iQIYIIntl.list",
-   "line_count": 22,
+   "line_count": 20,
    "type_counts": {
     "DOMAIN": 1,
     "DOMAIN-SUFFIX": 5,
-    "IP-CIDR": 14,
-    "PROCESS-NAME": 2
+    "IP-CIDR": 14
    },
    "rule_updated_at": "2026-07-26T06:58:54.248806+00:00",
    "providers": [
@@ -9172,7 +9137,7 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/iQIYI-Intl.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/5331e0f87220d25645084db3/manifest.json",
-   "sha256": "8acee85f08aba570cede7a21acb26ffb2d420e829b9576503076f0a1f47bd881"
+   "sha256": "76fca47f6168b029ea23194255139d11a0b3a7a2170c3bec746fd5f6f6f970d6"
   },
   {
    "name": "IShuMei",
@@ -9195,17 +9160,16 @@
    "chinese_name": "iTalkBB",
    "description": "",
    "file": "rules/iTalkBB.list",
-   "line_count": 4,
+   "line_count": 3,
    "type_counts": {
-    "DOMAIN-SUFFIX": 3,
-    "PROCESS-NAME": 1
+    "DOMAIN-SUFFIX": 3
    },
    "rule_updated_at": "2026-07-26T06:23:00.965036+00:00",
    "providers": [
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/iTalkBB.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/c1b712b4120346cc7698983b/manifest.json",
-   "sha256": "cc70e990bda17aa019ac45243e4189450eae8bfb538ac7a56e76e149c9be30a0"
+   "sha256": "8bd368342c53a4e6a5e083359453edce0fe3112263d9d53e0620eae6ad511b06"
   },
   {
    "name": "ItchIo",
@@ -9282,8 +9246,8 @@
    "file": "rules/Japonx.list",
    "line_count": 14,
    "type_counts": {
-    "DOMAIN-KEYWORD": 2,
-    "DOMAIN-SUFFIX": 12
+    "DOMAIN-SUFFIX": 12,
+    "DOMAIN-KEYWORD": 2
    },
    "rule_updated_at": "2026-07-26T06:22:09.984537+00:00",
    "providers": [
@@ -9467,17 +9431,16 @@
    "chinese_name": "晋江文学",
    "description": "",
    "file": "rules/JinJiangWenXue.list",
-   "line_count": 8,
+   "line_count": 7,
    "type_counts": {
-    "DOMAIN-SUFFIX": 7,
-    "PROCESS-NAME": 1
+    "DOMAIN-SUFFIX": 7
    },
    "rule_updated_at": "2026-07-26T06:25:41.083250+00:00",
    "providers": [
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/JinJiangWenXue.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/44b066e5b85536f66ce55e9c/manifest.json",
-   "sha256": "feb5a6ec98141a166f63e238a89821f34d6b2bbb504ab4298d7e6d18d8ac4b6d"
+   "sha256": "8b29b29213dc2d82c8371f464c0c81d3897bcca4fd203f581beb8af01a4e087e"
   },
   {
    "name": "JiyuKobo",
@@ -9532,11 +9495,10 @@
    "chinese_name": "JOOX",
    "description": "",
    "file": "rules/JOOX.list",
-   "line_count": 5,
+   "line_count": 4,
    "type_counts": {
-    "DOMAIN-KEYWORD": 1,
     "DOMAIN-SUFFIX": 1,
-    "PROCESS-NAME": 1,
+    "DOMAIN-KEYWORD": 1,
     "USER-AGENT": 2
    },
    "rule_updated_at": "2026-07-26T06:22:10.966624+00:00",
@@ -9545,7 +9507,7 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/JOOX.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/8dfaedc71abaad10444c8f0a/manifest.json",
-   "sha256": "d39317befebf52649d7148b9789e82a7599a08495c6fb2143611974d83ed5dcd"
+   "sha256": "3747e36300b79e0d6a0aefd73930abab5b69310ec28d7b1c6f1b0284ae94a40c"
   },
   {
    "name": "Jquery",
@@ -10126,9 +10088,9 @@
    "file": "rules/Lan.list",
    "line_count": 301,
    "type_counts": {
-    "DOMAIN": 48,
-    "DOMAIN-SUFFIX": 1022,
-    "IP-CIDR": 25,
+    "DOMAIN": 17,
+    "DOMAIN-SUFFIX": 248,
+    "IP-CIDR": 22,
     "IP-CIDR6": 14
    },
    "rule_updated_at": "2026-11-09T09:23:23.568908+00:00",
@@ -10201,10 +10163,9 @@
    "chinese_name": "LastPass",
    "description": "",
    "file": "rules/LastPass.list",
-   "line_count": 5,
+   "line_count": 4,
    "type_counts": {
     "DOMAIN-SUFFIX": 3,
-    "PROCESS-NAME": 1,
     "USER-AGENT": 1
    },
    "rule_updated_at": "2026-07-26T06:38:06.908734+00:00",
@@ -10213,7 +10174,7 @@
     "https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/App/tools/LastPass.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/9ab19296b315ec7ae2c6410c/manifest.json",
-   "sha256": "89e27fe14768a336ac84ad82c1db2d570dc33ab361f8369a296d35cd1a4cb001"
+   "sha256": "4bf8a9dac511510a54d90fb19d84835257621b78c0e87275512271a15a2cfe0a"
   },
   {
    "name": "Launchpad",
@@ -10474,11 +10435,10 @@
    "chinese_name": "Line TV",
    "description": "",
    "file": "rules/LineTV.list",
-   "line_count": 10,
+   "line_count": 9,
    "type_counts": {
     "DOMAIN": 2,
     "DOMAIN-SUFFIX": 6,
-    "PROCESS-NAME": 1,
     "USER-AGENT": 1
    },
    "rule_updated_at": "2026-07-26T06:22:20.505215+00:00",
@@ -10487,7 +10447,7 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/LineTV.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/120489898f4e5f5a3231c7c8/manifest.json",
-   "sha256": "195b9051da36b44942d1f2593b729604d19dc2609e3390fa5496f2af066c8dec"
+   "sha256": "15f83b0529ac7a660ca32838c785143b1a6eb6f2efb7d9f898aef914372453fc"
   },
   {
    "name": "Linguee",
@@ -11104,12 +11064,11 @@
    "chinese_name": "MEGA",
    "description": "",
    "file": "rules/MEGA.list",
-   "line_count": 23,
+   "line_count": 22,
    "type_counts": {
     "DOMAIN-SUFFIX": 7,
     "IP-CIDR": 7,
-    "IP-CIDR6": 8,
-    "PROCESS-NAME": 1
+    "IP-CIDR6": 8
    },
    "rule_updated_at": "2026-10-09T15:58:46.031013+00:00",
    "providers": [
@@ -11118,7 +11077,7 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/MEGA.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/6de711795f8520a9d2e11190/manifest.json",
-   "sha256": "69b6de185f37118dffbc0a0f01320636d43ac14e8474a6475411456d2211a5db"
+   "sha256": "b7d1bbe47c67d61ccd2d38eaac928105d9e840a20c4b51be08540e937385e29c"
   },
   {
    "name": "MeiTu",
@@ -11224,12 +11183,11 @@
    "chinese_name": "Microsoft",
    "description": "",
    "file": "rules/Microsoft.list",
-   "line_count": 920,
+   "line_count": 918,
    "type_counts": {
     "DOMAIN": 121,
-    "DOMAIN-KEYWORD": 4,
     "DOMAIN-SUFFIX": 790,
-    "PROCESS-NAME": 2,
+    "DOMAIN-KEYWORD": 4,
     "USER-AGENT": 3
    },
    "rule_updated_at": "2026-11-09T02:53:05.062308+00:00",
@@ -11242,7 +11200,7 @@
     "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Microsoft.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/e5c56a31e17958074a9707e6/manifest.json",
-   "sha256": "6cc7863547236ee99206f33059928f206e6602609c3fbe2d629d5d3f42120768"
+   "sha256": "d2708606aeb6b5c9e4b91cb8aa534282209eb1a98fde0d7e19fd4eba8329a6da"
   },
   {
    "name": "MicrosoftDev",
@@ -11299,10 +11257,8 @@
    "file": "rules/MicrosoftProxy.list",
    "line_count": 83,
    "type_counts": {
-    "DOMAIN": 3,
-    "DOMAIN-KEYWORD": 3,
-    "DOMAIN-SUFFIX": 204,
-    "IP-CIDR": 4
+    "DOMAIN-SUFFIX": 80,
+    "DOMAIN-KEYWORD": 3
    },
    "rule_updated_at": "2026-11-09T09:23:29.120220+00:00",
    "providers": [
@@ -11858,8 +11814,8 @@
    "line_count": 6,
    "type_counts": {
     "DOMAIN": 2,
-    "DOMAIN-KEYWORD": 2,
-    "DOMAIN-SUFFIX": 2
+    "DOMAIN-SUFFIX": 2,
+    "DOMAIN-KEYWORD": 2
    },
    "rule_updated_at": "2026-07-26T06:57:33.801772+00:00",
    "providers": [
@@ -11922,14 +11878,13 @@
    "chinese_name": "Naver",
    "description": "",
    "file": "rules/Naver.list",
-   "line_count": 250,
+   "line_count": 249,
    "type_counts": {
     "DOMAIN": 2,
     "DOMAIN-SUFFIX": 52,
+    "USER-AGENT": 1,
     "IP-CIDR": 144,
-    "IP-CIDR6": 50,
-    "PROCESS-NAME": 1,
-    "USER-AGENT": 1
+    "IP-CIDR6": 50
    },
    "rule_updated_at": "2026-07-26T06:52:16.721642+00:00",
    "providers": [
@@ -11938,7 +11893,7 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Naver.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/a66d7375cbb47cf5e0dd5894/manifest.json",
-   "sha256": "56f972043ba35c43fbb805982b35457e73412293b384b0b409b10d03e70a95fd"
+   "sha256": "3109d8eb7602bfe32e73ac37d8cc2319dd131f016038a779d1d6723eb0dca18f"
   },
   {
    "name": "NaverTV",
@@ -12066,8 +12021,8 @@
    "type_counts": {
     "DOMAIN": 32,
     "DOMAIN-SUFFIX": 911,
-    "IP-CIDR": 42,
-    "USER-AGENT": 3
+    "USER-AGENT": 3,
+    "IP-CIDR": 42
    },
    "rule_updated_at": "2026-11-09T09:22:59.444220+00:00",
    "providers": [
@@ -12085,15 +12040,14 @@
    "chinese_name": "Netflix",
    "description": "",
    "file": "rules/Netflix.list",
-   "line_count": 1620,
+   "line_count": 1619,
    "type_counts": {
     "DOMAIN": 1,
-    "DOMAIN-KEYWORD": 4,
     "DOMAIN-SUFFIX": 28,
+    "DOMAIN-KEYWORD": 4,
+    "USER-AGENT": 1,
     "IP-CIDR": 1386,
-    "IP-CIDR6": 199,
-    "PROCESS-NAME": 1,
-    "USER-AGENT": 1
+    "IP-CIDR6": 199
    },
    "rule_updated_at": "2026-10-29T02:37:32.424453+00:00",
    "providers": [
@@ -12106,7 +12060,7 @@
     "https://raw.githubusercontent.com/QiuSimons/Netflix_IP/master/getflix.txt"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/5f5a7c13c4bb96d5ac4d0e09/manifest.json",
-   "sha256": "9e795d7840e57fc586315a38fec34d576beeb17561396584b7902f7f7386ad19"
+   "sha256": "56319cf7d8d22e0a1b7a0900040792a3224d6d840fb9165d5612a3f0c6eeca4c"
   },
   {
    "name": "Netlify",
@@ -12627,11 +12581,10 @@
    "chinese_name": "OneDrive",
    "description": "",
    "file": "rules/OneDrive.list",
-   "line_count": 24,
+   "line_count": 22,
    "type_counts": {
-    "DOMAIN-KEYWORD": 3,
     "DOMAIN-SUFFIX": 19,
-    "PROCESS-NAME": 2
+    "DOMAIN-KEYWORD": 3
    },
    "rule_updated_at": "2026-07-26T06:32:54.959881+00:00",
    "providers": [
@@ -12641,7 +12594,7 @@
     "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OneDrive.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/3a655c766d072062fd5f60f9/manifest.json",
-   "sha256": "327ac94257b7831a79a9eb2afa2c153acf9e6dc92edebc72646711fa5007bde0"
+   "sha256": "ff0960bdb8f5caa37256d19533285e1d730734e5fe596c1d20decd69a47cd808"
   },
   {
    "name": "OneKey",
@@ -12701,15 +12654,14 @@
    "chinese_name": "OpenAI",
    "description": "",
    "file": "rules/OpenAI.list",
-   "line_count": 57,
+   "line_count": 53,
    "type_counts": {
     "DOMAIN": 12,
-    "DOMAIN-KEYWORD": 4,
     "DOMAIN-SUFFIX": 32,
-    "IP-ASN": 1,
+    "DOMAIN-KEYWORD": 4,
     "IP-CIDR": 3,
     "IP-CIDR6": 1,
-    "PROCESS-NAME": 4
+    "IP-ASN": 1
    },
    "rule_updated_at": "2026-10-29T01:51:38.423147+00:00",
    "providers": [
@@ -12718,7 +12670,7 @@
     "https://raw.githubusercontent.com/jinxinkai/clash-ai-rules/refs/heads/master/OpenAI.yaml"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/4c1d8b995467164e963303c7/manifest.json",
-   "sha256": "f1fc20fd7e782db5e6010d71753122c066b2b3270719bd50d6e72b5a8b00569b"
+   "sha256": "845de3b6c4a6c0a72d321babc7ddb4e866d249a883745a8aafa7e1567cfc95a0"
   },
   {
    "name": "OpenCollective",
@@ -13142,8 +13094,8 @@
    "line_count": 248,
    "type_counts": {
     "DOMAIN": 1,
-    "DOMAIN-KEYWORD": 1,
     "DOMAIN-SUFFIX": 245,
+    "DOMAIN-KEYWORD": 1,
     "USER-AGENT": 1
    },
    "rule_updated_at": "2026-07-26T06:36:52.023527+00:00",
@@ -13336,8 +13288,8 @@
    "line_count": 23,
    "type_counts": {
     "DOMAIN": 1,
-    "DOMAIN-KEYWORD": 1,
-    "DOMAIN-SUFFIX": 21
+    "DOMAIN-SUFFIX": 21,
+    "DOMAIN-KEYWORD": 1
    },
    "rule_updated_at": "2026-07-26T07:00:34.435341+00:00",
    "providers": [
@@ -13689,8 +13641,8 @@
    "line_count": 40823,
    "type_counts": {
     "DOMAIN": 43,
-    "DOMAIN-KEYWORD": 2,
     "DOMAIN-SUFFIX": 40762,
+    "DOMAIN-KEYWORD": 2,
     "IP-CIDR": 16
    },
    "rule_updated_at": "2026-11-09T09:23:19.682722+00:00",
@@ -13709,8 +13661,8 @@
    "file": "rules/PrivateTracker.list",
    "line_count": 122,
    "type_counts": {
-    "DOMAIN-KEYWORD": 3,
-    "DOMAIN-SUFFIX": 119
+    "DOMAIN-SUFFIX": 119,
+    "DOMAIN-KEYWORD": 3
    },
    "rule_updated_at": "2026-07-26T06:56:41.019606+00:00",
    "providers": [
@@ -15153,8 +15105,8 @@
    "file": "rules/Sina.list",
    "line_count": 142,
    "type_counts": {
-    "DOMAIN-KEYWORD": 1,
-    "DOMAIN-SUFFIX": 141
+    "DOMAIN-SUFFIX": 141,
+    "DOMAIN-KEYWORD": 1
    },
    "rule_updated_at": "2026-07-26T06:38:38.290784+00:00",
    "providers": [
@@ -15252,8 +15204,8 @@
    "line_count": 17,
    "type_counts": {
     "DOMAIN": 4,
-    "DOMAIN-KEYWORD": 3,
-    "DOMAIN-SUFFIX": 10
+    "DOMAIN-SUFFIX": 10,
+    "DOMAIN-KEYWORD": 3
    },
    "rule_updated_at": "2026-10-09T15:58:45.694654+00:00",
    "providers": [
@@ -15628,10 +15580,9 @@
    "file": "rules/Speedtest.list",
    "line_count": 3486,
    "type_counts": {
-    "DOMAIN": 3385,
+    "DOMAIN": 3354,
+    "DOMAIN-SUFFIX": 130,
     "DOMAIN-KEYWORD": 1,
-    "DOMAIN-SUFFIX": 1028,
-    "IP-CIDR": 7,
     "USER-AGENT": 1
    },
    "rule_updated_at": "2026-11-09T09:22:59.538085+00:00",
@@ -15665,14 +15616,13 @@
    "chinese_name": "Spotify",
    "description": "",
    "file": "rules/Spotify.list",
-   "line_count": 40,
+   "line_count": 39,
    "type_counts": {
     "DOMAIN": 10,
-    "DOMAIN-KEYWORD": 4,
     "DOMAIN-SUFFIX": 23,
-    "IP-CIDR": 1,
-    "PROCESS-NAME": 1,
-    "USER-AGENT": 1
+    "DOMAIN-KEYWORD": 4,
+    "USER-AGENT": 1,
+    "IP-CIDR": 1
    },
    "rule_updated_at": "2026-10-29T02:37:37.807289+00:00",
    "providers": [
@@ -15683,7 +15633,7 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/Spotify.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/147692aaca5d66d82b129d85/manifest.json",
-   "sha256": "29d92b33fcc0caba37c84ab70d4866625101fcb99075c3e92e224f9748054b81"
+   "sha256": "e9fd3a793fe8f6a96d5eed4a9e5e8d976b4e1b525c686ad2a764952f239af43c"
   },
   {
    "name": "Springer",
@@ -15906,8 +15856,8 @@
    "line_count": 97,
    "type_counts": {
     "DOMAIN": 18,
-    "DOMAIN-KEYWORD": 3,
     "DOMAIN-SUFFIX": 64,
+    "DOMAIN-KEYWORD": 3,
     "IP-CIDR": 12
    },
    "rule_updated_at": "2026-10-29T02:37:35.921420+00:00",
@@ -16240,8 +16190,8 @@
    "line_count": 27,
    "type_counts": {
     "DOMAIN": 1,
-    "DOMAIN-KEYWORD": 1,
-    "DOMAIN-SUFFIX": 25
+    "DOMAIN-SUFFIX": 25,
+    "DOMAIN-KEYWORD": 1
    },
    "rule_updated_at": "2026-07-26T06:57:50.498408+00:00",
    "providers": [
@@ -16509,15 +16459,14 @@
    "chinese_name": "Telegram",
    "description": "",
    "file": "rules/Telegram.list",
-   "line_count": 1003,
+   "line_count": 998,
    "type_counts": {
     "DOMAIN": 31,
-    "DOMAIN-KEYWORD": 1,
     "DOMAIN-SUFFIX": 922,
-    "IP-ASN": 5,
+    "DOMAIN-KEYWORD": 1,
     "IP-CIDR": 32,
     "IP-CIDR6": 7,
-    "PROCESS-NAME": 5
+    "IP-ASN": 5
    },
    "rule_updated_at": "2026-11-09T09:23:15.253842+00:00",
    "providers": [
@@ -16538,7 +16487,7 @@
     "https://ruleset.skk.moe/List/non_ip/telegram.conf"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/7dd68efe605596f2a48e96d1/manifest.json",
-   "sha256": "896288c403454a507a9e688e35a8ee3166cdc7948f2dcd919ce843c043d36c9d"
+   "sha256": "dac8b044345883ce3fb3a4f8bd6d11e8740abafd0f1d0936d00f1e8bc67ada85"
   },
   {
    "name": "TempMail",
@@ -16565,8 +16514,8 @@
    "type_counts": {
     "DOMAIN": 1,
     "DOMAIN-SUFFIX": 2751,
-    "IP-CIDR": 24,
-    "USER-AGENT": 5
+    "USER-AGENT": 5,
+    "IP-CIDR": 24
    },
    "rule_updated_at": "2026-11-06T14:29:01.238104+00:00",
    "providers": [
@@ -17010,12 +16959,11 @@
    "chinese_name": "TikTok",
    "description": "",
    "file": "rules/TikTok.list",
-   "line_count": 67,
+   "line_count": 66,
    "type_counts": {
     "DOMAIN": 9,
-    "DOMAIN-KEYWORD": 4,
     "DOMAIN-SUFFIX": 52,
-    "PROCESS-NAME": 1,
+    "DOMAIN-KEYWORD": 4,
     "USER-AGENT": 1
    },
    "rule_updated_at": "2026-11-04T15:55:13.937867+00:00",
@@ -17026,7 +16974,7 @@
     "https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Filter/TikTok.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/b7b8d36289e8f59ab1a8a697/manifest.json",
-   "sha256": "532ce3470f1cd8ee040ddbd244dc753a5ff26e92b8cccb6689ee98e39211eaa1"
+   "sha256": "ad5ffcf1b310ed904eded02cfe48be8730e2bdbd0dc8abf5148beeb7d195cdbc"
   },
   {
    "name": "Timeweb",
@@ -17362,14 +17310,13 @@
    "chinese_name": "Twitch",
    "description": "",
    "file": "rules/Twitch.list",
-   "line_count": 59,
+   "line_count": 58,
    "type_counts": {
     "DOMAIN": 27,
-    "DOMAIN-KEYWORD": 1,
     "DOMAIN-SUFFIX": 9,
+    "DOMAIN-KEYWORD": 1,
     "IP-CIDR": 15,
-    "IP-CIDR6": 6,
-    "PROCESS-NAME": 1
+    "IP-CIDR6": 6
    },
    "rule_updated_at": "2026-10-29T02:37:34.711210+00:00",
    "providers": [
@@ -17379,7 +17326,7 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Twitch.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/5db65ff236eee4040aa3dbac/manifest.json",
-   "sha256": "0e3ffb65cc9c53e5c567e738949f83b55ff2bc84f0a88f3302b4d681fffdfc8f"
+   "sha256": "b8748c2737780c65abbdf853ae54f38d57a07111f0451c50f36719ad33622472"
   },
   {
    "name": "Twitter",
@@ -17388,8 +17335,8 @@
    "file": "rules/Twitter.list",
    "line_count": 36,
    "type_counts": {
-    "DOMAIN-KEYWORD": 1,
     "DOMAIN-SUFFIX": 27,
+    "DOMAIN-KEYWORD": 1,
     "IP-CIDR": 8
    },
    "rule_updated_at": "2026-07-26T06:36:14.548093+00:00",
@@ -18036,11 +17983,10 @@
    "chinese_name": "ViuTV",
    "description": "",
    "file": "rules/ViuTV.list",
-   "line_count": 15,
+   "line_count": 12,
    "type_counts": {
     "DOMAIN": 4,
-    "DOMAIN-SUFFIX": 8,
-    "PROCESS-NAME": 3
+    "DOMAIN-SUFFIX": 8
    },
    "rule_updated_at": "2026-07-26T06:23:00.667305+00:00",
    "providers": [
@@ -18048,7 +17994,7 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/ViuTV.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/9d1f7e3d1453a141d4eb7b7a/manifest.json",
-   "sha256": "78590151a96c67fdeec68303834749fe6772249c34913b77ca31a5bb3a8d5ab9"
+   "sha256": "3a54c42540541a6f159213352874e857bc2df164c7b1a3560a24965d489ef36c"
   },
   {
    "name": "Vivo",
@@ -18452,8 +18398,8 @@
    "file": "rules/Weibo.list",
    "line_count": 4,
    "type_counts": {
-    "DOMAIN-KEYWORD": 1,
-    "DOMAIN-SUFFIX": 3
+    "DOMAIN-SUFFIX": 3,
+    "DOMAIN-KEYWORD": 1
    },
    "rule_updated_at": "2026-07-26T06:39:42.863316+00:00",
    "providers": [],
@@ -18548,17 +18494,16 @@
    "chinese_name": "WeTV",
    "description": "",
    "file": "rules/WeTV.list",
-   "line_count": 7,
+   "line_count": 5,
    "type_counts": {
-    "DOMAIN-SUFFIX": 5,
-    "PROCESS-NAME": 2
+    "DOMAIN-SUFFIX": 5
    },
    "rule_updated_at": "2026-07-26T06:22:59.303346+00:00",
    "providers": [
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/WeTV.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/91a466b4afcc4441dd10dbd0/manifest.json",
-   "sha256": "fa39a033e5cbc38812021a521130a0acc89ffee34beb98e6128daf36e561f0f2"
+   "sha256": "792a8317c0ab88b4d70702b6ee5e6be97ee37fdeeeb8c8d0ee0239743cc8ad4f"
   },
   {
    "name": "Whatsapp",
@@ -18568,8 +18513,8 @@
    "line_count": 30,
    "type_counts": {
     "DOMAIN": 1,
-    "DOMAIN-KEYWORD": 1,
     "DOMAIN-SUFFIX": 13,
+    "DOMAIN-KEYWORD": 1,
     "IP-CIDR": 15
    },
    "rule_updated_at": "2026-07-26T06:20:55.508171+00:00",
@@ -19113,11 +19058,10 @@
    "chinese_name": "小米",
    "description": "",
    "file": "rules/XiaoMi.list",
-   "line_count": 197,
+   "line_count": 196,
    "type_counts": {
     "DOMAIN-SUFFIX": 181,
-    "IP-CIDR": 15,
-    "PROCESS-NAME": 1
+    "IP-CIDR": 15
    },
    "rule_updated_at": "2026-10-09T15:59:10.471365+00:00",
    "providers": [
@@ -19126,7 +19070,7 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Xiaomi.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/c1c7fa9e5be5ee916a6962b2/manifest.json",
-   "sha256": "a9263eca92377696d8109781d5ed17933834f8851a38363b25aef769e21be1d7"
+   "sha256": "1461e2237c8b0eda23be42d04a75a29e5e7c6f1f70787a9de1c2ac7f7c21944c"
   },
   {
    "name": "XiaomiAI",
@@ -19265,10 +19209,9 @@
    "chinese_name": "迅雷",
    "description": "",
    "file": "rules/Xunlei.list",
-   "line_count": 36,
+   "line_count": 35,
    "type_counts": {
-    "DOMAIN-SUFFIX": 35,
-    "PROCESS-NAME": 1
+    "DOMAIN-SUFFIX": 35
    },
    "rule_updated_at": "2026-07-26T06:40:22.548621+00:00",
    "providers": [
@@ -19277,7 +19220,7 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Special/XunLei.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/38f2257bce42769a529c2840/manifest.json",
-   "sha256": "69daf9fcbb898c8e1786427559ac7be9243016e9c4ea5c381ed3473ff2045f76"
+   "sha256": "a94b44931c9a9cdb2a0868e64f6f98ed70e8c8764da36c10ad163a62ac7ec6a0"
   },
   {
    "name": "Yahoo",
@@ -19454,8 +19397,8 @@
    "type_counts": {
     "DOMAIN": 1,
     "DOMAIN-SUFFIX": 58,
-    "IP-CIDR": 1,
-    "USER-AGENT": 2
+    "USER-AGENT": 2,
+    "IP-CIDR": 1
    },
    "rule_updated_at": "2026-08-01T04:38:20.356540+00:00",
    "providers": [
@@ -19506,11 +19449,11 @@
    "line_count": 190,
    "type_counts": {
     "DOMAIN": 3,
-    "DOMAIN-KEYWORD": 1,
     "DOMAIN-SUFFIX": 181,
+    "DOMAIN-KEYWORD": 1,
+    "USER-AGENT": 2,
     "IP-CIDR": 2,
-    "IP-CIDR6": 1,
-    "USER-AGENT": 2
+    "IP-CIDR6": 1
    },
    "rule_updated_at": "2026-07-26T06:32:34.558292+00:00",
    "providers": [

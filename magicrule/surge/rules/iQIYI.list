@@ -7,7 +7,6 @@
 # DOMAIN-KEYWORD: 1
 # USER-AGENT: 6
 # IP-CIDR: 23
-# PROCESS-NAME: 1
 
 DOMAIN,intel-cache.m.iqiyi.com
 DOMAIN,intel-cache.video.iqiyi.com
@@ -90,4 +89,3 @@ IP-CIDR,23.211.15.99/32,no-resolve
 IP-CIDR,23.40.241.251/32,no-resolve
 IP-CIDR,23.40.242.10/32,no-resolve
 IP-CIDR,23.53.32.88/32,no-resolve
-PROCESS-NAME,com.qiyi.video

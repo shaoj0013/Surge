@@ -1,0 +1,342 @@
+{
+ "source": "https://magicrule.pages.dev/#/c/Surge",
+ "group_count": 33,
+ "groups": [
+  {
+   "key": "AdBlock",
+   "policy": "AdBlock",
+   "sources": [
+    "AdvertisingLite"
+   ],
+   "file": "groups/AdBlock.list",
+   "line_count": 189836
+  },
+  {
+   "key": "AdBlock-Full",
+   "policy": "AdBlock",
+   "sources": [
+    "Advertising"
+   ],
+   "file": "groups/AdBlock-Full.list",
+   "line_count": 291193
+  },
+  {
+   "key": "AdGuard",
+   "policy": "AdBlock",
+   "sources": [
+    "AdGuard"
+   ],
+   "file": "groups/AdGuard.list",
+   "line_count": 19
+  },
+  {
+   "key": "Direct",
+   "policy": "DIRECT",
+   "sources": [
+    "Direct"
+   ],
+   "file": "groups/Direct.list",
+   "line_count": 629
+  },
+  {
+   "key": "AI-Suite",
+   "policy": "AI Suite",
+   "sources": [
+    "OpenAI",
+    "Anthropic",
+    "Gemini",
+    "Copilot",
+    "GlobalAI"
+   ],
+   "file": "groups/AI-Suite.list",
+   "line_count": 1429
+  },
+  {
+   "key": "emby",
+   "policy": "emby",
+   "sources": [
+    "Emby"
+   ],
+   "file": "groups/emby.list",
+   "line_count": 83
+  },
+  {
+   "key": "TikTok",
+   "policy": "TikTok",
+   "sources": [
+    "TikTok"
+   ],
+   "file": "groups/TikTok.list",
+   "line_count": 66
+  },
+  {
+   "key": "Netflix",
+   "policy": "Netflix",
+   "sources": [
+    "Netflix"
+   ],
+   "file": "groups/Netflix.list",
+   "line_count": 1619
+  },
+  {
+   "key": "Disney-Plus",
+   "policy": "Disney Plus",
+   "sources": [
+    "Disney"
+   ],
+   "file": "groups/Disney-Plus.list",
+   "line_count": 248
+  },
+  {
+   "key": "YouTube",
+   "policy": "YouTube",
+   "sources": [
+    "YouTube",
+    "YouTubeMusic"
+   ],
+   "file": "groups/YouTube.list",
+   "line_count": 191
+  },
+  {
+   "key": "Max",
+   "policy": "Max",
+   "sources": [
+    "HBO",
+    "HBOUSA",
+    "HBOHK"
+   ],
+   "file": "groups/Max.list",
+   "line_count": 95
+  },
+  {
+   "key": "Spotify",
+   "policy": "Spotify",
+   "sources": [
+    "Spotify"
+   ],
+   "file": "groups/Spotify.list",
+   "line_count": 39
+  },
+  {
+   "key": "Asian-TV",
+   "policy": "Asian TV",
+   "sources": [
+    "AbemaTV",
+    "Bahamut",
+    "DMM",
+    "Fox",
+    "HuluJP",
+    "iQIYIIntl",
+    "JOOX",
+    "KKBOX",
+    "KKTV",
+    "LineTV",
+    "MOOMusic",
+    "myTVSUPER",
+    "Niconico",
+    "ViuTV"
+   ],
+   "file": "groups/Asian-TV.list",
+   "line_count": 443
+  },
+  {
+   "key": "Global-TV",
+   "policy": "Global TV",
+   "sources": [
+    "ABC",
+    "Amazon",
+    "BBC",
+    "DAZN",
+    "DiscoveryPlus",
+    "TVB",
+    "FOXNOW",
+    "Hulu",
+    "Pandora",
+    "PBS",
+    "SoundCloud"
+   ],
+   "file": "groups/Global-TV.list",
+   "line_count": 474
+  },
+  {
+   "key": "CN-Mainland-TV",
+   "policy": "CN Mainland TV",
+   "sources": [
+    "BiliBili",
+    "iQIYI",
+    "LeTV",
+    "NetEaseMusic",
+    "TencentVideo",
+    "Youku",
+    "WeTV"
+   ],
+   "file": "groups/CN-Mainland-TV.list",
+   "line_count": 1283
+  },
+  {
+   "key": "Apple-TV",
+   "policy": "Apple TV",
+   "sources": [
+    "AppleMusic",
+    "AppleNews",
+    "AppleTV"
+   ],
+   "file": "groups/Apple-TV.list",
+   "line_count": 27
+  },
+  {
+   "key": "Apple-Services",
+   "policy": "Apple Services",
+   "sources": [
+    "Apple"
+   ],
+   "file": "groups/Apple-Services.list",
+   "line_count": 3247
+  },
+  {
+   "key": "Apple-Push",
+   "policy": "Apple Push",
+   "sources": [
+    "Apple"
+   ],
+   "file": "groups/Apple-Push.list",
+   "line_count": 18
+  },
+  {
+   "key": "Google-FCM",
+   "policy": "Google FCM",
+   "sources": [
+    "Google"
+   ],
+   "file": "groups/Google-FCM.list",
+   "line_count": 34
+  },
+  {
+   "key": "Crypto",
+   "policy": "Crypto",
+   "sources": [
+    "Cryptocurrency"
+   ],
+   "file": "groups/Crypto.list",
+   "line_count": 240
+  },
+  {
+   "key": "Discord",
+   "policy": "Discord",
+   "sources": [
+    "Discord"
+   ],
+   "file": "groups/Discord.list",
+   "line_count": 31
+  },
+  {
+   "key": "Microsoft",
+   "policy": "Microsoft",
+   "sources": [
+    "Microsoft"
+   ],
+   "file": "groups/Microsoft.list",
+   "line_count": 918
+  },
+  {
+   "key": "PayPal",
+   "policy": "PayPal",
+   "sources": [
+    "PayPal"
+   ],
+   "file": "groups/PayPal.list",
+   "line_count": 248
+  },
+  {
+   "key": "Scholar",
+   "policy": "Scholar",
+   "sources": [
+    "Scholar"
+   ],
+   "file": "groups/Scholar.list",
+   "line_count": 321
+  },
+  {
+   "key": "Speedtest",
+   "policy": "Speedtest",
+   "sources": [
+    "Speedtest"
+   ],
+   "file": "groups/Speedtest.list",
+   "line_count": 3486
+  },
+  {
+   "key": "Steam",
+   "policy": "Steam",
+   "sources": [
+    "Steam"
+   ],
+   "file": "groups/Steam.list",
+   "line_count": 97
+  },
+  {
+   "key": "Telegram",
+   "policy": "Telegram",
+   "sources": [
+    "Telegram"
+   ],
+   "file": "groups/Telegram.list",
+   "line_count": 998
+  },
+  {
+   "key": "Twitter",
+   "policy": "Twitter",
+   "sources": [
+    "Twitter"
+   ],
+   "file": "groups/Twitter.list",
+   "line_count": 36
+  },
+  {
+   "key": "Facebook",
+   "policy": "Proxy",
+   "sources": [
+    "Facebook"
+   ],
+   "file": "groups/Facebook.list",
+   "line_count": 592
+  },
+  {
+   "key": "Global",
+   "policy": "Proxy",
+   "sources": [
+    "Global"
+   ],
+   "file": "groups/Global.list",
+   "line_count": 24439
+  },
+  {
+   "key": "miHoYo",
+   "policy": "miHoYo",
+   "sources": [
+    "HoYoverse"
+   ],
+   "file": "groups/miHoYo.list",
+   "line_count": 26
+  },
+  {
+   "key": "Domestic",
+   "policy": "Domestic",
+   "sources": [
+    "China"
+   ],
+   "file": "groups/Domestic.list",
+   "line_count": 10338
+  },
+  {
+   "key": "Domestic-IPs",
+   "policy": "Domestic",
+   "sources": [
+    "ChinaIPs",
+    "ChinaASN"
+   ],
+   "file": "groups/Domestic-IPs.list",
+   "line_count": 23165
+  }
+ ]
+}

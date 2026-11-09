@@ -4,7 +4,6 @@
 # UPDATED: 2026-11-07 03:22:33
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 57
-# PROCESS-NAME: 1
 
 DOMAIN,hulu.playback.edge.bamgrid.com
 DOMAIN-SUFFIX,112263.com
@@ -64,4 +63,3 @@ DOMAIN-SUFFIX,streaks.jp
 DOMAIN-SUFFIX,thehulubraintrust.com
 DOMAIN-SUFFIX,wwwhuluplus.com
 DOMAIN-SUFFIX,yb.uncn.jp
-PROCESS-NAME,com.hulu.plus

@@ -6,7 +6,6 @@
 # DOMAIN-SUFFIX: 272411
 # DOMAIN-KEYWORD: 210
 # USER-AGENT: 1
-# URL-REGEX: 15
 # IP-CIDR: 1045
 # IP-CIDR6: 6
 # IP-ASN: 15
@@ -290139,21 +290138,6 @@ DOMAIN-KEYWORD,xxshuyuan
 DOMAIN-KEYWORD,zjtoolbar
 DOMAIN-KEYWORD,zymerget
 USER-AGENT,AVOS*
-URL-REGEX,/\d+/resolve
-URL-REGEX,/\d+/sign_d
-URL-REGEX,/igd\.xml
-URL-REGEX,^https://goblin\.hupu\.com/[^/]+/[^/]+/interfaceAd/
-URL-REGEX,^https?://(?:ad|d|sax)\d\.sina\.com\.cn
-URL-REGEX,^https?://(?:api|sa)\d\.tuisong\.baidu\.com
-URL-REGEX,^https?://.+\.beacon\.qq\.com
-URL-REGEX,^https?://.+\.gdt\.qq\.com
-URL-REGEX,^https?://.+\.l\.qq\.com
-URL-REGEX,^https?://[^/]+/videos/other/.+
-URL-REGEX,^https?://ad\d\.sina\.com
-URL-REGEX,^https?://app\.58\.com/api/log
-URL-REGEX,^https?://d\d\.sinaimg\.cn
-URL-REGEX,^https?://update\.pan\.baidu\.com/statistics\?
-URL-REGEX,^https?:\/\/cdn-1rtb\.caiyunapp\.com\/creative\/.*$
 IP-CIDR,0.0.0.1/32,no-resolve
 IP-CIDR,1.0.218.230/32,no-resolve
 IP-CIDR,1.3.0.10/32,no-resolve
