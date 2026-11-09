@@ -1,0 +1,10 @@
+# NAME: Pandora
+# AUTHOR: MagicRule
+# REPO: https://magicrule.pages.dev
+# UPDATED: 2026-11-07 03:23:32
+# DOMAIN-SUFFIX: 2
+# USER-AGENT: 1
+
+DOMAIN-SUFFIX,p-cdn.us
+DOMAIN-SUFFIX,pandora.com
+USER-AGENT,Pandora*

@@ -1,0 +1,10 @@
+# NAME: NaverTV
+# AUTHOR: MagicRule
+# REPO: https://magicrule.pages.dev
+# UPDATED: 2026-11-07 03:22:58
+# DOMAIN-SUFFIX: 2
+# USER-AGENT: 1
+
+DOMAIN-SUFFIX,naver.com
+DOMAIN-SUFFIX,smartmediarep.com
+USER-AGENT,Naver%20TV*

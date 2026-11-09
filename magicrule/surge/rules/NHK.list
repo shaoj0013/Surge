@@ -1,0 +1,10 @@
+# NAME: NHK
+# AUTHOR: MagicRule
+# REPO: https://magicrule.pages.dev/
+# UPDATED: 2026-11-09 12:12:18
+# DOMAIN-SUFFIX: 4
+
+DOMAIN-SUFFIX,nhk
+DOMAIN-SUFFIX,nhk.jp
+DOMAIN-SUFFIX,nhk.or.jp
+DOMAIN-SUFFIX,nhkworld.jp

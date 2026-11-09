@@ -1,0 +1,9 @@
+# NAME: Certum
+# AUTHOR: MagicRule
+# REPO: https://magicrule.pages.dev/
+# UPDATED: 2026-11-09 12:06:08
+# DOMAIN-SUFFIX: 3
+
+DOMAIN-SUFFIX,certum.pl
+DOMAIN-SUFFIX,ocsp-certum.com
+DOMAIN-SUFFIX,ocsp-responder.com

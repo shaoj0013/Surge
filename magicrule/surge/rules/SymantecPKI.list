@@ -1,0 +1,11 @@
+# NAME: SymantecPKI
+# AUTHOR: MagicRule
+# REPO: https://magicrule.pages.dev/
+# UPDATED: 2026-11-09 12:09:03
+# DOMAIN-SUFFIX: 5
+
+DOMAIN-SUFFIX,pki.symantec.com
+DOMAIN-SUFFIX,symauth.com
+DOMAIN-SUFFIX,symcb.com
+DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,ws.symantec.com

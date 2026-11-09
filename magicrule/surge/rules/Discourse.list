@@ -1,0 +1,9 @@
+# NAME: Discourse
+# AUTHOR: MagicRule
+# REPO: https://magicrule.pages.dev/
+# UPDATED: 2026-11-09 12:09:31
+# DOMAIN-SUFFIX: 3
+
+DOMAIN-SUFFIX,discourse-cdn.com
+DOMAIN-SUFFIX,discourse.group
+DOMAIN-SUFFIX,discourse.org

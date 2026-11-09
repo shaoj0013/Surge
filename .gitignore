@@ -1,0 +1,5 @@
+# 抓取过程中的 manifest 缓存, 不入库
+magicrule/.work/
+
+# macOS
+.DS_Store

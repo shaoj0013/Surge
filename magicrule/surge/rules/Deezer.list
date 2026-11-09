@@ -1,0 +1,10 @@
+# NAME: Deezer
+# AUTHOR: MagicRule
+# REPO: https://magicrule.pages.dev
+# UPDATED: 2026-11-07 03:17:12
+# DOMAIN-SUFFIX: 2
+# USER-AGENT: 1
+
+DOMAIN-SUFFIX,deezer.com
+DOMAIN-SUFFIX,dzcdn.net
+USER-AGENT,Deezer*

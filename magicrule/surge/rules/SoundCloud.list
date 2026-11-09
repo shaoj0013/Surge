@@ -1,0 +1,12 @@
+# NAME: SoundCloud
+# AUTHOR: MagicRule
+# REPO: https://magicrule.pages.dev
+# UPDATED: 2026-11-07 03:20:38
+# DOMAIN-SUFFIX: 4
+# USER-AGENT: 1
+
+DOMAIN-SUFFIX,p-cdn.us
+DOMAIN-SUFFIX,sndcdn.com
+DOMAIN-SUFFIX,soundcloud.cloud
+DOMAIN-SUFFIX,soundcloud.com
+USER-AGENT,SoundCloud*

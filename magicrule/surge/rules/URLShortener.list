@@ -1,0 +1,11 @@
+# NAME: URLShortener
+# AUTHOR: MagicRule
+# REPO: https://magicrule.pages.dev/
+# UPDATED: 2026-11-07 03:19:10
+# DOMAIN-SUFFIX: 5
+
+DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,bitly.com
+DOMAIN-SUFFIX,bitly.is
+DOMAIN-SUFFIX,shorturl.at
+DOMAIN-SUFFIX,tinyurl.com

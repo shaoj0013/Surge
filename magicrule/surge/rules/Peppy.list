@@ -1,0 +1,17 @@
+# NAME: Peppy
+# AUTHOR: MagicRule
+# REPO: https://magicrule.pages.dev/
+# UPDATED: 2026-11-09 12:05:26
+# DOMAIN: 9
+# DOMAIN-SUFFIX: 1
+
+DOMAIN,a.ppy.sh
+DOMAIN,assets.ppy.sh
+DOMAIN,c.ppy.sh
+DOMAIN,lazer.ppy.sh
+DOMAIN,m1.ppy.sh
+DOMAIN,notify.ppy.sh
+DOMAIN,osu.ppy.sh
+DOMAIN,sentry.ppy.sh
+DOMAIN,spectator.ppy.sh
+DOMAIN-SUFFIX,ppy.sh

@@ -1,0 +1,10 @@
+# NAME: Sentry
+# AUTHOR: MagicRule
+# REPO: https://magicrule.pages.dev/
+# UPDATED: 2026-11-07 03:23:35
+# DOMAIN-SUFFIX: 4
+
+DOMAIN-SUFFIX,getsentry.com
+DOMAIN-SUFFIX,sentry-cdn.com
+DOMAIN-SUFFIX,sentry.dev
+DOMAIN-SUFFIX,sentry.io

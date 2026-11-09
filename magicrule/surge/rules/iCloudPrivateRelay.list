@@ -1,0 +1,16 @@
+# NAME: iCloudPrivateRelay
+# AUTHOR: MagicRule
+# REPO: https://magicrule.pages.dev
+# UPDATED: 2026-11-07 03:18:36
+# DOMAIN: 6
+# DOMAIN-SUFFIX: 3
+
+DOMAIN,canary.mask.apple-dns.net
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask-canary.icloud.com
+DOMAIN,mask-h2.icloud.com
+DOMAIN,mask.apple-dns.net
+DOMAIN,mask.icloud.com
+DOMAIN-SUFFIX,mask-api.icloud.com
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN-SUFFIX,mask.icloud.com

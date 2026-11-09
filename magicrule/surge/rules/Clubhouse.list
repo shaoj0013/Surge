@@ -1,0 +1,12 @@
+# NAME: Clubhouse
+# AUTHOR: MagicRule
+# REPO: https://magicrule.pages.dev
+# UPDATED: 2026-11-07 03:17:45
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 3
+
+DOMAIN,clubhouse.pubnub.com
+DOMAIN,clubhouseprod.s3.amazonaws.com
+DOMAIN-SUFFIX,clubhouse.com
+DOMAIN-SUFFIX,clubhouseapi.com
+DOMAIN-SUFFIX,joinclubhouse.com
