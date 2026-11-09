@@ -1,6 +1,6 @@
 {
  "source": "https://magicrule.pages.dev/#/c/Surge",
- "generated_at": "2026-11-09T14:15:33Z",
+ "generated_at": "2026-11-09T14:25:16Z",
  "rule_count": 1185,
  "total_line_count": 855364,
  "rules": [
@@ -16007,7 +16007,7 @@
     "AdvertisingLite"
    ],
    "file": "rule/group/AdBlock.list",
-   "line_count": 189837
+   "line_count": 189836
   },
   {
    "key": "AdBlock-Full",
@@ -16047,7 +16047,7 @@
     "GlobalAI"
    ],
    "file": "rule/group/AI-Suite.list",
-   "line_count": 1431
+   "line_count": 1429
   },
   {
    "key": "emby",
@@ -16198,7 +16198,7 @@
     "Apple"
    ],
    "file": "rule/group/Apple-Push.list",
-   "line_count": 14
+   "line_count": 18
   },
   {
    "key": "Google-FCM",

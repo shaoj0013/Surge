@@ -1,7 +1,8 @@
 {
   "AdBlock": {
     "policy": "AdBlock",
-    "sources": [{"name": "AdvertisingLite"}]
+    "sources": [{"name": "AdvertisingLite"}],
+    "exclude": ["DOMAIN-SUFFIX,metrics.icloud.com"]
   },
   "AdBlock-Full": {
     "policy": "AdBlock",
@@ -18,7 +19,8 @@
   "AI-Suite": {
     "policy": "AI Suite",
     "sources": [{"name": "OpenAI"}, {"name": "Anthropic"}, {"name": "Gemini"},
-                {"name": "Copilot"}, {"name": "GlobalAI"}]
+                {"name": "Copilot"}, {"name": "GlobalAI"}],
+    "exclude": ["DOMAIN-SUFFIX,microsoft.com", "DOMAIN-SUFFIX,cloudflare.app"]
   },
   "emby": {
     "policy": "emby",
@@ -84,7 +86,14 @@
   },
   "Apple-Push": {
     "policy": "Apple Push",
-    "sources": [{"name": "Apple", "filter": "push|apns|notification"}]
+    "sources": [{"name": "Apple", "filter": "push|apns|notification"}],
+    "extra": [
+      "DOMAIN,metrics.icloud.com",
+      "DOMAIN,calendars.icloud.com",
+      "DOMAIN,gateway.icloud.com",
+      "DOMAIN,doh.dns.apple.com",
+      "DOMAIN-SUFFIX,push.apple.com"
+    ]
   },
   "Google-FCM": {
     "policy": "Google FCM",

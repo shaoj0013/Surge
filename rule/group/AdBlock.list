@@ -2,7 +2,8 @@
 # GROUP: AdBlock
 # MERGED: AdvertisingLite
 # SOURCE: MagicRule https://magicrule.pages.dev
-# RULES: 189837
+# EXCLUDED: 1 条手工排除
+# RULES: 189836
 DOMAIN,0.up.qingdaonews.com
 DOMAIN,00-gov.cn
 DOMAIN,001.0x1f4b0.com
@@ -113818,7 +113819,6 @@ DOMAIN-SUFFIX,metrics.ibfd.org
 DOMAIN-SUFFIX,metrics.ibis-styles-nagold.com
 DOMAIN-SUFFIX,metrics.ice.gov
 DOMAIN-SUFFIX,metrics.icemakerdirect.com
-DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,metrics.iconfitness.com
 DOMAIN-SUFFIX,metrics.idealisalvas.hu
 DOMAIN-SUFFIX,metrics.identityguard.com

@@ -219,6 +219,12 @@ def build_groups(entries):
                 seen.add(line)
                 collected.append(line)
 
+        # 手工排除的规则: 上游条目过于宽泛, 会盖住其它分组的规则。
+        excluded = set(spec.get("exclude", []))
+        if excluded:
+            collected = [line for line in collected if line not in excluded]
+            seen -= excluded
+
         # 手工补充的规则 (上游没有对应分类时用), 每次重建都会重新写入。
         extras = spec.get("extra", [])
         appended = 0
@@ -238,6 +244,8 @@ def build_groups(entries):
         ]
         if appended:
             header.insert(4, f"# EXTRA: {appended} 条手工补充")
+        if excluded:
+            header.insert(4, f"# EXCLUDED: {len(excluded)} 条手工排除")
         content = "\n".join(header + collected) + "\n"
         path = GROUP_DIR / f"{key}.list"
         write_if_changed(path, content)

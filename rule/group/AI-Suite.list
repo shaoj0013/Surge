@@ -2,7 +2,8 @@
 # GROUP: AI-Suite
 # MERGED: OpenAI, Anthropic, Gemini, Copilot, GlobalAI
 # SOURCE: MagicRule https://magicrule.pages.dev
-# RULES: 1431
+# EXCLUDED: 2 条手工排除
+# RULES: 1429
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,o33249.ingest.us.sentry.io
@@ -625,7 +626,6 @@ DOMAIN-SUFFIX,classicfern.com
 DOMAIN-SUFFIX,clawhub.ai
 DOMAIN-SUFFIX,click4.pro
 DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
-DOMAIN-SUFFIX,cloudflare.app
 DOMAIN-SUFFIX,cloudflare.pay
 DOMAIN-SUFFIX,cloudwp.dev
 DOMAIN-SUFFIX,cm.expert
@@ -967,7 +967,6 @@ DOMAIN-SUFFIX,metib.ru
 DOMAIN-SUFFIX,mgvjcurwdujhf.site
 DOMAIN-SUFFIX,mhaafduliizbe.site
 DOMAIN-SUFFIX,mhgui.com
-DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,milfy.com
 DOMAIN-SUFFIX,minimax.io
 DOMAIN-SUFFIX,minkch.com
