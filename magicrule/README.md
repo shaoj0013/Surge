@@ -4,9 +4,16 @@
 
 | 目录 | 客户端 | 规则数 | 有效行数 | 体积 |
 | --- | --- | --- | --- | --- |
-| `surge/` | Surge | 1,185 | 855,563 | 26.2 MB |
+| `surge/` | Surge | 1,185 | 855,364 | 26.2 MB |
 
 详细说明见 [`surge/README.md`](surge/README.md)。
+
+Surge 的规则文件在抓取时会剔除它不认的三种类型 (`URL-REGEX` / `PROCESS-NAME` / `GEOIP`, 共 199 行),
+否则整份规则集会被 Surge 拒绝加载; 头部注释里的类型计数同步重算。
+
+`surge/groups/` 里另有 33 个按策略组合并好的规则集 (AdBlock / Netflix / AI Suite / Global …),
+配置里直接引用这些即可, 不用逐个引用分类。合并规则写在 `groups.json`, 由
+`tools/build_groups.py` 生成, 抓取脚本跑完会自动执行一次。
 
 ## 重新抓取
 

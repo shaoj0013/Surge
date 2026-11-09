@@ -5,7 +5,7 @@
 | 指标 | 数值 |
 | --- | --- |
 | 规则条数 | 1,185 |
-| 有效行数 | 855,563 |
+| 有效行数 | 855,364 |
 | 规则体积 | 26.2 MB |
 | 站点数据版本 | 2026-11-09 |
 
@@ -14,7 +14,9 @@
     surge/
     ├── catalog.json    # 结构化索引 (元数据 + 行数 + 类型分布 + 上游来源 + sha256)
     ├── catalog.csv     # 同上, 表格版, UTF-8 BOM, Excel 可直接打开
-    └── rules/          # 1185 个 .list 规则文件, 文件名即规则名
+    ├── rules/          # 1185 个 .list 规则文件, 文件名即规则名
+    ├── groups/         # 33 个按策略组合并好的规则集, 直接可用
+    └── groups.json     # 分组清单 (策略组 / 来源分类 / 行数)
 
 ## 规则格式
 
@@ -35,16 +37,39 @@
 
 | 类型 | 行数 |
 | --- | --- |
-| DOMAIN-SUFFIX | 561,127 |
-| DOMAIN | 246,924 |
-| IP-CIDR | 31,812 |
+| DOMAIN-SUFFIX | 557,267 |
+| DOMAIN | 246,764 |
+| IP-CIDR | 31,785 |
 | IP-ASN | 10,182 |
 | IP-CIDR6 | 8,625 |
 | DOMAIN-KEYWORD | 585 |
-| PROCESS-NAME | 163 |
 | USER-AGENT | 156 |
-| URL-REGEX | 35 |
-| GEOIP | 1 |
+
+上游混着三种 Surge 不认的规则类型, 抓取时已剔除, 否则整份规则集加载失败:
+`URL-REGEX` 35 条、`PROCESS-NAME` 163 条、`GEOIP` 1 条 (共 199 行)。
+`GEOIP` 是全局规则, 放在规则集里只会触发无谓的解析, 由配置里的 `GEOIP,CN,...` 统一处理。
+头部注释里的类型计数会按剔除后的内容重算。
+
+## 合并分组
+
+`groups/` 里的 33 个文件是按 Surge 策略组合并好的规则集, 建议直接引用它们, 而不是逐个引用分类:
+
+    [Rule]
+    RULE-SET,https://your-host/magicrule/surge/groups/AdBlock.list,AdBlock
+    RULE-SET,https://your-host/magicrule/surge/groups/AI-Suite.list,AI Suite
+
+合并规则写在 `magicrule/groups.json` 里, 支持四个字段:
+
+| 字段 | 说明 |
+| --- | --- |
+| `sources` | 来源分类; `{"name": "X", "filter": "正则"}` 表示只取 X 中匹配该正则的规则 |
+| `extra` | 手工补充的规则 (上游没有对应分类时用) |
+| `exclude` | 手工排除的规则 (上游条目过于宽泛、会盖住其它分组时用) |
+
+例如 `AI-Suite` 排除了 `DOMAIN-SUFFIX,microsoft.com` —— 上游 `GlobalAI` 分类里带着这条,
+会导致整个 `microsoft.com` 都走 AI Suite 分组而不是 Microsoft 分组。
+
+合并由 `magicrule/tools/build_groups.py` 完成, 抓取脚本跑完会自动执行一次。
 
 ## 在 Surge 中使用
 
