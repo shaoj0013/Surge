@@ -1,0 +1,13 @@
+# NAME: Container
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/b7209523718b8a7fb57a85e9/manifest.json
+# UPDATED: 2026-07-26T08:25:13.784691+00:00
+# RULES: 9
+DOMAIN-SUFFIX,azurecr.io
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,ecr.aws
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,mcr.microsoft.com
+DOMAIN-SUFFIX,quay.io
+DOMAIN-SUFFIX,registry.gitlab.com
+DOMAIN-SUFFIX,registry.k8s.io

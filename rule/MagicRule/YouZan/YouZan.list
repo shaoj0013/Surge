@@ -1,0 +1,11 @@
+# NAME: YouZan
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/190613e56e9742e2d641ac0b/manifest.json
+# UPDATED: 2026-08-01T04:38:16.236477+00:00
+# RULES: 7
+DOMAIN-SUFFIX,daogou.ai
+DOMAIN-SUFFIX,koudaitong.com
+DOMAIN-SUFFIX,quntuantuan.cn
+DOMAIN-SUFFIX,xinlingshou.com
+DOMAIN-SUFFIX,youzan.com
+DOMAIN-SUFFIX,youzanyun.com
+DOMAIN-SUFFIX,yzcdn.cn

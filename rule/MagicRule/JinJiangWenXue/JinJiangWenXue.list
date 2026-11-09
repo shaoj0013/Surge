@@ -1,0 +1,12 @@
+# NAME: JinJiangWenXue
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/44b066e5b85536f66ce55e9c/manifest.json
+# UPDATED: 2026-07-26T06:25:41.083250+00:00
+# RULES: 7
+# STRIPPED: PROCESS-NAMEx1
+DOMAIN-SUFFIX,chaba123.com
+DOMAIN-SUFFIX,jjwxc.cn
+DOMAIN-SUFFIX,jjwxc.com
+DOMAIN-SUFFIX,jjwxc.net
+DOMAIN-SUFFIX,jjwxc.org
+DOMAIN-SUFFIX,jjycw.net
+DOMAIN-SUFFIX,robook.com

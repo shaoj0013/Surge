@@ -1,0 +1,5 @@
+# NAME: PixHost
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/0c62b4c50d3d591d60c6329c/manifest.json
+# UPDATED: 2026-07-26T10:40:58.108177+00:00
+# RULES: 1
+DOMAIN-SUFFIX,pixhost.to

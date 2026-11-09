@@ -1,0 +1,6 @@
+# NAME: TranslateWiki
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/04d1c26b9946216f53118c4c/manifest.json
+# UPDATED: 2026-07-26T10:46:32.230324+00:00
+# RULES: 2
+DOMAIN-SUFFIX,translatewiki.net
+DOMAIN-SUFFIX,translatewiki.org

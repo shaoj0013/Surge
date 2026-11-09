@@ -1,0 +1,8 @@
+# NAME: Embark
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/ee5259c412b3dcd47fec8f68/manifest.json
+# UPDATED: 2026-07-26T08:36:29.361935+00:00
+# RULES: 4
+DOMAIN-SUFFIX,arcraiders.com
+DOMAIN-SUFFIX,embark-studios.com
+DOMAIN-SUFFIX,embark.games
+DOMAIN-SUFFIX,reachthefinals.com

@@ -1,0 +1,8 @@
+# NAME: Collabora
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/7caa67364690b33f58e6b810/manifest.json
+# UPDATED: 2026-07-26T10:24:26.756751+00:00
+# RULES: 4
+DOMAIN-SUFFIX,collabora.co.uk
+DOMAIN-SUFFIX,collabora.com
+DOMAIN-SUFFIX,collabora.org
+DOMAIN-SUFFIX,collaboraoffice.com

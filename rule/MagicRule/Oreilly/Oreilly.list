@@ -1,0 +1,10 @@
+# NAME: Oreilly
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/f616b61c09793bc59a0d6281/manifest.json
+# UPDATED: 2026-07-26T06:52:53.400694+00:00
+# RULES: 6
+DOMAIN-SUFFIX,oreil.ly
+DOMAIN-SUFFIX,oreilly.com
+DOMAIN-SUFFIX,oreilly.com.cn
+DOMAIN-SUFFIX,oreilly.review
+DOMAIN-SUFFIX,oreillystatic.com
+DOMAIN-SUFFIX,orl.ly

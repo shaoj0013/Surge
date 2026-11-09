@@ -1,0 +1,6 @@
+# NAME: Bandcamp
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/96feaf44a2d7c13e6508275e/manifest.json
+# UPDATED: 2026-07-26T08:38:24.227573+00:00
+# RULES: 2
+DOMAIN-SUFFIX,bandcamp.com
+DOMAIN-SUFFIX,bcbits.com

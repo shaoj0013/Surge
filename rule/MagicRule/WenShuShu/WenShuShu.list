@@ -1,0 +1,16 @@
+# NAME: WenShuShu
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/f81bc9738abc1b629d46a641/manifest.json
+# UPDATED: 2026-07-26T08:37:46.580125+00:00
+# RULES: 12
+DOMAIN-SUFFIX,wenshushu.cn
+DOMAIN-SUFFIX,wenshushu.com
+DOMAIN-SUFFIX,wenxiaozhan.cn
+DOMAIN-SUFFIX,wenxiaozhan.com
+DOMAIN-SUFFIX,wenxiaozhan.net
+DOMAIN-SUFFIX,wss.cc
+DOMAIN-SUFFIX,wss.email
+DOMAIN-SUFFIX,wss.ink
+DOMAIN-SUFFIX,wss.pet
+DOMAIN-SUFFIX,wss.show
+DOMAIN-SUFFIX,wss.zone
+DOMAIN-SUFFIX,wss1.cn

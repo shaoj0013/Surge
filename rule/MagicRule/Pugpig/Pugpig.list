@@ -1,0 +1,7 @@
+# NAME: Pugpig
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/d487492d444837bfb544840c/manifest.json
+# UPDATED: 2026-07-26T10:41:35.143000+00:00
+# RULES: 3
+DOMAIN-SUFFIX,pugpig-dev.com
+DOMAIN-SUFFIX,pugpig-stage.com
+DOMAIN-SUFFIX,pugpig.com

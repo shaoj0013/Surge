@@ -1,0 +1,6 @@
+# NAME: Trello
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/2256b2ef4ce02b88cdbfc813/manifest.json
+# UPDATED: 2026-07-26T07:37:35.600175+00:00
+# RULES: 2
+DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,trellocdn.com

@@ -1,0 +1,8 @@
+# NAME: ImperialCollege
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/bc2c71843ea035621ca878ab/manifest.json
+# UPDATED: 2026-07-26T10:34:35.730987+00:00
+# RULES: 4
+DOMAIN,imperial.insendi.com
+DOMAIN-SUFFIX,ic.ac.uk
+DOMAIN-SUFFIX,imperial.ac.uk
+DOMAIN-SUFFIX,imperialbusiness.school

@@ -1,0 +1,12 @@
+# NAME: Limelight
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/86d96bd60d2ef6a149791de5/manifest.json
+# UPDATED: 2026-07-26T06:56:32.588366+00:00
+# RULES: 8
+DOMAIN-SUFFIX,delvenetworks.com
+DOMAIN-SUFFIX,limelight.com
+DOMAIN-SUFFIX,lldns.net
+DOMAIN-SUFFIX,llnw-trials.com
+DOMAIN-SUFFIX,llnw.com
+DOMAIN-SUFFIX,llnw.net
+DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,llnwi.net

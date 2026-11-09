@@ -1,0 +1,20 @@
+# NAME: GovCN
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/623905a52361e14f256ee5fd/manifest.json
+# UPDATED: 2026-07-26T07:01:09.664655+00:00
+# RULES: 16
+DOMAIN-SUFFIX,91huayi.cn
+DOMAIN-SUFFIX,91huayi.com
+DOMAIN-SUFFIX,91huayi.net
+DOMAIN-SUFFIX,gov.cn
+DOMAIN-SUFFIX,heart301.cn
+DOMAIN-SUFFIX,henancme.net
+DOMAIN-SUFFIX,huayi.cn
+DOMAIN-SUFFIX,huayiweibo.com
+DOMAIN-SUFFIX,huayiyuan.com
+DOMAIN-SUFFIX,robot301.net
+DOMAIN-SUFFIX,roboticsurg301.net
+DOMAIN-SUFFIX,scncrc.com
+DOMAIN-SUFFIX,shiyanma.org.cn
+DOMAIN-SUFFIX,sqpx.org
+DOMAIN-SUFFIX,wsglw.com
+DOMAIN-SUFFIX,wsglw.net

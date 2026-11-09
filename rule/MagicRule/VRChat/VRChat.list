@@ -1,0 +1,7 @@
+# NAME: VRChat
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/dbf3910b6a26cd54468cf314/manifest.json
+# UPDATED: 2026-07-26T10:48:06.569526+00:00
+# RULES: 3
+DOMAIN-SUFFIX,vrchat.cloud
+DOMAIN-SUFFIX,vrchat.com
+DOMAIN-SUFFIX,vrchat.net

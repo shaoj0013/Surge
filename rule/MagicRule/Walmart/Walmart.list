@@ -1,0 +1,14 @@
+# NAME: Walmart
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/5a8f6154be9f217eb215e362/manifest.json
+# UPDATED: 2026-07-26T08:39:36.824142+00:00
+# RULES: 10
+DOMAIN-SUFFIX,w-mt.co
+DOMAIN-SUFFIX,wal-mart.com
+DOMAIN-SUFFIX,wal.co
+DOMAIN-SUFFIX,walmart
+DOMAIN-SUFFIX,walmart-content.com
+DOMAIN-SUFFIX,walmart.cn
+DOMAIN-SUFFIX,walmart.com
+DOMAIN-SUFFIX,walmart.pharmacy
+DOMAIN-SUFFIX,walmartimages.com
+DOMAIN-SUFFIX,wmt.co

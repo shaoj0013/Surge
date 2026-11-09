@@ -1,0 +1,6 @@
+# NAME: Typekit
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/6ef05188a698f7af2f2ee22c/manifest.json
+# UPDATED: 2026-07-26T10:46:42.019018+00:00
+# RULES: 2
+DOMAIN-SUFFIX,typekit.com
+DOMAIN-SUFFIX,typekit.net

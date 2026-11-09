@@ -1,0 +1,7 @@
+# NAME: Booking
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/66d19095db999c7a712b38ea/manifest.json
+# UPDATED: 2026-07-26T08:38:26.489872+00:00
+# RULES: 3
+DOMAIN-SUFFIX,booking.cn
+DOMAIN-SUFFIX,booking.com
+DOMAIN-SUFFIX,bstatic.com

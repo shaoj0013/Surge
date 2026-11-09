@@ -1,0 +1,8 @@
+# NAME: MicrosoftEdge
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/df465626c5a284f57e035479/manifest.json
+# UPDATED: 2026-07-26T07:36:26.738046+00:00
+# RULES: 4
+DOMAIN,edge.activity.windows.com
+DOMAIN,edge.microsoft.com
+DOMAIN,iecvlist.microsoft.com
+DOMAIN,msedge.api.cdp.microsoft.com

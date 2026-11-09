@@ -1,0 +1,6 @@
+# NAME: Nexo
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/8626dec45b7afdbd10ab9116/manifest.json
+# UPDATED: 2026-07-26T10:38:35.033779+00:00
+# RULES: 2
+DOMAIN-SUFFIX,nexo.com
+DOMAIN-SUFFIX,nexo.io

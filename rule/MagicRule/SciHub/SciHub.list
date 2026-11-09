@@ -1,0 +1,10 @@
+# NAME: SciHub
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/19831e6796df1e071c6a0b0f/manifest.json
+# UPDATED: 2026-07-26T10:42:41.162690+00:00
+# RULES: 6
+DOMAIN-SUFFIX,sci-hub.ee
+DOMAIN-SUFFIX,sci-hub.it.nf
+DOMAIN-SUFFIX,sci-hub.mksa.top
+DOMAIN-SUFFIX,sci-hub.se
+DOMAIN-SUFFIX,sci-hub.st
+DOMAIN-SUFFIX,sci.hubg.org

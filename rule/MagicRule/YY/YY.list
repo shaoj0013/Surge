@@ -1,0 +1,9 @@
+# NAME: YY
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/e8ebb523a492a00e2009d8af/manifest.json
+# UPDATED: 2026-11-06T14:35:04.646748+00:00
+# RULES: 5
+DOMAIN-SUFFIX,duowan.com
+DOMAIN-SUFFIX,dwstatic.com
+DOMAIN-SUFFIX,yy.com
+DOMAIN-SUFFIX,yyeshop.cn
+DOMAIN-SUFFIX,yystatic.com

@@ -1,0 +1,9 @@
+# NAME: CNET
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/3d49952f591c9afc6045d614/manifest.json
+# UPDATED: 2026-07-26T10:23:49.720004+00:00
+# RULES: 5
+DOMAIN-SUFFIX,cnet.co.kr
+DOMAIN-SUFFIX,cnet.com
+DOMAIN-SUFFIX,cnet.de
+DOMAIN-SUFFIX,cnetfrance.fr
+DOMAIN-SUFFIX,download.com

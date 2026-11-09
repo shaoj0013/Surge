@@ -1,0 +1,13 @@
+# NAME: Razer
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/87630f23ea762639197a72f3/manifest.json
+# UPDATED: 2026-07-26T06:53:34.840846+00:00
+# RULES: 9
+DOMAIN-SUFFIX,razer.com
+DOMAIN-SUFFIX,razerapi.com
+DOMAIN-SUFFIX,razerofficial.com
+DOMAIN-SUFFIX,razersupport.com
+DOMAIN-SUFFIX,razersynapse.com
+DOMAIN-SUFFIX,razerzone.com
+DOMAIN-SUFFIX,razerzone.jp
+DOMAIN-SUFFIX,respawnbyrazer.com
+DOMAIN-SUFFIX,rzr.to

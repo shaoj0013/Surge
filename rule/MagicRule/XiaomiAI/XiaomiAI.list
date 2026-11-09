@@ -1,0 +1,7 @@
+# NAME: XiaomiAI
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/eae7507665b177c8f4a93fdb/manifest.json
+# UPDATED: 2026-07-26T08:29:42.234053+00:00
+# RULES: 3
+DOMAIN-SUFFIX,miaibox.com
+DOMAIN-SUFFIX,xiaoaiassist.com
+DOMAIN-SUFFIX,xiaomimimo.com

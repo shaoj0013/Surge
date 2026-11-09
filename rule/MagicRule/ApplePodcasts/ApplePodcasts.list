@@ -1,0 +1,8 @@
+# NAME: ApplePodcasts
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/a8c483dcac0fb3b682cc1cc0/manifest.json
+# UPDATED: 2026-07-26T08:22:24.217042+00:00
+# RULES: 4
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,podcasts.apple.com
+DOMAIN-SUFFIX,applepodcasts.com
+DOMAIN-SUFFIX,podcasts.apple.com

@@ -1,0 +1,12 @@
+# NAME: Mucinex
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/cbe2b3678bbdd220c8a1db1e/manifest.json
+# UPDATED: 2026-07-26T10:37:48.448963+00:00
+# RULES: 8
+DOMAIN-SUFFIX,mucinex.ca
+DOMAIN-SUFFIX,mucinex.cn
+DOMAIN-SUFFIX,mucinex.co.nz
+DOMAIN-SUFFIX,mucinex.com
+DOMAIN-SUFFIX,mucinex.com.cn
+DOMAIN-SUFFIX,mucinex.net
+DOMAIN-SUFFIX,mucinex.tv
+DOMAIN-SUFFIX,mucinexprofessional.com

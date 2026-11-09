@@ -1,0 +1,14 @@
+# NAME: Marvel
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/ffd37fbeb75a60bb7e503268/manifest.json
+# UPDATED: 2026-07-26T10:37:13.684532+00:00
+# RULES: 10
+DOMAIN-SUFFIX,marvel.com
+DOMAIN-SUFFIX,marvel10thanniversary.com
+DOMAIN-SUFFIX,marveldimensionofheroes.com
+DOMAIN-SUFFIX,marvelparty.net
+DOMAIN-SUFFIX,marvelpinball.com
+DOMAIN-SUFFIX,marvelsdoubleagent.com
+DOMAIN-SUFFIX,marvelspotlightplays.com
+DOMAIN-SUFFIX,marvelsuperheroseptember.com
+DOMAIN-SUFFIX,marvelsuperwar.com
+DOMAIN-SUFFIX,themarvelexperiencetour.com

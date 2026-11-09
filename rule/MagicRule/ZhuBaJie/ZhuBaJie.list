@@ -1,0 +1,9 @@
+# NAME: ZhuBaJie
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/4681cedebc6bd6133a463410/manifest.json
+# UPDATED: 2026-07-26T08:34:55.055522+00:00
+# RULES: 5
+DOMAIN-SUFFIX,tianpeng.com
+DOMAIN-SUFFIX,zbj.com
+DOMAIN-SUFFIX,zbjdev.com
+DOMAIN-SUFFIX,zbjimg.com
+DOMAIN-SUFFIX,zhubajie.com

@@ -1,0 +1,6 @@
+# NAME: Gitee
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/a914e066170f13e1023c4ae7/manifest.json
+# UPDATED: 2026-07-26T08:21:17.287352+00:00
+# RULES: 2
+DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,gitee.io

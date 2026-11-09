@@ -1,0 +1,14 @@
+# NAME: Peppy
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/6380b003b98f67137a421041/manifest.json
+# UPDATED: 2026-07-26T08:37:31.312010+00:00
+# RULES: 10
+DOMAIN,a.ppy.sh
+DOMAIN,assets.ppy.sh
+DOMAIN,c.ppy.sh
+DOMAIN,lazer.ppy.sh
+DOMAIN,m1.ppy.sh
+DOMAIN,notify.ppy.sh
+DOMAIN,osu.ppy.sh
+DOMAIN,sentry.ppy.sh
+DOMAIN,spectator.ppy.sh
+DOMAIN-SUFFIX,ppy.sh

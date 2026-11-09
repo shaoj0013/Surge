@@ -1,0 +1,8 @@
+# NAME: WISeKey
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/9a309db5a75c881af0be384a/manifest.json
+# UPDATED: 2026-07-26T10:49:22.809340+00:00
+# RULES: 4
+DOMAIN-SUFFIX,wisecoin.com
+DOMAIN-SUFFIX,wiseid.com
+DOMAIN-SUFFIX,wisekey.com
+DOMAIN-SUFFIX,wisekey.com.hk

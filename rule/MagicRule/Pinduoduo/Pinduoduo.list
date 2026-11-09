@@ -1,0 +1,11 @@
+# NAME: Pinduoduo
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/50a4cc0c75ed164603e1efdc/manifest.json
+# UPDATED: 2026-07-26T06:38:39.773487+00:00
+# RULES: 7
+DOMAIN-SUFFIX,pddcdn.com
+DOMAIN-SUFFIX,pddim.com
+DOMAIN-SUFFIX,pddpic.com
+DOMAIN-SUFFIX,pddugc.com
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,pinduoduo.net
+DOMAIN-SUFFIX,yangkeduo.com

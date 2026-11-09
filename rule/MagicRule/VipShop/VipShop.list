@@ -1,0 +1,8 @@
+# NAME: VipShop
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/df3c66358db143db43c835f9/manifest.json
+# UPDATED: 2026-07-26T06:39:42.485480+00:00
+# RULES: 4
+DOMAIN-SUFFIX,appsimg.com
+DOMAIN-SUFFIX,appvipshop.com
+DOMAIN-SUFFIX,vip.com
+DOMAIN-SUFFIX,vipstatic.com

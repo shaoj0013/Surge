@@ -1,0 +1,8 @@
+# NAME: Plex
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/92c87a738d76d92b0dd91880/manifest.json
+# UPDATED: 2026-07-26T08:35:28.832238+00:00
+# RULES: 4
+DOMAIN-SUFFIX,plex.com
+DOMAIN-SUFFIX,plex.services
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,plexapp.com

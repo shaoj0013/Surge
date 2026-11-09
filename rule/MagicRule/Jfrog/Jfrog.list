@@ -1,0 +1,8 @@
+# NAME: Jfrog
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/648d25aabc0d7ffac728cb5f/manifest.json
+# UPDATED: 2026-07-26T06:50:47.243874+00:00
+# RULES: 4
+DOMAIN,d29vzk4ow07wi7.cloudfront.net
+DOMAIN-SUFFIX,bintray.com
+DOMAIN-SUFFIX,jfrog.com
+DOMAIN-SUFFIX,jfrog.org

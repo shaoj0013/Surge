@@ -1,0 +1,8 @@
+# NAME: Madshi
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/c733ffebec53f2717d217687/manifest.json
+# UPDATED: 2026-07-26T10:37:05.565469+00:00
+# RULES: 4
+DOMAIN-SUFFIX,madshi.net
+DOMAIN-SUFFIX,madvr.com
+DOMAIN-SUFFIX,madvr.net
+DOMAIN-SUFFIX,madvrlabs.llc

@@ -1,0 +1,8 @@
+# NAME: Tubi
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/4549e13e59124c5acc9d274a/manifest.json
+# UPDATED: 2026-07-26T10:46:45.372609+00:00
+# RULES: 4
+DOMAIN-SUFFIX,tubi.io
+DOMAIN-SUFFIX,tubi.tv
+DOMAIN-SUFFIX,tubi.video
+DOMAIN-SUFFIX,tubitv.com

@@ -1,0 +1,6 @@
+# NAME: RubyChina
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/152316d7d9207d8ad795bd9d/manifest.json
+# UPDATED: 2026-07-26T08:36:08.616906+00:00
+# RULES: 2
+DOMAIN-SUFFIX,ruby-china.org
+DOMAIN-SUFFIX,rubyconfchina.org

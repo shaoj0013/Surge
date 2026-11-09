@@ -1,0 +1,10 @@
+# NAME: Viu
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/63941d161531a4bcbd4eb070/manifest.json
+# UPDATED: 2026-07-26T10:48:06.576423+00:00
+# RULES: 6
+DOMAIN,api.viu.now.com
+DOMAIN,d1k2us671qcoau.cloudfront.net
+DOMAIN,d2anahhhmp1ffz.cloudfront.net
+DOMAIN,dfp6rglgjqszk.cloudfront.net
+DOMAIN-SUFFIX,viu.com
+DOMAIN-SUFFIX,viu.tv

@@ -1,0 +1,8 @@
+# NAME: CGB
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/d48776aa480e82810ca7e6da/manifest.json
+# UPDATED: 2026-07-26T06:23:15.547116+00:00
+# RULES: 4
+DOMAIN-SUFFIX,95508.com
+DOMAIN-SUFFIX,cgbchina.cn
+DOMAIN-SUFFIX,cgbchina.com.cn
+DOMAIN-SUFFIX,gdb.com.cn

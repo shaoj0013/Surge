@@ -1,0 +1,11 @@
+# NAME: ByteDanceAI
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/32d9b76793035dfa7f4cb149/manifest.json
+# UPDATED: 2026-07-26T08:31:39.453794+00:00
+# RULES: 7
+DOMAIN-SUFFIX,cici.com
+DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,ciciaicdn.com
+DOMAIN-SUFFIX,coze.com
+DOMAIN-SUFFIX,dola.com
+DOMAIN-SUFFIX,marscode.com
+DOMAIN-SUFFIX,trae.ai

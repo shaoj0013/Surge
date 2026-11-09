@@ -1,0 +1,8 @@
+# NAME: UOLiv
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/09f34420240cf5cce5952e1b/manifest.json
+# UPDATED: 2026-07-26T10:46:58.027801+00:00
+# RULES: 4
+DOMAIN-SUFFIX,liv.ac.uk
+DOMAIN-SUFFIX,liverpool.ac.uk
+DOMAIN-SUFFIX,livinno.org
+DOMAIN-SUFFIX,opac-project.eu

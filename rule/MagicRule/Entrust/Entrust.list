@@ -1,0 +1,14 @@
+# NAME: Entrust
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/6cb2cc64834d08b977897a7e/manifest.json
+# UPDATED: 2026-07-26T08:35:20.819058+00:00
+# RULES: 10
+DOMAIN,www.entrust.cn
+DOMAIN-SUFFIX,affirmtrust.com
+DOMAIN-SUFFIX,atos.net
+DOMAIN-SUFFIX,certificat2.com
+DOMAIN-SUFFIX,entrust.cn
+DOMAIN-SUFFIX,entrust.com
+DOMAIN-SUFFIX,entrust.net
+DOMAIN-SUFFIX,entrustdatacard.com
+DOMAIN-SUFFIX,myatos.net
+DOMAIN-SUFFIX,trendmicro.com

@@ -1,0 +1,9 @@
+# NAME: JianShu
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/31d96d7fabc497721d22d2af/manifest.json
+# UPDATED: 2026-07-26T06:25:42.105888+00:00
+# RULES: 5
+DOMAIN-SUFFIX,baijii.com
+DOMAIN-SUFFIX,jianshu.com
+DOMAIN-SUFFIX,jianshu.io
+DOMAIN-SUFFIX,jianshuapi.com
+DOMAIN-SUFFIX,shengmingfa.com

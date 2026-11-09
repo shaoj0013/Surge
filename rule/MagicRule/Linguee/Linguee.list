@@ -1,0 +1,6 @@
+# NAME: Linguee
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/b2918dd0135b47116f8e58b8/manifest.json
+# UPDATED: 2026-07-26T10:36:44.269979+00:00
+# RULES: 2
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,linguee.com

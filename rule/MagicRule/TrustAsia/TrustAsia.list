@@ -1,0 +1,15 @@
+# NAME: TrustAsia
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/5a835a1ff7d468396f1e9964/manifest.json
+# UPDATED: 2026-07-26T08:35:37.823494+00:00
+# RULES: 11
+DOMAIN-SUFFIX,51ssl.cn
+DOMAIN-SUFFIX,51ssl.com
+DOMAIN-SUFFIX,geossl.cn
+DOMAIN-SUFFIX,litessl.cn
+DOMAIN-SUFFIX,litessl.com
+DOMAIN-SUFFIX,myssl-uri.com
+DOMAIN-SUFFIX,myssl.com
+DOMAIN-SUFFIX,trustasia.cn
+DOMAIN-SUFFIX,trustasia.com
+DOMAIN-SUFFIX,trustasia.com.cn
+DOMAIN-SUFFIX,trustasia.net

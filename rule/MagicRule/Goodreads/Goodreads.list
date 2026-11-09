@@ -1,0 +1,6 @@
+# NAME: Goodreads
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/daeec9a93a6113ec2dd8e266/manifest.json
+# UPDATED: 2026-07-26T10:29:12.690599+00:00
+# RULES: 2
+DOMAIN-SUFFIX,goodreads.com
+DOMAIN-SUFFIX,gr-assets.com

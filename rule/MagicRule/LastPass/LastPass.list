@@ -1,0 +1,9 @@
+# NAME: LastPass
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/9ab19296b315ec7ae2c6410c/manifest.json
+# UPDATED: 2026-07-26T06:38:06.908734+00:00
+# RULES: 4
+# STRIPPED: PROCESS-NAMEx1
+DOMAIN-SUFFIX,lastpass.com
+DOMAIN-SUFFIX,lastpass.eu
+DOMAIN-SUFFIX,lputil.com
+USER-AGENT,LastPass*

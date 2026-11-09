@@ -1,0 +1,5 @@
+# NAME: Electron
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/6fc4c901f43a440079915cdc/manifest.json
+# UPDATED: 2026-07-26T08:35:22.795519+00:00
+# RULES: 1
+DOMAIN-SUFFIX,electronjs.org

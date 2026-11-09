@@ -1,0 +1,6 @@
+# NAME: MyFonts
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/d8036c1c0419968bc442bbd7/manifest.json
+# UPDATED: 2026-07-26T10:37:59.013149+00:00
+# RULES: 2
+DOMAIN-SUFFIX,myfonts.com
+DOMAIN-SUFFIX,myfonts.net

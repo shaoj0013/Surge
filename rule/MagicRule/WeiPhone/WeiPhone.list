@@ -1,0 +1,8 @@
+# NAME: WeiPhone
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/af13959b3ae174de5433aefd/manifest.json
+# UPDATED: 2026-07-26T08:34:52.557274+00:00
+# RULES: 4
+DOMAIN-SUFFIX,feng.com
+DOMAIN-SUFFIX,fengimg.com
+DOMAIN-SUFFIX,weiphone.net
+DOMAIN-SUFFIX,wfdata.club

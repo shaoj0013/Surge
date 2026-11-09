@@ -1,0 +1,8 @@
+# NAME: ChinaNews
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/56023ddc2cfe9f546b61810b/manifest.json
+# UPDATED: 2026-07-26T06:23:50.881924+00:00
+# RULES: 4
+DOMAIN-SUFFIX,chinanews.com
+DOMAIN-SUFFIX,chinanews.com.cn
+DOMAIN-SUFFIX,cns.com.cn
+DOMAIN-SUFFIX,ecns.cn

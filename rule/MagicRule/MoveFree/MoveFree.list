@@ -1,0 +1,11 @@
+# NAME: MoveFree
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/bd4effd1754d3614cbe0dcac/manifest.json
+# UPDATED: 2026-07-26T10:38:04.171695+00:00
+# RULES: 7
+DOMAIN-SUFFIX,keepmovingwithmovefree.com
+DOMAIN-SUFFIX,move-free.net
+DOMAIN-SUFFIX,movefree.cn
+DOMAIN-SUFFIX,movefreeoffers.com
+DOMAIN-SUFFIX,movefreerewards.com
+DOMAIN-SUFFIX,movefrees.com
+DOMAIN-SUFFIX,schiffvitamins.com

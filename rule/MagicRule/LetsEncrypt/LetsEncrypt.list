@@ -1,0 +1,7 @@
+# NAME: LetsEncrypt
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/dbb621ec50342912bf942d5f/manifest.json
+# UPDATED: 2026-07-26T08:35:45.804647+00:00
+# RULES: 3
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,letsencrypt.com
+DOMAIN-SUFFIX,letsencrypt.org

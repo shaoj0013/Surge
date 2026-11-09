@@ -1,0 +1,7 @@
+# NAME: Asobo
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/1e4d7ef26d2081b62336b311/manifest.json
+# UPDATED: 2026-07-26T08:36:13.666239+00:00
+# RULES: 3
+DOMAIN,flightsimulator.azureedge.net
+DOMAIN-SUFFIX,asobostudio.com
+DOMAIN-SUFFIX,flightsimulator.com

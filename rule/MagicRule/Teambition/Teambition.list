@@ -1,0 +1,14 @@
+# NAME: Teambition
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/3f1a0150779722fac7f1a1b1/manifest.json
+# UPDATED: 2026-07-26T06:28:20.359070+00:00
+# RULES: 10
+DOMAIN-SUFFIX,jianliao.com
+DOMAIN-SUFFIX,project.ai
+DOMAIN-SUFFIX,talk.ai
+DOMAIN-SUFFIX,tbapp.com
+DOMAIN-SUFFIX,tburl.in
+DOMAIN-SUFFIX,teambition.com
+DOMAIN-SUFFIX,teambition.io
+DOMAIN-SUFFIX,teambition.net
+DOMAIN-SUFFIX,teambitionapis.com
+DOMAIN-SUFFIX,today.ai

@@ -1,0 +1,8 @@
+# NAME: WenJuanXing
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/4aa1b91d6b22a3fa306afd50/manifest.json
+# UPDATED: 2026-07-26T06:28:49.640536+00:00
+# RULES: 4
+DOMAIN-SUFFIX,sojump.com
+DOMAIN-SUFFIX,wjx.cn
+DOMAIN-SUFFIX,wjx.com
+DOMAIN-SUFFIX,wjx.top

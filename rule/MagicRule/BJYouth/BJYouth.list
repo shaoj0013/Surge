@@ -1,0 +1,8 @@
+# NAME: BJYouth
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/8891be9beb9dc6998f1925d0/manifest.json
+# UPDATED: 2026-07-26T10:18:46.132585+00:00
+# RULES: 4
+DOMAIN-SUFFIX,bjyouth.gov.cn
+DOMAIN-SUFFIX,bjyouth.net
+DOMAIN-SUFFIX,sqqnh.cn
+DOMAIN-SUFFIX,sqqnh.org

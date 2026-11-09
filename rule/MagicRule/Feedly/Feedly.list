@@ -1,0 +1,5 @@
+# NAME: Feedly
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/df5e54830b019bea777fbb60/manifest.json
+# UPDATED: 2026-07-26T10:27:47.796055+00:00
+# RULES: 1
+DOMAIN-SUFFIX,feedly.com

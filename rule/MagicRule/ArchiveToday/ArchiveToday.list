@@ -1,0 +1,11 @@
+# NAME: ArchiveToday
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/953c7bfecf3dc1e7b32257da/manifest.json
+# UPDATED: 2026-07-26T08:35:12.835008+00:00
+# RULES: 7
+DOMAIN-SUFFIX,archive.fo
+DOMAIN-SUFFIX,archive.is
+DOMAIN-SUFFIX,archive.li
+DOMAIN-SUFFIX,archive.md
+DOMAIN-SUFFIX,archive.ph
+DOMAIN-SUFFIX,archive.today
+DOMAIN-SUFFIX,archive.vn

@@ -1,0 +1,17 @@
+# NAME: WSJ
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/e8c83ea903548f6f395dfa96/manifest.json
+# UPDATED: 2026-07-26T10:49:28.359759+00:00
+# RULES: 13
+DOMAIN-SUFFIX,careerjournal.com
+DOMAIN-SUFFIX,collegejournal.com
+DOMAIN-SUFFIX,getwsj.com
+DOMAIN-SUFFIX,opinionjournal.com
+DOMAIN-SUFFIX,realestatejournal.com
+DOMAIN-SUFFIX,startupjournal.com
+DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,wsj.jobs
+DOMAIN-SUFFIX,wsj.net
+DOMAIN-SUFFIX,wsjmediakit.com
+DOMAIN-SUFFIX,wsjplus.com
+DOMAIN-SUFFIX,wsjshop.com
+DOMAIN-SUFFIX,wsjwine.com

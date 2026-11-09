@@ -1,0 +1,7 @@
+# NAME: JiBenCaoZuo
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/9af906f45fe5de6844897ba7/manifest.json
+# UPDATED: 2026-07-26T10:35:10.037979+00:00
+# RULES: 3
+DOMAIN-SUFFIX,jbcz.tv
+DOMAIN-SUFFIX,jibencaozuo.com
+DOMAIN-SUFFIX,media.paperclipclub.net

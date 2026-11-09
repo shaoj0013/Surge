@@ -1,0 +1,19 @@
+# NAME: MeiZu
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/a6a1d9a4895dadb79513da8b/manifest.json
+# UPDATED: 2026-07-26T06:27:03.129567+00:00
+# RULES: 15
+DOMAIN-SUFFIX,flyme.cn
+DOMAIN-SUFFIX,flyme.com
+DOMAIN-SUFFIX,flyme.net
+DOMAIN-SUFFIX,flymeauto.com
+DOMAIN-SUFFIX,lipro.com
+DOMAIN-SUFFIX,lipro.net
+DOMAIN-SUFFIX,mblu.com
+DOMAIN-SUFFIX,meiklife.cn
+DOMAIN-SUFFIX,meizu.cn
+DOMAIN-SUFFIX,meizu.com
+DOMAIN-SUFFIX,meizu.com.hk
+DOMAIN-SUFFIX,meizuapi.com
+DOMAIN-SUFFIX,mklink.com.cn
+DOMAIN-SUFFIX,mzres.com
+DOMAIN-SUFFIX,mzssp.cn

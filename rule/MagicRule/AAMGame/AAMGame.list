@@ -1,0 +1,9 @@
+# NAME: AAMGame
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/ad106da0b624f3d0bf3a1bc9/manifest.json
+# UPDATED: 2026-07-26T08:36:12.821545+00:00
+# RULES: 5
+DOMAIN-SUFFIX,aamgame.com
+DOMAIN-SUFFIX,aamgame.mobi
+DOMAIN-SUFFIX,aamgame.net
+DOMAIN-SUFFIX,aamsmart.com
+DOMAIN-SUFFIX,singworld.net

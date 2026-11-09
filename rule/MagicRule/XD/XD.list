@@ -1,0 +1,16 @@
+# NAME: XD
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/5d2362461d16a4737358c69e/manifest.json
+# UPDATED: 2026-07-26T10:49:34.424394+00:00
+# RULES: 12
+DOMAIN-SUFFIX,ro.com
+DOMAIN-SUFFIX,tapapks.com
+DOMAIN-SUFFIX,tapimg.com
+DOMAIN-SUFFIX,tapimg.net
+DOMAIN-SUFFIX,taptap.cn
+DOMAIN-SUFFIX,taptap.com
+DOMAIN-SUFFIX,taptap.io
+DOMAIN-SUFFIX,taptapdada.com
+DOMAIN-SUFFIX,xd.cn
+DOMAIN-SUFFIX,xd.com
+DOMAIN-SUFFIX,xdcdn.net
+DOMAIN-SUFFIX,xindong.com

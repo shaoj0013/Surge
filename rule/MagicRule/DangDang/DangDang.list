@@ -1,0 +1,6 @@
+# NAME: DangDang
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/920bf1ebd29afd2beaf7deb2/manifest.json
+# UPDATED: 2026-07-26T06:24:18.319917+00:00
+# RULES: 2
+DOMAIN-SUFFIX,dangdang.com
+DOMAIN-SUFFIX,ddimg.cn

@@ -1,0 +1,10 @@
+# NAME: MicrosoftPKI
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/d3bc615789bb5af53731bd0a/manifest.json
+# UPDATED: 2026-07-26T10:37:40.769209+00:00
+# RULES: 6
+DOMAIN,crl.microsoft.com
+DOMAIN,mscrl.microsoft.com
+DOMAIN,ocsp.microsoft.com
+DOMAIN,oneocsp.microsoft.com
+DOMAIN,www.microsoft.com
+DOMAIN-SUFFIX,msocsp.com

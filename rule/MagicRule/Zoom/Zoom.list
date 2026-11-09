@@ -1,0 +1,7 @@
+# NAME: Zoom
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/f2d8c4618175d0eadad7f6e1/manifest.json
+# UPDATED: 2026-07-26T08:21:29.802270+00:00
+# RULES: 3
+DOMAIN-SUFFIX,zoom.com
+DOMAIN-SUFFIX,zoom.com.cn
+DOMAIN-SUFFIX,zoom.us

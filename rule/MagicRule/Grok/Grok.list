@@ -1,0 +1,8 @@
+# NAME: Grok
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/a0ab082a996c4af6de1d7731/manifest.json
+# UPDATED: 2026-07-28T13:21:07.114959+00:00
+# RULES: 4
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grok.x.com
+DOMAIN-SUFFIX,grokipedia.com
+DOMAIN-SUFFIX,x.ai

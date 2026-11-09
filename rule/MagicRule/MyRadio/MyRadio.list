@@ -1,0 +1,6 @@
+# NAME: MyRadio
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/41d61eb729c3531e7592ae2a/manifest.json
+# UPDATED: 2026-07-26T10:38:04.213737+00:00
+# RULES: 2
+DOMAIN-SUFFIX,myradio.com.hk
+DOMAIN-SUFFIX,myradio.hk

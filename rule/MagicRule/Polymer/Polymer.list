@@ -1,0 +1,6 @@
+# NAME: Polymer
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/5be6cc9e938a6b22376c675d/manifest.json
+# UPDATED: 2026-07-26T10:41:04.186719+00:00
+# RULES: 2
+DOMAIN-SUFFIX,polymer-project.org
+DOMAIN-SUFFIX,polymerproject.org

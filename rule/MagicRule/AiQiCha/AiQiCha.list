@@ -1,0 +1,7 @@
+# NAME: AiQiCha
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/95f172d7fa62be655dc49bac/manifest.json
+# UPDATED: 2026-07-26T08:30:02.304156+00:00
+# RULES: 3
+DOMAIN-SUFFIX,aiqicha.baidu.com
+DOMAIN-SUFFIX,aiqicha.cn
+DOMAIN-SUFFIX,aiqicha.com

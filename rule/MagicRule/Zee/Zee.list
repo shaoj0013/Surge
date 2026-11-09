@@ -1,0 +1,27 @@
+# NAME: Zee
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/44af47af7b434be187f1a957/manifest.json
+# UPDATED: 2026-07-26T06:56:10.846125+00:00
+# RULES: 23
+DOMAIN,zeenews-fonts.s3.amazonaws.com
+DOMAIN-SUFFIX,bgr.in
+DOMAIN-SUFFIX,bollywoodlife.com
+DOMAIN-SUFFIX,careerfundas.com
+DOMAIN-SUFFIX,cricketcountry.com
+DOMAIN-SUFFIX,dnai.in
+DOMAIN-SUFFIX,dnaindia.com
+DOMAIN-SUFFIX,earngeek.com
+DOMAIN-SUFFIX,ekhindi.com
+DOMAIN-SUFFIX,ind.sh
+DOMAIN-SUFFIX,india.com
+DOMAIN-SUFFIX,indiancolleges.com
+DOMAIN-SUFFIX,itripto.com
+DOMAIN-SUFFIX,oncars.in
+DOMAIN-SUFFIX,prepsure.com
+DOMAIN-SUFFIX,thehealthsite.com
+DOMAIN-SUFFIX,wionews.com
+DOMAIN-SUFFIX,yo1health.com
+DOMAIN-SUFFIX,zee.com
+DOMAIN-SUFFIX,zeebiz.com
+DOMAIN-SUFFIX,zeeentertainment.com
+DOMAIN-SUFFIX,zeenews-fonts.s3.amazonaws.com
+DOMAIN-SUFFIX,zeenews.com

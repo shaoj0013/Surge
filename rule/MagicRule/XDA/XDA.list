@@ -1,0 +1,8 @@
+# NAME: XDA
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/224cb81c069dfe1f270d2197/manifest.json
+# UPDATED: 2026-07-26T08:36:08.945191+00:00
+# RULES: 4
+DOMAIN-SUFFIX,xda-cdn.com
+DOMAIN-SUFFIX,xda-developers.com
+DOMAIN-SUFFIX,xdaforums.com
+DOMAIN-SUFFIX,xdaimages.com

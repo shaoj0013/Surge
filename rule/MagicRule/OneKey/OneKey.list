@@ -1,0 +1,8 @@
+# NAME: OneKey
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/e5bb144e34c3a42941bf9496/manifest.json
+# UPDATED: 2026-07-26T10:39:29.472218+00:00
+# RULES: 4
+DOMAIN,onekey.zendesk.com
+DOMAIN-SUFFIX,onekey-asset.com
+DOMAIN-SUFFIX,onekey.so
+DOMAIN-SUFFIX,onekeycn.com

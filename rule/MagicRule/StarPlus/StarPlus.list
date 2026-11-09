@@ -1,0 +1,10 @@
+# NAME: StarPlus
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/0261606dd341701ed729ed2a/manifest.json
+# UPDATED: 2026-07-26T10:44:05.349731+00:00
+# RULES: 6
+DOMAIN-SUFFIX,star.api.edge.bamgrid.com
+DOMAIN-SUFFIX,star.connections.edge.bamgrid.com
+DOMAIN-SUFFIX,star.content.edge.bamgrid.com
+DOMAIN-SUFFIX,star.playback.edge.bamgrid.com
+DOMAIN-SUFFIX,starott.com
+DOMAIN-SUFFIX,starplus.com

@@ -1,0 +1,7 @@
+# NAME: Dart
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/1bf7e04632daeaae6ebde96b/manifest.json
+# UPDATED: 2026-07-26T08:35:56.456427+00:00
+# RULES: 3
+DOMAIN-SUFFIX,dart.dev
+DOMAIN-SUFFIX,dartlang.org
+DOMAIN-SUFFIX,dartpad.dev

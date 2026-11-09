@@ -1,0 +1,5 @@
+# NAME: Pastebin
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/00b0e45b65af9aea6f4eaf1d/manifest.json
+# UPDATED: 2026-07-26T08:37:43.100042+00:00
+# RULES: 1
+DOMAIN-SUFFIX,pastebin.com

@@ -1,0 +1,17 @@
+# NAME: TianYaForum
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/687e378faaf529c54f798e1c/manifest.json
+# UPDATED: 2026-07-26T06:28:22.095038+00:00
+# RULES: 13
+DOMAIN-SUFFIX,gz12301.com
+DOMAIN-SUFFIX,hainan.com
+DOMAIN-SUFFIX,hainan.net
+DOMAIN-SUFFIX,hi114.cn
+DOMAIN-SUFFIX,hibusiness.com
+DOMAIN-SUFFIX,hifortune.net
+DOMAIN-SUFFIX,laibafile.cn
+DOMAIN-SUFFIX,tianya.cn
+DOMAIN-SUFFIX,tianya.com.cn
+DOMAIN-SUFFIX,tianyablog.com
+DOMAIN-SUFFIX,tianyaclub.com
+DOMAIN-SUFFIX,tianyaui.com
+DOMAIN-SUFFIX,tysurl.com

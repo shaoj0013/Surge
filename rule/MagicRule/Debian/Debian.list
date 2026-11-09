@@ -1,0 +1,6 @@
+# NAME: Debian
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/138a45822d7cf111f9ada208/manifest.json
+# UPDATED: 2026-07-26T08:31:46.019644+00:00
+# RULES: 2
+DOMAIN-SUFFIX,debian.org
+DOMAIN-SUFFIX,dotdeb.org

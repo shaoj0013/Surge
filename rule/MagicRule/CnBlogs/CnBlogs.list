@@ -1,0 +1,12 @@
+# NAME: CnBlogs
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/a1eae3db1a521db8c3243e3d/manifest.json
+# UPDATED: 2026-07-26T08:35:53.908267+00:00
+# RULES: 8
+DOMAIN-SUFFIX,blogjava.net
+DOMAIN-SUFFIX,cnblogs.com
+DOMAIN-SUFFIX,cnblogs.vip
+DOMAIN-SUFFIX,cnitblog.com
+DOMAIN-SUFFIX,cnweblog.com
+DOMAIN-SUFFIX,cppblog.com
+DOMAIN-SUFFIX,phpweblog.net
+DOMAIN-SUFFIX,teachblog.net

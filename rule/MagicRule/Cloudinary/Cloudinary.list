@@ -1,0 +1,6 @@
+# NAME: Cloudinary
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/622f28076c7497435b970335/manifest.json
+# UPDATED: 2026-07-26T08:37:42.449970+00:00
+# RULES: 2
+DOMAIN-SUFFIX,cloudinary.com
+DOMAIN-SUFFIX,cloudinary.net

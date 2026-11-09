@@ -1,0 +1,10 @@
+# NAME: Hpplay
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/5750b0cb37cb4b4b238191ec/manifest.json
+# UPDATED: 2026-07-26T06:30:00.558492+00:00
+# RULES: 6
+DOMAIN-SUFFIX,hpplay.cn
+DOMAIN-SUFFIX,hpplay.com.cn
+DOMAIN-SUFFIX,mirrorcast.cn
+DOMAIN-SUFFIX,mirrorcast.com.cn
+DOMAIN-SUFFIX,mirrorcast.tv
+DOMAIN-SUFFIX,xn--fjq085c.com

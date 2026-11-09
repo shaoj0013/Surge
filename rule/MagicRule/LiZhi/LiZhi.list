@@ -1,0 +1,10 @@
+# NAME: LiZhi
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/2cb3d37330b30e23f41784f2/manifest.json
+# UPDATED: 2026-07-26T08:39:20.717052+00:00
+# RULES: 6
+DOMAIN-SUFFIX,gzlzfm.com
+DOMAIN-SUFFIX,lizhi.fm
+DOMAIN-SUFFIX,lizhifm.com
+DOMAIN-SUFFIX,lizhiinc.com
+DOMAIN-SUFFIX,lz310.com
+DOMAIN-SUFFIX,lzpipi.com

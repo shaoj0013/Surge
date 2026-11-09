@@ -1,0 +1,10 @@
+# NAME: ICable
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/66231b240e559884b22eceaa/manifest.json
+# UPDATED: 2026-07-26T10:33:47.712252+00:00
+# RULES: 6
+DOMAIN-SUFFIX,cabletv.com.hk
+DOMAIN-SUFFIX,fantv.hk
+DOMAIN-SUFFIX,hkopentv.com
+DOMAIN-SUFFIX,hoy.tv
+DOMAIN-SUFFIX,i-cable.com
+DOMAIN-SUFFIX,i-cablecomm.com

@@ -1,0 +1,7 @@
+# NAME: BitSquare
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/5b58b3d835baa80b2938ccc5/manifest.json
+# UPDATED: 2026-07-26T10:18:38.262556+00:00
+# RULES: 3
+DOMAIN-SUFFIX,bisq.io
+DOMAIN-SUFFIX,bisq.network
+DOMAIN-SUFFIX,bitsquare.io

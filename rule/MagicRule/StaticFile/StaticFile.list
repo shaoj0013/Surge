@@ -1,0 +1,6 @@
+# NAME: StaticFile
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/5245634b78b37514fb8dd79a/manifest.json
+# UPDATED: 2026-07-26T08:35:59.418667+00:00
+# RULES: 2
+DOMAIN-SUFFIX,staticfile.net
+DOMAIN-SUFFIX,staticfile.org

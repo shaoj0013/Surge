@@ -1,0 +1,12 @@
+# NAME: ApplePKI
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/ac95e4d78e3a711e5cb12f64/manifest.json
+# UPDATED: 2026-07-26T10:14:01.299996+00:00
+# RULES: 8
+DOMAIN,certs-lb.apple.com.akadns.net
+DOMAIN,certs.apple.com
+DOMAIN,crl-lb.apple.com.akadns.net
+DOMAIN,crl.apple.com
+DOMAIN,ocsp.apple.com
+DOMAIN,ocsp2.apple.com
+DOMAIN,valid.apple.com
+DOMAIN,valid.origin-apple.com.akadns.net

@@ -1,0 +1,5 @@
+# NAME: Gandi
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/aecda70bafcf823307934818/manifest.json
+# UPDATED: 2026-07-26T08:39:08.420091+00:00
+# RULES: 1
+DOMAIN-SUFFIX,gandi.net

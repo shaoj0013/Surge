@@ -1,0 +1,7 @@
+# NAME: CDEK
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/ccd765854bd36f3ebd4157ce/manifest.json
+# UPDATED: 2026-07-26T10:19:54.373849+00:00
+# RULES: 3
+DOMAIN-SUFFIX,ad-cdek.ru
+DOMAIN-SUFFIX,cdek.ru
+DOMAIN-SUFFIX,cdek.shopping

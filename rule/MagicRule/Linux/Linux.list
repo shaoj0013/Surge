@@ -1,0 +1,6 @@
+# NAME: Linux
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/f097d916d4e887cce278c192/manifest.json
+# UPDATED: 2026-07-26T10:36:49.575525+00:00
+# RULES: 2
+DOMAIN-SUFFIX,kernel.org
+DOMAIN-SUFFIX,linux.org

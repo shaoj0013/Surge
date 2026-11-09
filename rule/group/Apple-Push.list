@@ -1,0 +1,19 @@
+# NAME: Apple Push
+# GROUP: Apple-Push
+# MERGED: Apple
+# SOURCE: MagicRule https://magicrule.pages.dev
+# RULES: 14
+DOMAIN,init-p01md-lb.push-apple.com.akadns.net
+DOMAIN,init-p01st-lb.push-apple.com.akadns.net
+DOMAIN,init-p01st.push.apple.com
+DOMAIN,init-s01st-lb.push-apple.com.akadns.net
+DOMAIN,init-s01st.push.apple.com
+DOMAIN,push-apple.com.akadns.net
+DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
+DOMAIN-SUFFIX,init-p01md-lb.push-apple.com.akadns.net
+DOMAIN-SUFFIX,init-p01st-lb.push-apple.com.akadns.net
+DOMAIN-SUFFIX,init-p01st.push.apple.com
+DOMAIN-SUFFIX,init-s01st-lb.push-apple.com.akadns.net
+DOMAIN-SUFFIX,init-s01st.push.apple.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN-SUFFIX,push.apple.com

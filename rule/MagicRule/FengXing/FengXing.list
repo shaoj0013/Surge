@@ -1,0 +1,11 @@
+# NAME: FengXing
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/a126e7233d355bc99b6596c7/manifest.json
+# UPDATED: 2026-07-26T10:27:44.248086+00:00
+# RULES: 7
+DOMAIN-SUFFIX,fspcdn.com
+DOMAIN-SUFFIX,fun.tv
+DOMAIN-SUFFIX,funshion.com
+DOMAIN-SUFFIX,funshion.net
+DOMAIN-SUFFIX,ibidian.com
+DOMAIN-SUFFIX,jvcsmart.cn
+DOMAIN-SUFFIX,jvcsmart.com.cn

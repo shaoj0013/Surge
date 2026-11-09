@@ -1,0 +1,6 @@
+# NAME: HongKongPost
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/14346fbda29de6dc789b057c/manifest.json
+# UPDATED: 2026-07-26T10:31:54.057094+00:00
+# RULES: 2
+DOMAIN-SUFFIX,ecert.gov.hk
+DOMAIN-SUFFIX,hongkongpost.gov.hk

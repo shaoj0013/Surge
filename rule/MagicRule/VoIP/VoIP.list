@@ -1,0 +1,13 @@
+# NAME: VoIP
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/7f03ac99d80ad7582ee4b58f/manifest.json
+# UPDATED: 2026-07-26T08:27:41.492124+00:00
+# RULES: 9
+DOMAIN-SUFFIX,agkn.com
+DOMAIN-SUFFIX,cohere.com
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,kochava.com
+DOMAIN-SUFFIX,mobilefuse.com
+DOMAIN-SUFFIX,talkatone.com
+DOMAIN-SUFFIX,tktn.at
+DOMAIN-SUFFIX,tktn.be

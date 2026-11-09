@@ -1,0 +1,6 @@
+# NAME: Fastlane
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/a2815a368144a6e498e9209a/manifest.json
+# UPDATED: 2026-07-26T08:35:56.816237+00:00
+# RULES: 2
+DOMAIN-SUFFIX,fastlane.ci
+DOMAIN-SUFFIX,fastlane.tools

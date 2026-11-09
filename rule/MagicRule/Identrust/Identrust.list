@@ -1,0 +1,7 @@
+# NAME: Identrust
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/4a200c6ea1066f8c4fa78dd2/manifest.json
+# UPDATED: 2026-07-26T06:50:28.179626+00:00
+# RULES: 3
+DOMAIN-SUFFIX,identrust.co.uk
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,identrust.net

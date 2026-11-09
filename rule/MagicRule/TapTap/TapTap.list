@@ -1,0 +1,13 @@
+# NAME: TapTap
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/feceb907ce558a2c34585854/manifest.json
+# UPDATED: 2026-07-26T07:16:24.029627+00:00
+# RULES: 9
+DOMAIN-SUFFIX,tap.io
+DOMAIN-SUFFIX,tapapks.com
+DOMAIN-SUFFIX,tapimg.com
+DOMAIN-SUFFIX,tapimg.net
+DOMAIN-SUFFIX,taptap.cn
+DOMAIN-SUFFIX,taptap.com
+DOMAIN-SUFFIX,taptap.io
+DOMAIN-SUFFIX,taptap.tw
+DOMAIN-SUFFIX,taptapdada.com

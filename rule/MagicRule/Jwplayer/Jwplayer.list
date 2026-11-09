@@ -1,0 +1,10 @@
+# NAME: Jwplayer
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/c8f1228d8607cfab6338e39f/manifest.json
+# UPDATED: 2026-07-26T06:50:47.660029+00:00
+# RULES: 6
+DOMAIN-SUFFIX,jwpcdn.com
+DOMAIN-SUFFIX,jwplatform.com
+DOMAIN-SUFFIX,jwplayer.com
+DOMAIN-SUFFIX,jwpltx.com
+DOMAIN-SUFFIX,jwpsrv.com
+DOMAIN-SUFFIX,longtailvideo.com

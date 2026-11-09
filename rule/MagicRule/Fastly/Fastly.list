@@ -1,0 +1,11 @@
+# NAME: Fastly
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/767a221401a621ad10d34f4b/manifest.json
+# UPDATED: 2026-07-26T08:21:15.654239+00:00
+# RULES: 7
+DOMAIN-SUFFIX,fastly-edge.com
+DOMAIN-SUFFIX,fastly-terrarium.com
+DOMAIN-SUFFIX,fastly.com
+DOMAIN-SUFFIX,fastly.io
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastlylabs.com
+DOMAIN-SUFFIX,fastlylb.net

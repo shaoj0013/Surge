@@ -1,0 +1,6 @@
+# NAME: Certinomis
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/4e75e5a8ce4134ecbe0872d6/manifest.json
+# UPDATED: 2026-07-26T10:19:43.681412+00:00
+# RULES: 2
+DOMAIN-SUFFIX,certinomis.com
+DOMAIN-SUFFIX,certinomis.fr

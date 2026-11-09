@@ -1,0 +1,9 @@
+# NAME: Launchpad
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/864df500eda04060aaef9ad7/manifest.json
+# UPDATED: 2026-07-26T08:35:58.084812+00:00
+# RULES: 5
+DOMAIN-SUFFIX,launchpad.net
+DOMAIN-SUFFIX,launchpadcontent.net
+DOMAIN-SUFFIX,launchpadlibrarian.com
+DOMAIN-SUFFIX,launchpadlibrarian.net
+DOMAIN-SUFFIX,launchpadlibrarian.org

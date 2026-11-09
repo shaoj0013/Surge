@@ -1,0 +1,11 @@
+# NAME: Download
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/bca130389a058b16f7a2c7e9/manifest.json
+# UPDATED: 2026-07-26T06:23:06.197898+00:00
+# RULES: 6
+# STRIPPED: PROCESS-NAMEx11, URL-REGEXx8
+DOMAIN-SUFFIX,qbittorrent.org
+DOMAIN-KEYWORD,aria2
+DOMAIN-KEYWORD,thunder
+DOMAIN-KEYWORD,xlliveud
+DOMAIN-KEYWORD,xunlei
+DOMAIN-KEYWORD,yunpan

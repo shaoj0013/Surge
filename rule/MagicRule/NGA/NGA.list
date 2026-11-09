@@ -1,0 +1,8 @@
+# NAME: NGA
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/990bc17f120121d0d972e5b7/manifest.json
+# UPDATED: 2026-07-26T07:00:42.189917+00:00
+# RULES: 4
+DOMAIN-SUFFIX,178.com
+DOMAIN-SUFFIX,nga.cn
+DOMAIN-SUFFIX,ngabbs.com
+DOMAIN-SUFFIX,ngacn.cc

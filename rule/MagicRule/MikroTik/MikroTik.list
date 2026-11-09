@@ -1,0 +1,8 @@
+# NAME: MikroTik
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/1cdf882e8727e55faa7131a5/manifest.json
+# UPDATED: 2026-07-26T10:37:31.727915+00:00
+# RULES: 4
+DOMAIN-SUFFIX,mikrotik.com
+DOMAIN-SUFFIX,mt.lv
+DOMAIN-SUFFIX,mynetname.net
+DOMAIN-SUFFIX,routerboard.com

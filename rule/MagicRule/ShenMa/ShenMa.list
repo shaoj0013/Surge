@@ -1,0 +1,17 @@
+# NAME: ShenMa
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/1bec958119beec7c5fbff8d9/manifest.json
+# UPDATED: 2026-07-26T06:27:57.909999+00:00
+# RULES: 13
+DOMAIN-SUFFIX,shenma-inc.com
+DOMAIN-SUFFIX,sm.cn
+DOMAIN-SUFFIX,smapi.cn
+DOMAIN-SUFFIX,uczzd.cn
+DOMAIN-SUFFIX,uczzd.com
+DOMAIN-SUFFIX,uczzd.com.cn
+DOMAIN-SUFFIX,uczzd.net
+DOMAIN-SUFFIX,xiaoshuo1-sm.com
+DOMAIN-SUFFIX,xiaoshuo2-sm.com
+DOMAIN-SUFFIX,xiaoshuo3-sm.com
+DOMAIN-SUFFIX,xiaoshuo4-sm.com
+DOMAIN-SUFFIX,xiaoshuo5-sm.com
+DOMAIN-SUFFIX,yisou.com

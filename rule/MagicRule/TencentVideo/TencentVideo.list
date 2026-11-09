@@ -1,0 +1,6 @@
+# NAME: TencentVideo
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/893f4ef548b9a3c0ab46f774/manifest.json
+# UPDATED: 2026-07-26T06:45:08.093140+00:00
+# RULES: 2
+DOMAIN-SUFFIX,v.smtcdns.com
+DOMAIN-SUFFIX,vv.video.qq.com

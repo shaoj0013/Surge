@@ -1,0 +1,10 @@
+# NAME: AppleIntelligence
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/ea59b4298a3a45e53e0b3150/manifest.json
+# UPDATED: 2026-08-03T15:32:18.009189+00:00
+# RULES: 6
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,apple-relay.mask.apple-dns.net
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX,siri.apple.com

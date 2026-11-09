@@ -1,0 +1,11 @@
+# NAME: BestTV
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/25e88fc6523ba67d6626ac15/manifest.json
+# UPDATED: 2026-07-26T08:31:18.356992+00:00
+# RULES: 7
+DOMAIN-SUFFIX,bbtv.cn
+DOMAIN-SUFFIX,bestv.com.cn
+DOMAIN-SUFFIX,bestvcdn.cn
+DOMAIN-SUFFIX,bestvcdn.com
+DOMAIN-SUFFIX,bestvcdn.com.cn
+DOMAIN-SUFFIX,bestvcdn.net
+DOMAIN-SUFFIX,smgbb.cn

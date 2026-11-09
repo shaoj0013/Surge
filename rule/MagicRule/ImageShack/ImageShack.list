@@ -1,0 +1,6 @@
+# NAME: ImageShack
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/19fb3c179c70c7e07221d145/manifest.json
+# UPDATED: 2026-07-26T10:34:09.248591+00:00
+# RULES: 2
+DOMAIN-SUFFIX,imageshack.com
+DOMAIN-SUFFIX,imageshack.us

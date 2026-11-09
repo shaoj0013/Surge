@@ -1,0 +1,7 @@
+# NAME: Zaobao
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/a671067d89b637c61b539307/manifest.json
+# UPDATED: 2026-07-26T10:50:28.142783+00:00
+# RULES: 3
+DOMAIN-SUFFIX,zaobao.com
+DOMAIN-SUFFIX,zaobao.com.sg
+DOMAIN-SUFFIX,zaobao.sg

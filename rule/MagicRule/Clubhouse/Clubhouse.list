@@ -1,0 +1,9 @@
+# NAME: Clubhouse
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/c1ed0bbf01735706819905e7/manifest.json
+# UPDATED: 2026-07-26T06:30:08.386475+00:00
+# RULES: 5
+DOMAIN,clubhouse.pubnub.com
+DOMAIN,clubhouseprod.s3.amazonaws.com
+DOMAIN-SUFFIX,clubhouse.com
+DOMAIN-SUFFIX,clubhouseapi.com
+DOMAIN-SUFFIX,joinclubhouse.com

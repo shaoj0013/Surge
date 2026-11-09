@@ -1,0 +1,6 @@
+# NAME: MOOV
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/6c3315b14cdf8b790b9a985d/manifest.json
+# UPDATED: 2026-07-26T06:22:19.236745+00:00
+# RULES: 2
+DOMAIN-SUFFIX,moov.hk
+DOMAIN-SUFFIX,mtg.now.com

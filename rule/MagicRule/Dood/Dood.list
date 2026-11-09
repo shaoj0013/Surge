@@ -1,0 +1,7 @@
+# NAME: Dood
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/c04501b90615c014f743f4a5/manifest.json
+# UPDATED: 2026-07-26T06:58:09.350074+00:00
+# RULES: 3
+DOMAIN-SUFFIX,dood.so
+DOMAIN-SUFFIX,dood.video
+DOMAIN-SUFFIX,doodcdn.com

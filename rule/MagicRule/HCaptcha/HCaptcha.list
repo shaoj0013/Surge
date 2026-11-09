@@ -1,0 +1,7 @@
+# NAME: HCaptcha
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/5fc4f0e789ba52067ea2c41b/manifest.json
+# UPDATED: 2026-07-26T10:31:08.795901+00:00
+# RULES: 3
+DOMAIN-SUFFIX,botstop.com
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,hcaptchastatus.com

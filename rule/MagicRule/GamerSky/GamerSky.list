@@ -1,0 +1,10 @@
+# NAME: GamerSky
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/ebe6546080c89a06a71fd1eb/manifest.json
+# UPDATED: 2026-07-26T08:36:57.159343+00:00
+# RULES: 6
+DOMAIN-SUFFIX,click.gamersky.com
+DOMAIN-SUFFIX,gamersky.com
+DOMAIN-SUFFIX,ja.gamersky.com
+DOMAIN-SUFFIX,ja1.gamersky.com
+DOMAIN-SUFFIX,ja2.gamersky.com
+DOMAIN-SUFFIX,wmbd.gamersky.com

@@ -1,0 +1,8 @@
+# NAME: My5
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/8fcd5b9ad458c8f997705960/manifest.json
+# UPDATED: 2026-07-26T06:22:18.835222+00:00
+# RULES: 4
+DOMAIN,d349g9zuie06uo.cloudfront.net
+DOMAIN-SUFFIX,channel5.com
+DOMAIN-SUFFIX,my5.tv
+USER-AGENT,My5*

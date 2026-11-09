@@ -1,0 +1,8 @@
+# NAME: Disqus
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/497f681537f40306fcbce984/manifest.json
+# UPDATED: 2026-07-26T06:50:17.017582+00:00
+# RULES: 4
+DOMAIN-SUFFIX,disq.us
+DOMAIN-SUFFIX,disqus.com
+DOMAIN-SUFFIX,disquscdn.com
+DOMAIN-SUFFIX,disqusservice.com

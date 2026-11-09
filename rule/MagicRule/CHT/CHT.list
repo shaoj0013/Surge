@@ -1,0 +1,18 @@
+# NAME: CHT
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/464bedb4ab6ba1e46ebe4f9c/manifest.json
+# UPDATED: 2026-07-26T06:48:41.974452+00:00
+# RULES: 14
+DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
+DOMAIN-SUFFIX,apl-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,cht.com.tw
+DOMAIN-SUFFIX,chtf.org.tw
+DOMAIN-SUFFIX,emome.net
+DOMAIN-SUFFIX,gtlsca.nat.gov.tw
+DOMAIN-SUFFIX,hamivideo.hinet.net
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,mobilelive-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,scc.ott.hinet.net
+DOMAIN-SUFFIX,static-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,weblive-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,xuite.net

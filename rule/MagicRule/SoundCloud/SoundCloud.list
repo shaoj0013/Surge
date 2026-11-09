@@ -1,0 +1,9 @@
+# NAME: SoundCloud
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/74f936e096107afab6253cae/manifest.json
+# UPDATED: 2026-07-26T06:22:31.911925+00:00
+# RULES: 5
+DOMAIN-SUFFIX,p-cdn.us
+DOMAIN-SUFFIX,sndcdn.com
+DOMAIN-SUFFIX,soundcloud.cloud
+DOMAIN-SUFFIX,soundcloud.com
+USER-AGENT,SoundCloud*

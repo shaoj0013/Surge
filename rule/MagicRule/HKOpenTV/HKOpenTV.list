@@ -1,0 +1,6 @@
+# NAME: HKOpenTV
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/d3c66a027915b1a54bfbb8bb/manifest.json
+# UPDATED: 2026-07-26T10:31:51.326185+00:00
+# RULES: 2
+DOMAIN-SUFFIX,fantv.hk
+DOMAIN-SUFFIX,hkopentv.com

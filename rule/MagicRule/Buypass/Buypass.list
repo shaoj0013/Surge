@@ -1,0 +1,9 @@
+# NAME: Buypass
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/3bd9a7f607a9871719db0278/manifest.json
+# UPDATED: 2026-07-26T06:48:16.279276+00:00
+# RULES: 5
+DOMAIN-SUFFIX,buypass-ssl.com
+DOMAIN-SUFFIX,buypass.com
+DOMAIN-SUFFIX,buypass.no
+DOMAIN-SUFFIX,buypass.se
+DOMAIN-SUFFIX,minid.no

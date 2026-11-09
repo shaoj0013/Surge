@@ -1,0 +1,6 @@
+# NAME: MongoDB
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/cd0238c68b8971118f115e7b/manifest.json
+# UPDATED: 2026-07-26T08:34:06.496162+00:00
+# RULES: 2
+DOMAIN-SUFFIX,mongodb.com
+DOMAIN-SUFFIX,mongodb.org

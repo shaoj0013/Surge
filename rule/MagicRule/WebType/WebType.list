@@ -1,0 +1,5 @@
+# NAME: WebType
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/82e80b660b73c8188fc0e2a1/manifest.json
+# UPDATED: 2026-07-26T10:48:56.864861+00:00
+# RULES: 1
+DOMAIN-SUFFIX,webtype.com

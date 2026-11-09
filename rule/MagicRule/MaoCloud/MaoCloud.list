@@ -1,0 +1,7 @@
+# NAME: MaoCloud
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/e46afbef37837d336b1115ff/manifest.json
+# UPDATED: 2026-07-26T06:27:08.386865+00:00
+# RULES: 3
+DOMAIN-SUFFIX,maoyun.com
+DOMAIN-SUFFIX,maoyuncloud.cn
+DOMAIN-SUFFIX,maoyuncloud.com

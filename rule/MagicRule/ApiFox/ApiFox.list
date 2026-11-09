@@ -1,0 +1,6 @@
+# NAME: ApiFox
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/b43138fcc22b66b51c1dd1af/manifest.json
+# UPDATED: 2026-07-26T08:30:38.098465+00:00
+# RULES: 2
+DOMAIN-SUFFIX,apifox.cn
+DOMAIN-SUFFIX,apifox.com

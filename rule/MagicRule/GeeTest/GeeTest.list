@@ -1,0 +1,6 @@
+# NAME: GeeTest
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/44d0659ecd03679d63b53211/manifest.json
+# UPDATED: 2026-07-26T10:28:27.876807+00:00
+# RULES: 2
+DOMAIN,geetest.datasink.sensorsdata.cn
+DOMAIN-SUFFIX,geetest.com

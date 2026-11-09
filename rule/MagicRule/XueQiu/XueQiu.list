@@ -1,0 +1,15 @@
+# NAME: XueQiu
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/9e920fedfba2d60d9f0e6e35/manifest.json
+# UPDATED: 2026-07-26T06:29:07.390121+00:00
+# RULES: 11
+DOMAIN-SUFFIX,aiganggu.com
+DOMAIN-SUFFIX,danjuanapp.com
+DOMAIN-SUFFIX,danjuanfunds.com
+DOMAIN-SUFFIX,iganggu.com
+DOMAIN-SUFFIX,imedao.com
+DOMAIN-SUFFIX,imeigu.cn
+DOMAIN-SUFFIX,imeigu.com.cn
+DOMAIN-SUFFIX,ncfjj.com
+DOMAIN-SUFFIX,snowballfinance.com
+DOMAIN-SUFFIX,snowballsecurities.com
+DOMAIN-SUFFIX,xueqiu.com

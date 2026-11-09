@@ -1,0 +1,7 @@
+# NAME: Scaleflex
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/b366333b5e9c55513b88bdb1/manifest.json
+# UPDATED: 2026-07-26T06:58:09.693376+00:00
+# RULES: 3
+DOMAIN-SUFFIX,cloudimage.io
+DOMAIN-SUFFIX,cloudimg.io
+DOMAIN-SUFFIX,scaleflex.com

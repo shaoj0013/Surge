@@ -1,0 +1,5 @@
+# NAME: Tidelift
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/f61ee8c2a66dd7f0bde979e8/manifest.json
+# UPDATED: 2026-07-26T10:46:18.052263+00:00
+# RULES: 1
+DOMAIN-SUFFIX,tidelift.com

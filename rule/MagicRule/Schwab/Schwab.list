@@ -1,0 +1,13 @@
+# NAME: Schwab
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/3726b6ed318a34c36cb33558/manifest.json
+# UPDATED: 2026-10-29T02:37:36.440502+00:00
+# RULES: 9
+DOMAIN-SUFFIX,aboutschwab.com
+DOMAIN-SUFFIX,schwab.co.uk
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,schwab.com.hk
+DOMAIN-SUFFIX,schwab.com.sg
+DOMAIN-SUFFIX,schwabassetmanagement.com
+DOMAIN-SUFFIX,schwabcdn.com
+DOMAIN-SUFFIX,schwabplan.com
+DOMAIN-SUFFIX,thinkorswim.com

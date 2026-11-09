@@ -1,0 +1,6 @@
+# NAME: DeepSeek
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/1e3e8cc8acac4ce6d0d85128/manifest.json
+# UPDATED: 2026-09-04T04:43:17.720309+00:00
+# RULES: 2
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,deepseeksvc.com

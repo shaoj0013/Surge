@@ -1,0 +1,22 @@
+# NAME: CNKI
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/6e56cca6fc70ee8510a447ef/manifest.json
+# UPDATED: 2026-07-26T06:23:38.932562+00:00
+# RULES: 18
+DOMAIN-SUFFIX,bbf.org.cn
+DOMAIN-SUFFIX,bjsbnet.com
+DOMAIN-SUFFIX,chndoi.cn
+DOMAIN-SUFFIX,chndoi.com
+DOMAIN-SUFFIX,chndoi.com.cn
+DOMAIN-SUFFIX,chndoi.net
+DOMAIN-SUFFIX,chndoi.org
+DOMAIN-SUFFIX,cnki.com.cn
+DOMAIN-SUFFIX,cnki.net
+DOMAIN-SUFFIX,cnkidoi.cn
+DOMAIN-SUFFIX,cnkidoi.com
+DOMAIN-SUFFIX,cnkidoi.net
+DOMAIN-SUFFIX,cnkidoi.org
+DOMAIN-SUFFIX,wuxizazhi.cn
+DOMAIN-SUFFIX,wuxizazhi.com
+DOMAIN-SUFFIX,wuxizazhi.com.cn
+DOMAIN-SUFFIX,wuxizazhi.net
+DOMAIN-SUFFIX,wuxizazhi.net.cn

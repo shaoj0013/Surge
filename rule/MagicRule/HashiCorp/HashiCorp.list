@@ -1,0 +1,12 @@
+# NAME: HashiCorp
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/21f28cf4f5b91bc78008e5fb/manifest.json
+# UPDATED: 2026-07-26T06:58:10.544715+00:00
+# RULES: 8
+DOMAIN-SUFFIX,consul.io
+DOMAIN-SUFFIX,hashicorp.com
+DOMAIN-SUFFIX,nomadproject.io
+DOMAIN-SUFFIX,packer.io
+DOMAIN-SUFFIX,terraform.io
+DOMAIN-SUFFIX,vagrantcloud.com
+DOMAIN-SUFFIX,vagrantup.com
+DOMAIN-SUFFIX,vaultproject.io

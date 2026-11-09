@@ -1,0 +1,6 @@
+# NAME: Qt
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/38e56527b4f58f83c0363367/manifest.json
+# UPDATED: 2026-07-26T08:36:08.300841+00:00
+# RULES: 2
+DOMAIN-SUFFIX,qt-project.org
+DOMAIN-SUFFIX,qt.io

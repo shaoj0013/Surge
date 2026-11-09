@@ -1,0 +1,9 @@
+# NAME: HuPun
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/4d55fee3a86b7df5df570ede/manifest.json
+# UPDATED: 2026-07-26T10:33:43.260226+00:00
+# RULES: 5
+DOMAIN-SUFFIX,hupun.com
+DOMAIN-SUFFIX,hupun.com.cn
+DOMAIN-SUFFIX,kata.com.cn
+DOMAIN-SUFFIX,newniu.com
+DOMAIN-SUFFIX,wanliniu.com

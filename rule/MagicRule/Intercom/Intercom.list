@@ -1,0 +1,8 @@
+# NAME: Intercom
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/0ac30ca6d117dfedf03747e1/manifest.json
+# UPDATED: 2026-07-26T06:56:31.792981+00:00
+# RULES: 4
+DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomassets.com
+DOMAIN-SUFFIX,intercomcdn.com

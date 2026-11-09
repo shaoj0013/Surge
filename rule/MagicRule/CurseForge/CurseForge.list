@@ -1,0 +1,6 @@
+# NAME: CurseForge
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/d4416b0a38da7ce3495f75ea/manifest.json
+# UPDATED: 2026-07-26T08:36:29.004972+00:00
+# RULES: 2
+DOMAIN-SUFFIX,curseforge.com
+DOMAIN-SUFFIX,forgecdn.net

@@ -1,0 +1,7 @@
+# NAME: HKBU
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/c47b8eb8950c69931cee1efa/manifest.json
+# UPDATED: 2026-10-29T02:37:22.176627+00:00
+# RULES: 3
+DOMAIN-SUFFIX,hkbu.edu.hk
+DOMAIN-SUFFIX,hkbu.hk
+DOMAIN-SUFFIX,xn--pssu7ci3q5oge0ai91q.xn--j6w193g

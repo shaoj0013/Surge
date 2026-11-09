@@ -1,0 +1,11 @@
+# NAME: Asahi
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/2a62fcd32cea7d00547a1daa/manifest.json
+# UPDATED: 2026-07-26T10:15:18.899047+00:00
+# RULES: 7
+DOMAIN,asahishimbun.sc.omtrdc.net
+DOMAIN-SUFFIX,aiasahi.jp
+DOMAIN-SUFFIX,asagaku.com
+DOMAIN-SUFFIX,asahi.com
+DOMAIN-SUFFIX,asahicom.jp
+DOMAIN-SUFFIX,asakonet.co.jp
+DOMAIN-SUFFIX,nikkansports.com

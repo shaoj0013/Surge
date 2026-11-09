@@ -1,0 +1,11 @@
+# NAME: QiAnXin
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/cb1ad25babb887b24872ebc0/manifest.json
+# UPDATED: 2026-07-26T08:34:10.893125+00:00
+# RULES: 7
+DOMAIN-SUFFIX,95015.com
+DOMAIN-SUFFIX,ceati.org.cn
+DOMAIN-SUFFIX,datacon.org.cn
+DOMAIN-SUFFIX,qianxin.com
+DOMAIN-SUFFIX,qianxincdn.com
+DOMAIN-SUFFIX,seclab.online
+DOMAIN-SUFFIX,tianshucup.com

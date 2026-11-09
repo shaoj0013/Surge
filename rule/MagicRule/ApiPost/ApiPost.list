@@ -1,0 +1,6 @@
+# NAME: ApiPost
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/4e4133d9c35b6c444c90d9e8/manifest.json
+# UPDATED: 2026-07-26T08:30:38.491139+00:00
+# RULES: 2
+DOMAIN-SUFFIX,apipost.cn
+DOMAIN-SUFFIX,apipost.net

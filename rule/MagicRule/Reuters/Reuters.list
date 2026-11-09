@@ -1,0 +1,8 @@
+# NAME: Reuters
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/aa9f14ac8c00c8b23629f107/manifest.json
+# UPDATED: 2026-07-26T10:42:11.922066+00:00
+# RULES: 4
+DOMAIN-SUFFIX,reut.rs
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,reuters.tv
+DOMAIN-SUFFIX,reutersmedia.net

@@ -1,0 +1,9 @@
+# NAME: Duolingo
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/d65941faca4e56e547f00323/manifest.json
+# UPDATED: 2026-07-26T08:32:29.193091+00:00
+# RULES: 5
+DOMAIN-SUFFIX,ads-api.duolingo.com
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com
+DOMAIN-SUFFIX,duolingo.cn
+DOMAIN-SUFFIX,duolingo.com
+DOMAIN-SUFFIX,metrics.duolingo.com

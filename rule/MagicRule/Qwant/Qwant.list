@@ -1,0 +1,8 @@
+# NAME: Qwant
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/2e8fe507720da8bd75041128/manifest.json
+# UPDATED: 2026-07-26T10:41:57.388916+00:00
+# RULES: 4
+DOMAIN-SUFFIX,qwant.com
+DOMAIN-SUFFIX,qwant.de
+DOMAIN-SUFFIX,qwant.fr
+DOMAIN-SUFFIX,qwant.it

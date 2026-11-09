@@ -1,0 +1,6 @@
+# NAME: Vaptcha
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/2a27000f03b94bc24a546ae0/manifest.json
+# UPDATED: 2026-07-26T10:47:43.398435+00:00
+# RULES: 2
+DOMAIN-SUFFIX,vaptcha.com
+DOMAIN-SUFFIX,vaptcha.net

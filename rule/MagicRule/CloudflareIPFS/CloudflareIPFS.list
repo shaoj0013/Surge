@@ -1,0 +1,6 @@
+# NAME: CloudflareIPFS
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/370952098747dae03de40b0b/manifest.json
+# UPDATED: 2026-07-26T07:36:40.151450+00:00
+# RULES: 2
+DOMAIN-SUFFIX,cf-ipfs.com
+DOMAIN-SUFFIX,cloudflare-ipfs.com

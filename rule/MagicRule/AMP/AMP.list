@@ -1,0 +1,10 @@
+# NAME: AMP
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/92271139b15105d29fb236a5/manifest.json
+# UPDATED: 2026-07-26T09:57:39.971016+00:00
+# RULES: 6
+DOMAIN,amp.akamaized.net
+DOMAIN,cdn.ampproject.org
+DOMAIN-SUFFIX,amp.dev
+DOMAIN-SUFFIX,ampproject.com
+DOMAIN-SUFFIX,ampproject.net
+DOMAIN-SUFFIX,ampproject.org

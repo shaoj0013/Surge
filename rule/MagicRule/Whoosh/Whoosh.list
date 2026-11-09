@@ -1,0 +1,6 @@
+# NAME: Whoosh
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/dddd24725e4e000d12303400/manifest.json
+# UPDATED: 2026-07-26T10:49:16.405375+00:00
+# RULES: 2
+DOMAIN-SUFFIX,whoosh-bike.ru
+DOMAIN-SUFFIX,whoosh.bike

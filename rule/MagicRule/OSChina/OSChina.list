@@ -1,0 +1,7 @@
+# NAME: OSChina
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/55d286f9631842bef1defec9/manifest.json
+# UPDATED: 2026-07-26T08:34:10.086856+00:00
+# RULES: 3
+DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,gitee.io
+DOMAIN-SUFFIX,oschina.net

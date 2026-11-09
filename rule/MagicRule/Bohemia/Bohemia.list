@@ -1,0 +1,13 @@
+# NAME: Bohemia
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/9c1eaad029331aff107f19a8/manifest.json
+# UPDATED: 2026-07-26T08:36:18.754917+00:00
+# RULES: 9
+DOMAIN-SUFFIX,arma3.com
+DOMAIN-SUFFIX,armaplatform.com
+DOMAIN-SUFFIX,bistudio.com
+DOMAIN-SUFFIX,bohemia.net
+DOMAIN-SUFFIX,dayz.com
+DOMAIN-SUFFIX,makearmanotwar.com
+DOMAIN-SUFFIX,silicagame.com
+DOMAIN-SUFFIX,vigorgame.com
+DOMAIN-SUFFIX,ylands.com

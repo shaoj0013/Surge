@@ -1,0 +1,12 @@
+# NAME: GateIO
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/736d631132b083e35f7fe012/manifest.json
+# UPDATED: 2026-09-02T05:10:49.053254+00:00
+# RULES: 8
+DOMAIN-SUFFIX,gate.com
+DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gate.tv
+DOMAIN-SUFFIX,gateapi.io
+DOMAIN-SUFFIX,gatedata.org
+DOMAIN-SUFFIX,gateimg.com
+DOMAIN-SUFFIX,gateio.live
+DOMAIN-SUFFIX,gateio.services

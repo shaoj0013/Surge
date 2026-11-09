@@ -1,0 +1,9 @@
+# NAME: GoDaddy
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/507bf48789dfd630e6a4706b/manifest.json
+# UPDATED: 2026-07-26T08:39:16.141187+00:00
+# RULES: 5
+DOMAIN-SUFFIX,godaddy
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,godaddy.net
+DOMAIN-SUFFIX,wsimg.com
+DOMAIN-SUFFIX,x.co

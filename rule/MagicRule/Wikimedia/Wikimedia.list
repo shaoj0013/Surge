@@ -1,0 +1,24 @@
+# NAME: Wikimedia
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/0696d8ac6cb7028bfe9c5b69/manifest.json
+# UPDATED: 2026-07-26T06:55:59.608832+00:00
+# RULES: 20
+DOMAIN-SUFFIX,mediawiki.org
+DOMAIN-SUFFIX,toolforge.org
+DOMAIN-SUFFIX,w.wiki
+DOMAIN-SUFFIX,wikibooks.org
+DOMAIN-SUFFIX,wikidata.org
+DOMAIN-SUFFIX,wikileaks.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikimediacloud.org
+DOMAIN-SUFFIX,wikimediafoundation.org
+DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,wikipedia.com
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiquote.org
+DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikiversity.org
+DOMAIN-SUFFIX,wikivoyage.org
+DOMAIN-SUFFIX,wiktionary.org
+DOMAIN-SUFFIX,wmcloud.org
+DOMAIN-SUFFIX,wmflabs.org
+DOMAIN-SUFFIX,wmfusercontent.org

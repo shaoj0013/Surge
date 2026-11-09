@@ -1,0 +1,6 @@
+# NAME: SSLCom
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/ec1c2d2f62bc1fa6c5fd98f1/manifest.json
+# UPDATED: 2026-07-26T10:43:44.485687+00:00
+# RULES: 2
+DOMAIN-SUFFIX,ssl.com
+DOMAIN-SUFFIX,sslcom.cn

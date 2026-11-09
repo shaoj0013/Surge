@@ -1,0 +1,16 @@
+# NAME: Heroku
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/93ef343667c005a37add0fac/manifest.json
+# UPDATED: 2026-07-26T06:29:28.553191+00:00
+# RULES: 12
+DOMAIN-SUFFIX,codei.sh
+DOMAIN-SUFFIX,codeish.co
+DOMAIN-SUFFIX,codeish.io
+DOMAIN-SUFFIX,heroku-app.com
+DOMAIN-SUFFIX,heroku-charge.com
+DOMAIN-SUFFIX,heroku.co
+DOMAIN-SUFFIX,heroku.com
+DOMAIN-SUFFIX,heroku.me
+DOMAIN-SUFFIX,herokuapp.com
+DOMAIN-SUFFIX,herokucdn.com
+DOMAIN-SUFFIX,herokucharge.com
+DOMAIN-SUFFIX,herokussl.com

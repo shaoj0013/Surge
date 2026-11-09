@@ -1,0 +1,22 @@
+# NAME: MingLueZhaoHui
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/cd1e61dbbbc7dbb25960d3dc/manifest.json
+# UPDATED: 2026-07-26T06:27:12.396848+00:00
+# RULES: 18
+DOMAIN-SUFFIX,3wnet.cn
+DOMAIN-SUFFIX,admonitor.org
+DOMAIN-SUFFIX,grpindex.com
+DOMAIN-SUFFIX,miaozhen.cn
+DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,mlt.pub
+DOMAIN-SUFFIX,momentad.com
+DOMAIN-SUFFIX,mzfile.com
+DOMAIN-SUFFIX,mzhen.cn
+DOMAIN-SUFFIX,mzhen.com
+DOMAIN-SUFFIX,mzsvn.com
+DOMAIN-SUFFIX,stfile.com
+DOMAIN-SUFFIX,supertool.net.cn
+DOMAIN-SUFFIX,touchjoin.com
+DOMAIN-SUFFIX,touchjoint.com
+DOMAIN-SUFFIX,withdata.cn
+DOMAIN-SUFFIX,withwinds.com
+DOMAIN-SUFFIX,xueto.com

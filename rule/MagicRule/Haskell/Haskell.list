@@ -1,0 +1,7 @@
+# NAME: Haskell
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/9a40586902b1244fdf10c185/manifest.json
+# UPDATED: 2026-07-26T08:35:56.968221+00:00
+# RULES: 3
+DOMAIN-SUFFIX,haskell.org
+DOMAIN-SUFFIX,haskellstack.org
+DOMAIN-SUFFIX,stackage.org

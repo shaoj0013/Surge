@@ -1,0 +1,15 @@
+# NAME: Ku6
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/2e8e2e3b71be0de0b047707d/manifest.json
+# UPDATED: 2026-07-26T06:26:07.464128+00:00
+# RULES: 11
+DOMAIN-SUFFIX,feedsp.com
+DOMAIN-SUFFIX,juchang.cn
+DOMAIN-SUFFIX,juchang.com.cn
+DOMAIN-SUFFIX,ku6.cn
+DOMAIN-SUFFIX,ku6.com
+DOMAIN-SUFFIX,ku6.com.cn
+DOMAIN-SUFFIX,ku6.net
+DOMAIN-SUFFIX,ku6cdn.com
+DOMAIN-SUFFIX,ku6img.com
+DOMAIN-SUFFIX,ku6vms.com
+DOMAIN-SUFFIX,weiguan.com

@@ -1,0 +1,7 @@
+# NAME: Vancl
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/b6bb548cb02a2b0263f73cca/manifest.json
+# UPDATED: 2026-07-26T06:28:39.585130+00:00
+# RULES: 3
+DOMAIN-SUFFIX,vancl.com
+DOMAIN-SUFFIX,vanclimg.com
+DOMAIN-SUFFIX,vcimg.com

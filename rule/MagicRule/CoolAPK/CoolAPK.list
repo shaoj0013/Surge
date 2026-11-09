@@ -1,0 +1,7 @@
+# NAME: CoolAPK
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/fe475d555870cd4e2e2a11cf/manifest.json
+# UPDATED: 2026-07-26T10:24:23.366821+00:00
+# RULES: 3
+DOMAIN-SUFFIX,coolapk.com
+DOMAIN-SUFFIX,coolapkmarket.com
+DOMAIN-SUFFIX,coolapkmarket.net

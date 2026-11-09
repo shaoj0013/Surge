@@ -1,0 +1,7 @@
+# NAME: TrackerNetwork
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/9684a4ae290d5cf40e9d93ce/manifest.json
+# UPDATED: 2026-07-26T08:37:38.356349+00:00
+# RULES: 3
+DOMAIN-SUFFIX,thetrackernetwork.com
+DOMAIN-SUFFIX,tracker.gg
+DOMAIN-SUFFIX,tracker.network

@@ -1,0 +1,9 @@
+# NAME: Dailymotion
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/45cb02c9f3a0a81d4f675b15/manifest.json
+# UPDATED: 2026-07-26T06:21:42.459053+00:00
+# RULES: 5
+DOMAIN-SUFFIX,dai.ly
+DOMAIN-SUFFIX,dailymotion.com
+DOMAIN-SUFFIX,dm-event.net
+DOMAIN-SUFFIX,dmcdn.net
+DOMAIN-SUFFIX,dmxleo.com

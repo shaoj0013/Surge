@@ -1,0 +1,7 @@
+# NAME: HKedcity
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/2d8add7644aa75c06843087c/manifest.json
+# UPDATED: 2026-07-26T06:29:26.573163+00:00
+# RULES: 3
+DOMAIN-SUFFIX,edcity.hk
+DOMAIN-SUFFIX,hkedcity.net
+DOMAIN-SUFFIX,hkreadingcity.net

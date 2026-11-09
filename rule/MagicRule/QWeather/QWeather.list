@@ -1,0 +1,9 @@
+# NAME: QWeather
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/651f524f5189e731fdc1e250/manifest.json
+# UPDATED: 2026-07-26T10:41:53.644382+00:00
+# RULES: 5
+DOMAIN-SUFFIX,hecdn.net
+DOMAIN-SUFFIX,heweather.net
+DOMAIN-SUFFIX,qweather.com
+DOMAIN-SUFFIX,qweather.net
+DOMAIN-SUFFIX,qweatherapi.com

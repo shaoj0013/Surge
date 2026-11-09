@@ -1,0 +1,16 @@
+# NAME: XTom
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/e1711d108c7ed6cfcd4b71f9/manifest.json
+# UPDATED: 2026-07-26T08:38:43.367110+00:00
+# RULES: 12
+DOMAIN-SUFFIX,v.ps
+DOMAIN-SUFFIX,vps.hosting
+DOMAIN-SUFFIX,xtom.au
+DOMAIN-SUFFIX,xtom.com
+DOMAIN-SUFFIX,xtom.de
+DOMAIN-SUFFIX,xtom.ee
+DOMAIN-SUFFIX,xtom.hk
+DOMAIN-SUFFIX,xtom.jp
+DOMAIN-SUFFIX,xtom.nl
+DOMAIN-SUFFIX,xtom.sg
+DOMAIN-SUFFIX,xtom.social
+DOMAIN-SUFFIX,xtom.us

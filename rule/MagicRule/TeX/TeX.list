@@ -1,0 +1,8 @@
+# NAME: TeX
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/91f0984ca134b7f0635005c8/manifest.json
+# UPDATED: 2026-07-26T10:45:44.688000+00:00
+# RULES: 4
+DOMAIN-SUFFIX,ctan.org
+DOMAIN-SUFFIX,latex-project.org
+DOMAIN-SUFFIX,miktex.org
+DOMAIN-SUFFIX,tug.org

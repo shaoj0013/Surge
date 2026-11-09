@@ -1,0 +1,6 @@
+# NAME: DuiTang
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/9645e1c98a89fd668dab1fd9/manifest.json
+# UPDATED: 2026-07-26T10:26:16.896291+00:00
+# RULES: 2
+DOMAIN-SUFFIX,dtstatic.com
+DOMAIN-SUFFIX,duitang.com

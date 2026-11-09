@@ -1,0 +1,6 @@
+# NAME: PlayCover
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/9d52c908f05ff3943767661c/manifest.json
+# UPDATED: 2026-07-26T08:36:32.240985+00:00
+# RULES: 2
+DOMAIN-SUFFIX,playcover.io
+DOMAIN-SUFFIX,playcover.workers.dev

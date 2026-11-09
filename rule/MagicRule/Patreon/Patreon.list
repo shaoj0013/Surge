@@ -1,0 +1,8 @@
+# NAME: Patreon
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/253a7985f3b8e1f6a2b0d4ae/manifest.json
+# UPDATED: 2026-07-26T08:35:28.114480+00:00
+# RULES: 4
+DOMAIN,live-patreon-marketing.pantheonsite.io
+DOMAIN-SUFFIX,patreon.com
+DOMAIN-SUFFIX,patreoncommunity.com
+DOMAIN-SUFFIX,patreonusercontent.com

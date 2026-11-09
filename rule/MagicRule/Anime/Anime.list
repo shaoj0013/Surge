@@ -1,0 +1,25 @@
+# NAME: Anime
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/3661a108535c06dd6b526acb/manifest.json
+# UPDATED: 2026-07-26T08:30:18.416501+00:00
+# RULES: 21
+DOMAIN-SUFFIX,9anime.cz
+DOMAIN-SUFFIX,9anime.id
+DOMAIN-SUFFIX,9anime.to
+DOMAIN-SUFFIX,9anime.ws
+DOMAIN-SUFFIX,age.tv
+DOMAIN-SUFFIX,agedm.app
+DOMAIN-SUFFIX,agedm.org
+DOMAIN-SUFFIX,agedm.tv
+DOMAIN-SUFFIX,agefans.com
+DOMAIN-SUFFIX,agemys.org
+DOMAIN-SUFFIX,animedao-tv.com
+DOMAIN-SUFFIX,crunchyroll.com
+DOMAIN-SUFFIX,funimation.com
+DOMAIN-SUFFIX,gogo-load.com
+DOMAIN-SUFFIX,gogoanime.vc
+DOMAIN-SUFFIX,gogoanime.wiki
+DOMAIN-SUFFIX,gogoanime3.co
+DOMAIN-SUFFIX,gogocdn.net
+DOMAIN-SUFFIX,gogotaku.info
+DOMAIN-SUFFIX,hidive.com
+DOMAIN-SUFFIX,vrv.co

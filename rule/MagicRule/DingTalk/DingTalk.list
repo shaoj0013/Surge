@@ -1,0 +1,18 @@
+# NAME: DingTalk
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/fe6d9c6877c7b4dd60519c72/manifest.json
+# UPDATED: 2026-07-26T06:24:37.058008+00:00
+# RULES: 14
+DOMAIN-SUFFIX,ddurl.to
+DOMAIN-SUFFIX,dg-work.cn
+DOMAIN-SUFFIX,dingding.xin
+DOMAIN-SUFFIX,dingstore.cn
+DOMAIN-SUFFIX,dingtalk.cn
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,dingtalk.com.cn
+DOMAIN-SUFFIX,dingtalk.net
+DOMAIN-SUFFIX,dingtalkapps.com
+DOMAIN-SUFFIX,dingtalkcloud.com
+DOMAIN-SUFFIX,laiwang.com
+DOMAIN-SUFFIX,lwurl.to
+DOMAIN-SUFFIX,realapp.xin
+DOMAIN-SUFFIX,ztna-dingtalk.com

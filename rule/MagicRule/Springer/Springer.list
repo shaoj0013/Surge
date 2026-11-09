@@ -1,0 +1,9 @@
+# NAME: Springer
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/3264159444d5ff953c77533f/manifest.json
+# UPDATED: 2026-07-26T10:44:00.987661+00:00
+# RULES: 5
+DOMAIN-SUFFIX,apress.com
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,springerlink.com
+DOMAIN-SUFFIX,springernature.com
+DOMAIN-SUFFIX,wkap.nl

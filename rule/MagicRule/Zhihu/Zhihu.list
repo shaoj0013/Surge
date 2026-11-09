@@ -1,0 +1,10 @@
+# NAME: Zhihu
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/c7c873435e787e698985492a/manifest.json
+# UPDATED: 2026-07-26T07:00:11.416747+00:00
+# RULES: 6
+DOMAIN-SUFFIX,crash2.zhihu.com
+DOMAIN-SUFFIX,laiyagushi.com
+DOMAIN-SUFFIX,vzuu.com
+DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com

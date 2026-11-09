@@ -1,0 +1,5 @@
+# NAME: CloudConvert
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/5bdf7b23ba822b634f11b470/manifest.json
+# UPDATED: 2026-07-26T08:37:43.399987+00:00
+# RULES: 1
+DOMAIN-SUFFIX,cloudconvert.com

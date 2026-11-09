@@ -1,0 +1,10 @@
+# NAME: Apkpure
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/aa0186d0564f4bfb5b9e35e6/manifest.json
+# UPDATED: 2026-07-26T06:30:35.533471+00:00
+# RULES: 6
+DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,apkpure.net
+DOMAIN-SUFFIX,apkpures.xyz
+DOMAIN-SUFFIX,cdnpure.com
+DOMAIN-SUFFIX,pureapk.com
+DOMAIN-SUFFIX,winudf.com

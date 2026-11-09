@@ -1,0 +1,6 @@
+# NAME: SourceHut
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/b185b155d48d1d0ab0c3bbf8/manifest.json
+# UPDATED: 2026-07-26T08:35:59.021299+00:00
+# RULES: 2
+DOMAIN-SUFFIX,sourcehut.org
+DOMAIN-SUFFIX,sr.ht

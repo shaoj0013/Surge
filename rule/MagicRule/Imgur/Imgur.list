@@ -1,0 +1,7 @@
+# NAME: Imgur
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/06d86cc8af822239b80462fe/manifest.json
+# UPDATED: 2026-07-26T06:50:27.791418+00:00
+# RULES: 3
+DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,imgur.io
+DOMAIN-SUFFIX,imgurinc.com

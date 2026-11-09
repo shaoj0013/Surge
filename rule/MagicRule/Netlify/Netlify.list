@@ -1,0 +1,14 @@
+# NAME: Netlify
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/0375e6308cd2214d37f16687/manifest.json
+# UPDATED: 2026-07-26T08:35:27.013142+00:00
+# RULES: 10
+DOMAIN,acd89244c803f7181.awsglobalaccelerator.com
+DOMAIN,afa7f374f51cc8991.awsglobalaccelerator.com
+DOMAIN,d33wubrfki0l68.cloudfront.net
+DOMAIN-SUFFIX,bitballoon.com
+DOMAIN-SUFFIX,netlify.app
+DOMAIN-SUFFIX,netlify.com
+DOMAIN-SUFFIX,netlifydns.com
+DOMAIN-SUFFIX,netlifystatus.com
+DOMAIN-SUFFIX,netlifyusercontent.com
+DOMAIN-SUFFIX,ntl.fyi

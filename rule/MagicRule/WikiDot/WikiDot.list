@@ -1,0 +1,6 @@
+# NAME: WikiDot
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/cf36e3233c4a04696b3d8bea/manifest.json
+# UPDATED: 2026-07-26T10:49:06.377227+00:00
+# RULES: 2
+DOMAIN-SUFFIX,wdfiles.com
+DOMAIN-SUFFIX,wikidot.com

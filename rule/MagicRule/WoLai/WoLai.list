@@ -1,0 +1,9 @@
+# NAME: WoLai
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/f10d9335f548187d4dc48606/manifest.json
+# UPDATED: 2026-07-26T07:00:12.017219+00:00
+# RULES: 5
+DOMAIN-SUFFIX,wol.tv
+DOMAIN-SUFFIX,wolai.com
+DOMAIN-SUFFIX,wolai.ren
+DOMAIN-SUFFIX,wostatic.cn
+DOMAIN-SUFFIX,woyun.work

@@ -1,0 +1,7 @@
+# NAME: LouisVuitton
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/e431a4b95a08a5cf1d4099ed/manifest.json
+# UPDATED: 2026-07-26T10:36:56.036051+00:00
+# RULES: 3
+DOMAIN-SUFFIX,louisvuitton.cn
+DOMAIN-SUFFIX,louisvuitton.com
+DOMAIN-SUFFIX,lvcampaign.com

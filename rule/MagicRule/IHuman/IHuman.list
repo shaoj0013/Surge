@@ -1,0 +1,6 @@
+# NAME: IHuman
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/f07499e1c3d9418f93db6210/manifest.json
+# UPDATED: 2026-07-26T10:34:04.878637+00:00
+# RULES: 2
+DOMAIN-SUFFIX,hongen.com
+DOMAIN-SUFFIX,ihuman.com

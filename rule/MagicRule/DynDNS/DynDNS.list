@@ -1,0 +1,12 @@
+# NAME: DynDNS
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/8591eade379ff4edaca0b04e/manifest.json
+# UPDATED: 2026-07-26T06:29:13.463298+00:00
+# RULES: 8
+DOMAIN-SUFFIX,blogdns.org
+DOMAIN-SUFFIX,dyn.com
+DOMAIN-SUFFIX,dyndns-ip.com
+DOMAIN-SUFFIX,dyndns-pics.com
+DOMAIN-SUFFIX,dyndns.org
+DOMAIN-SUFFIX,from-pr.com
+DOMAIN-SUFFIX,from-sd.com
+DOMAIN-SUFFIX,is-a-hunter.com

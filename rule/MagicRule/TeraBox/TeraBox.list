@@ -1,0 +1,11 @@
+# NAME: TeraBox
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/59f764ee3f341f9d86f8492d/manifest.json
+# UPDATED: 2026-07-26T07:16:49.641187+00:00
+# RULES: 7
+DOMAIN-SUFFIX,1024terabox.com
+DOMAIN-SUFFIX,bestclouddrive.com
+DOMAIN-SUFFIX,freeterabox.com
+DOMAIN-SUFFIX,nephobox.com
+DOMAIN-SUFFIX,terabox.com
+DOMAIN-SUFFIX,terabox1024.com
+DOMAIN-SUFFIX,teraboxcdn.com

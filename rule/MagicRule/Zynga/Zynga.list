@@ -1,0 +1,7 @@
+# NAME: Zynga
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/bb2db88648d8d36f25585be9/manifest.json
+# UPDATED: 2026-07-26T08:37:15.633421+00:00
+# RULES: 3
+DOMAIN-SUFFIX,zynga.com
+DOMAIN-SUFFIX,zyngaplayersupport.com
+DOMAIN-SUFFIX,zyngapoker.com

@@ -1,0 +1,9 @@
+# NAME: URLShortener
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/14da5c7fcee15790469ad264/manifest.json
+# UPDATED: 2026-07-26T08:29:08.999120+00:00
+# RULES: 5
+DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,bitly.com
+DOMAIN-SUFFIX,bitly.is
+DOMAIN-SUFFIX,shorturl.at
+DOMAIN-SUFFIX,tinyurl.com

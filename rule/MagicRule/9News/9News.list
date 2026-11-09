@@ -1,0 +1,18 @@
+# NAME: 9News
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/3474d4bd365b8b4cc7e5d5be/manifest.json
+# UPDATED: 2026-07-26T06:30:28.385397+00:00
+# RULES: 14
+DOMAIN-SUFFIX,9cdn.net
+DOMAIN-SUFFIX,9nation.com.au
+DOMAIN-SUFFIX,9news.com.au
+DOMAIN-SUFFIX,9now.com.au
+DOMAIN-SUFFIX,freeviewplus.net.au
+DOMAIN-SUFFIX,mi9.com.au
+DOMAIN-SUFFIX,mi9cdn.com
+DOMAIN-SUFFIX,nine.com.au
+DOMAIN-SUFFIX,nineentertainment.com.au
+DOMAIN-SUFFIX,nineentertainmentco.com.au
+DOMAIN-SUFFIX,ninemediaroom.com.au
+DOMAIN-SUFFIX,ninemsn.com.au
+DOMAIN-SUFFIX,static9.net.au
+DOMAIN-SUFFIX,yourtv.com.au

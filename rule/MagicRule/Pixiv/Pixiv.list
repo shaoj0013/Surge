@@ -1,0 +1,16 @@
+# NAME: Pixiv
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/e0e302cefd4a209f09d532da/manifest.json
+# UPDATED: 2026-07-26T06:53:14.488202+00:00
+# RULES: 12
+DOMAIN-SUFFIX,ads-pixiv.net
+DOMAIN-SUFFIX,booth.pm
+DOMAIN-SUFFIX,fanbox.cc
+DOMAIN-SUFFIX,pixiv-recommend.net
+DOMAIN-SUFFIX,pixiv.cat
+DOMAIN-SUFFIX,pixiv.co.jp
+DOMAIN-SUFFIX,pixiv.help
+DOMAIN-SUFFIX,pixiv.me
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pixiv.org
+DOMAIN-SUFFIX,pixivision.net
+DOMAIN-SUFFIX,pximg.net

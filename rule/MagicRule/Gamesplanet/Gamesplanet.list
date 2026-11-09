@@ -1,0 +1,7 @@
+# NAME: Gamesplanet
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/d3455bf055127ad07d93e509/manifest.json
+# UPDATED: 2026-07-26T08:36:57.678113+00:00
+# RULES: 3
+DOMAIN-SUFFIX,gamesplanet.com
+DOMAIN-SUFFIX,gametap.com
+DOMAIN-SUFFIX,gpstatic.com

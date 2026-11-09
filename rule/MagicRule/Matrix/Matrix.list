@@ -1,0 +1,13 @@
+# NAME: Matrix
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/80f8ece405585487e298dd4d/manifest.json
+# UPDATED: 2026-07-26T08:21:49.716812+00:00
+# RULES: 9
+DOMAIN-SUFFIX,arewereadyyet.com
+DOMAIN-SUFFIX,cinny.in
+DOMAIN-SUFFIX,element.io
+DOMAIN-SUFFIX,fluffychat.im
+DOMAIN-SUFFIX,matrix.org
+DOMAIN-SUFFIX,matrix.to
+DOMAIN-SUFFIX,modular.im
+DOMAIN-SUFFIX,riot.im
+DOMAIN-SUFFIX,vector.im

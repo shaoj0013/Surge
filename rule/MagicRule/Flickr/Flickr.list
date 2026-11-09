@@ -1,0 +1,9 @@
+# NAME: Flickr
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/4f405c2ba7414e965a85b169/manifest.json
+# UPDATED: 2026-07-26T10:27:59.224384+00:00
+# RULES: 5
+DOMAIN-SUFFIX,flic.kr
+DOMAIN-SUFFIX,flickr
+DOMAIN-SUFFIX,flickr.com
+DOMAIN-SUFFIX,flickr.net
+DOMAIN-SUFFIX,staticflickr.com

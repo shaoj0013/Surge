@@ -1,0 +1,10 @@
+# NAME: Mojang
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/6a5c5cb296fa8194a312e209/manifest.json
+# UPDATED: 2026-07-26T08:37:14.739110+00:00
+# RULES: 6
+DOMAIN-SUFFIX,callersbane.com
+DOMAIN-SUFFIX,minecraft-services.net
+DOMAIN-SUFFIX,minecraft.net
+DOMAIN-SUFFIX,minecraftservices.com
+DOMAIN-SUFFIX,minecraftshop.com
+DOMAIN-SUFFIX,mojang.com

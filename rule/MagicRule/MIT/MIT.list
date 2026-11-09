@@ -1,0 +1,8 @@
+# NAME: MIT
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/a0be36b875659101ba92f609/manifest.json
+# UPDATED: 2026-07-26T10:37:37.553615+00:00
+# RULES: 4
+DOMAIN-SUFFIX,mit
+DOMAIN-SUFFIX,mit.edu
+DOMAIN-SUFFIX,mit.net
+DOMAIN-SUFFIX,mitpressjournals.org

@@ -1,0 +1,6 @@
+# NAME: FontAwesome
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/7d519719e3a966f03b75b513/manifest.json
+# UPDATED: 2026-07-26T10:27:54.846149+00:00
+# RULES: 2
+DOMAIN-SUFFIX,fontawesome.com
+DOMAIN-SUFFIX,fortawesome.com

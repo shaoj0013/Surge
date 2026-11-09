@@ -1,0 +1,9 @@
+# NAME: TIDAL
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/fda1eae12e29251f50428d0c/manifest.json
+# UPDATED: 2026-07-26T06:22:31.418391+00:00
+# RULES: 5
+DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
+DOMAIN-SUFFIX,tidal.com
+DOMAIN-SUFFIX,tidalhifi.com
+DOMAIN-SUFFIX,wimpmusic.com
+USER-AGENT,TIDAL*dia

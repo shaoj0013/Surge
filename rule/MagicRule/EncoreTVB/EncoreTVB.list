@@ -1,0 +1,9 @@
+# NAME: EncoreTVB
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/886744b6eaecf73ca9cdb9cd/manifest.json
+# UPDATED: 2026-07-26T06:21:43.369145+00:00
+# RULES: 5
+DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,content.jwplatform.com
+DOMAIN,edge.api.brightcove.com
+DOMAIN,videos-f.jwpsrv.com
+DOMAIN-SUFFIX,encoretvb.com

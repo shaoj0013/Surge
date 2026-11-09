@@ -1,0 +1,7 @@
+# NAME: CowTransfer
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/a96aa9b56513504485558ae9/manifest.json
+# UPDATED: 2026-07-26T08:37:42.598093+00:00
+# RULES: 3
+DOMAIN-SUFFIX,c-t.work
+DOMAIN-SUFFIX,cowcs.com
+DOMAIN-SUFFIX,cowtransfer.com

@@ -1,0 +1,6 @@
+# NAME: Scala
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/f06d4522633965e234548e0b/manifest.json
+# UPDATED: 2026-07-26T08:36:07.962655+00:00
+# RULES: 2
+DOMAIN-SUFFIX,scala-lang.org
+DOMAIN-SUFFIX,scala-sbt.org

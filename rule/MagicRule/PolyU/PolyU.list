@@ -1,0 +1,9 @@
+# NAME: PolyU
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/c5da383ad690556955fa0d83/manifest.json
+# UPDATED: 2026-07-26T10:41:13.765651+00:00
+# RULES: 5
+DOMAIN-SUFFIX,cpce-polyu.edu.hk
+DOMAIN-SUFFIX,hkcc-polyu.edu.hk
+DOMAIN-SUFFIX,polyu.edu.hk
+DOMAIN-SUFFIX,polyu.hk
+DOMAIN-SUFFIX,speed-polyu.edu.hk

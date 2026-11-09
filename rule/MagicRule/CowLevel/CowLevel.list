@@ -1,0 +1,6 @@
+# NAME: CowLevel
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/75cff92acb201691db16f91f/manifest.json
+# UPDATED: 2026-07-26T08:36:25.302936+00:00
+# RULES: 2
+DOMAIN-SUFFIX,cdncl.net
+DOMAIN-SUFFIX,cowlevel.net

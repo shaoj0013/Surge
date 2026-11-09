@@ -1,0 +1,7 @@
+# NAME: OP
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/4d178ca7871f679decfc8309/manifest.json
+# UPDATED: 2026-07-26T06:32:09.438375+00:00
+# RULES: 3
+DOMAIN,opgg-static.akamaized.net
+DOMAIN-SUFFIX,op.gg
+DOMAIN-SUFFIX,opgg-static.akamaized.net

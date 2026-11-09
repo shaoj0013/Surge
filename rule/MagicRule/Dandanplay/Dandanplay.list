@@ -1,0 +1,8 @@
+# NAME: Dandanplay
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/3a4a985caf5efe436e17c90b/manifest.json
+# UPDATED: 2026-07-26T06:24:17.144063+00:00
+# RULES: 4
+DOMAIN-SUFFIX,acplay.net
+DOMAIN-SUFFIX,dandanplay.com
+DOMAIN-SUFFIX,dandanplay.net
+DOMAIN-SUFFIX,dandanplayer.com

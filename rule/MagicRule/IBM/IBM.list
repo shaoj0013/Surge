@@ -1,0 +1,25 @@
+# NAME: IBM
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/efd22f1f321f4b68099729e0/manifest.json
+# UPDATED: 2026-07-26T06:29:30.666190+00:00
+# RULES: 21
+DOMAIN-SUFFIX,appdomain.cloud
+DOMAIN-SUFFIX,bluemix.com
+DOMAIN-SUFFIX,bluemix.net
+DOMAIN-SUFFIX,consul.io
+DOMAIN-SUFFIX,hashicorp.com
+DOMAIN-SUFFIX,ibm
+DOMAIN-SUFFIX,ibm.com
+DOMAIN-SUFFIX,ibm.eu
+DOMAIN-SUFFIX,ibm.net
+DOMAIN-SUFFIX,ibm.us
+DOMAIN-SUFFIX,nic.ibm
+DOMAIN-SUFFIX,nomadproject.io
+DOMAIN-SUFFIX,packer.io
+DOMAIN-SUFFIX,s-bluemix.net
+DOMAIN-SUFFIX,s81c.com
+DOMAIN-SUFFIX,terraform.io
+DOMAIN-SUFFIX,vagrantcloud.com
+DOMAIN-SUFFIX,vagrantup.com
+DOMAIN-SUFFIX,vaultproject.io
+DOMAIN-SUFFIX,weather
+DOMAIN-SUFFIX,weatherchannel

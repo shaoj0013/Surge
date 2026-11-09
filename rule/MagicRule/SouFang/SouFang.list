@@ -1,0 +1,15 @@
+# NAME: SouFang
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/fbd46502836dbab52eba5b6d/manifest.json
+# UPDATED: 2026-07-26T06:28:00.468296+00:00
+# RULES: 11
+DOMAIN-SUFFIX,fang.com
+DOMAIN-SUFFIX,hkproperty.com
+DOMAIN-SUFFIX,houselight.cn
+DOMAIN-SUFFIX,nree.cn
+DOMAIN-SUFFIX,soufun.com
+DOMAIN-SUFFIX,soufun.com.cn
+DOMAIN-SUFFIX,soufunimg.com
+DOMAIN-SUFFIX,txsf.com
+DOMAIN-SUFFIX,villachina.com
+DOMAIN-SUFFIX,villachina.com.cn
+DOMAIN-SUFFIX,xn--fiz97jy4w.com

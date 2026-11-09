@@ -1,0 +1,8 @@
+# NAME: SourceForge
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/7f8a1bbdc431642a7369c00d/manifest.json
+# UPDATED: 2026-07-26T06:54:20.034434+00:00
+# RULES: 4
+DOMAIN-SUFFIX,fsdn.com
+DOMAIN-SUFFIX,sf.net
+DOMAIN-SUFFIX,sourceforge.com
+DOMAIN-SUFFIX,sourceforge.net

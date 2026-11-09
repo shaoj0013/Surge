@@ -1,0 +1,8 @@
+# NAME: MOMOShop
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/82df8747c8c1b167a3c46ec5/manifest.json
+# UPDATED: 2026-07-26T06:57:46.367648+00:00
+# RULES: 4
+DOMAIN-SUFFIX,momo.dm
+DOMAIN-SUFFIX,momo5188.com
+DOMAIN-SUFFIX,momomall.com.tw
+DOMAIN-SUFFIX,momoshop.com.tw

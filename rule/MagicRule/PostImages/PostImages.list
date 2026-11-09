@@ -1,0 +1,6 @@
+# NAME: PostImages
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/93a14060cd383e8301281a13/manifest.json
+# UPDATED: 2026-07-26T10:41:35.530964+00:00
+# RULES: 2
+DOMAIN-SUFFIX,postimages.org
+DOMAIN-SUFFIX,postimg.cc

@@ -1,0 +1,10 @@
+# NAME: Tutanota
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/8e9c4d5f930285efbcdc7fff/manifest.json
+# UPDATED: 2026-07-26T07:43:08.231835+00:00
+# RULES: 6
+DOMAIN-SUFFIX,keemail.me
+DOMAIN-SUFFIX,tuta.com
+DOMAIN-SUFFIX,tuta.io
+DOMAIN-SUFFIX,tutamail.com
+DOMAIN-SUFFIX,tutanota.com
+DOMAIN-SUFFIX,tutanota.de

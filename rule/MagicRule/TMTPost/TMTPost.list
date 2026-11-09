@@ -1,0 +1,12 @@
+# NAME: TMTPost
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/843134d13e154abb34a05c6f/manifest.json
+# UPDATED: 2026-07-26T10:46:19.750698+00:00
+# RULES: 8
+DOMAIN-SUFFIX,72whys.com
+DOMAIN-SUFFIX,chaindd.com
+DOMAIN-SUFFIX,checkzeit.com
+DOMAIN-SUFFIX,tigeek.net.cn
+DOMAIN-SUFFIX,tivitv.com
+DOMAIN-SUFFIX,tmtpost.com
+DOMAIN-SUFFIX,tmtsmartlife.com
+DOMAIN-SUFFIX,tmtsmartrun.com

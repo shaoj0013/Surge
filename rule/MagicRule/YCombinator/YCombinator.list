@@ -1,0 +1,6 @@
+# NAME: YCombinator
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/e5a58e37464856174c8f6542/manifest.json
+# UPDATED: 2026-07-26T10:49:52.699994+00:00
+# RULES: 2
+DOMAIN-SUFFIX,startupschool.org
+DOMAIN-SUFFIX,ycombinator.com

@@ -1,0 +1,13 @@
+# NAME: MDN
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/cd5954f2c75112a680d2bf1a/manifest.json
+# UPDATED: 2026-07-26T08:36:00.597386+00:00
+# RULES: 9
+DOMAIN,mdn.mozillademos.org
+DOMAIN-SUFFIX,developer.allizom.org
+DOMAIN-SUFFIX,developer.mozilla.org
+DOMAIN-SUFFIX,mdn.allizom.net
+DOMAIN-SUFFIX,mdn.dev
+DOMAIN-SUFFIX,mdn.mozilla.net
+DOMAIN-SUFFIX,mdn.mozit.cloud
+DOMAIN-SUFFIX,mdnplay.dev
+DOMAIN-SUFFIX,mdnyalp.dev

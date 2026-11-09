@@ -1,0 +1,8 @@
+# NAME: ZB
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/cc9b2a2bf2b01658cc55da04/manifest.json
+# UPDATED: 2026-07-26T10:50:33.784578+00:00
+# RULES: 4
+DOMAIN-SUFFIX,zb.app
+DOMAIN-SUFFIX,zb.com
+DOMAIN-SUFFIX,zb.io
+DOMAIN-SUFFIX,zb.live

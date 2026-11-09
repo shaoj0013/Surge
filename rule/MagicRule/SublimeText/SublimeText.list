@@ -1,0 +1,8 @@
+# NAME: SublimeText
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/427a05b13ddca0e0914b1a56/manifest.json
+# UPDATED: 2026-07-26T06:54:20.386033+00:00
+# RULES: 4
+DOMAIN-SUFFIX,packagecontrol.io
+DOMAIN-SUFFIX,sublimehq.com
+DOMAIN-SUFFIX,sublimemerge.com
+DOMAIN-SUFFIX,sublimetext.com

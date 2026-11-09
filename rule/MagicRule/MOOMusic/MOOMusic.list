@@ -1,0 +1,5 @@
+# NAME: MOOMusic
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/f3a1fe157acd20f3cbc01bcc/manifest.json
+# UPDATED: 2026-07-26T07:16:20.564489+00:00
+# RULES: 1
+USER-AGENT,TencentMidasConnect*

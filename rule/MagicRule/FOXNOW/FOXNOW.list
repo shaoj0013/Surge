@@ -1,0 +1,7 @@
+# NAME: FOXNOW
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/11ed70094112ba026e1590db/manifest.json
+# UPDATED: 2026-07-26T06:57:22.165356+00:00
+# RULES: 3
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,uplynk.com

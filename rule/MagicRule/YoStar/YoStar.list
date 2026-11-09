@@ -1,0 +1,13 @@
+# NAME: YoStar
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/6a442c5b9bc510a7a27d16c3/manifest.json
+# UPDATED: 2026-07-26T08:36:55.506570+00:00
+# RULES: 9
+DOMAIN-SUFFIX,stargazer-games.com
+DOMAIN-SUFFIX,stellasora.global
+DOMAIN-SUFFIX,stellasora.jp
+DOMAIN-SUFFIX,yo-star.com
+DOMAIN-SUFFIX,yostar-pictures.co.jp
+DOMAIN-SUFFIX,yostar.cn
+DOMAIN-SUFFIX,yostar.co.jp
+DOMAIN-SUFFIX,yostar.net
+DOMAIN-SUFFIX,yostarplat.com

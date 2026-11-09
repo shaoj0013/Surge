@@ -1,0 +1,9 @@
+# NAME: XiamiMusic
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/6e2bc59ae9d01b5f8ceff8f4/manifest.json
+# UPDATED: 2026-07-26T06:28:53.241611+00:00
+# RULES: 5
+DOMAIN-SUFFIX,xiami.com
+DOMAIN-SUFFIX,xiami.fm
+DOMAIN-SUFFIX,xiami.net
+USER-AGENT,walkman*
+USER-AGENT,xiami*

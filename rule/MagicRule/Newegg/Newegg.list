@@ -1,0 +1,6 @@
+# NAME: Newegg
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/505af367e6cfc6c9ca7eb121/manifest.json
+# UPDATED: 2026-07-26T08:34:08.605982+00:00
+# RULES: 2
+DOMAIN-SUFFIX,newegg.com
+DOMAIN-SUFFIX,neweggimages.com

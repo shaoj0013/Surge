@@ -1,0 +1,9 @@
+# NAME: Timeweb
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/f035be70a89d5134416e086b/manifest.json
+# UPDATED: 2026-10-29T02:37:33.677106+00:00
+# RULES: 5
+DOMAIN-SUFFIX,timeweb.cloud
+DOMAIN-SUFFIX,timeweb.com
+DOMAIN-SUFFIX,timeweb.tech
+DOMAIN-SUFFIX,timewebcloud.kz
+DOMAIN-SUFFIX,twcstorage.ru

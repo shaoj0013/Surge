@@ -1,0 +1,8 @@
+# NAME: ITV
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/11f69668c3deac2f351f7d90/manifest.json
+# UPDATED: 2026-07-26T06:22:06.179156+00:00
+# RULES: 4
+DOMAIN,itvpnpmobile-a.akamaihd.net
+DOMAIN-SUFFIX,itv.com
+DOMAIN-SUFFIX,itvstatic.com
+USER-AGENT,ITV_Player*

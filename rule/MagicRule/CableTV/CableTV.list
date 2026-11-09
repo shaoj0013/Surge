@@ -1,0 +1,9 @@
+# NAME: CableTV
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/4206723afeb861d69781c7ab/manifest.json
+# UPDATED: 2026-07-26T06:21:29.934652+00:00
+# RULES: 5
+DOMAIN-SUFFIX,cabletv.com.hk
+DOMAIN-SUFFIX,fantv.hk
+DOMAIN-SUFFIX,hkopentv.com
+DOMAIN-SUFFIX,hoy.tv
+DOMAIN-SUFFIX,i-cable.com

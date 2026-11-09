@@ -1,0 +1,9 @@
+# NAME: Spark
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/b81c8d22a7a5033892a44f05/manifest.json
+# UPDATED: 2026-07-26T06:38:06.413465+00:00
+# RULES: 5
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,hockeyapp.net
+DOMAIN-SUFFIX,readdle.com
+DOMAIN-SUFFIX,smartmailcloud.com

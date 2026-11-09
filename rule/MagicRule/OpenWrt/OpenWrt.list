@@ -1,0 +1,6 @@
+# NAME: OpenWrt
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/f3f0652d252078cc2292c21e/manifest.json
+# UPDATED: 2026-07-26T08:34:09.342036+00:00
+# RULES: 2
+DOMAIN-SUFFIX,lede-project.org
+DOMAIN-SUFFIX,openwrt.org

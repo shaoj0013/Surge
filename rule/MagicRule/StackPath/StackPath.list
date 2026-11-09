@@ -1,0 +1,6 @@
+# NAME: StackPath
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/c5d6eb09efdd452d336030c0/manifest.json
+# UPDATED: 2026-07-26T08:36:11.649095+00:00
+# RULES: 2
+DOMAIN-SUFFIX,stackpath.com
+DOMAIN-SUFFIX,stackpath.dev

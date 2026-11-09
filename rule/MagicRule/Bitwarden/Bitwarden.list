@@ -1,0 +1,9 @@
+# NAME: Bitwarden
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/9a16d61e1fffd21c67dd44e4/manifest.json
+# UPDATED: 2026-07-26T08:29:42.815829+00:00
+# RULES: 5
+DOMAIN-SUFFIX,bitwarden.com
+DOMAIN-SUFFIX,bitwarden.eu
+DOMAIN-SUFFIX,bitwarden.net
+DOMAIN-SUFFIX,btwrdn.co
+DOMAIN-SUFFIX,btwrdn.com

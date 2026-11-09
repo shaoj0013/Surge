@@ -1,0 +1,13 @@
+# NAME: KKBOX
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/97ef9bfd22a5d30a9962fb7b/manifest.json
+# UPDATED: 2026-07-26T06:22:14.792742+00:00
+# RULES: 9
+DOMAIN-SUFFIX,kfs.io
+DOMAIN-SUFFIX,kk.stream
+DOMAIN-SUFFIX,kkbox-prime.com
+DOMAIN-SUFFIX,kkbox.com
+DOMAIN-SUFFIX,kkbox.com.tw
+DOMAIN-SUFFIX,kktix.com
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+DOMAIN-SUFFIX,theater-kktv.cdn.hinet.net

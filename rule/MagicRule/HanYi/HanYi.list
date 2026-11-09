@@ -1,0 +1,14 @@
+# NAME: HanYi
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/5e4c8144146869608ef39d03/manifest.json
+# UPDATED: 2026-07-26T06:25:17.841698+00:00
+# RULES: 10
+DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com
+DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com
+DOMAIN-SUFFIX,fontstar.com.cn
+DOMAIN-SUFFIX,fontstudio.cn
+DOMAIN-SUFFIX,hanyi.com
+DOMAIN-SUFFIX,hanyi.com.cn
+DOMAIN-SUFFIX,hellofont.cn
+DOMAIN-SUFFIX,hellowebfont.com
+DOMAIN-SUFFIX,ifont.cn
+DOMAIN-SUFFIX,joytype.com

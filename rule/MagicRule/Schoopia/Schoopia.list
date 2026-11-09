@@ -1,0 +1,6 @@
+# NAME: Schoopia
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/c70c66a5fd3252169bcfa4c6/manifest.json
+# UPDATED: 2026-07-26T10:42:57.166458+00:00
+# RULES: 2
+DOMAIN-SUFFIX,schoopia.com
+DOMAIN-SUFFIX,tongxuepie.com

@@ -1,0 +1,13 @@
+# NAME: OpenStreetMap
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/c89049847c470514457c7d47/manifest.json
+# UPDATED: 2026-07-26T10:39:40.269110+00:00
+# RULES: 9
+DOMAIN-SUFFIX,openmaps.org
+DOMAIN-SUFFIX,openstreetmap.com
+DOMAIN-SUFFIX,openstreetmap.net
+DOMAIN-SUFFIX,openstreetmap.org
+DOMAIN-SUFFIX,openstreetmaps.org
+DOMAIN-SUFFIX,osm.org
+DOMAIN-SUFFIX,osmfoundation.org
+DOMAIN-SUFFIX,stateofthemap.com
+DOMAIN-SUFFIX,stateofthemap.org

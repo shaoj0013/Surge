@@ -1,0 +1,9 @@
+# NAME: HeroGame
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/ed12a6e6bd7dd67bab90f0f7/manifest.json
+# UPDATED: 2026-07-26T08:37:00.395316+00:00
+# RULES: 5
+DOMAIN-SUFFIX,hero.com
+DOMAIN-SUFFIX,heroesports.com
+DOMAIN-SUFFIX,herogame.com
+DOMAIN-SUFFIX,shyxhy.com
+DOMAIN-SUFFIX,yingxiong.com

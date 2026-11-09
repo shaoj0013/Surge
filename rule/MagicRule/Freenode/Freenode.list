@@ -1,0 +1,5 @@
+# NAME: Freenode
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/f600e7793676080bfc8628bd/manifest.json
+# UPDATED: 2026-07-26T08:35:43.168069+00:00
+# RULES: 1
+DOMAIN-SUFFIX,freenode.net

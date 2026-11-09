@@ -1,0 +1,6 @@
+# NAME: CapitalOnline
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/dcf66dfb352496c884f3cc3f/manifest.json
+# UPDATED: 2026-07-26T10:19:41.850322+00:00
+# RULES: 2
+DOMAIN-SUFFIX,capitalonline.net
+DOMAIN-SUFFIX,mirrors.yun-idc.com

@@ -1,0 +1,8 @@
+# NAME: Coursera
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/56485ac701487271e6249d06/manifest.json
+# UPDATED: 2026-07-26T08:22:42.443789+00:00
+# RULES: 4
+DOMAIN-SUFFIX,coursera-for-business.org
+DOMAIN-SUFFIX,coursera.community
+DOMAIN-SUFFIX,coursera.help
+DOMAIN-SUFFIX,coursera.org

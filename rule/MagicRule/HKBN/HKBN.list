@@ -1,0 +1,10 @@
+# NAME: HKBN
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/097b23432d19c556e4ee7d3f/manifest.json
+# UPDATED: 2026-07-26T06:29:24.590029+00:00
+# RULES: 6
+DOMAIN-SUFFIX,csifund.org
+DOMAIN-SUFFIX,hkbn.com.hk
+DOMAIN-SUFFIX,hkbn.net
+DOMAIN-SUFFIX,hkbnes.net
+DOMAIN-SUFFIX,jos.com
+DOMAIN-SUFFIX,speedtest.com.hk

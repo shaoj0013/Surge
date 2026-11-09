@@ -1,0 +1,21 @@
+# NAME: Vivo
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/fc79c608f55e0a9bc75e3383/manifest.json
+# UPDATED: 2026-08-13T23:45:36.103700+00:00
+# RULES: 17
+DOMAIN-SUFFIX,bbk.com
+DOMAIN-SUFFIX,bbktel.com.cn
+DOMAIN-SUFFIX,blueos.com.cn
+DOMAIN-SUFFIX,budingscan.com
+DOMAIN-SUFFIX,funtouchos.com
+DOMAIN-SUFFIX,gdbbk.com
+DOMAIN-SUFFIX,iqoo.com
+DOMAIN-SUFFIX,vivo.cn
+DOMAIN-SUFFIX,vivo.com
+DOMAIN-SUFFIX,vivo.com.cn
+DOMAIN-SUFFIX,vivo.xyz
+DOMAIN-SUFFIX,vivoglobal.com
+DOMAIN-SUFFIX,vivosjpt.com
+DOMAIN-SUFFIX,vivotc.com
+DOMAIN-SUFFIX,vmic.xyz
+DOMAIN-SUFFIX,vsearch.club
+DOMAIN-SUFFIX,vvstc.com

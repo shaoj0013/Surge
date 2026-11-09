@@ -1,0 +1,6 @@
+# NAME: CSPAN
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/e160ab1801ed84d7470ce878/manifest.json
+# UPDATED: 2026-07-26T10:24:52.863229+00:00
+# RULES: 2
+DOMAIN-SUFFIX,c-span.org
+DOMAIN-SUFFIX,c-spanvideo.org

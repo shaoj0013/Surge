@@ -1,0 +1,13 @@
+# NAME: Osu
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/97d329ae8f310f494512ecf6/manifest.json
+# UPDATED: 2026-07-26T08:37:36.163385+00:00
+# RULES: 9
+DOMAIN,a.ppy.sh
+DOMAIN,assets.ppy.sh
+DOMAIN,c.ppy.sh
+DOMAIN,lazer.ppy.sh
+DOMAIN,m1.ppy.sh
+DOMAIN,notify.ppy.sh
+DOMAIN,osu.ppy.sh
+DOMAIN,sentry.ppy.sh
+DOMAIN,spectator.ppy.sh

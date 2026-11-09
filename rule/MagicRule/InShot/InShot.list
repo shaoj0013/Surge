@@ -1,0 +1,7 @@
+# NAME: InShot
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/a75eaee42594c978157e5095/manifest.json
+# UPDATED: 2026-07-26T10:34:44.031211+00:00
+# RULES: 3
+DOMAIN-SUFFIX,inshot.cc
+DOMAIN-SUFFIX,inshot.com
+DOMAIN-SUFFIX,inshotapp.com

@@ -1,0 +1,6 @@
+# NAME: SpaceX
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/e9128d2a7c9e0a8b264d87f6/manifest.json
+# UPDATED: 2026-07-26T08:34:30.243801+00:00
+# RULES: 2
+DOMAIN-SUFFIX,spacex.com
+DOMAIN-SUFFIX,starlink.com

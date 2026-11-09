@@ -1,0 +1,24 @@
+# NAME: SoftBank
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/0e0b852f28580b5b528ef0a7/manifest.json
+# UPDATED: 2026-07-26T08:34:30.350344+00:00
+# RULES: 20
+DOMAIN-SUFFIX,sb-mobile.jp
+DOMAIN-SUFFIX,sb-telecom.net
+DOMAIN-SUFFIX,softbank
+DOMAIN-SUFFIX,softbank-ipo.com
+DOMAIN-SUFFIX,softbank-jp.com
+DOMAIN-SUFFIX,softbank-robotics.com
+DOMAIN-SUFFIX,softbank-telecom.com
+DOMAIN-SUFFIX,softbank-telecom.net
+DOMAIN-SUFFIX,softbank.jp
+DOMAIN-SUFFIX,softbank.tv
+DOMAIN-SUFFIX,softbankbb.com
+DOMAIN-SUFFIX,softbankbb.net
+DOMAIN-SUFFIX,softbankci.com
+DOMAIN-SUFFIX,softbankhawksstore.jp
+DOMAIN-SUFFIX,softbankmobile.net
+DOMAIN-SUFFIX,softbankrobotics.com
+DOMAIN-SUFFIX,softbanktelecom.com
+DOMAIN-SUFFIX,softbankusa.net
+DOMAIN-SUFFIX,softbankventuresasia.com
+DOMAIN-SUFFIX,softbankworld.com

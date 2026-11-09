@@ -1,0 +1,7 @@
+# NAME: Twilio
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/e7d99457f0c50f29c558fa23/manifest.json
+# UPDATED: 2026-07-26T10:46:40.494580+00:00
+# RULES: 3
+DOMAIN-SUFFIX,twilio.com
+DOMAIN-SUFFIX,twilio.jp
+DOMAIN-SUFFIX,tytch.com

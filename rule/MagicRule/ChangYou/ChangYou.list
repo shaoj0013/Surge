@@ -1,0 +1,11 @@
+# NAME: ChangYou
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/f3ead318b5503f36c4ef8011/manifest.json
+# UPDATED: 2026-07-26T08:31:41.345512+00:00
+# RULES: 7
+DOMAIN-SUFFIX,17173.com
+DOMAIN-SUFFIX,17173cdn.com
+DOMAIN-SUFFIX,changyou.com
+DOMAIN-SUFFIX,cy.com
+DOMAIN-SUFFIX,playcool.com
+DOMAIN-SUFFIX,yeyou.com
+DOMAIN-SUFFIX,yeyoucdn.com

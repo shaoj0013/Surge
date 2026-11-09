@@ -1,0 +1,5 @@
+# NAME: TVDB
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/8aecf4e9231d3c64f8324cc7/manifest.json
+# UPDATED: 2026-07-26T08:34:42.706920+00:00
+# RULES: 1
+DOMAIN-SUFFIX,thetvdb.com

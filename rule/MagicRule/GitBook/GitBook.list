@@ -1,0 +1,7 @@
+# NAME: GitBook
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/f71e54f84865f2407fe4bc58/manifest.json
+# UPDATED: 2026-07-26T06:29:23.342945+00:00
+# RULES: 3
+DOMAIN-SUFFIX,gitbook.com
+DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,gitbook.zendesk.com

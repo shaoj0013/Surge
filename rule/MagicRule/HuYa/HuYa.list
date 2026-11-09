@@ -1,0 +1,9 @@
+# NAME: HuYa
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/70efa12b589a06ec5f1daae8/manifest.json
+# UPDATED: 2026-07-26T06:25:21.047869+00:00
+# RULES: 5
+DOMAIN-SUFFIX,huya.com
+DOMAIN-SUFFIX,huyagame.cn
+DOMAIN-SUFFIX,msstatic.com
+DOMAIN-SUFFIX,peiwanlu.com
+DOMAIN-SUFFIX,snapplay.com

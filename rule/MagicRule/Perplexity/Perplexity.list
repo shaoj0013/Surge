@@ -1,0 +1,9 @@
+# NAME: Perplexity
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/efd11e26b02c5246eb892ef3/manifest.json
+# UPDATED: 2026-07-26T08:22:09.886143+00:00
+# RULES: 5
+DOMAIN,ppl-ai-file-upload.s3.amazonaws.com
+DOMAIN,pplx-res.cloudinary.com
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,pplx.ai

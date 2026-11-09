@@ -1,0 +1,17 @@
+# NAME: Sky
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/ab8cee97003d7e863d13f458/manifest.json
+# UPDATED: 2026-07-26T10:43:13.187185+00:00
+# RULES: 13
+DOMAIN-SUFFIX,cn-cdn1.skymansion.net
+DOMAIN-SUFFIX,sky
+DOMAIN-SUFFIX,sky.com
+DOMAIN-SUFFIX,skyassets.com
+DOMAIN-SUFFIX,skymansion.net
+DOMAIN-SUFFIX,skyoceanrescue.com
+DOMAIN-SUFFIX,skyoceanrescue.de
+DOMAIN-SUFFIX,skyoceanrescue.it
+DOMAIN-SUFFIX,skysports.com
+DOMAIN-SUFFIX,skysports.fr
+DOMAIN-SUFFIX,skysports.ie
+DOMAIN-SUFFIX,skysportsonline.com
+DOMAIN-SUFFIX,skysportsracing.com

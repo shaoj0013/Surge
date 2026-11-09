@@ -1,0 +1,7 @@
+# NAME: NPM
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/2ce8f61cdef3fb656095688f/manifest.json
+# UPDATED: 2026-07-26T08:21:17.895899+00:00
+# RULES: 3
+DOMAIN-SUFFIX,npm.community
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org

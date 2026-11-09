@@ -1,0 +1,18 @@
+# NAME: Dwion
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/2d17806dce45e69e622c6cee/manifest.json
+# UPDATED: 2026-07-26T10:27:00.881413+00:00
+# RULES: 14
+DOMAIN-SUFFIX,acadn.cn
+DOMAIN-SUFFIX,acadn.com
+DOMAIN-SUFFIX,bbbcdns.com
+DOMAIN-SUFFIX,dlgslb.cn
+DOMAIN-SUFFIX,dlgslb.net
+DOMAIN-SUFFIX,dwion.com
+DOMAIN-SUFFIX,fastcdn.com
+DOMAIN-SUFFIX,fastcdn.com.cn
+DOMAIN-SUFFIX,flxdns.cn
+DOMAIN-SUFFIX,flxdns.com
+DOMAIN-SUFFIX,globalcdn.cn
+DOMAIN-SUFFIX,mcadn.cn
+DOMAIN-SUFFIX,tlgslb.cn
+DOMAIN-SUFFIX,tlgslb.com

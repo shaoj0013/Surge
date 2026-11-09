@@ -1,0 +1,9 @@
+# NAME: Framer
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/c8131541be7f381294b3c999/manifest.json
+# UPDATED: 2026-07-26T10:28:06.374469+00:00
+# RULES: 5
+DOMAIN-SUFFIX,framer.com
+DOMAIN-SUFFIX,framer.website
+DOMAIN-SUFFIX,framercanvas.com
+DOMAIN-SUFFIX,framerstatic.com
+DOMAIN-SUFFIX,framerusercontent.com

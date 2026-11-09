@@ -1,0 +1,6 @@
+# NAME: GGSel
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/ce770455c42aa647addf5c24/manifest.json
+# UPDATED: 2026-07-26T08:36:59.631335+00:00
+# RULES: 2
+DOMAIN-SUFFIX,ggsel.com
+DOMAIN-SUFFIX,ggsel.net

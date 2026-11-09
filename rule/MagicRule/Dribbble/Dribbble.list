@@ -1,0 +1,6 @@
+# NAME: Dribbble
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/2410ceb1773e24b00a150974/manifest.json
+# UPDATED: 2026-07-26T10:26:09.934239+00:00
+# RULES: 2
+DOMAIN-SUFFIX,drbl.in
+DOMAIN-SUFFIX,dribbble.com

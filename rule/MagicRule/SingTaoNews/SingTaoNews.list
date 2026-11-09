@@ -1,0 +1,22 @@
+# NAME: SingTaoNews
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/521f8dc888476c3f5e3a4ea0/manifest.json
+# UPDATED: 2026-07-26T10:43:09.701195+00:00
+# RULES: 18
+DOMAIN-SUFFIX,bastillepost.com
+DOMAIN-SUFFIX,easttouch.com.hk
+DOMAIN-SUFFIX,eastweek.com.hk
+DOMAIN-SUFFIX,eduplus.hk
+DOMAIN-SUFFIX,headlinejobs.hk
+DOMAIN-SUFFIX,hkheadline.com
+DOMAIN-SUFFIX,jobmarket.com.hk
+DOMAIN-SUFFIX,my-magazine.me
+DOMAIN-SUFFIX,pcmarket.com.hk
+DOMAIN-SUFFIX,sing68.com
+DOMAIN-SUFFIX,singtao.com
+DOMAIN-SUFFIX,singtaobooks.com
+DOMAIN-SUFFIX,singtaola.com
+DOMAIN-SUFFIX,singtaonewscorp.com
+DOMAIN-SUFFIX,singtaoopo.com
+DOMAIN-SUFFIX,singtaousa.com
+DOMAIN-SUFFIX,stheadline.com
+DOMAIN-SUFFIX,thestandard.com.hk

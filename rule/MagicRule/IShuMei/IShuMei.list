@@ -1,0 +1,14 @@
+# NAME: IShuMei
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/40e25089e2e315a14a2c08d3/manifest.json
+# UPDATED: 2026-07-26T10:34:45.433634+00:00
+# RULES: 10
+DOMAIN-SUFFIX,fengkongbao.com
+DOMAIN-SUFFIX,fengkongcloud.cn
+DOMAIN-SUFFIX,fengkongcloud.com
+DOMAIN-SUFFIX,ishumei.com
+DOMAIN-SUFFIX,portal101.cn
+DOMAIN-SUFFIX,portal102.cn
+DOMAIN-SUFFIX,portal201.cn
+DOMAIN-SUFFIX,portal301.cn
+DOMAIN-SUFFIX,tebiefuza.cloud
+DOMAIN-SUFFIX,tebiefuza.cn

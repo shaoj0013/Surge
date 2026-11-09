@@ -1,0 +1,8 @@
+# NAME: NowCoder
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/0c83fc9c286e230a164b340f/manifest.json
+# UPDATED: 2026-07-26T10:39:22.508598+00:00
+# RULES: 4
+DOMAIN-SUFFIX,newcoder.com
+DOMAIN-SUFFIX,nowcoder.com
+DOMAIN-SUFFIX,nowcoder.net
+DOMAIN-SUFFIX,nowcoder.org

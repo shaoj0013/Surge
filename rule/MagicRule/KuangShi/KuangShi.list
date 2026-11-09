@@ -1,0 +1,30 @@
+# NAME: KuangShi
+# SOURCE: https://magicrule.pages.dev/data/rules/Surge/21278b83ffdce1c8b9376184/manifest.json
+# UPDATED: 2026-07-26T06:26:18.517463+00:00
+# RULES: 26
+DOMAIN-SUFFIX,brainplusplus.com.cn
+DOMAIN-SUFFIX,brainpp.cn
+DOMAIN-SUFFIX,datafun.vip
+DOMAIN-SUFFIX,face-plus-plus.com
+DOMAIN-SUFFIX,faceid.com
+DOMAIN-SUFFIX,faceplusplus.com
+DOMAIN-SUFFIX,faceplusplus.com.cn
+DOMAIN-SUFFIX,imageplusplus.cn
+DOMAIN-SUFFIX,imageplusplus.com
+DOMAIN-SUFFIX,imageplusplus.com.cn
+DOMAIN-SUFFIX,imageplusplus.net
+DOMAIN-SUFFIX,kaolacam.net
+DOMAIN-SUFFIX,koalacam.net
+DOMAIN-SUFFIX,kuangshitech.com
+DOMAIN-SUFFIX,megcup.com
+DOMAIN-SUFFIX,megvii-inc.com
+DOMAIN-SUFFIX,megvii.com
+DOMAIN-SUFFIX,visionhacker.com
+DOMAIN-SUFFIX,xcyuntech.cn
+DOMAIN-SUFFIX,xiaodaijl.com
+DOMAIN-SUFFIX,xlsdn.cn
+DOMAIN-SUFFIX,xlsdn.com
+DOMAIN-SUFFIX,yuesuoping.com
+IP-CIDR,114.98.177.194/32,no-resolve
+IP-CIDR,114.98.177.195/32,no-resolve
+IP-CIDR,114.98.177.196/32,no-resolve

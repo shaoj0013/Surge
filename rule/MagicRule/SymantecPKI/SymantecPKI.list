@@ -1,0 +1,9 @@
+# NAME: SymantecPKI
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/8da7487fec1e967a4f94f746/manifest.json
+# UPDATED: 2026-07-26T10:44:54.642844+00:00
+# RULES: 5
+DOMAIN-SUFFIX,pki.symantec.com
+DOMAIN-SUFFIX,symauth.com
+DOMAIN-SUFFIX,symcb.com
+DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,ws.symantec.com

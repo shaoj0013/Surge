@@ -1,0 +1,6 @@
+# NAME: Rumble
+# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/09113dda5012c97976ccba67/manifest.json
+# UPDATED: 2026-07-26T10:42:35.032068+00:00
+# RULES: 2
+DOMAIN-SUFFIX,rmbl.ws
+DOMAIN-SUFFIX,rumble.com
