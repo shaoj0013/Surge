@@ -115,6 +115,18 @@
       "DOMAIN-KEYWORD,cdn77"
     ]
   },
+  "rex-media": {
+    "policy": "rex",
+    "sources": [],
+    "extra": [
+      "DOMAIN-SUFFIX,uhdnow.com",
+      "DOMAIN-SUFFIX,uhdgo.com",
+      "DOMAIN-SUFFIX,lilyemby.app",
+      "DOMAIN-SUFFIX,lilyemby.com",
+      "DOMAIN-SUFFIX,jiedaibao.gs",
+      "DOMAIN-SUFFIX,lumenvids.com"
+    ]
+  },
   "TikTok": {
     "policy": "TikTok",
     "sources": [{"name": "TikTok"}]

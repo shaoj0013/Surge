@@ -1,6 +1,6 @@
 {
  "source": "https://magicrule.pages.dev/#/c/Surge",
- "group_count": 35,
+ "group_count": 36,
  "groups": [
   {
    "key": "AdBlock",
@@ -73,6 +73,13 @@
    "sources": [],
    "file": "groups/emby-media.list",
    "line_count": 42
+  },
+  {
+   "key": "rex-media",
+   "policy": "rex",
+   "sources": [],
+   "file": "groups/rex-media.list",
+   "line_count": 6
   },
   {
    "key": "TikTok",
