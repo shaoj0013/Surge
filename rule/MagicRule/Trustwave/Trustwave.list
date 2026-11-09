@@ -1,5 +1,0 @@
-# NAME: Trustwave
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/9a3cc069e1ba2d7bff5e30e1/manifest.json
-# UPDATED: 2026-07-26T08:35:51.576172+00:00
-# RULES: 1
-DOMAIN-SUFFIX,trustwave.com

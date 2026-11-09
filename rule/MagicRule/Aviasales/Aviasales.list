@@ -1,7 +1,0 @@
-# NAME: Aviasales
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/e7e61229c320b69f3f2d9dd2/manifest.json
-# UPDATED: 2026-07-26T10:16:01.483814+00:00
-# RULES: 3
-DOMAIN-SUFFIX,aviasales.com
-DOMAIN-SUFFIX,aviasales.ru
-DOMAIN-SUFFIX,avs.io

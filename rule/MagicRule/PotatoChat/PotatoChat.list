@@ -1,8 +1,0 @@
-# NAME: PotatoChat
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/3f47c00e941e3e876d530818/manifest.json
-# UPDATED: 2026-07-26T06:33:57.057015+00:00
-# RULES: 4
-IP-CIDR,13.251.24.157/24,no-resolve
-IP-CIDR,13.251.41.203/24,no-resolve
-IP-CIDR,17.252.156.147/24,no-resolve
-IP-CIDR,17.252.157.26/24,no-resolve

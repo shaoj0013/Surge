@@ -1,7 +1,0 @@
-# NAME: TeamSpeak
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/58cf2578b0e7191e7c103d81/manifest.json
-# UPDATED: 2026-07-26T08:35:50.488426+00:00
-# RULES: 3
-DOMAIN-SUFFIX,myteamspeak.com
-DOMAIN-SUFFIX,teamspeak-services.com
-DOMAIN-SUFFIX,teamspeak.com

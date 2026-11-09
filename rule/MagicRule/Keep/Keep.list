@@ -1,9 +1,0 @@
-# NAME: Keep
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/baba5c60b3ecce835782ccf8/manifest.json
-# UPDATED: 2026-07-26T06:25:42.785577+00:00
-# RULES: 5
-DOMAIN-SUFFIX,calorietech.com
-DOMAIN-SUFFIX,gotokeep.com
-DOMAIN-SUFFIX,keep.com
-DOMAIN-SUFFIX,keep.com.cn
-DOMAIN-SUFFIX,keepcdn.com

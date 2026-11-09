@@ -1,7 +1,0 @@
-# NAME: DeviantArt
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/380f58135df2e1618ae69e6e/manifest.json
-# UPDATED: 2026-07-26T10:25:10.099435+00:00
-# RULES: 3
-DOMAIN-SUFFIX,da-files.com
-DOMAIN-SUFFIX,deviantart.com
-DOMAIN-SUFFIX,deviantart.net

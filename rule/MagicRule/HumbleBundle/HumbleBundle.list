@@ -1,6 +1,0 @@
-# NAME: HumbleBundle
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/7962e69532caa4884b7a0ce9/manifest.json
-# UPDATED: 2026-07-26T08:37:15.253669+00:00
-# RULES: 2
-DOMAIN,hb.imgix.net
-DOMAIN-SUFFIX,humblebundle.com

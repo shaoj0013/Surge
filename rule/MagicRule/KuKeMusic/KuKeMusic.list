@@ -1,7 +1,0 @@
-# NAME: KuKeMusic
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/6238a5801adcbc1b0acd3bb5/manifest.json
-# UPDATED: 2026-07-26T06:26:13.918445+00:00
-# RULES: 3
-DOMAIN-SUFFIX,kuke.com
-DOMAIN-SUFFIX,kukey.com.cn
-DOMAIN-SUFFIX,naxos.cn

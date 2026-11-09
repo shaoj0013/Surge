@@ -1,8 +1,0 @@
-# NAME: Kaggle
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/c451a2871710b1f8eec54eaa/manifest.json
-# UPDATED: 2026-07-26T08:21:18.268225+00:00
-# RULES: 4
-DOMAIN-SUFFIX,kaggle.com
-DOMAIN-SUFFIX,kaggle.io
-DOMAIN-SUFFIX,kaggle.net
-DOMAIN-SUFFIX,kaggleusercontent.com

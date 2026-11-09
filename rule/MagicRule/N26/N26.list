@@ -1,7 +1,0 @@
-# NAME: N26
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/6475656910f7458d6673e387/manifest.json
-# UPDATED: 2026-07-26T10:38:00.537713+00:00
-# RULES: 3
-DOMAIN-SUFFIX,n26.com
-DOMAIN-SUFFIX,number26.de
-DOMAIN-SUFFIX,tech26.de

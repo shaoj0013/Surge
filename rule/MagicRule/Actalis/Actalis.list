@@ -1,6 +1,0 @@
-# NAME: Actalis
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/63a20fef0f292db747b9ea46/manifest.json
-# UPDATED: 2026-07-26T09:55:21.582512+00:00
-# RULES: 2
-DOMAIN-SUFFIX,actalis.com
-DOMAIN-SUFFIX,actalis.it

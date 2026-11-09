@@ -1,8 +1,0 @@
-# NAME: iTalkBB
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/c1b712b4120346cc7698983b/manifest.json
-# UPDATED: 2026-07-26T06:23:00.965036+00:00
-# RULES: 3
-# STRIPPED: PROCESS-NAMEx1
-DOMAIN-SUFFIX,api.tv.colnv.com
-DOMAIN-SUFFIX,italkbb.com
-DOMAIN-SUFFIX,italkbbtv.com

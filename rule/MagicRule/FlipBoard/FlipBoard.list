@@ -1,6 +1,0 @@
-# NAME: FlipBoard
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/f8efe63221f445274f6d2f24/manifest.json
-# UPDATED: 2026-07-26T06:29:15.246976+00:00
-# RULES: 2
-DOMAIN-SUFFIX,flipboard.com
-DOMAIN-SUFFIX,flipchina.cn

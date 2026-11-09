@@ -1,7 +1,0 @@
-# NAME: DouBan
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/9a62a52bf35fee6d8a6e4f75/manifest.json
-# UPDATED: 2026-07-26T06:24:42.208409+00:00
-# RULES: 3
-DOMAIN-SUFFIX,douban.com
-DOMAIN-SUFFIX,douban.fm
-DOMAIN-SUFFIX,doubanio.com

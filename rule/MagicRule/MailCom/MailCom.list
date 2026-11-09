@@ -1,8 +1,0 @@
-# NAME: MailCom
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/e19103a69d31405ad1a20a77/manifest.json
-# UPDATED: 2026-07-26T10:37:06.419764+00:00
-# RULES: 4
-DOMAIN-SUFFIX,mail.com
-DOMAIN-SUFFIX,ui-portal.de
-DOMAIN-SUFFIX,uicdn.com
-DOMAIN-SUFFIX,uimserv.net

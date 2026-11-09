@@ -1,7 +1,0 @@
-# NAME: EduHK
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/2850cc9ed9884b1fa8242f67/manifest.json
-# UPDATED: 2026-10-29T03:17:52.274252+00:00
-# RULES: 3
-DOMAIN-SUFFIX,eduhk.edu.hk
-DOMAIN-SUFFIX,eduhk.hk
-DOMAIN-SUFFIX,xn--pssu7cz8nr8ibkx1e8a.xn--j6w193g

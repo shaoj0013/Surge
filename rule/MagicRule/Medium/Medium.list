@@ -1,6 +1,0 @@
-# NAME: Medium
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/cad273243f36f1dcd6155801/manifest.json
-# UPDATED: 2026-07-26T08:35:50.828442+00:00
-# RULES: 2
-DOMAIN-SUFFIX,medium.com
-DOMAIN-SUFFIX,medium.systems

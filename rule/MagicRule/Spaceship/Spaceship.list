@@ -1,6 +1,0 @@
-# NAME: Spaceship
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/4cb7339eab75a13783ea8810/manifest.json
-# UPDATED: 2026-07-26T10:43:33.981262+00:00
-# RULES: 2
-DOMAIN-SUFFIX,spacemail.com
-DOMAIN-SUFFIX,spaceship.com

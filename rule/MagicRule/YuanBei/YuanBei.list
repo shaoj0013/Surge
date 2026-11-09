@@ -1,9 +1,0 @@
-# NAME: YuanBei
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/44bb231ee00f96dfe6add6eb/manifest.json
-# UPDATED: 2026-07-26T10:50:25.845094+00:00
-# RULES: 5
-DOMAIN-SUFFIX,i2oo.cn
-DOMAIN-SUFFIX,laoban100.com
-DOMAIN-SUFFIX,shengyi.ai
-DOMAIN-SUFFIX,shengyizhuanjia.com
-DOMAIN-SUFFIX,yuanbei.biz

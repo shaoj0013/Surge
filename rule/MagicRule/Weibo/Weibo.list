@@ -1,8 +1,0 @@
-# NAME: Weibo
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/7b70f68e832888895232b00e/manifest.json
-# UPDATED: 2026-07-26T06:39:42.863316+00:00
-# RULES: 4
-DOMAIN-SUFFIX,weibo.cn
-DOMAIN-SUFFIX,weibo.com
-DOMAIN-SUFFIX,weibocdn.com
-DOMAIN-KEYWORD,weibo

@@ -1,7 +1,0 @@
-# NAME: Costco
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/48a6e9a2332f66354c71755a/manifest.json
-# UPDATED: 2026-07-26T08:38:50.884909+00:00
-# RULES: 3
-DOMAIN-SUFFIX,costco-static.com
-DOMAIN-SUFFIX,costco.com
-DOMAIN-SUFFIX,costcobusinessdelivery.com

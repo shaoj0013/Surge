@@ -1,8 +1,0 @@
-# NAME: OpenSourceInsights
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/b5f3bf0e5edfd1dee9eac5b2/manifest.json
-# UPDATED: 2026-07-26T10:39:47.329137+00:00
-# RULES: 4
-DOMAIN-SUFFIX,deps.dev
-DOMAIN-SUFFIX,deps.info
-DOMAIN-SUFFIX,opensourceinsight.dev
-DOMAIN-SUFFIX,opensourceinsights.dev

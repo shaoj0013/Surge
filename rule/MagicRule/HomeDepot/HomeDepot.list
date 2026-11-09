@@ -1,6 +1,0 @@
-# NAME: HomeDepot
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/8fc821ee9407779ac4c46ef9/manifest.json
-# UPDATED: 2026-07-26T08:38:25.767840+00:00
-# RULES: 2
-DOMAIN-SUFFIX,homedepot-static.com
-DOMAIN-SUFFIX,homedepot.com

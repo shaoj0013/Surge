@@ -1,6 +1,0 @@
-# NAME: Deribit
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/f809929e2cbd618a622596e8/manifest.json
-# UPDATED: 2026-07-26T10:25:08.735426+00:00
-# RULES: 2
-DOMAIN,deribit.cdn.prismic.io
-DOMAIN-SUFFIX,deribit.com

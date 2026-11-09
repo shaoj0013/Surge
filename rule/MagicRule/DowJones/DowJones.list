@@ -1,8 +1,0 @@
-# NAME: DowJones
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/46850540e84e37768bc6081d/manifest.json
-# UPDATED: 2026-07-26T10:26:09.540421+00:00
-# RULES: 4
-DOMAIN-SUFFIX,djreprints.com
-DOMAIN-SUFFIX,dowjones.com
-DOMAIN-SUFFIX,dowjones.io
-DOMAIN-SUFFIX,dowjoneson.com

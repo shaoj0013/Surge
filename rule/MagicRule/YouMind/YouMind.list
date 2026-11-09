@@ -1,7 +1,0 @@
-# NAME: YouMind
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/55d912aa7162364f8c5355a8/manifest.json
-# UPDATED: 2026-07-26T10:50:17.654407+00:00
-# RULES: 3
-DOMAIN-SUFFIX,youmind.ai
-DOMAIN-SUFFIX,youmind.com
-DOMAIN-SUFFIX,youmind.site

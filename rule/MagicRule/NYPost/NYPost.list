@@ -1,7 +1,0 @@
-# NAME: NYPost
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/d67578d78b92280d66a476bb/manifest.json
-# UPDATED: 2026-07-26T06:22:19.913410+00:00
-# RULES: 3
-DOMAIN-SUFFIX,nypost.com
-DOMAIN-SUFFIX,nypost.help
-DOMAIN-SUFFIX,nypostreprints.com

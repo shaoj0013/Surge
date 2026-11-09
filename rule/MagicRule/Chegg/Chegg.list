@@ -1,6 +1,0 @@
-# NAME: Chegg
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/18ba0bc03c4005e9a2819c1f/manifest.json
-# UPDATED: 2026-07-26T10:19:49.331682+00:00
-# RULES: 2
-DOMAIN-SUFFIX,chegg.com
-DOMAIN-SUFFIX,cheggcdn.com

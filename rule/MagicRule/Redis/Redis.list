@@ -1,6 +1,0 @@
-# NAME: Redis
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/df228aab849205e94282b6cd/manifest.json
-# UPDATED: 2026-07-26T08:34:14.550828+00:00
-# RULES: 2
-DOMAIN-SUFFIX,redis.io
-DOMAIN-SUFFIX,redislabs.com

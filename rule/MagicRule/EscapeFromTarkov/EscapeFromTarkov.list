@@ -1,7 +1,0 @@
-# NAME: EscapeFromTarkov
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/03f780c24e11d4389da6ff46/manifest.json
-# UPDATED: 2026-07-26T08:36:29.776331+00:00
-# RULES: 3
-DOMAIN-SUFFIX,eft-store.com
-DOMAIN-SUFFIX,escapefromtarkov.com
-DOMAIN-SUFFIX,tarkov.com

@@ -1,7 +1,0 @@
-# NAME: FunPay
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/cbebe3c9cef01fcbe409f0d6/manifest.json
-# UPDATED: 2026-07-26T08:36:31.602027+00:00
-# RULES: 3
-DOMAIN-SUFFIX,funpay.com
-DOMAIN-SUFFIX,funpay.ru
-DOMAIN-SUFFIX,sfunpay.com

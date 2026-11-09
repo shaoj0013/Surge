@@ -1,7 +1,0 @@
-# NAME: PSBC
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/b26ba03f6a954c90928da198/manifest.json
-# UPDATED: 2026-07-26T06:27:36.555692+00:00
-# RULES: 3
-DOMAIN-SUFFIX,95580.net
-DOMAIN-SUFFIX,psbc.com
-DOMAIN-SUFFIX,psbcoa.com.cn

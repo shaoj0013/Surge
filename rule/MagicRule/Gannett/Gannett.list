@@ -1,9 +1,0 @@
-# NAME: Gannett
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/b0ef4226c7040493099fe1a6/manifest.json
-# UPDATED: 2026-07-26T10:28:27.612656+00:00
-# RULES: 5
-DOMAIN-SUFFIX,gannett-cdn.com
-DOMAIN-SUFFIX,gannett.com
-DOMAIN-SUFFIX,gannettdigital.com
-DOMAIN-SUFFIX,usatoday.com
-DOMAIN-SUFFIX,usatodaynetworkservice.com

@@ -1,9 +1,0 @@
-# NAME: OkJike
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/5c16b9f42c60b701502105e1/manifest.json
-# UPDATED: 2026-07-26T10:39:23.949183+00:00
-# RULES: 5
-DOMAIN-SUFFIX,jike.city
-DOMAIN-SUFFIX,jikecdn.com
-DOMAIN-SUFFIX,okjike.com
-DOMAIN-SUFFIX,okjk.co
-DOMAIN-SUFFIX,ruguoapp.com

@@ -1,9 +1,0 @@
-# NAME: Agora
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/547041dc83537cf2231f1f02/manifest.json
-# UPDATED: 2026-10-29T02:37:34.923141+00:00
-# RULES: 5
-DOMAIN-SUFFIX,agora.io
-DOMAIN-SUFFIX,agoraio.cn
-DOMAIN-SUFFIX,agoralab.co
-DOMAIN-SUFFIX,easemob.com
-DOMAIN-SUFFIX,shengwang.cn

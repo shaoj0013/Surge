@@ -1,7 +1,0 @@
-# NAME: SNK
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/d462fa2813a7a8327872099b/manifest.json
-# UPDATED: 2026-07-26T08:36:58.707034+00:00
-# RULES: 3
-DOMAIN-SUFFIX,snk-corp.co.jp
-DOMAIN-SUFFIX,snk-corp.info
-DOMAIN-SUFFIX,snkplaymore.info

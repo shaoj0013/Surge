@@ -1,8 +1,0 @@
-# NAME: Magnit
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/3b05ca004fd0b010bf595eaa/manifest.json
-# UPDATED: 2026-07-26T08:37:57.015378+00:00
-# RULES: 4
-DOMAIN-SUFFIX,kazanexpress.ru
-DOMAIN-SUFFIX,magnit.com
-DOMAIN-SUFFIX,magnit.ru
-DOMAIN-SUFFIX,mm.ru

@@ -1,6 +1,0 @@
-# NAME: Startpage
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/bd24ff257f13b88f65eef038/manifest.json
-# UPDATED: 2026-07-26T10:44:16.001842+00:00
-# RULES: 2
-DOMAIN-SUFFIX,ixquick.com
-DOMAIN-SUFFIX,startpage.com

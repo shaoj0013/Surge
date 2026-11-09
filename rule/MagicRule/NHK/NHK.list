@@ -1,8 +1,0 @@
-# NAME: NHK
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/9eba60dadb48514faf25bb2d/manifest.json
-# UPDATED: 2026-07-26T10:38:52.202083+00:00
-# RULES: 4
-DOMAIN-SUFFIX,nhk
-DOMAIN-SUFFIX,nhk.jp
-DOMAIN-SUFFIX,nhk.or.jp
-DOMAIN-SUFFIX,nhkworld.jp

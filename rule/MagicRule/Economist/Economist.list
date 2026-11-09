@@ -1,8 +1,0 @@
-# NAME: Economist
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/499d26ee5fd7ae35496c4019/manifest.json
-# UPDATED: 2026-07-26T10:26:54.262622+00:00
-# RULES: 4
-DOMAIN-SUFFIX,economist.com
-DOMAIN-SUFFIX,economistgroup.com
-DOMAIN-SUFFIX,economistgroupcareers.com
-DOMAIN-SUFFIX,eiu.com

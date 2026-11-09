@@ -1,7 +1,0 @@
-# NAME: Flutter
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/85953b310276d9c25570e7a9/manifest.json
-# UPDATED: 2026-07-26T08:35:42.809740+00:00
-# RULES: 3
-DOMAIN-SUFFIX,flutter.dev
-DOMAIN-SUFFIX,flutterapp.com
-DOMAIN-SUFFIX,pub.dev

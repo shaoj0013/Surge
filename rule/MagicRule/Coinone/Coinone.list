@@ -1,7 +1,0 @@
-# NAME: Coinone
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/907c452d0343493817dfafb8/manifest.json
-# UPDATED: 2026-07-26T10:24:12.088211+00:00
-# RULES: 3
-DOMAIN-SUFFIX,coinone.co.kr
-DOMAIN-SUFFIX,coinonecore.com
-DOMAIN-SUFFIX,coinonecorp.com

@@ -1,8 +1,0 @@
-# NAME: StandardChartered
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/6dbf6dfef28479dc6fb6ebc3/manifest.json
-# UPDATED: 2026-07-26T10:43:56.415832+00:00
-# RULES: 4
-DOMAIN,standchartbank.sc.omtrdc.net
-DOMAIN,standchartbank.tt.omtrdc.net
-DOMAIN-SUFFIX,sc.com
-DOMAIN-SUFFIX,standardchartered.com

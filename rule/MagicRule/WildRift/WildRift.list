@@ -1,7 +1,0 @@
-# NAME: WildRift
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/ce461130d83323d41729be31/manifest.json
-# UPDATED: 2026-07-26T06:31:44.119752+00:00
-# RULES: 3
-DOMAIN-SUFFIX,pvp.net
-DOMAIN-SUFFIX,riotcdn.net
-DOMAIN-SUFFIX,riotgames.com

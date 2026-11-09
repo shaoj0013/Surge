@@ -1,6 +1,0 @@
-# NAME: Imgix
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/18800764ff88dcb91b621ff2/manifest.json
-# UPDATED: 2026-07-26T10:34:35.750892+00:00
-# RULES: 2
-DOMAIN-SUFFIX,imgix.com
-DOMAIN-SUFFIX,imgix.net

@@ -1,8 +1,0 @@
-# NAME: TaylorFrancis
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/9fadeab2e2d8b7607332e5aa/manifest.json
-# UPDATED: 2026-07-26T10:45:18.800909+00:00
-# RULES: 4
-DOMAIN-SUFFIX,tandf.co.uk
-DOMAIN-SUFFIX,tandfonline.com
-DOMAIN-SUFFIX,taylorandfrancis.com
-DOMAIN-SUFFIX,taylorfrancis.com

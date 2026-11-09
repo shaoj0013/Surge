@@ -1,6 +1,0 @@
-# NAME: LocalBitcoins
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/7f2346fba75c171815f0beab/manifest.json
-# UPDATED: 2026-07-26T10:36:54.664121+00:00
-# RULES: 2
-DOMAIN-SUFFIX,localbitcoins.com
-DOMAIN-SUFFIX,localbitcoinschain.com

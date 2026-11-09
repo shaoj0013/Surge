@@ -1,7 +1,0 @@
-# NAME: LiePin
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/5b77a1d6b896553cc34105ae/manifest.json
-# UPDATED: 2026-07-26T10:36:38.003656+00:00
-# RULES: 3
-DOMAIN-SUFFIX,liepin.com
-DOMAIN-SUFFIX,lietou-static.com
-DOMAIN-SUFFIX,lietou.com

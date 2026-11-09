@@ -1,7 +1,0 @@
-# NAME: LuckinCoffee
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/38597a1fbf7e66b7db7cab38/manifest.json
-# UPDATED: 2026-07-26T08:33:55.164256+00:00
-# RULES: 3
-DOMAIN-SUFFIX,lkcoffee.com
-DOMAIN-SUFFIX,luckincoffeecdn.com
-DOMAIN-SUFFIX,yyds.co

@@ -1,7 +1,0 @@
-# NAME: Termux
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/caeaa492e26e04bd9f625d9d/manifest.json
-# UPDATED: 2026-07-26T10:45:37.643464+00:00
-# RULES: 3
-DOMAIN-SUFFIX,termux.com
-DOMAIN-SUFFIX,termux.dev
-DOMAIN-SUFFIX,termux.org

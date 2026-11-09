@@ -1,8 +1,0 @@
-# NAME: CloudCone
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/66356ea18ea67a57d9a72d79/manifest.json
-# UPDATED: 2026-07-26T10:23:34.359955+00:00
-# RULES: 4
-DOMAIN-SUFFIX,clco.cc
-DOMAIN-SUFFIX,cloudc.one
-DOMAIN-SUFFIX,cloudcone.com
-DOMAIN-SUFFIX,cloudcone.net

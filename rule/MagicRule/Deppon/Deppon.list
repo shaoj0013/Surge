@@ -1,7 +1,0 @@
-# NAME: Deppon
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/3de2a99c35d707bc61406b23/manifest.json
-# UPDATED: 2026-07-26T10:25:18.923722+00:00
-# RULES: 3
-DOMAIN-SUFFIX,deppon.com
-DOMAIN-SUFFIX,deppon.com.cn
-DOMAIN-SUFFIX,dpma.cc

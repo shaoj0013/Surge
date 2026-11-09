@@ -1,6 +1,0 @@
-# NAME: SCMP
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/20e44eee818f8d54923c3346/manifest.json
-# UPDATED: 2026-07-26T10:42:46.028421+00:00
-# RULES: 2
-DOMAIN-SUFFIX,i-scmp.com
-DOMAIN-SUFFIX,scmp.com

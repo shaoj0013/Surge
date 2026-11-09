@@ -1,9 +1,0 @@
-# NAME: IMDB
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/ebd72e81a1972573f4ef912b/manifest.json
-# UPDATED: 2026-07-26T06:29:34.403881+00:00
-# RULES: 5
-DOMAIN-SUFFIX,boxofficemojo.com
-DOMAIN-SUFFIX,imdb
-DOMAIN-SUFFIX,imdb.com
-DOMAIN-SUFFIX,imdb.to
-DOMAIN-SUFFIX,media-imdb.com

@@ -1,6 +1,0 @@
-# NAME: LinuxDo
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/dfd8696fe91aadd86a402f8c/manifest.json
-# UPDATED: 2026-07-26T08:35:27.705488+00:00
-# RULES: 2
-DOMAIN-SUFFIX,ldstatic.com
-DOMAIN-SUFFIX,linux.do

@@ -1,7 +1,0 @@
-# NAME: SNodeHome
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/496d9265f5d11207eba98bda/manifest.json
-# UPDATED: 2026-07-26T08:35:51.227374+00:00
-# RULES: 3
-DOMAIN-SUFFIX,snodehome.cn
-DOMAIN-SUFFIX,snodehome.com
-DOMAIN-SUFFIX,szbdyd.com

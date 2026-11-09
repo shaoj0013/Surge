@@ -1,8 +1,0 @@
-# NAME: Envato
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/7d7fe019c40489395152d375/manifest.json
-# UPDATED: 2026-07-26T10:27:40.955485+00:00
-# RULES: 4
-DOMAIN-SUFFIX,envato-static.com
-DOMAIN-SUFFIX,envato.com
-DOMAIN-SUFFIX,envatousercontent.com
-DOMAIN-SUFFIX,themeforest.net

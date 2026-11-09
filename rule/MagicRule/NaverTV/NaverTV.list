@@ -1,7 +1,0 @@
-# NAME: NaverTV
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/8cbabee3915c5118ef056e7a/manifest.json
-# UPDATED: 2026-07-26T06:57:32.649452+00:00
-# RULES: 3
-DOMAIN-SUFFIX,naver.com
-DOMAIN-SUFFIX,smartmediarep.com
-USER-AGENT,Naver%20TV*

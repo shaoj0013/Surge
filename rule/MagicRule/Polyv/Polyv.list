@@ -1,6 +1,0 @@
-# NAME: Polyv
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/91fb9f0355d1240607d1f701/manifest.json
-# UPDATED: 2026-07-26T10:41:05.644768+00:00
-# RULES: 2
-DOMAIN-SUFFIX,polyv.net
-DOMAIN-SUFFIX,videocc.net

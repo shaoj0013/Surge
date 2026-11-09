@@ -1,7 +1,0 @@
-# NAME: All4
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/318fe5beeaf57974eeac6c99/manifest.json
-# UPDATED: 2026-07-26T06:21:23.534752+00:00
-# RULES: 3
-DOMAIN-SUFFIX,c4assets.com
-DOMAIN-SUFFIX,channel4.com
-USER-AGENT,All4*

@@ -1,8 +1,0 @@
-# NAME: Anaconda
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/421bbd595e74078e448670fb/manifest.json
-# UPDATED: 2026-07-26T06:58:52.713333+00:00
-# RULES: 4
-DOMAIN-SUFFIX,anaconda.cloud
-DOMAIN-SUFFIX,anaconda.com
-DOMAIN-SUFFIX,anaconda.org
-DOMAIN-SUFFIX,conda.io

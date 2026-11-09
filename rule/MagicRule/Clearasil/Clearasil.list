@@ -1,7 +1,0 @@
-# NAME: Clearasil
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/0318ee908ad75b819f778524/manifest.json
-# UPDATED: 2026-07-26T10:23:33.431802+00:00
-# RULES: 3
-DOMAIN-SUFFIX,clearasil.cn
-DOMAIN-SUFFIX,clearasil.com.cn
-DOMAIN-SUFFIX,clearasil.us

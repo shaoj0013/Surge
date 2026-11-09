@@ -1,8 +1,0 @@
-# NAME: Sentry
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/c6d5687b98e3ca22db6d044a/manifest.json
-# UPDATED: 2026-07-26T08:22:41.453868+00:00
-# RULES: 4
-DOMAIN-SUFFIX,getsentry.com
-DOMAIN-SUFFIX,sentry-cdn.com
-DOMAIN-SUFFIX,sentry.dev
-DOMAIN-SUFFIX,sentry.io

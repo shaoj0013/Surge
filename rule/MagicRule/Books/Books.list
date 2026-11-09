@@ -1,6 +1,0 @@
-# NAME: Books
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/569a05e8cf474d44db4dcfc6/manifest.json
-# UPDATED: 2026-07-26T08:38:27.153336+00:00
-# RULES: 2
-DOMAIN-SUFFIX,book.com.tw
-DOMAIN-SUFFIX,books.com.tw

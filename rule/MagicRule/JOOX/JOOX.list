@@ -1,9 +1,0 @@
-# NAME: JOOX
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/8dfaedc71abaad10444c8f0a/manifest.json
-# UPDATED: 2026-07-26T06:22:10.966624+00:00
-# RULES: 4
-# STRIPPED: PROCESS-NAMEx1
-DOMAIN-SUFFIX,joox.com
-DOMAIN-KEYWORD,jooxweb-api
-USER-AGENT,JOOX*
-USER-AGENT,WeMusic*

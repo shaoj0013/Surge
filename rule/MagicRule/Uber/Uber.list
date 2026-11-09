@@ -1,7 +1,0 @@
-# NAME: Uber
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/3319ce3851ba6b560b041652/manifest.json
-# UPDATED: 2026-07-26T08:34:43.070974+00:00
-# RULES: 3
-DOMAIN-SUFFIX,uber-assets.com
-DOMAIN-SUFFIX,uber.com
-DOMAIN-SUFFIX,ubereats.com

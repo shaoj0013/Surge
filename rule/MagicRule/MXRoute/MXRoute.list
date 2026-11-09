@@ -1,9 +1,0 @@
-# NAME: MXRoute
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/bfa5b5fad5fe2d92711fc38b/manifest.json
-# UPDATED: 2026-07-26T10:37:59.921545+00:00
-# RULES: 5
-DOMAIN-SUFFIX,mxlogin.com
-DOMAIN-SUFFIX,mxroute.com
-DOMAIN-SUFFIX,mxroutedocs.com
-DOMAIN-SUFFIX,mxroutehelp.com
-DOMAIN-SUFFIX,mxrouting.net

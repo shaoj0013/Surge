@@ -1,7 +1,0 @@
-# NAME: HuggingFace
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/6e41df6b9f8a422d692744dc/manifest.json
-# UPDATED: 2026-07-26T08:21:17.581904+00:00
-# RULES: 3
-DOMAIN-SUFFIX,hf.co
-DOMAIN-SUFFIX,hf.space
-DOMAIN-SUFFIX,huggingface.co

@@ -1,6 +1,0 @@
-# NAME: Chinaz
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/574620ef3542d1b71b1682b9/manifest.json
-# UPDATED: 2026-07-26T10:23:27.692381+00:00
-# RULES: 2
-DOMAIN-SUFFIX,chinaz.com
-DOMAIN-SUFFIX,chinaz.net

@@ -1,7 +1,0 @@
-# NAME: Pgyer
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/fd5edc6def6a01a8463c8c06/manifest.json
-# UPDATED: 2026-07-26T10:40:28.725455+00:00
-# RULES: 3
-DOMAIN-SUFFIX,frontjs.com
-DOMAIN-SUFFIX,pgyer.com
-DOMAIN-SUFFIX,tracup.com

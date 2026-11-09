@@ -1,7 +1,0 @@
-# NAME: Radiko
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/264a7cf8d70fa6343c21728c/manifest.json
-# UPDATED: 2026-07-26T08:37:56.992926+00:00
-# RULES: 3
-DOMAIN-SUFFIX,radiko-cf.com
-DOMAIN-SUFFIX,radiko.jp
-DOMAIN-SUFFIX,smartstream.ne.jp

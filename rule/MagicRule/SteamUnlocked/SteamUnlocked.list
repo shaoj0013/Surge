@@ -1,5 +1,0 @@
-# NAME: SteamUnlocked
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/00a7abb3f4748dc1b0af85cd/manifest.json
-# UPDATED: 2026-07-26T08:35:49.830258+00:00
-# RULES: 1
-DOMAIN-SUFFIX,steamunlocked.net

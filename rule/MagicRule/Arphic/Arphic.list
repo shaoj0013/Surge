@@ -1,8 +1,0 @@
-# NAME: Arphic
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/4269c718745dcb47d69aab17/manifest.json
-# UPDATED: 2026-07-26T10:14:50.248603+00:00
-# RULES: 4
-DOMAIN-SUFFIX,arphic.com
-DOMAIN-SUFFIX,arphic.com.cn
-DOMAIN-SUFFIX,arphic.com.tw
-DOMAIN-SUFFIX,ifontcloud.com

@@ -1,9 +1,0 @@
-# NAME: IntSig
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/e4df7be00f836737f1e51bff/manifest.json
-# UPDATED: 2026-07-26T10:34:37.325058+00:00
-# RULES: 5
-DOMAIN-SUFFIX,camcard.com
-DOMAIN-SUFFIX,camscanner.com
-DOMAIN-SUFFIX,intsig.com
-DOMAIN-SUFFIX,intsig.net
-DOMAIN-SUFFIX,qixin.com

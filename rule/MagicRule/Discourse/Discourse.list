@@ -1,7 +1,0 @@
-# NAME: Discourse
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/66f91c70145619bd0aebc8b6/manifest.json
-# UPDATED: 2026-07-26T08:35:56.630728+00:00
-# RULES: 3
-DOMAIN-SUFFIX,discourse-cdn.com
-DOMAIN-SUFFIX,discourse.group
-DOMAIN-SUFFIX,discourse.org

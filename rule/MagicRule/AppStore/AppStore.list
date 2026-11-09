@@ -1,6 +1,0 @@
-# NAME: AppStore
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/441ab3df432058e498795b8f/manifest.json
-# UPDATED: 2026-07-26T06:32:47.603774+00:00
-# RULES: 2
-DOMAIN,apps.apple.com
-DOMAIN,itunes.apple.com

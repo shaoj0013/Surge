@@ -1,7 +1,0 @@
-# NAME: Pandora
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/42dd562b70e315a672295214/manifest.json
-# UPDATED: 2026-07-26T06:22:21.971518+00:00
-# RULES: 3
-DOMAIN-SUFFIX,p-cdn.us
-DOMAIN-SUFFIX,pandora.com
-USER-AGENT,Pandora*

@@ -1,7 +1,0 @@
-# NAME: Tailscale
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/f32f234105111fa2b5e8ab26/manifest.json
-# UPDATED: 2026-07-26T08:34:39.219210+00:00
-# RULES: 3
-DOMAIN-SUFFIX,tailscale.com
-DOMAIN-SUFFIX,tailscale.io
-DOMAIN-SUFFIX,ts.net

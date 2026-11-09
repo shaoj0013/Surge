@@ -1,9 +1,0 @@
-# NAME: XiaoYuZhou
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/37665e6459df3cc596d2a9fb/manifest.json
-# UPDATED: 2026-07-26T10:49:48.032699+00:00
-# RULES: 5
-DOMAIN-SUFFIX,podcast.xyz
-DOMAIN-SUFFIX,xiaoyuzhoufm.com
-DOMAIN-SUFFIX,xyzcdn.net
-DOMAIN-SUFFIX,xyzfm.link
-DOMAIN-SUFFIX,xyzfm.space

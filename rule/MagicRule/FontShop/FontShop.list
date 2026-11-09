@@ -1,8 +1,0 @@
-# NAME: FontShop
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/c5cfa3a8f3cf3a5c63f095bb/manifest.json
-# UPDATED: 2026-07-26T10:28:05.566906+00:00
-# RULES: 4
-DOMAIN,fontshop-prod-responsive-images.s3.amazonaws.com
-DOMAIN-SUFFIX,fontbook.com
-DOMAIN-SUFFIX,fontshop.com
-DOMAIN-SUFFIX,fstopimages.com

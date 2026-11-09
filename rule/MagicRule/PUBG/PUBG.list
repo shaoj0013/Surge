@@ -1,8 +1,0 @@
-# NAME: PUBG
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/2f8923aa2ca07f7e05365014/manifest.json
-# UPDATED: 2026-07-26T08:36:58.259953+00:00
-# RULES: 4
-DOMAIN,pubg1.battleye.com
-DOMAIN-SUFFIX,kraftonde.com
-DOMAIN-SUFFIX,playbattlegrounds.com
-DOMAIN-SUFFIX,pubg.com

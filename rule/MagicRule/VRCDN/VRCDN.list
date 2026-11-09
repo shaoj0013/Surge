@@ -1,7 +1,0 @@
-# NAME: VRCDN
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/27011cda61e93d69bd6b1bd0/manifest.json
-# UPDATED: 2026-07-26T10:48:02.702555+00:00
-# RULES: 3
-DOMAIN-SUFFIX,vrcdn.cloud
-DOMAIN-SUFFIX,vrcdn.live
-DOMAIN-SUFFIX,vrcdn.video

@@ -1,6 +1,0 @@
-# NAME: Showtime
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/3d75d52320a647dffb86c1ad/manifest.json
-# UPDATED: 2026-07-26T10:43:10.234815+00:00
-# RULES: 2
-DOMAIN-SUFFIX,showtime.com
-DOMAIN-SUFFIX,showtimeanytime.com

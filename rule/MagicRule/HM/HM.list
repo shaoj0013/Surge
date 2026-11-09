@@ -1,6 +1,0 @@
-# NAME: HM
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/0a6b1ac382f9b09ff9b66aea/manifest.json
-# UPDATED: 2026-07-26T10:31:54.694838+00:00
-# RULES: 2
-DOMAIN-SUFFIX,hm.com
-DOMAIN-SUFFIX,hm.com.cn

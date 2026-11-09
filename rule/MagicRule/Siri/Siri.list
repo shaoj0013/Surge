@@ -1,6 +1,0 @@
-# NAME: Siri
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/ffa5afcde3b7b5362514d194/manifest.json
-# UPDATED: 2026-08-03T15:32:22.718946+00:00
-# RULES: 2
-DOMAIN,guzzoni.apple.com
-DOMAIN-SUFFIX,siri.apple.com

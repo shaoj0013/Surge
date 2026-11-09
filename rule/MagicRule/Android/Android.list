@@ -1,8 +1,0 @@
-# NAME: Android
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/d4e0a70d685bc56487fdcf00/manifest.json
-# UPDATED: 2026-07-26T08:20:41.904893+00:00
-# RULES: 4
-DOMAIN,android.googlesource.com
-DOMAIN-SUFFIX,android
-DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,androidify.com

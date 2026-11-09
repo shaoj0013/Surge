@@ -1,6 +1,0 @@
-# NAME: Eneba
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/8a6b4ae85d96c82c440e6c14/manifest.json
-# UPDATED: 2026-07-26T08:36:30.499617+00:00
-# RULES: 2
-DOMAIN-SUFFIX,eneba.com
-DOMAIN-SUFFIX,eneba.games

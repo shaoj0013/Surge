@@ -1,6 +1,0 @@
-# NAME: UbuntuKylin
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/9864da9f5528376a143f6ca1/manifest.json
-# UPDATED: 2026-07-26T08:35:50.160081+00:00
-# RULES: 2
-DOMAIN-SUFFIX,openkylin.top
-DOMAIN-SUFFIX,ubuntukylin.com

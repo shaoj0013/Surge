@@ -1,7 +1,0 @@
-# NAME: HibyMusic
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/e154c7e4d0824e78953e7309/manifest.json
-# UPDATED: 2026-07-26T06:25:20.636825+00:00
-# RULES: 3
-DOMAIN-SUFFIX,hiby.cd
-DOMAIN-SUFFIX,hiby.com
-DOMAIN-SUFFIX,hibymusic.com

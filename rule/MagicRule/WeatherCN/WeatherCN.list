@@ -1,9 +1,0 @@
-# NAME: WeatherCN
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/398c1735b0344f8727278a58/manifest.json
-# UPDATED: 2026-07-26T10:49:02.201299+00:00
-# RULES: 5
-DOMAIN-SUFFIX,hf-aw.cn
-DOMAIN-SUFFIX,hf-aw.com
-DOMAIN-SUFFIX,huafeng-accuweather.cn
-DOMAIN-SUFFIX,huafengaw.com
-DOMAIN-SUFFIX,weathercn.com

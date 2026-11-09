@@ -1,8 +1,0 @@
-# NAME: Rust
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/5490092344078332e5d20b2e/manifest.json
-# UPDATED: 2026-07-26T08:21:18.877431+00:00
-# RULES: 4
-DOMAIN-SUFFIX,crates.io
-DOMAIN-SUFFIX,docs.rs
-DOMAIN-SUFFIX,rust-lang.org
-DOMAIN-SUFFIX,rustup.rs

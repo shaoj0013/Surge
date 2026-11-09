@@ -1,9 +1,0 @@
-# NAME: Clarivate
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/9ca5f5a6d963e7b1dc480a09/manifest.json
-# UPDATED: 2026-07-26T10:23:44.868642+00:00
-# RULES: 5
-DOMAIN-SUFFIX,clarivate.com
-DOMAIN-SUFFIX,isiknowledge.com
-DOMAIN-SUFFIX,newisiknowledge.com
-DOMAIN-SUFFIX,webofknowledge.com
-DOMAIN-SUFFIX,webofscience.com

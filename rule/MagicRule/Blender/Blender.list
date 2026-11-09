@@ -1,7 +1,0 @@
-# NAME: Blender
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/39a39d521750aff62bb28974/manifest.json
-# UPDATED: 2026-07-26T10:18:47.604836+00:00
-# RULES: 3
-DOMAIN-SUFFIX,bigbuckbunny.org
-DOMAIN-SUFFIX,blender.org
-DOMAIN-SUFFIX,elephantsdream.org

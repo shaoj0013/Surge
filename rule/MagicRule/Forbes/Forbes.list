@@ -1,6 +1,0 @@
-# NAME: Forbes
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/c4d14573fde58670c3a433fc/manifest.json
-# UPDATED: 2026-07-26T10:28:05.054199+00:00
-# RULES: 2
-DOMAIN-SUFFIX,forbes.com
-DOMAIN-SUFFIX,forbesimg.com

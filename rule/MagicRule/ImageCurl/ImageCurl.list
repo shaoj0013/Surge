@@ -1,7 +1,0 @@
-# NAME: ImageCurl
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/4b627a66136f0e84f3509bb5/manifest.json
-# UPDATED: 2026-07-26T10:34:14.925044+00:00
-# RULES: 3
-DOMAIN-SUFFIX,imagecurl.com
-DOMAIN-SUFFIX,imagecurl.org
-DOMAIN-SUFFIX,imgcrl.org

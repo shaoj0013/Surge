@@ -1,6 +1,0 @@
-# NAME: Narwal
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/c3387bff91fe9bb71928d27b/manifest.json
-# UPDATED: 2026-07-26T10:38:04.546114+00:00
-# RULES: 2
-DOMAIN-SUFFIX,narwal.com
-DOMAIN-SUFFIX,narwaltech.com

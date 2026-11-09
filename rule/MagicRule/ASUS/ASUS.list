@@ -1,8 +1,0 @@
-# NAME: ASUS
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/5dbad53067451c3d8427908e/manifest.json
-# UPDATED: 2026-07-26T08:30:39.416554+00:00
-# RULES: 4
-DOMAIN-SUFFIX,asus.com
-DOMAIN-SUFFIX,asus.com.cn
-DOMAIN-SUFFIX,asuscloud.com
-DOMAIN-SUFFIX,asuswebstorage.com

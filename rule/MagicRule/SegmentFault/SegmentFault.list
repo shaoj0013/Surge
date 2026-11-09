@@ -1,6 +1,0 @@
-# NAME: SegmentFault
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/0852c45fd889f6b08740cd49/manifest.json
-# UPDATED: 2026-07-26T08:36:09.644560+00:00
-# RULES: 2
-DOMAIN-SUFFIX,segmentfault.com
-DOMAIN-SUFFIX,sifou.com

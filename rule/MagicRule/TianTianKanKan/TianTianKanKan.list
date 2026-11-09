@@ -1,8 +1,0 @@
-# NAME: TianTianKanKan
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/3dc082ba4733d32a20d49e9b/manifest.json
-# UPDATED: 2026-07-26T06:28:22.372355+00:00
-# RULES: 4
-DOMAIN-SUFFIX,ibangtiao.com
-DOMAIN-SUFFIX,kankanpro.cn
-DOMAIN-SUFFIX,kkstudy.cn
-DOMAIN-SUFFIX,taogepian.com

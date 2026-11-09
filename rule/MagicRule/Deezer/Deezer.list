@@ -1,7 +1,0 @@
-# NAME: Deezer
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/ebc478070ea61737dc78529f/manifest.json
-# UPDATED: 2026-07-26T06:21:42.953576+00:00
-# RULES: 3
-DOMAIN-SUFFIX,deezer.com
-DOMAIN-SUFFIX,dzcdn.net
-USER-AGENT,Deezer*

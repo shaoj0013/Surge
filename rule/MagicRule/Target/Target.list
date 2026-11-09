@@ -1,7 +1,0 @@
-# NAME: Target
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/2c6e26a8bb28e697260733da/manifest.json
-# UPDATED: 2026-07-26T10:45:00.362887+00:00
-# RULES: 3
-DOMAIN-SUFFIX,target
-DOMAIN-SUFFIX,target.com
-DOMAIN-SUFFIX,targetimg1.com

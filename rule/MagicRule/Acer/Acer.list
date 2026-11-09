@@ -1,9 +1,0 @@
-# NAME: Acer
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/c8127fa4cdf607e6cacfcfba/manifest.json
-# UPDATED: 2026-07-26T06:30:27.509669+00:00
-# RULES: 5
-DOMAIN-SUFFIX,acer-group.com
-DOMAIN-SUFFIX,acer.com
-DOMAIN-SUFFIX,acer.com.cn
-DOMAIN-SUFFIX,founderpc.cn
-DOMAIN-SUFFIX,founderpc.com

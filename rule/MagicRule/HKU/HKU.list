@@ -1,8 +1,0 @@
-# NAME: HKU
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/a36339d087235f9bef68ab00/manifest.json
-# UPDATED: 2026-07-26T10:31:56.440360+00:00
-# RULES: 4
-DOMAIN-SUFFIX,hku.edu.hk
-DOMAIN-SUFFIX,hku.hk
-DOMAIN-SUFFIX,xn--pssu7cv61af44b.hk
-DOMAIN-SUFFIX,xn--pssu7cv61af44b.xn--j6w193g

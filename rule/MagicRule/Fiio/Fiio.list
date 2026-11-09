@@ -1,8 +1,0 @@
-# NAME: Fiio
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/2b31cc1af33d79a97fd8b893/manifest.json
-# UPDATED: 2026-07-26T06:24:56.940967+00:00
-# RULES: 4
-DOMAIN-SUFFIX,fiio.cn
-DOMAIN-SUFFIX,fiio.com
-DOMAIN-SUFFIX,fiio.com.cn
-DOMAIN-SUFFIX,fiio.net

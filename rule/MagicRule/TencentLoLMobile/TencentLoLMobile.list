@@ -1,7 +1,0 @@
-# NAME: TencentLoLMobile
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/cdb27824bec9f7d04c690e8d/manifest.json
-# UPDATED: 2026-07-26T07:16:31.568992+00:00
-# RULES: 3
-DOMAIN-SUFFIX,riotcdn.net
-DOMAIN-SUFFIX,riotgames.com
-DOMAIN-SUFFIX,wr.pvp.net

@@ -1,5 +1,0 @@
-# NAME: TempMail
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/aa723e49ebde40fe44a32134/manifest.json
-# UPDATED: 2026-07-26T10:45:36.489327+00:00
-# RULES: 1
-DOMAIN-SUFFIX,temp-mail.org

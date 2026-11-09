@@ -1,6 +1,0 @@
-# NAME: Poe
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/1be0e7599ae27e563fb6859d/manifest.json
-# UPDATED: 2026-07-26T07:36:40.899451+00:00
-# RULES: 2
-DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,poecdn.net

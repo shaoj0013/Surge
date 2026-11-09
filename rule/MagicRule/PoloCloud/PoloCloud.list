@@ -1,6 +1,0 @@
-# NAME: PoloCloud
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/ae3ef272335b40e38ff8db56/manifest.json
-# UPDATED: 2026-07-26T08:38:27.493182+00:00
-# RULES: 2
-DOMAIN-SUFFIX,polocloud.net
-DOMAIN-SUFFIX,polocloud.xyz

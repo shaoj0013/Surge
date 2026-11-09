@@ -1,7 +1,0 @@
-# NAME: Bangumi
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/3ad953280e3104c0447928e5/manifest.json
-# UPDATED: 2026-07-26T10:18:28.026682+00:00
-# RULES: 3
-DOMAIN-SUFFIX,bangumi.tv
-DOMAIN-SUFFIX,bgm.tv
-DOMAIN-SUFFIX,chii.in

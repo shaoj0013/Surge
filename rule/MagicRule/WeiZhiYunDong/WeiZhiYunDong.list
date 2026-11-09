@@ -1,8 +1,0 @@
-# NAME: WeiZhiYunDong
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/77e4b507b178b0cc90cdb528/manifest.json
-# UPDATED: 2026-07-26T06:57:22.570086+00:00
-# RULES: 4
-DOMAIN-SUFFIX,dicom365.com
-DOMAIN-SUFFIX,dycom365.com
-DOMAIN-SUFFIX,wedcm.com
-DOMAIN-SUFFIX,weiyunyingxiang.com

@@ -1,7 +1,0 @@
-# NAME: BlueArchive
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/825f630f2d6d62d63c29cf8d/manifest.json
-# UPDATED: 2026-07-26T08:31:38.289709+00:00
-# RULES: 3
-DOMAIN-SUFFIX,bluearchive-cn.com
-DOMAIN-SUFFIX,bluearchive.jp
-DOMAIN-SUFFIX,bluearchive.nexon.com

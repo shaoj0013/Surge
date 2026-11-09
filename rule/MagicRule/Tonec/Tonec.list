@@ -1,7 +1,0 @@
-# NAME: Tonec
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/cc4354866f9abd9fbce96aa8/manifest.json
-# UPDATED: 2026-07-26T10:46:22.324068+00:00
-# RULES: 3
-DOMAIN-SUFFIX,internetdownloadmanager.com
-DOMAIN-SUFFIX,registeridm.com
-DOMAIN-SUFFIX,tonec.com

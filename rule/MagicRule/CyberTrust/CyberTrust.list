@@ -1,6 +1,0 @@
-# NAME: CyberTrust
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/c971c3e6e0445627f744f2b3/manifest.json
-# UPDATED: 2026-07-26T08:35:16.053890+00:00
-# RULES: 2
-DOMAIN-SUFFIX,cybertrust.co.jp
-DOMAIN-SUFFIX,cybertrust.ne.jp

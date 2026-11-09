@@ -1,8 +1,0 @@
-# NAME: AOL
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/130cd2a7902dd14b00b50013/manifest.json
-# UPDATED: 2026-07-26T06:30:27.085674+00:00
-# RULES: 4
-DOMAIN-SUFFIX,aol.ca
-DOMAIN-SUFFIX,aol.co.uk
-DOMAIN-SUFFIX,aol.com
-DOMAIN-SUFFIX,aolnews.com

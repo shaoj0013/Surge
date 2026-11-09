@@ -1,8 +1,0 @@
-# NAME: Haier
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/905f477a7a9a61ffede7500b/manifest.json
-# UPDATED: 2026-07-26T08:32:57.353957+00:00
-# RULES: 4
-DOMAIN-SUFFIX,ehaier.com
-DOMAIN-SUFFIX,haier.com
-DOMAIN-SUFFIX,haier.net
-DOMAIN-SUFFIX,haiersmarthomes.com

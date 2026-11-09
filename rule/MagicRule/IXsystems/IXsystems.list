@@ -1,6 +1,0 @@
-# NAME: IXsystems
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/87cb68f018f21580412bc016/manifest.json
-# UPDATED: 2026-07-26T08:37:41.616745+00:00
-# RULES: 2
-DOMAIN-SUFFIX,ixsystems.com
-DOMAIN-SUFFIX,truenas.com

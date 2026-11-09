@@ -1,7 +1,0 @@
-# NAME: MaFengWo
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/4d8421864be453696eba8439/manifest.json
-# UPDATED: 2026-07-26T10:37:06.092860+00:00
-# RULES: 3
-DOMAIN-SUFFIX,mafengwo.cn
-DOMAIN-SUFFIX,mafengwo.com
-DOMAIN-SUFFIX,mafengwo.net

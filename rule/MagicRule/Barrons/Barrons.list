@@ -1,8 +1,0 @@
-# NAME: Barrons
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/2e6e5f23f7e52cc53cb6c574/manifest.json
-# UPDATED: 2026-07-26T10:18:28.000786+00:00
-# RULES: 4
-DOMAIN-SUFFIX,barrons-advisor.com
-DOMAIN-SUFFIX,barrons-conferences.com
-DOMAIN-SUFFIX,barrons.com
-DOMAIN-SUFFIX,wsjbarrons.com

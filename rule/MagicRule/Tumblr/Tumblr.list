@@ -1,7 +1,0 @@
-# NAME: Tumblr
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/6449a9adebad226f0b7209b2/manifest.json
-# UPDATED: 2026-07-26T06:54:44.166461+00:00
-# RULES: 3
-DOMAIN-SUFFIX,tmblr.co
-DOMAIN-SUFFIX,tumblr.co
-DOMAIN-SUFFIX,tumblr.com

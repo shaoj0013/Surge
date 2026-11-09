@@ -1,7 +1,0 @@
-# NAME: Discuz
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/f3cc6dd3d25145fef5a7cfcb/manifest.json
-# UPDATED: 2026-07-26T10:25:35.273758+00:00
-# RULES: 3
-DOMAIN-SUFFIX,comsenz.com
-DOMAIN-SUFFIX,discuz.net
-DOMAIN-SUFFIX,discuz.org

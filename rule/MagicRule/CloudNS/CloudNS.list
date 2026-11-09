@@ -1,6 +1,0 @@
-# NAME: CloudNS
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/b9889d6938cf749414a746dd/manifest.json
-# UPDATED: 2026-07-26T08:38:25.406860+00:00
-# RULES: 2
-DOMAIN-SUFFIX,cloudns.nz
-DOMAIN-SUFFIX,cloudns.ph

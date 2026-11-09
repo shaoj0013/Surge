@@ -1,9 +1,0 @@
-# NAME: HuJiang
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/32146c80b0111bd5ee6e2ab2/manifest.json
-# UPDATED: 2026-07-26T10:32:52.545821+00:00
-# RULES: 5
-DOMAIN-SUFFIX,cctalk.com
-DOMAIN-SUFFIX,hjapi.com
-DOMAIN-SUFFIX,hjfile.cn
-DOMAIN-SUFFIX,hujiang.com
-DOMAIN-SUFFIX,yeshj.com

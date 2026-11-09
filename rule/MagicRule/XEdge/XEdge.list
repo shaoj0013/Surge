@@ -1,8 +1,0 @@
-# NAME: XEdge
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/8f75f984960e2e481de27894/manifest.json
-# UPDATED: 2026-07-26T10:49:36.161644+00:00
-# RULES: 4
-DOMAIN-SUFFIX,ganjiangvpn.com
-DOMAIN-SUFFIX,glxcc.net
-DOMAIN-SUFFIX,xedge.cc
-DOMAIN-SUFFIX,xn0.cc

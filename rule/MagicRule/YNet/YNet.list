@@ -1,7 +1,0 @@
-# NAME: YNet
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/34d32d4b7e850805848b0605/manifest.json
-# UPDATED: 2026-07-26T10:50:14.973698+00:00
-# RULES: 3
-DOMAIN-SUFFIX,ynet.cn
-DOMAIN-SUFFIX,ynet.com
-DOMAIN-SUFFIX,ynet.com.cn

@@ -1,8 +1,0 @@
-# NAME: HKUST
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/274c2830b87b90d3846e0049/manifest.json
-# UPDATED: 2026-07-26T10:31:57.722354+00:00
-# RULES: 4
-DOMAIN-SUFFIX,hkust.edu.hk
-DOMAIN-SUFFIX,hkust.hk
-DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.hk
-DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.xn--j6w193g

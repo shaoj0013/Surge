@@ -1,9 +1,0 @@
-# NAME: 8btc
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/6fb4444d7e189025511c173a/manifest.json
-# UPDATED: 2026-07-26T06:58:09.007131+00:00
-# RULES: 5
-DOMAIN-SUFFIX,8btc.com
-DOMAIN-SUFFIX,bystack.com
-DOMAIN-SUFFIX,chainnode.com
-DOMAIN-SUFFIX,matpool.com
-DOMAIN-SUFFIX,matpool.net

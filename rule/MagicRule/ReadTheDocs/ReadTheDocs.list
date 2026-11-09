@@ -1,8 +1,0 @@
-# NAME: ReadTheDocs
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/5d098283400f559dafd13bd6/manifest.json
-# UPDATED: 2026-07-26T08:22:41.795656+00:00
-# RULES: 4
-DOMAIN-SUFFIX,readthedocs-hosted.com
-DOMAIN-SUFFIX,readthedocs.com
-DOMAIN-SUFFIX,readthedocs.io
-DOMAIN-SUFFIX,readthedocs.org

@@ -1,5 +1,0 @@
-# NAME: Modrinth
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/81c1b6e48349e942e9c5bb5d/manifest.json
-# UPDATED: 2026-07-26T10:37:42.679239+00:00
-# RULES: 1
-DOMAIN-SUFFIX,modrinth.com

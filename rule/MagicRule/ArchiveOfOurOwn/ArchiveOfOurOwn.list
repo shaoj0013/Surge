@@ -1,8 +1,0 @@
-# NAME: ArchiveOfOurOwn
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/704a0d47c521e4d39b017e5c/manifest.json
-# UPDATED: 2026-07-26T08:35:15.711912+00:00
-# RULES: 4
-DOMAIN-SUFFIX,ao3.org
-DOMAIN-SUFFIX,archiveofourown.com
-DOMAIN-SUFFIX,archiveofourown.net
-DOMAIN-SUFFIX,archiveofourown.org

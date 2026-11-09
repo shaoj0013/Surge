@@ -1,7 +1,0 @@
-# NAME: Lighter
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/1749bc1ee5dcdfd3feb51dc2/manifest.json
-# UPDATED: 2026-07-26T10:36:43.788835+00:00
-# RULES: 3
-DOMAIN-SUFFIX,lighter.exchange
-DOMAIN-SUFFIX,lighter.xyz
-DOMAIN-SUFFIX,zklighter.elliot.ai

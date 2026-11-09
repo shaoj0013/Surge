@@ -1,9 +1,0 @@
-# NAME: Cygames
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/4949152b20afeedd172dd9fe/manifest.json
-# UPDATED: 2026-07-26T08:36:25.691388+00:00
-# RULES: 5
-DOMAIN-SUFFIX,cygames.co.jp
-DOMAIN-SUFFIX,cygames.jp
-DOMAIN-SUFFIX,umamusume.akamaized.net
-DOMAIN-SUFFIX,worldflipper.akamaized.net
-DOMAIN-SUFFIX,worldflipper.jp

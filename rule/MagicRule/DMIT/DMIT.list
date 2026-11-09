@@ -1,6 +1,0 @@
-# NAME: DMIT
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/8bf7024290636e087196878b/manifest.json
-# UPDATED: 2026-07-26T08:39:08.080717+00:00
-# RULES: 2
-DOMAIN-SUFFIX,dmit.io
-DOMAIN-SUFFIX,dmit.sh

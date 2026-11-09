@@ -1,9 +1,0 @@
-# NAME: Cursor
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/974ea1320492a005c3d4ebd6/manifest.json
-# UPDATED: 2026-10-29T03:05:25.449980+00:00
-# RULES: 5
-DOMAIN-SUFFIX,cursor-cdn.com
-DOMAIN-SUFFIX,cursor.com
-DOMAIN-SUFFIX,cursor.sh
-DOMAIN-SUFFIX,cursorapi.com
-DOMAIN-SUFFIX,cursorvm.com

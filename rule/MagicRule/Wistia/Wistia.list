@@ -1,7 +1,0 @@
-# NAME: Wistia
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/fa56d0db257d88aa557ba3b6/manifest.json
-# UPDATED: 2026-07-26T10:49:22.109294+00:00
-# RULES: 3
-DOMAIN-SUFFIX,embedwistia-a.akamaihd.net
-DOMAIN-SUFFIX,wistia.com
-DOMAIN-SUFFIX,wistia.net

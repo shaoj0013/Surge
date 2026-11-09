@@ -1,6 +1,0 @@
-# NAME: Wallhaven
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/aebd055b9cf8af4bdc88cd18/manifest.json
-# UPDATED: 2026-07-26T10:48:02.147982+00:00
-# RULES: 2
-DOMAIN-SUFFIX,wallhaven.cc
-DOMAIN-SUFFIX,whvn.cc

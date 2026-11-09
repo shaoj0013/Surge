@@ -1,6 +1,0 @@
-# NAME: Udemy
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/5cf4e90aa792a6475abe23fc/manifest.json
-# UPDATED: 2026-07-26T08:22:42.785533+00:00
-# RULES: 2
-DOMAIN-SUFFIX,udemy.com
-DOMAIN-SUFFIX,udemycdn.com

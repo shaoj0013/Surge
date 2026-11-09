@@ -1,9 +1,0 @@
-# NAME: KKTV
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/87d5597504280e2681b95964/manifest.json
-# UPDATED: 2026-07-26T06:57:33.129530+00:00
-# RULES: 5
-DOMAIN,kktv-theater.kk.stream
-DOMAIN,theater-kktv.cdn.hinet.net
-DOMAIN-SUFFIX,kktv.com.tw
-DOMAIN-SUFFIX,kktv.me
-DOMAIN-SUFFIX,theater-kktv.cdn.hinet.net

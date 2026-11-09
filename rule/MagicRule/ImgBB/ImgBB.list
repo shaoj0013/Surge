@@ -1,7 +1,0 @@
-# NAME: ImgBB
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/80d6422ec28a29c45d853c29/manifest.json
-# UPDATED: 2026-07-26T10:34:31.608995+00:00
-# RULES: 3
-DOMAIN-SUFFIX,ibb.co
-DOMAIN-SUFFIX,imgbb.com
-DOMAIN-SUFFIX,simgbb.com

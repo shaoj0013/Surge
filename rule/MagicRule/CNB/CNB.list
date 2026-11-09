@@ -1,6 +1,0 @@
-# NAME: CNB
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/17b89c3ccaf00ef64f74fcef/manifest.json
-# UPDATED: 2026-10-09T15:58:53.481428+00:00
-# RULES: 2
-DOMAIN-SUFFIX,cnb.cool
-DOMAIN-SUFFIX,cnb.space

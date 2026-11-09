@@ -1,8 +1,0 @@
-# NAME: HainanAirlines
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/66ab55ed34cad2ac62b1acb1/manifest.json
-# UPDATED: 2026-07-26T10:30:52.769266+00:00
-# RULES: 4
-DOMAIN-SUFFIX,10044.cn
-DOMAIN-SUFFIX,hainanairlines.com
-DOMAIN-SUFFIX,hnacargo.com
-DOMAIN-SUFFIX,hnair.com

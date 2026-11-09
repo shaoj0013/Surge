@@ -1,7 +1,0 @@
-# NAME: TaiWanGood
-# SOURCE: https://magicrule.pages.dev/data/rules/Surge/f9d2c5c8b40d1295ae640743/manifest.json
-# UPDATED: 2026-07-26T06:22:32.635789+00:00
-# RULES: 3
-DOMAIN,hamifans.emome.net
-DOMAIN-SUFFIX,skyking.com.tw
-USER-AGENT,TaiwanGood*

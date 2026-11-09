@@ -1,7 +1,0 @@
-# NAME: FIBank
-# SOURCE: https://rule-26r.pages.dev/data/rules/Surge/4fe8f4a8c2a460ab12354662/manifest.json
-# UPDATED: 2026-07-26T10:27:53.402356+00:00
-# RULES: 3
-DOMAIN-SUFFIX,fibank.bg
-DOMAIN-SUFFIX,meawallet.app
-DOMAIN-SUFFIX,myfin.bg
