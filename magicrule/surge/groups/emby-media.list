@@ -1,0 +1,48 @@
+# NAME: emby
+# GROUP: emby-media
+# SOURCE: MagicRule https://magicrule.pages.dev
+# MERGED: 手工维护 (无上游来源)
+# EXTRA: 42 条手工补充
+# RULES: 42
+DOMAIN-SUFFIX,mushroomtrack.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,eporner.com
+DOMAIN-SUFFIX,sb-cd.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,xhamster.com
+DOMAIN-SUFFIX,xhcdn.com
+DOMAIN-SUFFIX,ahcdn.com
+DOMAIN-SUFFIX,wowxxx.to
+DOMAIN-SUFFIX,fpvcdn.com
+DOMAIN-SUFFIX,b-cdn.net
+DOMAIN-SUFFIX,fourhoi.com
+DOMAIN-SUFFIX,28.al
+DOMAIN-SUFFIX,qdz1.top
+DOMAIN-SUFFIX,patreon.com
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,vfing.de
+DOMAIN-SUFFIX,91porn.com
+DOMAIN-SUFFIX,heimuer.tv
+DOMAIN-SUFFIX,dytt8vip.com
+DOMAIN-SUFFIX,imgzy360.com
+DOMAIN-SUFFIX,iill.top
+DOMAIN-SUFFIX,malaysla.com
+DOMAIN-SUFFIX,biggggg.com
+DOMAIN-SUFFIX,nivod4.tv
+DOMAIN-SUFFIX,ulivetv.net
+DOMAIN-SUFFIX,efhie.com
+DOMAIN-SUFFIX,newpppp.com
+DOMAIN-SUFFIX,ceres9350.com
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,media-imdb.com
+DOMAIN,api.rc-backup.com
+DOMAIN,api.revenuecat.com
+DOMAIN-KEYWORD,btc620
+DOMAIN-KEYWORD,killcovid2021
+DOMAIN-KEYWORD,cdn77
