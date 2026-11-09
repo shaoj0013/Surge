@@ -219,6 +219,16 @@ def build_groups(entries):
                 seen.add(line)
                 collected.append(line)
 
+        # 手工补充的规则 (上游没有对应分类时用), 每次重建都会重新写入。
+        extras = spec.get("extra", [])
+        appended = 0
+        for line in extras:
+            if line in seen:
+                continue
+            seen.add(line)
+            collected.append(line)
+            appended += 1
+
         header = [
             f"# NAME: {spec.get('policy', key)}",
             f"# GROUP: {key}",
@@ -226,6 +236,8 @@ def build_groups(entries):
             f"# SOURCE: MagicRule {BASE}",
             f"# RULES: {len(collected)}",
         ]
+        if appended:
+            header.insert(4, f"# EXTRA: {appended} 条手工补充")
         content = "\n".join(header + collected) + "\n"
         path = GROUP_DIR / f"{key}.list"
         write_if_changed(path, content)

@@ -75,7 +75,12 @@
   },
   "Apple-Services": {
     "policy": "Apple Services",
-    "sources": [{"name": "Apple"}]
+    "sources": [{"name": "Apple"}],
+    "extra": [
+      "DOMAIN-SUFFIX,apple.com",
+      "DOMAIN-SUFFIX,mzstatic.com",
+      "DOMAIN-SUFFIX,icloud.com"
+    ]
   },
   "Apple-Push": {
     "policy": "Apple Push",
