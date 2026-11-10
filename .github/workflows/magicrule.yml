@@ -2,9 +2,9 @@ name: 定时更新 MagicRule 规则
 
 on:
   schedule:
-    # 每天 04:17 UTC = 北京时间 12:17。
+    # 每天 09:11 UTC = 北京时间 17:11。
     # 刻意避开整点 —— GitHub 的定时任务在整点是高峰, 容易被排队。
-    - cron: "17 4 * * *"
+    - cron: "11 9 * * *"
   workflow_dispatch:
     inputs:
       force:
