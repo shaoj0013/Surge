@@ -1,7 +1,7 @@
 {
   "AdBlock": {
     "policy": "AdBlock",
-    "sources": [{"name": "AdvertisingLite"}],
+    "sources": [{"name": "AdvertisingLite"}, {"name": "AdvertisingMiTV"}],
     "exclude": ["DOMAIN-SUFFIX,metrics.icloud.com"]
   },
   "AdBlock-Full": {
@@ -166,14 +166,14 @@
     "policy": "Global TV",
     "sources": [{"name": "ABC"}, {"name": "Amazon"}, {"name": "BBC"},
                 {"name": "DAZN"}, {"name": "DiscoveryPlus"}, {"name": "TVB"},
-                {"name": "FOXNOW"}, {"name": "Hulu"}, {"name": "Pandora"},
-                {"name": "PBS"}, {"name": "SoundCloud"}]
+                {"name": "FOXNOW"}, {"name": "GlobalIPTV"}, {"name": "Hulu"},
+                {"name": "Pandora"}, {"name": "PBS"}, {"name": "SoundCloud"}]
   },
   "CN-Mainland-TV": {
     "policy": "CN Mainland TV",
-    "sources": [{"name": "BiliBili"}, {"name": "iQIYI"}, {"name": "LeTV"},
-                {"name": "NetEaseMusic"}, {"name": "TencentVideo"},
-                {"name": "Youku"}, {"name": "WeTV"}]
+    "sources": [{"name": "BiliBili"}, {"name": "ChinaIPTV"}, {"name": "iQIYI"},
+                {"name": "LeTV"}, {"name": "NetEaseMusic"},
+                {"name": "TencentVideo"}, {"name": "Youku"}, {"name": "WeTV"}]
   },
   "Apple-TV": {
     "policy": "Apple TV",
@@ -245,7 +245,31 @@
   },
   "Global": {
     "policy": "Proxy",
-    "sources": [{"name": "Global"}]
+    "sources": [{"name": "Global"}, {"name": "GlobalMedia"},
+                {"name": "GlobalGame"}, {"name": "SocialMediaGlobal"}],
+    "exclude": [
+      "DOMAIN,steamcommunity-a.akamaihd.net",
+      "DOMAIN-SUFFIX,battle.net",
+      "DOMAIN-SUFFIX,blizzard.com",
+      "DOMAIN-SUFFIX,licdn.com",
+      "DOMAIN-SUFFIX,snssdk.com",
+      "DOMAIN-SUFFIX,sonyentertainmentnetwork.com",
+      "DOMAIN-SUFFIX,steamchina.com",
+      "DOMAIN-SUFFIX,steamserver.net",
+      "DOMAIN-SUFFIX,wmsjsteam.com",
+      "DOMAIN-SUFFIX,xbox.com",
+      "DOMAIN-SUFFIX,xboxlive.com",
+      "DOMAIN-SUFFIX,nikke-en.com",
+      "DOMAIN-SUFFIX,nintendoswitch.cn",
+      "DOMAIN-SUFFIX,nintendoswitch.com.cn",
+      "IP-CIDR,103.36.28.0/22,no-resolve",
+      "IP-CIDR,112.73.96.0/19,no-resolve",
+      "IP-CIDR,136.143.186.0/23,no-resolve",
+      "IP-CIDR,136.143.188.0/22,no-resolve",
+      "IP-CIDR,165.173.179.0/24,no-resolve",
+      "IP-CIDR,204.141.42.0/23,no-resolve",
+      "IP-CIDR,43.240.56.0/21,no-resolve"
+    ]
   },
   "miHoYo": {
     "policy": "miHoYo",
@@ -253,7 +277,8 @@
   },
   "Domestic": {
     "policy": "Domestic",
-    "sources": [{"name": "China"}]
+    "sources": [{"name": "China"}, {"name": "Tencent"}, {"name": "Alibaba"},
+                {"name": "KuaiShou"}, {"name": "ByteDance"}, {"name": "Baidu"}]
   },
   "Domestic-IPs": {
     "policy": "Domestic",
