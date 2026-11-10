@@ -115,7 +115,10 @@ def build():
         old_stamp, old_body = split_updated(
             path.read_text(encoding="utf-8") if path.exists() else "")
         # 规则没变就沿用旧时间戳, 只有内容真的动了才刷新 —— 避免每天产生空提交。
-        if old_body != body:
+        if spec.get("refresh"):
+            # 手工维护的分组: 每次抓取都刷新, 表示「最近一次检查」的时间。
+            stamp = now_stamp()
+        elif old_body != body:
             stamp = now_stamp()
         else:
             stamp = old_stamp or now_stamp()

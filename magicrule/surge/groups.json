@@ -1,7 +1,7 @@
 {
  "source": "https://magicrule.pages.dev/#/c/Surge",
  "group_count": 36,
- "updated": "2026-11-10 08:47:15 UTC+8",
+ "updated": "2026-11-10 08:49:11 UTC+8",
  "groups": [
   {
    "key": "AdBlock",
@@ -49,7 +49,7 @@
    "sources": [],
    "file": "groups/jp-media.list",
    "line_count": 35,
-   "updated": "2026-11-10 08:47:15 UTC+8"
+   "updated": "2026-11-10 08:49:11 UTC+8"
   },
   {
    "key": "AI-Suite",
@@ -81,7 +81,7 @@
    "sources": [],
    "file": "groups/emby-media.list",
    "line_count": 42,
-   "updated": "2026-11-10 08:47:15 UTC+8"
+   "updated": "2026-11-10 08:49:11 UTC+8"
   },
   {
    "key": "rex-media",
@@ -89,7 +89,7 @@
    "sources": [],
    "file": "groups/rex-media.list",
    "line_count": 6,
-   "updated": "2026-11-10 08:47:15 UTC+8"
+   "updated": "2026-11-10 08:49:11 UTC+8"
   },
   {
    "key": "TikTok",

@@ -65,6 +65,7 @@
 | `sources` | 来源分类; `{"name": "X", "filter": "正则"}` 表示只取 X 中匹配该正则的规则 |
 | `extra` | 手工补充的规则 (上游没有对应分类时用) |
 | `exclude` | 手工排除的规则 (上游条目过于宽泛、会盖住其它分组时用) |
+| `refresh` | `true` 时每次抓取都刷新该分组的 `# UPDATED:` (表示最近一次检查时间); 默认只在规则内容变化时刷新 |
 
 例如 `AI-Suite` 排除了 `DOMAIN-SUFFIX,microsoft.com` —— 上游 `GlobalAI` 分类里带着这条,
 会导致整个 `microsoft.com` 都走 AI Suite 分组而不是 Microsoft 分组。

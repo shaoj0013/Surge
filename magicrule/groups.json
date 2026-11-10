@@ -19,6 +19,7 @@
   "jp-media": {
     "policy": "日本节点",
     "sources": [],
+    "refresh": true,
     "extra": [
       "DOMAIN-SUFFIX,dmm.co.jp",
       "DOMAIN-SUFFIX,mgstage.com",
@@ -70,6 +71,7 @@
   "emby-media": {
     "policy": "emby",
     "sources": [],
+    "refresh": true,
     "extra": [
       "DOMAIN-SUFFIX,mushroomtrack.com",
       "DOMAIN-SUFFIX,pornhub.com",
@@ -118,6 +120,7 @@
   "rex-media": {
     "policy": "rex",
     "sources": [],
+    "refresh": true,
     "extra": [
       "DOMAIN-SUFFIX,uhdnow.com",
       "DOMAIN-SUFFIX,uhdgo.com",
