@@ -1,7 +1,7 @@
 # NAME: AdGuard
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-11-07 03:24:18
+# UPDATED: 2026-11-10 10:04:15
 # DOMAIN-SUFFIX: 19
 
 DOMAIN-SUFFIX,adguard-dns.com

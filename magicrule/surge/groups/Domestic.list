@@ -1,9 +1,9 @@
-# UPDATED: 2026-11-10 08:54:10 UTC+8
+# UPDATED: 2026-11-10 15:50:27 UTC+8
 # NAME: Domestic
 # GROUP: Domestic
 # MERGED: China, Tencent, Alibaba, KuaiShou, ByteDance, Baidu
 # SOURCE: MagicRule https://magicrule.pages.dev
-# RULES: 15323
+# RULES: 15321
 DOMAIN,api.alibabacloud.com
 DOMAIN,api.blipsandchitz.me
 DOMAIN,client.amplifi.com
@@ -6989,7 +6989,6 @@ IP-CIDR,103.36.172.0/22,no-resolve
 IP-CIDR,103.36.192.0/20,no-resolve
 IP-CIDR,103.36.208.0/22,no-resolve
 IP-CIDR,103.36.220.0/22,no-resolve
-IP-CIDR,103.36.28.0/22,no-resolve
 IP-CIDR,103.36.36.0/22,no-resolve
 IP-CIDR,103.36.63.0/24,no-resolve
 IP-CIDR,103.36.96.0/22,no-resolve
@@ -7352,7 +7351,6 @@ IP-CIDR,112.132.0.0/16,no-resolve
 IP-CIDR,112.192.0.0/14,no-resolve
 IP-CIDR,112.224.0.0/11,no-resolve
 IP-CIDR,112.64.0.0/14,no-resolve
-IP-CIDR,112.73.96.0/19,no-resolve
 IP-CIDR,112.74.0.0/16,no-resolve
 IP-CIDR,112.80.0.0/12,no-resolve
 IP-CIDR,112.96.0.0/13,no-resolve
@@ -9918,7 +9916,7 @@ IP-CIDR,43.240.200.0/23,no-resolve
 IP-CIDR,43.240.202.0/24,no-resolve
 IP-CIDR,43.240.204.0/22,no-resolve
 IP-CIDR,43.240.220.0/22,no-resolve
-IP-CIDR,43.240.56.0/21,no-resolve
+IP-CIDR,43.240.60.0/22,no-resolve
 IP-CIDR,43.240.72.0/22,no-resolve
 IP-CIDR,43.241.16.0/22,no-resolve
 IP-CIDR,43.241.180.0/22,no-resolve

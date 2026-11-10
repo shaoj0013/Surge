@@ -1,8 +1,8 @@
 # NAME: AdGuardSDNSFilter
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-07 03:23:51
-# DOMAIN: 182
+# UPDATED: 2026-11-10 10:03:22
+# DOMAIN: 183
 # DOMAIN-SUFFIX: 4
 
 DOMAIN,5471782.fls.doubleclick.net
@@ -177,6 +177,7 @@ DOMAIN,tr.rdrtr.com
 DOMAIN,track.rutarget.ru
 DOMAIN,track.webgains.com
 DOMAIN,trk.ecomm.lenovo.com
+DOMAIN,unsubscribe.email.premierleague.com
 DOMAIN,unsubscribe.lhinsights.com
 DOMAIN,used.ca
 DOMAIN,validate.perfdrive.com

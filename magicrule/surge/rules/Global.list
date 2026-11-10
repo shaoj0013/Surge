@@ -1,9 +1,9 @@
 # NAME: Global
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-07 03:18:16
-# DOMAIN: 1914
-# DOMAIN-SUFFIX: 22379
+# UPDATED: 2026-11-10 09:52:22
+# DOMAIN: 1915
+# DOMAIN-SUFFIX: 22382
 # DOMAIN-KEYWORD: 53
 # USER-AGENT: 9
 # IP-CIDR: 80
@@ -901,6 +901,7 @@ DOMAIN,heroicons.com
 DOMAIN,hips.hearstapps.com
 DOMAIN,home.integrate.com
 DOMAIN,hpstore.corpmerchandise.com
+DOMAIN,http-intake.logs.us5.datadoghq.com
 DOMAIN,hub-assets.displaycal.net
 DOMAIN,hub.slarker.me
 DOMAIN,hubspotonwebflow.com
@@ -10776,6 +10777,7 @@ DOMAIN-SUFFIX,got-game.org
 DOMAIN-SUFFIX,gotblop.com
 DOMAIN-SUFFIX,gotcosmos.com
 DOMAIN-SUFFIX,gotgeeks.com
+DOMAIN-SUFFIX,gotinder.com
 DOMAIN-SUFFIX,gotquestions.org
 DOMAIN-SUFFIX,gotraffic.net
 DOMAIN-SUFFIX,gotrusted.com
@@ -10854,6 +10856,7 @@ DOMAIN-SUFFIX,grep.app
 DOMAIN-SUFFIX,gridaware.app
 DOMAIN-SUFFIX,grindr.com
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grokbot.com
 DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,grooby.com
 DOMAIN-SUFFIX,groq.com
@@ -21043,6 +21046,7 @@ DOMAIN-SUFFIX,timsah.com
 DOMAIN-SUFFIX,timtales.com
 DOMAIN-SUFFIX,tinc-vpn.org
 DOMAIN-SUFFIX,tinder.com
+DOMAIN-SUFFIX,tindersparks.com
 DOMAIN-SUFFIX,tindie.com
 DOMAIN-SUFFIX,tindiemedia.com
 DOMAIN-SUFFIX,tiney.com
