@@ -15,7 +15,7 @@
     ├── catalog.json    # 结构化索引 (元数据 + 行数 + 类型分布 + 上游来源 + sha256)
     ├── catalog.csv     # 同上, 表格版, UTF-8 BOM, Excel 可直接打开
     ├── rules/          # 1185 个 .list 规则文件, 文件名即规则名
-    ├── groups/         # 33 个按策略组合并好的规则集, 直接可用
+    ├── groups/         # 36 个按策略组合并好的规则集, 直接可用
     └── groups.json     # 分组清单 (策略组 / 来源分类 / 行数)
 
 ## 规则格式
@@ -52,7 +52,7 @@
 
 ## 合并分组
 
-`groups/` 里的 33 个文件是按 Surge 策略组合并好的规则集, 建议直接引用它们, 而不是逐个引用分类:
+`groups/` 里的 36 个文件是按 Surge 策略组合并好的规则集, 建议直接引用它们, 而不是逐个引用分类:
 
     [Rule]
     RULE-SET,https://your-host/magicrule/surge/groups/AdBlock.list,AdBlock
@@ -70,6 +70,9 @@
 会导致整个 `microsoft.com` 都走 AI Suite 分组而不是 Microsoft 分组。
 
 合并由 `magicrule/tools/build_groups.py` 完成, 抓取脚本跑完会自动执行一次。
+
+每个分组文件的第一行是 `# UPDATED:`, 记录该分组**最后一次内容变化**的时间 (北京时间)。
+规则没变时这个时间戳保持不变, 不会每天刷新 —— 靠它可以判断一份规则集是不是真的更新过。
 
 ## 在 Surge 中使用
 

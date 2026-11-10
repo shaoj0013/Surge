@@ -15,6 +15,7 @@
 import json
 import re
 import sys
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -25,6 +26,8 @@ CATALOG = SURGE / "catalog.json"
 DEFINITIONS = ROOT / "groups.json"
 MANIFEST = SURGE / "groups.json"
 BASE = "https://magicrule.pages.dev"
+CN_TZ = timezone(timedelta(hours=8))
+UPDATED_PREFIX = "# UPDATED: "
 
 
 def read_lines(path):
@@ -33,6 +36,22 @@ def read_lines(path):
         return []
     return [line.strip() for line in path.read_text(encoding="utf-8", errors="ignore").splitlines()
             if line.strip() and not line.strip().startswith("#")]
+
+
+def now_stamp():
+    """当前时间 (北京时间), 用作分组文件的时间戳。"""
+    return datetime.now(CN_TZ).strftime("%Y-%m-%d %H:%M:%S UTC+8")
+
+
+def split_updated(content):
+    """拆出 (时间戳, 去掉时间戳后的正文)。"""
+    stamp, kept = "", []
+    for line in content.splitlines():
+        if line.startswith(UPDATED_PREFIX):
+            stamp = line[len(UPDATED_PREFIX):].strip()
+        else:
+            kept.append(line)
+    return stamp, "\n".join(kept) + ("\n" if kept else "")
 
 
 def build():
@@ -91,8 +110,16 @@ def build():
         if excluded:
             header.append(f"# EXCLUDED: {len(excluded)} 条手工排除")
         header.append(f"# RULES: {len(collected)}")
-        content = "\n".join(header + collected) + "\n"
         path = GROUPS_DIR / f"{key}.list"
+        body = "\n".join(header + collected) + "\n"
+        old_stamp, old_body = split_updated(
+            path.read_text(encoding="utf-8") if path.exists() else "")
+        # 规则没变就沿用旧时间戳, 只有内容真的动了才刷新 —— 避免每天产生空提交。
+        if old_body != body:
+            stamp = now_stamp()
+        else:
+            stamp = old_stamp or now_stamp()
+        content = f"{UPDATED_PREFIX}{stamp}\n" + body
         if not path.exists() or path.read_text(encoding="utf-8") != content:
             path.write_text(content, encoding="utf-8")
         manifest.append({
@@ -101,12 +128,15 @@ def build():
             "sources": names,
             "file": f"groups/{key}.list",
             "line_count": len(collected),
+            "updated": stamp,
         })
         print(f"  {key}: {len(collected)} 条 <- {', '.join(names)}")
 
+    stamps = [entry["updated"] for entry in manifest if entry["updated"]]
     MANIFEST.write_text(json.dumps({
         "source": f"{BASE}/#/c/Surge",
         "group_count": len(manifest),
+        "updated": max(stamps) if stamps else now_stamp(),
         "groups": manifest,
     }, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"分组清单: {len(manifest)} 个")

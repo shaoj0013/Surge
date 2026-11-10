@@ -1,6 +1,7 @@
 {
  "source": "https://magicrule.pages.dev/#/c/Surge",
  "group_count": 36,
+ "updated": "2026-11-10 08:47:15 UTC+8",
  "groups": [
   {
    "key": "AdBlock",
@@ -9,7 +10,8 @@
     "AdvertisingLite"
    ],
    "file": "groups/AdBlock.list",
-   "line_count": 189836
+   "line_count": 189836,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "AdBlock-Full",
@@ -18,7 +20,8 @@
     "Advertising"
    ],
    "file": "groups/AdBlock-Full.list",
-   "line_count": 291193
+   "line_count": 291193,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "AdGuard",
@@ -27,7 +30,8 @@
     "AdGuard"
    ],
    "file": "groups/AdGuard.list",
-   "line_count": 19
+   "line_count": 19,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Direct",
@@ -36,14 +40,16 @@
     "Direct"
    ],
    "file": "groups/Direct.list",
-   "line_count": 629
+   "line_count": 629,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "jp-media",
    "policy": "日本节点",
    "sources": [],
    "file": "groups/jp-media.list",
-   "line_count": 35
+   "line_count": 35,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "AI-Suite",
@@ -56,7 +62,8 @@
     "GlobalAI"
    ],
    "file": "groups/AI-Suite.list",
-   "line_count": 1429
+   "line_count": 1429,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "emby",
@@ -65,21 +72,24 @@
     "Emby"
    ],
    "file": "groups/emby.list",
-   "line_count": 83
+   "line_count": 83,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "emby-media",
    "policy": "emby",
    "sources": [],
    "file": "groups/emby-media.list",
-   "line_count": 42
+   "line_count": 42,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "rex-media",
    "policy": "rex",
    "sources": [],
    "file": "groups/rex-media.list",
-   "line_count": 6
+   "line_count": 6,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "TikTok",
@@ -88,7 +98,8 @@
     "TikTok"
    ],
    "file": "groups/TikTok.list",
-   "line_count": 66
+   "line_count": 66,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Netflix",
@@ -97,7 +108,8 @@
     "Netflix"
    ],
    "file": "groups/Netflix.list",
-   "line_count": 1619
+   "line_count": 1619,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Disney-Plus",
@@ -106,7 +118,8 @@
     "Disney"
    ],
    "file": "groups/Disney-Plus.list",
-   "line_count": 248
+   "line_count": 248,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "YouTube",
@@ -116,7 +129,8 @@
     "YouTubeMusic"
    ],
    "file": "groups/YouTube.list",
-   "line_count": 191
+   "line_count": 191,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Max",
@@ -127,7 +141,8 @@
     "HBOHK"
    ],
    "file": "groups/Max.list",
-   "line_count": 95
+   "line_count": 95,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Spotify",
@@ -136,7 +151,8 @@
     "Spotify"
    ],
    "file": "groups/Spotify.list",
-   "line_count": 39
+   "line_count": 39,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Asian-TV",
@@ -158,7 +174,8 @@
     "ViuTV"
    ],
    "file": "groups/Asian-TV.list",
-   "line_count": 443
+   "line_count": 443,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Global-TV",
@@ -177,7 +194,8 @@
     "SoundCloud"
    ],
    "file": "groups/Global-TV.list",
-   "line_count": 474
+   "line_count": 474,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "CN-Mainland-TV",
@@ -192,7 +210,8 @@
     "WeTV"
    ],
    "file": "groups/CN-Mainland-TV.list",
-   "line_count": 1283
+   "line_count": 1283,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Apple-TV",
@@ -203,7 +222,8 @@
     "AppleTV"
    ],
    "file": "groups/Apple-TV.list",
-   "line_count": 27
+   "line_count": 27,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Apple-Services",
@@ -212,7 +232,8 @@
     "Apple"
    ],
    "file": "groups/Apple-Services.list",
-   "line_count": 3247
+   "line_count": 3247,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Apple-Push",
@@ -221,7 +242,8 @@
     "Apple"
    ],
    "file": "groups/Apple-Push.list",
-   "line_count": 18
+   "line_count": 18,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Google-FCM",
@@ -230,7 +252,8 @@
     "Google"
    ],
    "file": "groups/Google-FCM.list",
-   "line_count": 34
+   "line_count": 34,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Crypto",
@@ -239,7 +262,8 @@
     "Cryptocurrency"
    ],
    "file": "groups/Crypto.list",
-   "line_count": 240
+   "line_count": 240,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Discord",
@@ -248,7 +272,8 @@
     "Discord"
    ],
    "file": "groups/Discord.list",
-   "line_count": 31
+   "line_count": 31,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Microsoft",
@@ -257,7 +282,8 @@
     "Microsoft"
    ],
    "file": "groups/Microsoft.list",
-   "line_count": 918
+   "line_count": 918,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "PayPal",
@@ -266,7 +292,8 @@
     "PayPal"
    ],
    "file": "groups/PayPal.list",
-   "line_count": 248
+   "line_count": 248,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Scholar",
@@ -275,7 +302,8 @@
     "Scholar"
    ],
    "file": "groups/Scholar.list",
-   "line_count": 321
+   "line_count": 321,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Speedtest",
@@ -284,7 +312,8 @@
     "Speedtest"
    ],
    "file": "groups/Speedtest.list",
-   "line_count": 3486
+   "line_count": 3486,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Steam",
@@ -293,7 +322,8 @@
     "Steam"
    ],
    "file": "groups/Steam.list",
-   "line_count": 97
+   "line_count": 97,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Telegram",
@@ -302,7 +332,8 @@
     "Telegram"
    ],
    "file": "groups/Telegram.list",
-   "line_count": 998
+   "line_count": 998,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Twitter",
@@ -311,7 +342,8 @@
     "Twitter"
    ],
    "file": "groups/Twitter.list",
-   "line_count": 36
+   "line_count": 36,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Facebook",
@@ -320,7 +352,8 @@
     "Facebook"
    ],
    "file": "groups/Facebook.list",
-   "line_count": 592
+   "line_count": 592,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Global",
@@ -329,7 +362,8 @@
     "Global"
    ],
    "file": "groups/Global.list",
-   "line_count": 24439
+   "line_count": 24439,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "miHoYo",
@@ -338,7 +372,8 @@
     "HoYoverse"
    ],
    "file": "groups/miHoYo.list",
-   "line_count": 26
+   "line_count": 26,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Domestic",
@@ -347,7 +382,8 @@
     "China"
    ],
    "file": "groups/Domestic.list",
-   "line_count": 10338
+   "line_count": 10338,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   },
   {
    "key": "Domestic-IPs",
@@ -357,7 +393,8 @@
     "ChinaASN"
    ],
    "file": "groups/Domestic-IPs.list",
-   "line_count": 23165
+   "line_count": 23165,
+   "updated": "2026-11-10 08:47:15 UTC+8"
   }
  ]
 }
