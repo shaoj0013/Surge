@@ -15,7 +15,7 @@
     ├── catalog.json    # 结构化索引 (元数据 + 行数 + 类型分布 + 上游来源 + sha256)
     ├── catalog.csv     # 同上, 表格版, UTF-8 BOM, Excel 可直接打开
     ├── rules/          # 1185 个 .list 规则文件, 文件名即规则名
-    ├── groups/         # 36 个按策略组合并好的规则集, 直接可用
+    ├── groups/         # 37 个按策略组合并好的规则集, 直接可用
     └── groups.json     # 分组清单 (策略组 / 来源分类 / 行数)
 
 ## 规则格式
@@ -52,7 +52,7 @@
 
 ## 合并分组
 
-`groups/` 里的 36 个文件是按 Surge 策略组合并好的规则集, 建议直接引用它们, 而不是逐个引用分类:
+`groups/` 里的 37 个文件是按 Surge 策略组合并好的规则集, 建议直接引用它们, 而不是逐个引用分类:
 
     [Rule]
     RULE-SET,https://your-host/magicrule/surge/groups/AdBlock.list,AdBlock

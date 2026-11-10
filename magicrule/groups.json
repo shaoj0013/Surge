@@ -12,6 +12,15 @@
     "policy": "AdBlock",
     "sources": [{"name": "AdGuard"}]
   },
+  "AntiTrack": {
+    "policy": "AntiTrack",
+    "sources": [{"name": "Privacy"}, {"name": "TrackerNetwork"}],
+    "exclude": [
+      "DOMAIN-SUFFIX,b0.yahoo.co.jp",
+      "DOMAIN-SUFFIX,clb.yahoo.co.jp",
+      "DOMAIN-SUFFIX,dup.baidustatic.com"
+    ]
+  },
   "Direct": {
     "policy": "DIRECT",
     "sources": [{"name": "Direct"}]

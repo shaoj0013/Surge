@@ -11,7 +11,7 @@
 Surge 的规则文件在抓取时会剔除它不认的三种类型 (`URL-REGEX` / `PROCESS-NAME` / `GEOIP`, 共 199 行),
 否则整份规则集会被 Surge 拒绝加载; 头部注释里的类型计数同步重算。
 
-`surge/groups/` 里另有 36 个按策略组合并好的规则集 (AdBlock / Netflix / AI Suite / Global …),
+`surge/groups/` 里另有 37 个按策略组合并好的规则集 (AdBlock / Netflix / AI Suite / Global …),
 配置里直接引用这些即可, 不用逐个引用分类。合并规则写在 `groups.json`, 由
 `tools/build_groups.py` 生成, 抓取脚本跑完会自动执行一次。
 每个分组文件首行的 `# UPDATED:` 记录该分组最后一次**内容变化**的时间 (北京时间),
