@@ -61,7 +61,7 @@ MagicRule 是纯前端站点, 数据通过以下静态路径获取:
 
 仓库里已经带了 `.github/workflows/magicrule.yml`:
 
-- 每天 **09:11 UTC**(北京时间 17:11)自动跑一次
+- 每天 **18:07 UTC**(北京时间 02:07)自动跑一次
 - 抓取 → 有变化就 commit + push, 没变化就不产生提交
 - 也可以在 Actions 页面手动触发, 支持 `force` 和 `fast` 两个开关
 - 每次运行的摘要会写进该次 workflow 的 Summary
