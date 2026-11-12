@@ -1,14 +1,21 @@
-#!name=DMIT VPS 多节点流量监控
-#!desc=同时监控 LAX（双向计费）和 JP（单边取高值计费）节点。
+#!name=VPS 多节点流量监控
+#!desc=同时监控 DMIT LAX（双向计费）、DMIT JP（单边取高值计费）与 RAKsmart US 节点流量。
 #!category=流量监控
 
 [Panel]
 DMIT_LAX_Panel = script-name=DMIT_LAX_Script, update-interval=3600
 DMIT_JP_Panel = script-name=DMIT_JP_Script, update-interval=3600
+RAKSMART_Panel = script-name=RAKSMART_Script, update-interval=3600
 
 [Script]
-# LAX 节点：不加 billing 参数，默认走双向流量相加 (sum)
-DMIT_LAX_Script = type=generic, timeout=10, script-path=vps_traffic.js, argument="url=https://shaoj0013.bbroot.com/data, limit=1000, base=1024, title=DMIT LAX"
+# 流量数值改用各机的 widget 接口（/dmit-widget.json、/raksmart-widget.json），
+# 口径与服务商面板 / Scriptable 小组件完全一致（US 双向相加、JP 单边取大、RAKsmart 双向相加）。
 
-# JP 节点：明确指定 billing=max 取最大值，加入 base=1000，并加入 offset=20 补偿误差
-DMIT_JP_Script = type=generic, timeout=10, script-path=vps_traffic.js, argument="url=https://dengss0214.ccwu.cc/data, limit=2000, base=1024, billing=max, title=DMIT JP"
+# LAX 节点：1000 GB/月，双向计费 (sum)
+DMIT_LAX_Script = type=generic, timeout=10, script-path=vps_traffic.js, argument="url=https://shaoj0013.bbroot.com/dmit-widget.json, limit=1000, title=DMIT LAX"
+
+# JP 节点：2000 GB/月，单边取高值计费 (max)
+DMIT_JP_Script = type=generic, timeout=10, script-path=vps_traffic.js, argument="url=https://dengss0214.ccwu.cc/dmit-widget.json, limit=2000, title=DMIT JP"
+
+# RAKsmart 节点：1000 GB/月，双向计费 (sum)
+RAKSMART_Script = type=generic, timeout=10, script-path=vps_traffic.js, argument="url=https://shaoj0013.us.ci/raksmart-widget.json, limit=1000, title=RAKsmart US"
