@@ -1,9 +1,9 @@
-# UPDATED: 2026-11-11 15:32:15 UTC+8
+# UPDATED: 2026-11-12 08:32:08 UTC+8
 # NAME: Domestic
 # GROUP: Domestic
 # MERGED: China, Tencent, Alibaba, KuaiShou, ByteDance, Baidu
 # SOURCE: MagicRule https://magicrule.pages.dev
-# RULES: 15268
+# RULES: 15270
 DOMAIN,api.blipsandchitz.me
 DOMAIN,client.amplifi.com
 DOMAIN,cn.download.nvidia.com
@@ -8487,6 +8487,7 @@ IP-CIDR,163.61.178.0/23,no-resolve
 IP-CIDR,163.61.202.0/23,no-resolve
 IP-CIDR,163.61.214.0/23,no-resolve
 IP-CIDR,165.101.70.0/24,no-resolve
+IP-CIDR,165.173.176.0/24,no-resolve
 IP-CIDR,166.111.0.0/16,no-resolve
 IP-CIDR,167.139.0.0/16,no-resolve
 IP-CIDR,167.220.244.0/22,no-resolve
@@ -8648,6 +8649,7 @@ IP-CIDR,192.140.208.0/21,no-resolve
 IP-CIDR,192.144.128.0/17,no-resolve
 IP-CIDR,192.163.11.0/24,no-resolve
 IP-CIDR,192.232.97.0/24,no-resolve
+IP-CIDR,192.51.172.0/24,no-resolve
 IP-CIDR,193.112.0.0/16,no-resolve
 IP-CIDR,193.9.44.0/24,no-resolve
 IP-CIDR,193.9.46.0/24,no-resolve

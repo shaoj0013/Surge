@@ -1,10 +1,10 @@
-# UPDATED: 2026-11-10 08:47:15 UTC+8
+# UPDATED: 2026-11-12 08:32:08 UTC+8
 # NAME: Apple Push
 # GROUP: Apple-Push
 # MERGED: Apple
 # SOURCE: MagicRule https://magicrule.pages.dev
 # EXTRA: 4 条手工补充
-# RULES: 18
+# RULES: 19
 DOMAIN,init-p01md-lb.push-apple.com.akadns.net
 DOMAIN,init-p01st-lb.push-apple.com.akadns.net
 DOMAIN,init-p01st.push.apple.com
@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,init-s01st-lb.push-apple.com.akadns.net
 DOMAIN-SUFFIX,init-s01st.push.apple.com
 DOMAIN-SUFFIX,push-apple.com.akadns.net
 DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,stats.pushthesat.com
 DOMAIN,metrics.icloud.com
 DOMAIN,calendars.icloud.com
 DOMAIN,gateway.icloud.com

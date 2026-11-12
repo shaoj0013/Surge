@@ -1,8 +1,8 @@
 # NAME: ChinaIPs
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-11 14:32:18
-# IP-CIDR: 12626
+# UPDATED: 2026-11-11 22:00:36
+# IP-CIDR: 12625
 # IP-CIDR6: 5459
 # IP-ASN: 5076
 
@@ -3336,6 +3336,7 @@ IP-CIDR,104.212.68.57/32,no-resolve
 IP-CIDR,104.212.68.58/32,no-resolve
 IP-CIDR,104.227.65.96/28,no-resolve
 IP-CIDR,104.237.80.0/21,no-resolve
+IP-CIDR,104.251.176.0/22,no-resolve
 IP-CIDR,104.28.101.0/27,no-resolve
 IP-CIDR,104.28.101.32/29,no-resolve
 IP-CIDR,104.28.101.40/31,no-resolve
@@ -7595,7 +7596,6 @@ IP-CIDR,192.232.34.0/23,no-resolve
 IP-CIDR,192.232.44.0/22,no-resolve
 IP-CIDR,192.232.97.0/24,no-resolve
 IP-CIDR,192.51.172.0/23,no-resolve
-IP-CIDR,192.51.172.0/24,no-resolve
 IP-CIDR,192.51.188.0/24,no-resolve
 IP-CIDR,192.55.46.0/23,no-resolve
 IP-CIDR,192.55.68.0/22,no-resolve
@@ -11416,7 +11416,6 @@ IP-CIDR,43.240.204.0/22,no-resolve
 IP-CIDR,43.240.220.0/22,no-resolve
 IP-CIDR,43.240.240.0/20,no-resolve
 IP-CIDR,43.240.56.0/21,no-resolve
-IP-CIDR,43.240.60.0/22,no-resolve
 IP-CIDR,43.240.68.0/22,no-resolve
 IP-CIDR,43.240.72.0/21,no-resolve
 IP-CIDR,43.240.72.0/22,no-resolve

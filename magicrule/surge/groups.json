@@ -1,7 +1,7 @@
 {
  "source": "https://magicrule.pages.dev/#/c/Surge",
  "group_count": 37,
- "updated": "2026-11-11 15:32:15 UTC+8",
+ "updated": "2026-11-12 08:32:08 UTC+8",
  "groups": [
   {
    "key": "AdBlock",
@@ -11,8 +11,8 @@
     "AdvertisingMiTV"
    ],
    "file": "groups/AdBlock.list",
-   "line_count": 189319,
-   "updated": "2026-11-11 15:32:14 UTC+8"
+   "line_count": 190801,
+   "updated": "2026-11-12 08:32:08 UTC+8"
   },
   {
    "key": "AdBlock-Full",
@@ -21,8 +21,8 @@
     "Advertising"
    ],
    "file": "groups/AdBlock-Full.list",
-   "line_count": 289681,
-   "updated": "2026-11-11 15:32:15 UTC+8"
+   "line_count": 291312,
+   "updated": "2026-11-12 08:32:08 UTC+8"
   },
   {
    "key": "AdGuard",
@@ -42,8 +42,8 @@
     "TrackerNetwork"
    ],
    "file": "groups/AntiTrack.list",
-   "line_count": 41715,
-   "updated": "2026-11-11 15:32:15 UTC+8"
+   "line_count": 43380,
+   "updated": "2026-11-12 08:32:08 UTC+8"
   },
   {
    "key": "Direct",
@@ -52,8 +52,8 @@
     "Direct"
    ],
    "file": "groups/Direct.list",
-   "line_count": 1533,
-   "updated": "2026-11-11 15:32:15 UTC+8"
+   "line_count": 3197,
+   "updated": "2026-11-12 08:32:08 UTC+8"
   },
   {
    "key": "jp-media",
@@ -61,7 +61,7 @@
    "sources": [],
    "file": "groups/jp-media.list",
    "line_count": 35,
-   "updated": "2026-11-11 15:32:15 UTC+8"
+   "updated": "2026-11-12 08:32:08 UTC+8"
   },
   {
    "key": "AI-Suite",
@@ -74,8 +74,8 @@
     "GlobalAI"
    ],
    "file": "groups/AI-Suite.list",
-   "line_count": 3100,
-   "updated": "2026-11-11 15:32:15 UTC+8"
+   "line_count": 4764,
+   "updated": "2026-11-12 08:32:08 UTC+8"
   },
   {
    "key": "emby",
@@ -93,7 +93,7 @@
    "sources": [],
    "file": "groups/emby-media.list",
    "line_count": 42,
-   "updated": "2026-11-11 15:32:15 UTC+8"
+   "updated": "2026-11-12 08:32:08 UTC+8"
   },
   {
    "key": "rex-media",
@@ -101,7 +101,7 @@
    "sources": [],
    "file": "groups/rex-media.list",
    "line_count": 6,
-   "updated": "2026-11-11 15:32:15 UTC+8"
+   "updated": "2026-11-12 08:32:08 UTC+8"
   },
   {
    "key": "TikTok",
@@ -224,8 +224,8 @@
     "WeTV"
    ],
    "file": "groups/CN-Mainland-TV.list",
-   "line_count": 4472,
-   "updated": "2026-11-11 15:32:15 UTC+8"
+   "line_count": 6137,
+   "updated": "2026-11-12 08:32:08 UTC+8"
   },
   {
    "key": "Apple-TV",
@@ -246,8 +246,8 @@
     "Apple"
    ],
    "file": "groups/Apple-Services.list",
-   "line_count": 4128,
-   "updated": "2026-11-11 15:32:15 UTC+8"
+   "line_count": 5792,
+   "updated": "2026-11-12 08:32:08 UTC+8"
   },
   {
    "key": "Apple-Push",
@@ -256,8 +256,8 @@
     "Apple"
    ],
    "file": "groups/Apple-Push.list",
-   "line_count": 18,
-   "updated": "2026-11-10 08:47:15 UTC+8"
+   "line_count": 19,
+   "updated": "2026-11-12 08:32:08 UTC+8"
   },
   {
    "key": "Google-FCM",
@@ -326,8 +326,8 @@
     "Speedtest"
    ],
    "file": "groups/Speedtest.list",
-   "line_count": 5314,
-   "updated": "2026-11-11 15:32:15 UTC+8"
+   "line_count": 6979,
+   "updated": "2026-11-12 08:32:08 UTC+8"
   },
   {
    "key": "Steam",
@@ -346,8 +346,8 @@
     "Telegram"
    ],
    "file": "groups/Telegram.list",
-   "line_count": 1890,
-   "updated": "2026-11-11 15:32:15 UTC+8"
+   "line_count": 3555,
+   "updated": "2026-11-12 08:32:08 UTC+8"
   },
   {
    "key": "Twitter",
@@ -379,8 +379,8 @@
     "SocialMediaGlobal"
    ],
    "file": "groups/Global.list",
-   "line_count": 27765,
-   "updated": "2026-11-11 15:32:15 UTC+8"
+   "line_count": 29430,
+   "updated": "2026-11-12 08:32:08 UTC+8"
   },
   {
    "key": "miHoYo",
@@ -404,8 +404,8 @@
     "Baidu"
    ],
    "file": "groups/Domestic.list",
-   "line_count": 15268,
-   "updated": "2026-11-11 15:32:15 UTC+8"
+   "line_count": 15270,
+   "updated": "2026-11-12 08:32:08 UTC+8"
   },
   {
    "key": "Domestic-IPs",
@@ -415,8 +415,8 @@
     "ChinaASN"
    ],
    "file": "groups/Domestic-IPs.list",
-   "line_count": 23161,
-   "updated": "2026-11-11 15:32:15 UTC+8"
+   "line_count": 23160,
+   "updated": "2026-11-12 08:32:08 UTC+8"
   }
  ]
 }
