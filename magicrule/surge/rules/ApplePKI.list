@@ -1,7 +1,7 @@
 # NAME: ApplePKI
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-11-11 09:29:20
+# UPDATED: 2026-11-12 19:32:36
 # DOMAIN: 8
 
 DOMAIN,certs-lb.apple.com.akadns.net

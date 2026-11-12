@@ -1,7 +1,7 @@
 # NAME: Zendesk
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-11 09:42:57
+# UPDATED: 2026-11-12 19:41:46
 # DOMAIN-SUFFIX: 6
 
 DOMAIN-SUFFIX,outbound.io
