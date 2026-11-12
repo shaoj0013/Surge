@@ -1,10 +1,10 @@
-# UPDATED: 2026-11-12 08:32:08 UTC+8
+# UPDATED: 2026-11-12 15:20:00 UTC+8
 # NAME: 日本节点
 # GROUP: jp-media
 # SOURCE: MagicRule https://magicrule.pages.dev
 # MERGED: 手工维护 (无上游来源)
-# EXTRA: 35 条手工补充
-# RULES: 35
+# EXTRA: 37 条手工补充
+# RULES: 37
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,mgstage.com
 DOMAIN-SUFFIX,javtrailers.com
@@ -37,6 +37,8 @@ DOMAIN-SUFFIX,javplayer.cc
 DOMAIN-SUFFIX,deepfreespace.site
 DOMAIN-SUFFIX,alonestreaming.com
 DOMAIN-SUFFIX,huangguoai.com
+DOMAIN-SUFFIX,pic.drleao.cn
+DOMAIN-SUFFIX,rlhjeyuvw.cc
 DOMAIN,rex.openharbor.dpdns.org
 DOMAIN-KEYWORD,javday
 DOMAIN-KEYWORD,surrit
