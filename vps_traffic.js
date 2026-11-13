@@ -91,7 +91,6 @@ $httpClient.get({url: url}, function(error, response, data) {
                     : resetDaysLeftFromDate(dateString));
             updatedAt = json.updatedAtLocal || json.updatedAt || "";
             // 数据来源标注: 面板推送 / 实时自采集 / 面板数据已过期
-            let traffic = product.traffic || {};
             if (traffic.dataOrigin === "panel-push") {
                 originLabel = traffic.panelCapturedAt
                     ? `面板采集于 ${traffic.panelCapturedAt}`

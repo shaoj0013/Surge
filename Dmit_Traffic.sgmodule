@@ -12,10 +12,10 @@ RAKSMART_Panel = script-name=RAKSMART_Script, update-interval=3600
 # 口径与服务商面板 / Scriptable 小组件完全一致（US 双向相加、JP 单边取大、RAKsmart 双向相加）。
 
 # LAX 节点：1000 GB/月，双向计费 (sum)
-DMIT_LAX_Script = type=generic, timeout=10, script-path=vps_traffic.js, argument="url=https://shaoj0013.bbroot.com/dmit-widget.json, limit=1000, title=DMIT LAX"
+DMIT_LAX_Script = type=generic, timeout=10, script-path=https://raw.githubusercontent.com/shaoj0013/Surge/refs/heads/main/vps_traffic.js, argument="url=https://shaoj0013.bbroot.com/dmit-widget.json, limit=1000, title=DMIT LAX"
 
 # JP 节点：2000 GB/月，单边取高值计费 (max)
-DMIT_JP_Script = type=generic, timeout=10, script-path=vps_traffic.js, argument="url=https://dengss0214.ccwu.cc/dmit-widget.json, limit=2000, title=DMIT JP"
+DMIT_JP_Script = type=generic, timeout=10, script-path=https://raw.githubusercontent.com/shaoj0013/Surge/refs/heads/main/vps_traffic.js, argument="url=https://dengss0214.ccwu.cc/dmit-widget.json, limit=2000, title=DMIT JP"
 
-# RAKsmart 节点：1000 GB/月，双向计费 (sum)
-RAKSMART_Script = type=generic, timeout=10, script-path=vps_traffic.js, argument="url=https://shaoj0013.us.ci/raksmart-widget.json, limit=1000, title=RAKsmart US"
+# RAKsmart 节点：1024 GB/月，双向计费 (sum)
+RAKSMART_Script = type=generic, timeout=10, script-path=https://raw.githubusercontent.com/shaoj0013/Surge/refs/heads/main/vps_traffic.js, argument="url=https://shaoj0013.us.ci/raksmart-widget.json, limit=1024, title=RAKsmart US"
