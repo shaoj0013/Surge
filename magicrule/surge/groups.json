@@ -1,7 +1,7 @@
 {
  "source": "https://magicrule.pages.dev/#/c/Surge",
  "group_count": 37,
- "updated": "2026-11-13 07:31:01 UTC+8",
+ "updated": "2026-11-14 07:28:28 UTC+8",
  "groups": [
   {
    "key": "AdBlock",
@@ -11,8 +11,8 @@
     "AdvertisingMiTV"
    ],
    "file": "groups/AdBlock.list",
-   "line_count": 190826,
-   "updated": "2026-11-13 07:31:01 UTC+8"
+   "line_count": 191043,
+   "updated": "2026-11-14 07:28:28 UTC+8"
   },
   {
    "key": "AdBlock-Full",
@@ -21,8 +21,8 @@
     "Advertising"
    ],
    "file": "groups/AdBlock-Full.list",
-   "line_count": 291832,
-   "updated": "2026-11-13 07:31:01 UTC+8"
+   "line_count": 292225,
+   "updated": "2026-11-14 07:28:28 UTC+8"
   },
   {
    "key": "AdGuard",
@@ -61,7 +61,7 @@
    "sources": [],
    "file": "groups/jp-media.list",
    "line_count": 37,
-   "updated": "2026-11-13 07:31:01 UTC+8"
+   "updated": "2026-11-14 07:28:28 UTC+8"
   },
   {
    "key": "AI-Suite",
@@ -93,7 +93,7 @@
    "sources": [],
    "file": "groups/emby-media.list",
    "line_count": 42,
-   "updated": "2026-11-13 07:31:01 UTC+8"
+   "updated": "2026-11-14 07:28:28 UTC+8"
   },
   {
    "key": "rex-media",
@@ -101,7 +101,7 @@
    "sources": [],
    "file": "groups/rex-media.list",
    "line_count": 6,
-   "updated": "2026-11-13 07:31:01 UTC+8"
+   "updated": "2026-11-14 07:28:28 UTC+8"
   },
   {
    "key": "TikTok",
@@ -379,8 +379,8 @@
     "SocialMediaGlobal"
    ],
    "file": "groups/Global.list",
-   "line_count": 29616,
-   "updated": "2026-11-13 07:31:01 UTC+8"
+   "line_count": 29618,
+   "updated": "2026-11-14 07:28:28 UTC+8"
   },
   {
    "key": "miHoYo",
@@ -405,7 +405,7 @@
    ],
    "file": "groups/Domestic.list",
    "line_count": 15273,
-   "updated": "2026-11-13 07:31:01 UTC+8"
+   "updated": "2026-11-14 07:28:28 UTC+8"
   },
   {
    "key": "Domestic-IPs",
@@ -415,8 +415,8 @@
     "ChinaASN"
    ],
    "file": "groups/Domestic-IPs.list",
-   "line_count": 23165,
-   "updated": "2026-11-13 07:31:01 UTC+8"
+   "line_count": 23159,
+   "updated": "2026-11-14 07:28:28 UTC+8"
   }
  ]
 }

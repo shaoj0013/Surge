@@ -1,10 +1,10 @@
-# UPDATED: 2026-11-13 07:31:01 UTC+8
+# UPDATED: 2026-11-14 07:28:28 UTC+8
 # NAME: Proxy
 # GROUP: Global
 # MERGED: Global, GlobalMedia, GlobalGame, SocialMediaGlobal
 # SOURCE: MagicRule https://magicrule.pages.dev
 # EXCLUDED: 21 条手工排除
-# RULES: 29616
+# RULES: 29618
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,a-tiles.locationiq.com
 DOMAIN,a.gawby.com
@@ -1122,6 +1122,7 @@ DOMAIN,info.knak.com
 DOMAIN,instafeed.nfcube.com
 DOMAIN,int.mwbbiz.com
 DOMAIN,interwiki.scpwikicn.com
+DOMAIN,iprsoftwaremedia.com
 DOMAIN,ipxy.io
 DOMAIN,irp-cdn.multiscreensite.com
 DOMAIN,isitmaintained.com
@@ -1391,6 +1392,7 @@ DOMAIN,public-us-pingsx.api.clonoth.com
 DOMAIN,public.hare200.com
 DOMAIN,public.komiic.com
 DOMAIN,public.mocortech.com
+DOMAIN,public.popclip.app
 DOMAIN,public.zoorix.com
 DOMAIN,q676790b.pmhcjk.com
 DOMAIN,qualcomm.sc.omtrdc.net
