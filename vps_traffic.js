@@ -71,6 +71,7 @@ $httpClient.get({url: url}, function(error, response, data) {
     try {
         let json = JSON.parse(data);
         let usedGB, totalGB, remainGB, unit, dateString, resetDaysLeft, updatedAt;
+        let originLabel = "";
 
         let product = pickProduct(json);
         if (product) {
@@ -89,6 +90,17 @@ $httpClient.get({url: url}, function(error, response, data) {
                     ? Number(product.renewal.resetDaysLeft)
                     : resetDaysLeftFromDate(dateString));
             updatedAt = json.updatedAtLocal || json.updatedAt || "";
+            // 数据来源标注: 面板推送 / 实时自采集 / 面板数据已过期
+            let traffic = product.traffic || {};
+            if (traffic.dataOrigin === "panel-push") {
+                originLabel = traffic.panelCapturedAt
+                    ? `面板采集于 ${traffic.panelCapturedAt}`
+                    : "面板推送";
+            } else if (traffic.panelStale) {
+                originLabel = `实时自采集(面板数据已过期 ${Math.round((traffic.panelAgeMin || 0) / 60)}h)`;
+            } else {
+                originLabel = "实时自采集";
+            }
         } else {
             // ---- 旧版 /data 格式 ----
             let traffic = json?.interfaces?.[0]?.traffic;
@@ -114,6 +126,9 @@ $httpClient.get({url: url}, function(error, response, data) {
 
         let content = `已用: ${usedText} ${unit} (${usagePercent}%)\n剩余: ${remainText} ${unit} / ${totalText} ${unit}`;
         content += `\n到期: ${dateString} (流量重置剩 ${countdown})`;
+        if (originLabel) {
+            content += `\n来源: ${originLabel}`;
+        }
         if (updatedAt) {
             content += `\n更新: ${updatedAt}`;
         }
