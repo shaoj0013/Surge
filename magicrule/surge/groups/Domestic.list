@@ -1,9 +1,9 @@
-# UPDATED: 2026-11-14 07:28:28 UTC+8
+# UPDATED: 2026-11-15 06:16:28 UTC+8
 # NAME: Domestic
 # GROUP: Domestic
 # MERGED: China, Tencent, Alibaba, KuaiShou, ByteDance, Baidu
 # SOURCE: MagicRule https://magicrule.pages.dev
-# RULES: 15273
+# RULES: 15278
 DOMAIN,api.blipsandchitz.me
 DOMAIN,client.amplifi.com
 DOMAIN,cn.download.nvidia.com
@@ -6621,6 +6621,7 @@ IP-CIDR,103.126.124.0/22,no-resolve
 IP-CIDR,103.13.244.0/22,no-resolve
 IP-CIDR,103.131.138.0/23,no-resolve
 IP-CIDR,103.131.152.0/22,no-resolve
+IP-CIDR,103.131.194.0/23,no-resolve
 IP-CIDR,103.132.212.0/23,no-resolve
 IP-CIDR,103.132.22.0/23,no-resolve
 IP-CIDR,103.133.128.0/23,no-resolve
@@ -8235,6 +8236,7 @@ IP-CIDR,124.71.0.0/17,no-resolve
 IP-CIDR,124.71.128.0/18,no-resolve
 IP-CIDR,124.71.192.0/19,no-resolve
 IP-CIDR,124.71.224.0/20,no-resolve
+IP-CIDR,124.71.241.0/24,no-resolve
 IP-CIDR,124.71.244.0/23,no-resolve
 IP-CIDR,124.71.250.0/24,no-resolve
 IP-CIDR,124.72.0.0/13,no-resolve
@@ -8653,6 +8655,7 @@ IP-CIDR,192.140.208.0/21,no-resolve
 IP-CIDR,192.144.128.0/17,no-resolve
 IP-CIDR,192.163.11.0/24,no-resolve
 IP-CIDR,192.232.97.0/24,no-resolve
+IP-CIDR,192.41.192.0/24,no-resolve
 IP-CIDR,193.112.0.0/16,no-resolve
 IP-CIDR,193.9.44.0/24,no-resolve
 IP-CIDR,193.9.46.0/24,no-resolve
@@ -8685,6 +8688,7 @@ IP-CIDR,202.111.242.0/24,no-resolve
 IP-CIDR,202.111.244.0/22,no-resolve
 IP-CIDR,202.111.248.0/24,no-resolve
 IP-CIDR,202.112.0.0/13,no-resolve
+IP-CIDR,202.12.30.0/24,no-resolve
 IP-CIDR,202.120.0.0/15,no-resolve
 IP-CIDR,202.122.112.0/21,no-resolve
 IP-CIDR,202.122.32.0/21,no-resolve
@@ -9168,6 +9172,7 @@ IP-CIDR,211.102.240.0/21,no-resolve
 IP-CIDR,211.102.248.0/24,no-resolve
 IP-CIDR,211.102.80.0/20,no-resolve
 IP-CIDR,211.103.0.0/16,no-resolve
+IP-CIDR,211.120.240.0/21,no-resolve
 IP-CIDR,211.136.0.0/13,no-resolve
 IP-CIDR,211.144.10.0/24,no-resolve
 IP-CIDR,211.144.100.0/22,no-resolve

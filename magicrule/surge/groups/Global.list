@@ -1,10 +1,10 @@
-# UPDATED: 2026-11-14 07:28:28 UTC+8
+# UPDATED: 2026-11-15 06:16:28 UTC+8
 # NAME: Proxy
 # GROUP: Global
 # MERGED: Global, GlobalMedia, GlobalGame, SocialMediaGlobal
 # SOURCE: MagicRule https://magicrule.pages.dev
 # EXCLUDED: 21 条手工排除
-# RULES: 29618
+# RULES: 29619
 DOMAIN,3dna.nationbuilder.com
 DOMAIN,a-tiles.locationiq.com
 DOMAIN,a.gawby.com
@@ -2289,6 +2289,7 @@ DOMAIN-SUFFIX,51lieqi.com
 DOMAIN-SUFFIX,51luoben.com
 DOMAIN-SUFFIX,51luoli.info
 DOMAIN-SUFFIX,51mh.app
+DOMAIN-SUFFIX,51papaya.com
 DOMAIN-SUFFIX,51pincha.cc
 DOMAIN-SUFFIX,51tuqiang.com
 DOMAIN-SUFFIX,520aa.tv

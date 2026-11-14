@@ -1,9 +1,9 @@
-# UPDATED: 2026-11-14 07:28:28 UTC+8
+# UPDATED: 2026-11-15 06:16:28 UTC+8
 # NAME: Domestic
 # GROUP: Domestic-IPs
 # MERGED: ChinaIPs, ChinaASN
 # SOURCE: MagicRule https://magicrule.pages.dev
-# RULES: 23159
+# RULES: 23158
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
 IP-CIDR,1.0.32.0/19,no-resolve
@@ -11428,7 +11428,6 @@ IP-CIDR,43.240.204.0/22,no-resolve
 IP-CIDR,43.240.220.0/22,no-resolve
 IP-CIDR,43.240.240.0/20,no-resolve
 IP-CIDR,43.240.56.0/21,no-resolve
-IP-CIDR,43.240.60.0/22,no-resolve
 IP-CIDR,43.240.68.0/22,no-resolve
 IP-CIDR,43.240.72.0/21,no-resolve
 IP-CIDR,43.240.72.0/22,no-resolve
