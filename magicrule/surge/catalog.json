@@ -1,9 +1,9 @@
 {
  "source": "https://magicrule.pages.dev/#/c/Surge",
  "client": "Surge",
- "generated_at": "2026-11-14T20:59:32.500081+00:00",
+ "generated_at": "2026-11-15T02:28:46.921650+00:00",
  "rule_count": 1185,
- "total_line_count": 900023,
+ "total_line_count": 900378,
  "rules": [
   {
    "name": "115",
@@ -504,18 +504,18 @@
    "chinese_name": "AdGuardS DNS Filter Direct",
    "description": "AdGuard DNS Filter 中的例外规则，现在单独作为Direct文件。\r\n\r\n请将其放到AdGuard DNS Filter规则之前进行放行。",
    "file": "rules/AdGuardSDNSFilterDirect.list",
-   "line_count": 190745,
+   "line_count": 190834,
    "type_counts": {
-    "DOMAIN": 190667,
+    "DOMAIN": 190756,
     "DOMAIN-SUFFIX": 4,
     "IP-CIDR": 74
    },
-   "rule_updated_at": "2026-11-14T18:47:12.322516+00:00",
+   "rule_updated_at": "2026-11-15T01:15:50.180049+00:00",
    "providers": [
     "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/d3db51ed49ccf1b5a96e812d/manifest.json",
-   "sha256": "d69b5a75d938a705ed70fb57618c0c84bdff9a4878d82d6e04efed540b86862a"
+   "sha256": "d849fa0c57ddaf34fd292cb966fce57d84ecd170a358a37fc8a6f1c0e75ae20e"
   },
   {
    "name": "Adidas",
@@ -578,17 +578,17 @@
    "chinese_name": "去广告",
    "description": "可能存在部分误拦截，建议搭配放行规则进行修正。",
    "file": "rules/Advertising.list",
-   "line_count": 292607,
+   "line_count": 292742,
    "type_counts": {
     "DOMAIN": 17500,
-    "DOMAIN-SUFFIX": 273840,
+    "DOMAIN-SUFFIX": 273975,
     "DOMAIN-KEYWORD": 210,
     "USER-AGENT": 1,
     "IP-CIDR": 1035,
     "IP-CIDR6": 6,
     "IP-ASN": 15
    },
-   "rule_updated_at": "2026-11-14T12:55:46.614515+00:00",
+   "rule_updated_at": "2026-11-15T02:16:06.978231+00:00",
    "providers": [
     "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyList.list",
     "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyListChina.list",
@@ -609,22 +609,22 @@
     "https://ruleset.skk.moe/List/non_ip/reject.conf"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/eaf59fd6426bd23a99c1862d/manifest.json",
-   "sha256": "dfe1e72fd27886dd8eb215abd6fec7ff8755a3f410cfc829cf94db676789cb91"
+   "sha256": "f783e10c19b97068c72e23a9ef5b509b8cab3808ca1457658e2b4d4aac4bde2c"
   },
   {
    "name": "AdvertisingLite",
    "chinese_name": "去广告精简版",
    "description": "可能存在部分误拦截，建议搭配放行规则进行修正。",
    "file": "rules/AdvertisingLite.list",
-   "line_count": 190361,
+   "line_count": 190496,
    "type_counts": {
     "DOMAIN": 26932,
-    "DOMAIN-SUFFIX": 163028,
+    "DOMAIN-SUFFIX": 163163,
     "DOMAIN-KEYWORD": 164,
     "IP-CIDR": 233,
     "IP-CIDR6": 4
    },
-   "rule_updated_at": "2026-11-14T12:54:30.912791+00:00",
+   "rule_updated_at": "2026-11-15T02:14:30.822080+00:00",
    "providers": [
     "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list",
     "https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt",
@@ -634,7 +634,7 @@
     "https://ruleset.skk.moe/List/non_ip/reject.conf"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/09d42f2cf7e4b006825e86f1/manifest.json",
-   "sha256": "16a8c96319c601ada0b9a96dc9adec0fecc4a93c152b4312702f70c942d2358c"
+   "sha256": "0a06e7f53727f3bae6025a254dd96a4d0d948d4ae68cce6a10f727f79f992b16"
   },
   {
    "name": "AdvertisingMiTV",
@@ -3207,16 +3207,16 @@
    "chinese_name": "中国",
    "description": "",
    "file": "rules/China.list",
-   "line_count": 10290,
+   "line_count": 10286,
    "type_counts": {
     "DOMAIN": 20,
     "DOMAIN-SUFFIX": 6362,
     "DOMAIN-KEYWORD": 10,
     "USER-AGENT": 30,
-    "IP-CIDR": 3864,
+    "IP-CIDR": 3860,
     "IP-CIDR6": 4
    },
-   "rule_updated_at": "2026-11-14T18:53:21.317658+00:00",
+   "rule_updated_at": "2026-11-14T05:10:41.548716+00:00",
    "providers": [
     "https://github.com/v2fly/domain-list-community",
     "https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainland.list",
@@ -3228,7 +3228,7 @@
     "https://ruleset.skk.moe/List/non_ip/domestic.conf"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/11af2559235209b8783239b3/manifest.json",
-   "sha256": "a97993729b51b59862799af298640603036bded63314b5b163c22719427b5d01"
+   "sha256": "b1601eeb39255b5cfcd61e391e812108832545505fd60ccf9f41fe20ea61131a"
   },
   {
    "name": "ChinaASN",
@@ -3290,7 +3290,7 @@
     "IP-CIDR6": 5424,
     "IP-ASN": 5076
    },
-   "rule_updated_at": "2026-11-14T04:38:44.635651+00:00",
+   "rule_updated_at": "2026-11-14T18:14:45.181647+00:00",
    "providers": [
     "https://raw.githubusercontent.com/Hackl0us/GeoIP2-CN/release/CN-ip-cidr.txt",
     "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt",
@@ -3300,7 +3300,7 @@
     "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/ChinaIP.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/898ac5335e6a6fde0bfff37f/manifest.json",
-   "sha256": "ce01b42841d6f5ba68e18805a83c2cc46c19960b402dfba1d3a76e86ee9763b0"
+   "sha256": "9913b42a87d6b2b06354392e3395c63fd961861eb59bcf2d2fd395352c980b12"
   },
   {
    "name": "ChinaIPTV",
@@ -7180,7 +7180,7 @@
     "https://ruleset.skk.moe/List/non_ip/microsoft.conf"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/d466f03113156dc42313c028/manifest.json",
-   "sha256": "6c60e99f6052b1c373f2c121daf1d3a8a908ef48f24a3ea66f39134f0f3ee366"
+   "sha256": "bff572e6d504e04d3ff6e49eb1ada0123d29617279fcaaec3a8ed77624d43e96"
   },
   {
    "name": "GlobalAI",
