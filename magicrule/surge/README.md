@@ -14,9 +14,7 @@
     surge/
     ├── catalog.json    # 结构化索引 (元数据 + 行数 + 类型分布 + 上游来源 + sha256)
     ├── catalog.csv     # 同上, 表格版, UTF-8 BOM, Excel 可直接打开
-    ├── rules/          # 1185 个 .list 规则文件, 文件名即规则名
-    ├── groups/         # 37 个按策略组合并好的规则集, 直接可用
-    └── groups.json     # 分组清单 (策略组 / 来源分类 / 行数)
+    └── rules/          # 1185 个 .list 规则文件, 文件名即规则名
 
 ## 规则格式
 
@@ -49,31 +47,6 @@
 `URL-REGEX` 35 条、`PROCESS-NAME` 163 条、`GEOIP` 1 条 (共 199 行)。
 `GEOIP` 是全局规则, 放在规则集里只会触发无谓的解析, 由配置里的 `GEOIP,CN,...` 统一处理。
 头部注释里的类型计数会按剔除后的内容重算。
-
-## 合并分组
-
-`groups/` 里的 37 个文件是按 Surge 策略组合并好的规则集, 建议直接引用它们, 而不是逐个引用分类:
-
-    [Rule]
-    RULE-SET,https://your-host/magicrule/surge/groups/AdBlock.list,AdBlock
-    RULE-SET,https://your-host/magicrule/surge/groups/AI-Suite.list,AI Suite
-
-合并规则写在 `magicrule/groups.json` 里, 支持四个字段:
-
-| 字段 | 说明 |
-| --- | --- |
-| `sources` | 来源分类; `{"name": "X", "filter": "正则"}` 表示只取 X 中匹配该正则的规则 |
-| `extra` | 手工补充的规则 (上游没有对应分类时用) |
-| `exclude` | 手工排除的规则 (上游条目过于宽泛、会盖住其它分组时用) |
-| `refresh` | `true` 时每次抓取都刷新该分组的 `# UPDATED:` (表示最近一次检查时间); 默认只在规则内容变化时刷新 |
-
-例如 `AI-Suite` 排除了 `DOMAIN-SUFFIX,microsoft.com` —— 上游 `GlobalAI` 分类里带着这条,
-会导致整个 `microsoft.com` 都走 AI Suite 分组而不是 Microsoft 分组。
-
-合并由 `magicrule/tools/build_groups.py` 完成, 抓取脚本跑完会自动执行一次。
-
-每个分组文件的第一行是 `# UPDATED:`, 记录该分组**最后一次内容变化**的时间 (北京时间)。
-规则没变时这个时间戳保持不变, 不会每天刷新 —— 靠它可以判断一份规则集是不是真的更新过。
 
 ## 在 Surge 中使用
 
