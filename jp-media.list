@@ -3,8 +3,8 @@
 # GROUP: jp-media
 # SOURCE: MagicRule https://magicrule.pages.dev
 # MERGED: 手工维护 (无上游来源)
-# EXTRA: 37 条手工补充
-# RULES: 37
+# EXTRA: 36 条手工补充
+# RULES: 36
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,mgstage.com
 DOMAIN-SUFFIX,javtrailers.com
@@ -29,7 +29,6 @@ DOMAIN-SUFFIX,mrstcdn.store
 DOMAIN-SUFFIX,netflav5.com
 DOMAIN-SUFFIX,123av.com
 DOMAIN-SUFFIX,tangxinvlog.app
-DOMAIN-SUFFIX,safebrowsing.apple
 DOMAIN-SUFFIX,kanav.ad
 DOMAIN-SUFFIX,quanyuanhj.com
 DOMAIN-SUFFIX,getav.net
