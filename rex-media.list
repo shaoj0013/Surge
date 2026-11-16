@@ -3,11 +3,12 @@
 # GROUP: rex-media
 # SOURCE: MagicRule https://magicrule.pages.dev
 # MERGED: 手工维护 (无上游来源)
-# EXTRA: 6 条手工补充
-# RULES: 6
+# EXTRA: 7 条手工补充
+# RULES: 7
 DOMAIN-SUFFIX,uhdnow.com
 DOMAIN-SUFFIX,uhdgo.com
 DOMAIN-SUFFIX,lilyemby.app
 DOMAIN-SUFFIX,lilyemby.com
+DOMAIN-SUFFIX,lilyemby.xyz
 DOMAIN-SUFFIX,jiedaibao.gs
 DOMAIN-SUFFIX,lumenvids.com
