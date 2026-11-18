@@ -1,9 +1,9 @@
 # NAME: Fox
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-12 19:43:29
+# UPDATED: 2026-11-17 18:45:38
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 260
+# DOMAIN-SUFFIX: 259
 # USER-AGENT: 1
 
 DOMAIN,foxnewsplayer-a.akamaihd.net
@@ -15,7 +15,6 @@ DOMAIN-SUFFIX,cdn-fox-networks-group-green.akamaized.net
 DOMAIN-SUFFIX,coronavirusnow.com
 DOMAIN-SUFFIX,d3cv4a9a9wh0bt.cloudfront.net
 DOMAIN-SUFFIX,dashasiafox.akamaized.net
-DOMAIN-SUFFIX,fox
 DOMAIN-SUFFIX,fox-corporation.com
 DOMAIN-SUFFIX,fox-news.com
 DOMAIN-SUFFIX,fox.com

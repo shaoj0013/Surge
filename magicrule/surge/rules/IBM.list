@@ -1,15 +1,14 @@
 # NAME: IBM
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-12 19:44:34
-# DOMAIN-SUFFIX: 21
+# UPDATED: 2026-11-17 19:28:21
+# DOMAIN-SUFFIX: 18
 
 DOMAIN-SUFFIX,appdomain.cloud
 DOMAIN-SUFFIX,bluemix.com
 DOMAIN-SUFFIX,bluemix.net
 DOMAIN-SUFFIX,consul.io
 DOMAIN-SUFFIX,hashicorp.com
-DOMAIN-SUFFIX,ibm
 DOMAIN-SUFFIX,ibm.com
 DOMAIN-SUFFIX,ibm.eu
 DOMAIN-SUFFIX,ibm.net
@@ -23,5 +22,3 @@ DOMAIN-SUFFIX,terraform.io
 DOMAIN-SUFFIX,vagrantcloud.com
 DOMAIN-SUFFIX,vagrantup.com
 DOMAIN-SUFFIX,vaultproject.io
-DOMAIN-SUFFIX,weather
-DOMAIN-SUFFIX,weatherchannel

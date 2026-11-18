@@ -1,9 +1,9 @@
 # NAME: BBC
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-12 19:43:08
+# UPDATED: 2026-11-17 17:53:47
 # DOMAIN: 21
-# DOMAIN-SUFFIX: 17
+# DOMAIN-SUFFIX: 16
 # DOMAIN-KEYWORD: 2
 # USER-AGENT: 1
 
@@ -28,7 +28,6 @@ DOMAIN,vs-cmaf-push-uk-live.akamaized.net
 DOMAIN,vs-cmaf-pushb-ww-live.akamaized.net
 DOMAIN,vs-hls-push-uk-live.akamaized.net
 DOMAIN,vs-hls-pushb-uk-live.akamaized.net
-DOMAIN-SUFFIX,bbc
 DOMAIN-SUFFIX,bbc-reporting-api.app
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.co.uk

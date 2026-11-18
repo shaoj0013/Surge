@@ -1,9 +1,9 @@
 # NAME: Scholar
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-12 19:46:58
+# UPDATED: 2026-11-17 21:12:17
 # DOMAIN: 76
-# DOMAIN-SUFFIX: 245
+# DOMAIN-SUFFIX: 244
 
 DOMAIN,scholar.google.ae
 DOMAIN,scholar.google.at
@@ -219,7 +219,6 @@ DOMAIN-SUFFIX,mathworks.nl
 DOMAIN-SUFFIX,mathworks.se
 DOMAIN-SUFFIX,matlab.com
 DOMAIN-SUFFIX,mdpi.com
-DOMAIN-SUFFIX,mit
 DOMAIN-SUFFIX,mit.edu
 DOMAIN-SUFFIX,mit.net
 DOMAIN-SUFFIX,mitpressjournals.org

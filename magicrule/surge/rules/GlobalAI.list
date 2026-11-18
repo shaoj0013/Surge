@@ -1,8 +1,8 @@
 # NAME: GlobalAI
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev/
-# UPDATED: 2026-11-14 23:19:41
-# DOMAIN: 144
+# UPDATED: 2026-11-17 15:29:49
+# DOMAIN: 145
 # DOMAIN-SUFFIX: 4770
 # DOMAIN-KEYWORD: 11
 # IP-CIDR: 5
@@ -66,6 +66,7 @@ DOMAIN,d3stzm2eumvgb4.cloudfront.net
 DOMAIN,d3ucl0eqgl80l5.cloudfront.net
 DOMAIN,d96jfp62lg3kj.cloudfront.net
 DOMAIN,daily-cloudcode-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
 DOMAIN,dashscope.aliyuncs.com
 DOMAIN,dc.applicationinsights.azure.com
 DOMAIN,dc.services.visualstudio.com

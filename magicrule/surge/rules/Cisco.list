@@ -1,9 +1,9 @@
 # NAME: Cisco
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-12 19:48:00
+# UPDATED: 2026-11-17 18:15:36
 # DOMAIN: 2
-# DOMAIN-SUFFIX: 121
+# DOMAIN-SUFFIX: 120
 
 DOMAIN,cisco.evergage.com
 DOMAIN,ciscolivehls-i.akamaihd.net
@@ -20,7 +20,6 @@ DOMAIN-SUFFIX,cciernslabs.com
 DOMAIN-SUFFIX,cciesecuritylabs.com
 DOMAIN-SUFFIX,ccievoicelabs.com
 DOMAIN-SUFFIX,ccna5.net
-DOMAIN-SUFFIX,cisco
 DOMAIN-SUFFIX,cisco-returns.com
 DOMAIN-SUFFIX,cisco-warrantyfinder.com
 DOMAIN-SUFFIX,cisco.cn
