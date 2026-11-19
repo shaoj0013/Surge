@@ -1,8 +1,8 @@
 # NAME: Speedtest
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-17 22:21:17
-# DOMAIN: 3377
+# UPDATED: 2026-11-18 10:29:21
+# DOMAIN: 3379
 # DOMAIN-SUFFIX: 130
 # DOMAIN-KEYWORD: 1
 # USER-AGENT: 1
@@ -110,6 +110,7 @@ DOMAIN,da-speed.kbro.com.tw
 DOMAIN,dabwali.softechinfosol.com
 DOMAIN,dal-speedtest.net.sangoma.net
 DOMAIN,dal-speedtest.transtelco.net
+DOMAIN,dallas.outboundrix.cloud
 DOMAIN,dallas1.cabospeed.com
 DOMAIN,dalspeedtest.rtatel.com
 DOMAIN,dc-spdtst.treas.host
@@ -1060,6 +1061,7 @@ DOMAIN,speedtest-bla.optusnet.com.au
 DOMAIN,speedtest-blacktown.optusnet.com.au
 DOMAIN,speedtest-bne-dn1.empower.net.au
 DOMAIN,speedtest-bne.vocus.net
+DOMAIN,speedtest-bne0.encoo.com.au
 DOMAIN,speedtest-bom.melbicom.net
 DOMAIN,speedtest-bos.dish-wireless.com
 DOMAIN,speedtest-brendola.wifiweb.it
