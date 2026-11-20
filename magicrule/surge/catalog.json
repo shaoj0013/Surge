@@ -1,9 +1,9 @@
 {
  "source": "https://magicrule.pages.dev/#/c/Surge",
  "client": "Surge",
- "generated_at": "2026-11-18T16:29:09.155839+00:00",
+ "generated_at": "2026-11-20T16:03:35.797968+00:00",
  "rule_count": 1186,
- "total_line_count": 832116,
+ "total_line_count": 829252,
  "rules": [
   {
    "name": "115",
@@ -504,18 +504,18 @@
    "chinese_name": "AdGuardS DNS Filter Direct",
    "description": "AdGuard DNS Filter 中的例外规则，现在单独作为Direct文件。\r\n\r\n请将其放到AdGuard DNS Filter规则之前进行放行。",
    "file": "rules/AdGuardSDNSFilterDirect.list",
-   "line_count": 190269,
+   "line_count": 191007,
    "type_counts": {
-    "DOMAIN": 190191,
+    "DOMAIN": 190929,
     "DOMAIN-SUFFIX": 4,
     "IP-CIDR": 74
    },
-   "rule_updated_at": "2026-11-18T15:19:54.473018+00:00",
+   "rule_updated_at": "2026-11-20T15:29:06.133570+00:00",
    "providers": [
     "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/d3db51ed49ccf1b5a96e812d/manifest.json",
-   "sha256": "6db2d90491b8dfd776e2033a5c5a78485f08cc4f1c74ac6ba3ed27816ea05630"
+   "sha256": "bb9343809fe317bad773dd7705f9f701d01802ee8be2aee2c24474847196838e"
   },
   {
    "name": "Adidas",
@@ -578,17 +578,17 @@
    "chinese_name": "去广告",
    "description": "可能存在部分误拦截，建议搭配放行规则进行修正。",
    "file": "rules/Advertising.list",
-   "line_count": 273215,
+   "line_count": 273910,
    "type_counts": {
     "DOMAIN": 17421,
-    "DOMAIN-SUFFIX": 254546,
+    "DOMAIN-SUFFIX": 255234,
     "DOMAIN-KEYWORD": 208,
     "USER-AGENT": 1,
-    "IP-CIDR": 1018,
+    "IP-CIDR": 1025,
     "IP-CIDR6": 6,
     "IP-ASN": 15
    },
-   "rule_updated_at": "2026-11-18T15:47:17.250188+00:00",
+   "rule_updated_at": "2026-11-20T15:18:43.047011+00:00",
    "providers": [
     "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyList.list",
     "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyListChina.list",
@@ -609,22 +609,22 @@
     "https://ruleset.skk.moe/List/non_ip/reject.conf"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/eaf59fd6426bd23a99c1862d/manifest.json",
-   "sha256": "8e486e149ae60f11a743992a092bfc9ff9939ee78f797fffadaaf5f8ed64f14c"
+   "sha256": "0b94df80805324d1d6a5458fb71a2087cc4b36a7035e04ec0b84f6b36e0ce9f9"
   },
   {
    "name": "AdvertisingLite",
    "chinese_name": "去广告精简版",
    "description": "可能存在部分误拦截，建议搭配放行规则进行修正。",
    "file": "rules/AdvertisingLite.list",
-   "line_count": 185946,
+   "line_count": 186087,
    "type_counts": {
     "DOMAIN": 22906,
-    "DOMAIN-SUFFIX": 162642,
+    "DOMAIN-SUFFIX": 162783,
     "DOMAIN-KEYWORD": 164,
     "IP-CIDR": 230,
     "IP-CIDR6": 4
    },
-   "rule_updated_at": "2026-11-18T15:45:54.625587+00:00",
+   "rule_updated_at": "2026-11-20T15:16:00.769408+00:00",
    "providers": [
     "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list",
     "https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt",
@@ -634,7 +634,7 @@
     "https://ruleset.skk.moe/List/non_ip/reject.conf"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/09d42f2cf7e4b006825e86f1/manifest.json",
-   "sha256": "3d8317c2417722020a024ca5bf2570fe6d47ab95b804e64db3a1a345e2b1ade0"
+   "sha256": "c6be3b3e31c82916dea8a93369b9209976602272422fcfe389791395a36a8f28"
   },
   {
    "name": "AdvertisingMiTV",
@@ -3226,16 +3226,16 @@
    "chinese_name": "中国",
    "description": "",
    "file": "rules/China.list",
-   "line_count": 10297,
+   "line_count": 10325,
    "type_counts": {
     "DOMAIN": 20,
-    "DOMAIN-SUFFIX": 6372,
+    "DOMAIN-SUFFIX": 6390,
     "DOMAIN-KEYWORD": 10,
     "USER-AGENT": 30,
-    "IP-CIDR": 3861,
+    "IP-CIDR": 3871,
     "IP-CIDR6": 4
    },
-   "rule_updated_at": "2026-11-18T15:02:30.067194+00:00",
+   "rule_updated_at": "2026-11-20T15:58:05.574130+00:00",
    "providers": [
     "https://github.com/v2fly/domain-list-community",
     "https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainland.list",
@@ -3247,7 +3247,7 @@
     "https://ruleset.skk.moe/List/non_ip/domestic.conf"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/11af2559235209b8783239b3/manifest.json",
-   "sha256": "31aaae230a80afa74cc3b933b2ebe67102be76800c2f1cd5a5e189ec70e80590"
+   "sha256": "355a0ef8883b29ca3430716243d7ef42771e273d250bec3314c6e9227bbd4c32"
   },
   {
    "name": "ChinaASN",
@@ -3303,13 +3303,13 @@
    "chinese_name": "中国IP",
    "description": "",
    "file": "rules/ChinaIPs.list",
-   "line_count": 22978,
+   "line_count": 23004,
    "type_counts": {
-    "IP-CIDR": 12495,
-    "IP-CIDR6": 5407,
+    "IP-CIDR": 12500,
+    "IP-CIDR6": 5428,
     "IP-ASN": 5076
    },
-   "rule_updated_at": "2026-11-17T07:20:07.695976+00:00",
+   "rule_updated_at": "2026-11-20T15:46:55.882780+00:00",
    "providers": [
     "https://raw.githubusercontent.com/Hackl0us/GeoIP2-CN/release/CN-ip-cidr.txt",
     "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt",
@@ -3319,7 +3319,7 @@
     "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/ChinaIP.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/898ac5335e6a6fde0bfff37f/manifest.json",
-   "sha256": "d952c7c8d679ddde7cf956ed0b37ee146fb0570dbf05d2f44700d0f8ee6a2315"
+   "sha256": "5754fd4ef19f0d3a552e9bffe7bb12369d782fafbbd2ef494162114e23dad673"
   },
   {
    "name": "ChinaIPTV",
@@ -4157,22 +4157,22 @@
    "chinese_name": "Microsoft Copilot",
    "description": "",
    "file": "rules/Copilot.list",
-   "line_count": 387,
+   "line_count": 388,
    "type_counts": {
     "DOMAIN": 71,
-    "DOMAIN-SUFFIX": 305,
+    "DOMAIN-SUFFIX": 306,
     "DOMAIN-KEYWORD": 5,
     "IP-CIDR": 1,
     "IP-CIDR6": 2,
     "IP-ASN": 3
    },
-   "rule_updated_at": "2026-11-09T02:49:09.787460+00:00",
+   "rule_updated_at": "2026-11-20T09:06:00.795454+00:00",
    "providers": [
     "https://github.com/v2fly/domain-list-community",
     "https://raw.githubusercontent.com/VPSDance/ai-proxy-rules/refs/heads/main/rules/surge/all.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/4f32d9bbb9f0f720920fffe3/manifest.json",
-   "sha256": "5af76e9e752648ede8a65d7d8770f8676a562b8f8c9e3d85bf428b650659ae9a"
+   "sha256": "fdcc8cba2e69e6e7151247c551c89a45c3c7ccd595cdb03ca607118acd98d781"
   },
   {
    "name": "CopyManga",
@@ -6812,20 +6812,20 @@
    "chinese_name": "游戏",
    "description": "含有Steam、Blizzard、Discord、Rockstar等分流规则",
    "file": "rules/Game.list",
-   "line_count": 1298,
+   "line_count": 1300,
    "type_counts": {
     "DOMAIN": 125,
-    "DOMAIN-SUFFIX": 1157,
+    "DOMAIN-SUFFIX": 1159,
     "DOMAIN-KEYWORD": 4,
     "IP-CIDR": 12
    },
-   "rule_updated_at": "2026-11-17T07:20:05.355541+00:00",
+   "rule_updated_at": "2026-11-20T09:06:17.462121+00:00",
    "providers": [
     "https://github.com/v2fly/domain-list-community",
     "https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Games/GamesAll.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/fe100f1460462d8b51aa7694/manifest.json",
-   "sha256": "83b207200280559c746e8945717c8f58d736c74f7b568575bd16c57b9414178f"
+   "sha256": "eed66ae10c600d7a0b8cadd80e8023a0e25aeda568c780b2a9c0dc5bbfd53005"
   },
   {
    "name": "GameDownload",
@@ -7177,16 +7177,16 @@
    "chinese_name": "全球",
    "description": "",
    "file": "rules/Global.list",
-   "line_count": 24430,
+   "line_count": 24432,
    "type_counts": {
-    "DOMAIN": 1917,
-    "DOMAIN-SUFFIX": 22367,
+    "DOMAIN": 1918,
+    "DOMAIN-SUFFIX": 22368,
     "DOMAIN-KEYWORD": 53,
     "USER-AGENT": 9,
     "IP-CIDR": 80,
     "IP-CIDR6": 4
    },
-   "rule_updated_at": "2026-11-17T07:24:56.102737+00:00",
+   "rule_updated_at": "2026-11-20T09:13:36.264965+00:00",
    "providers": [
     "https://raw.githubusercontent.com/Hackl0us/SS-Rule-Snippet/master/Rulesets/Surge/Basic/foreign.list",
     "https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt",
@@ -7198,30 +7198,30 @@
     "https://ruleset.skk.moe/List/non_ip/microsoft.conf"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/d466f03113156dc42313c028/manifest.json",
-   "sha256": "6cd49b60e6d3480e5250426cc75119a13ed9f4c26dc95c5deb7e094477a257ab"
+   "sha256": "3524bfe53e82bdefbac576916a321b174b5ace81b8b68f8f9091b8d83146c059"
   },
   {
    "name": "GlobalAI",
    "chinese_name": "全球AI",
    "description": "",
    "file": "rules/GlobalAI.list",
-   "line_count": 4937,
+   "line_count": 437,
    "type_counts": {
-    "DOMAIN": 145,
-    "DOMAIN-SUFFIX": 4770,
+    "DOMAIN": 73,
+    "DOMAIN-SUFFIX": 347,
     "DOMAIN-KEYWORD": 11,
-    "IP-CIDR": 5,
+    "IP-CIDR": 1,
     "IP-CIDR6": 2,
-    "IP-ASN": 4
+    "IP-ASN": 3
    },
-   "rule_updated_at": "2026-11-17T07:20:06.331770+00:00",
+   "rule_updated_at": "2026-11-20T09:02:33.688941+00:00",
    "providers": [
     "https://github.com/v2fly/domain-list-community",
     "https://raw.githubusercontent.com/VPSDance/ai-proxy-rules/refs/heads/main/rules/surge/all.list",
     "https://ruleset.skk.moe/List/non_ip/ai.conf"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/a71f6500ad64b424bc1ca465/manifest.json",
-   "sha256": "b903f9231271b33f34e674182ac1738724ee3a7112cfb5b3fe59fadc48351635"
+   "sha256": "1aa2d5fb632c9f4dd2adbaf88472a48f45e9dcdde6b426d3a0269751082567dd"
   },
   {
    "name": "GlobalCDN",
@@ -11225,17 +11225,17 @@
    "chinese_name": "Microsoft 开发服务",
    "description": "",
    "file": "rules/MicrosoftDev.list",
-   "line_count": 76,
+   "line_count": 80,
    "type_counts": {
-    "DOMAIN": 18,
+    "DOMAIN": 22,
     "DOMAIN-SUFFIX": 58
    },
-   "rule_updated_at": "2026-10-29T03:05:24.805818+00:00",
+   "rule_updated_at": "2026-11-20T09:06:28.227144+00:00",
    "providers": [
     "https://github.com/v2fly/domain-list-community"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/5411f02710904c83a1859966/manifest.json",
-   "sha256": "b434c6ac82b31c4c3a07660346e8245caabffebfa03737e00da4b6f371deedc2"
+   "sha256": "c1a686da328c2c226bfa7b07251dc64657f865d283e397c1d6e627a7408c18da"
   },
   {
    "name": "MicrosoftEdge",
@@ -15603,7 +15603,7 @@
     "DOMAIN-KEYWORD": 1,
     "USER-AGENT": 1
    },
-   "rule_updated_at": "2026-11-18T02:23:01.474601+00:00",
+   "rule_updated_at": "2026-11-20T09:02:31.041172+00:00",
    "providers": [
     "https://github.com/v2fly/domain-list-community",
     "https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Speedtest.list",
@@ -16541,7 +16541,7 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/Tencent.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/54db78c722cbba0b03e4e79e/manifest.json",
-   "sha256": "01163a7dcb8eb46a01d95582f9131f417de5031e1fb797d62ea46b20a66c118a"
+   "sha256": "943115b7b4fef2ab4fc9e4429521984feb8ae8853f52a5f329e686211f082998"
   },
   {
    "name": "TencentCloud",
@@ -19261,10 +19261,10 @@
    "chinese_name": "Yandex",
    "description": "",
    "file": "rules/Yandex.list",
-   "line_count": 215,
+   "line_count": 214,
    "type_counts": {
     "DOMAIN": 18,
-    "DOMAIN-SUFFIX": 140,
+    "DOMAIN-SUFFIX": 139,
     "IP-CIDR": 41,
     "IP-CIDR6": 16
    },
@@ -19275,7 +19275,7 @@
     "https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Yandex.list"
    ],
    "source_url": "https://magicrule.pages.dev/data/rules/Surge/a6ebbc99a64a036516a2c524/manifest.json",
-   "sha256": "37c8d0dbca1ca649b8d89b07ff1ec22eaf2f7c1572108120f3affb94d3443672"
+   "sha256": "52540a802c91f74ddc061fc92dd601e81643d107c151320bea4b61cc6485dcff"
   },
   {
    "name": "YCombinator",

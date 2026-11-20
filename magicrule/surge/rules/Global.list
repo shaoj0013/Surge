@@ -1,9 +1,9 @@
 # NAME: Global
 # AUTHOR: MagicRule
 # REPO: https://magicrule.pages.dev
-# UPDATED: 2026-11-17 20:13:36
-# DOMAIN: 1917
-# DOMAIN-SUFFIX: 22367
+# UPDATED: 2026-11-20 23:34:13
+# DOMAIN: 1918
+# DOMAIN-SUFFIX: 22368
 # DOMAIN-KEYWORD: 53
 # USER-AGENT: 9
 # IP-CIDR: 80
@@ -133,6 +133,7 @@ DOMAIN,assets.maxon.net
 DOMAIN,assets.mcp.corespeed.io
 DOMAIN,assets.media-platform.com
 DOMAIN,assets.monei.com
+DOMAIN,assets.monetizationos.com
 DOMAIN,assets.msn.com
 DOMAIN,assets.nationbuilder.com
 DOMAIN,assets.northflank.com
@@ -5794,6 +5795,7 @@ DOMAIN-SUFFIX,bustysammieblack.com
 DOMAIN-SUFFIX,busu.org
 DOMAIN-SUFFIX,busybox.net
 DOMAIN-SUFFIX,busytrade.com
+DOMAIN-SUFFIX,butterfly-effect-cdn.dev
 DOMAIN-SUFFIX,buugaa.com
 DOMAIN-SUFFIX,buy-from-shanghai.com
 DOMAIN-SUFFIX,buyaapl.com
@@ -8552,6 +8554,7 @@ DOMAIN-SUFFIX,elephanttube.com
 DOMAIN-SUFFIX,elephanttubenew.com
 DOMAIN-SUFFIX,elevenlabs.com
 DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,elevenlabsusercontent.com
 DOMAIN-SUFFIX,elgaronline.com
 DOMAIN-SUFFIX,elgoog.im
 DOMAIN-SUFFIX,elifesciences.org
@@ -23877,7 +23880,6 @@ DOMAIN-SUFFIX,yandexcom.net
 DOMAIN-SUFFIX,yandexdataschool.com
 DOMAIN-SUFFIX,yandexgo.com
 DOMAIN-SUFFIX,yandexwebcache.net
-DOMAIN-SUFFIX,yandexwebcache.org
 DOMAIN-SUFFIX,yanghengjun.com
 DOMAIN-SUFFIX,yangjianli.com
 DOMAIN-SUFFIX,yango-b2b.com
